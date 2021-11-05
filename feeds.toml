@@ -67,3 +67,24 @@ linkSelector = "a"
 contentSelector = "div.shopProduct.price"
 imageSelector = "div.thumb.img"
 waitUntil = "networkidle"
+
+[seoulvinyl_japanese]
+title = "서울바이닐 ─ JAPANESE"
+url = "https://www.seoulvinyl.com/store?productListFilter=187588"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
+
+[seoulvinyl_etc]
+title = "서울바이닐 ─ etc"
+url = "https://www.seoulvinyl.com/store?productListFilter=210232"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
+
