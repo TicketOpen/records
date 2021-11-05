@@ -28,7 +28,7 @@ contentSelector = "div.shopProduct.price"
 imageSelector = "div.thumb.img"
 waitUntil = "networkidle"
 
-[seoulvinyl_hiphop]
+[seoulvinyl_ost]
 title = "서울바이닐 ─ OST"
 url = "https://www.seoulvinyl.com/store?productListFilter=187584"
 entrySelector = "div.shopProductWrapper.badgeUse"
