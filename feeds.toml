@@ -1,8 +1,0 @@
-[seoulvinyl_store]
-title = "서울바이닐 ─ 스토어"
-url = "https://www.seoulvinyl.com/store"
-entrySelector = "div.shopProductWrapper.badgeUse"
-titleSelector = "div.shopProduct.productName"
-linkSelector = "div.shopProduct.price"
-imageSelector = "div.thumb.img"
-waitUntil = "networkidle"
