@@ -7,3 +7,43 @@ linkSelector = "a"
 contentSelector = "div.shopProduct.price"
 imageSelector = "div.thumb.img"
 waitUntil = "networkidle"
+
+[seoulvinyl_made]
+title = "서울바이닐 ─ 제작"
+url = "https://www.seoulvinyl.com/store?productListFilter=187590"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
+
+[seoulvinyl_hiphop]
+title = "서울바이닐 ─ HIPHOP / Soul / R&B"
+url = "https://www.seoulvinyl.com/store?productListFilter=187583"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
+
+[seoulvinyl_hiphop]
+title = "서울바이닐 ─ OST"
+url = "https://www.seoulvinyl.com/store?productListFilter=187584"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
+
+[seoulvinyl_jazz]
+title = "서울바이닐 ─ JAZZ"
+url = "https://www.seoulvinyl.com/store?productListFilter=187585"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
