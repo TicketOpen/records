@@ -47,3 +47,23 @@ linkSelector = "a"
 contentSelector = "div.shopProduct.price"
 imageSelector = "div.thumb.img"
 waitUntil = "networkidle"
+
+[seoulvinyl_rock]
+title = "서울바이닐 ─ ROCK & POP"
+url = "https://www.seoulvinyl.com/store?productListFilter=187586"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
+
+[seoulvinyl_korean]
+title = "서울바이닐 ─ KOREAN"
+url = "https://www.seoulvinyl.com/store?productListFilter=187587"
+entrySelector = "div.shopProductWrapper.badgeUse"
+titleSelector = "div.shopProduct.productName"
+linkSelector = "a"
+contentSelector = "div.shopProduct.price"
+imageSelector = "div.thumb.img"
+waitUntil = "networkidle"
