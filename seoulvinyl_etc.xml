@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ etc</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 07:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 08:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,54 @@
             <pubDate>Fri, 05 Nov 2021 05:46:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635584058315_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[중고 / 비디오 테이프] Ray 레이 (상/하)]]></title>
+            <link>https://www.seoulvinyl.com/product/11199dd7-198b-4a61-adfd-8d25753c675a</link>
+            <guid>https://www.seoulvinyl.com/product/11199dd7-198b-4a61-adfd-8d25753c675a</guid>
+            <pubDate>Tue, 09 Nov 2021 08:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636443096219_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[중고 / 비디오 테이프] Mo Better Blues 모 베터 블루스 (상/하)]]></title>
+            <link>https://www.seoulvinyl.com/product/603413f9-016f-4620-aa19-ffe6fd34f539</link>
+            <guid>https://www.seoulvinyl.com/product/603413f9-016f-4620-aa19-ffe6fd34f539</guid>
+            <pubDate>Tue, 09 Nov 2021 08:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636443032286_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[중고 / 비디오 테이프] Doors 도어즈]]></title>
+            <link>https://www.seoulvinyl.com/product/b31e8d0d-a60c-41f1-b3eb-915e67652d85</link>
+            <guid>https://www.seoulvinyl.com/product/b31e8d0d-a60c-41f1-b3eb-915e67652d85</guid>
+            <pubDate>Tue, 09 Nov 2021 08:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442960085_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[중고 / 비디오 테이프] Shine 샤인]]></title>
+            <link>https://www.seoulvinyl.com/product/6f914e4c-57a7-467a-ac9c-188046177846</link>
+            <guid>https://www.seoulvinyl.com/product/6f914e4c-57a7-467a-ac9c-188046177846</guid>
+            <pubDate>Tue, 09 Nov 2021 08:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442893682_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[중고 / 비디오 테이프] Hedwig And The Angry Inch 헤드웍]]></title>
+            <link>https://www.seoulvinyl.com/product/53589501-863e-416b-a723-05c3d015a3a3</link>
+            <guid>https://www.seoulvinyl.com/product/53589501-863e-416b-a723-05c3d015a3a3</guid>
+            <pubDate>Tue, 09 Nov 2021 08:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442845849_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[중고 / 비디오 테이프] August Rush 어거스트 러쉬]]></title>
+            <link>https://www.seoulvinyl.com/product/4ff50e13-203f-4e63-a551-4267620895f4</link>
+            <guid>https://www.seoulvinyl.com/product/4ff50e13-203f-4e63-a551-4267620895f4</guid>
+            <pubDate>Tue, 09 Nov 2021 08:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442519827_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상]]></title>
@@ -86,14 +134,6 @@
             <pubDate>Fri, 05 Nov 2021 05:46:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194943269_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Vinyl styl] - 바이닐 클리너 세척기 Deep Groove Record Washer System]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-753</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-753</guid>
-            <pubDate>Fri, 05 Nov 2021 05:46:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1602502924346_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
