@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 07:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 08:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117225994_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장필순 - 장필순 7집 Soony Seven LP]]></title>
+            <link>https://www.seoulvinyl.com/product/57140e38-8172-49ac-8378-4d3ef1f01b38</link>
+            <guid>https://www.seoulvinyl.com/product/57140e38-8172-49ac-8378-4d3ef1f01b38</guid>
+            <pubDate>Thu, 11 Nov 2021 08:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632374597821_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DEUX 듀스 - 여름안에서 7인치 (black color)]]></title>
             <link>https://www.seoulvinyl.com/product/8994a419-2734-4a58-93bd-702b224c5d14-1516</link>
             <guid>https://www.seoulvinyl.com/product/8994a419-2734-4a58-93bd-702b224c5d14-1516</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631616200515_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Various Artist - 올인(All In) O.S.T]]></title>
-            <link>https://www.seoulvinyl.com/product/f19aea35-5f94-4a81-9d77-44e83e74003f</link>
-            <guid>https://www.seoulvinyl.com/product/f19aea35-5f94-4a81-9d77-44e83e74003f</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634614519452_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
