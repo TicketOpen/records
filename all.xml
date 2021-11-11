@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 08:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 09:08:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</guid>
+            <pubDate>Thu, 11 Nov 2021 08:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 시나위 6집 - 은퇴선언 [180g 블랙반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/4b36574d-0d2b-4934-8617-23e66c859b9d</link>
@@ -104,36 +112,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1605260543560_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</link>
+            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</guid>
+            <pubDate>Thu, 11 Nov 2021 09:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jon Batiste - Soul 소울 OST (Music From And Inspired By Soul) lp vinyl (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-992</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-992</guid>
+            <pubDate>Thu, 11 Nov 2021 09:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1612442775177_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[DEUX 듀스 - 여름안에서 7인치 (black color) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/8994a419-2734-4a58-93bd-702b224c5d14-1516</link>
             <guid>https://www.seoulvinyl.com/product/8994a419-2734-4a58-93bd-702b224c5d14-1516</guid>
             <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631526801377_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robbie Williams 로비 윌리엄스 - Life Thru A Lens Lp (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d842d955-f404-46d8-a82f-7806b7a577a4</link>
-            <guid>https://www.seoulvinyl.com/product/d842d955-f404-46d8-a82f-7806b7a577a4</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858241700_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robbie Williams 로비윌리엄스 - I've Been Expecting You Lp (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</link>
-            <guid>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848894059_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Mayer 존 메이어 - Continuum LP vinyl (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1006</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1006</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1613476894364_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
@@ -275,7 +275,7 @@
             <title><![CDATA[Michael Jackson 마이클 잭슨 - Dangerous 30주년 RED & BLACK SWIRL DOUBLE VINYL (LIMITED EDITION) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-801-1528</link>
             <guid>https://www.seoulvinyl.com/product/untitled-801-1528</guid>
-            <pubDate>Thu, 11 Nov 2021 08:09:53 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 08:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1605260543560_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -400,6 +400,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</link>
+            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</guid>
+            <pubDate>Thu, 11 Nov 2021 09:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jon Batiste - Soul 소울 OST (Music From And Inspired By Soul) lp vinyl (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-992</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-992</guid>
+            <pubDate>Thu, 11 Nov 2021 09:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1612442775177_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오드리(AUDREY) OST Lp (white pearl vinyl) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/77e8a1eb-a2c9-40a6-bad8-2af80e6aae6a</link>
             <guid>https://www.seoulvinyl.com/product/77e8a1eb-a2c9-40a6-bad8-2af80e6aae6a</guid>
@@ -502,22 +518,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632460206533_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stranger Things 기묘한 이야기 - Stranger Things vol 2. (blue colored) [2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/632fa7fc-8857-4940-9e33-7dfa05b5c6fd</link>
-            <guid>https://www.seoulvinyl.com/product/632fa7fc-8857-4940-9e33-7dfa05b5c6fd</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631942960628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Space Jam 스페이스 잼 - Space Jam O.S.T LP (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/24bdfdce-7996-4f5f-941d-40499b91fd7f</link>
-            <guid>https://www.seoulvinyl.com/product/24bdfdce-7996-4f5f-941d-40499b91fd7f</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631942565386_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
@@ -843,7 +843,7 @@
             <title><![CDATA[장필순 - 장필순 7집 Soony Seven LP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/57140e38-8172-49ac-8378-4d3ef1f01b38</link>
             <guid>https://www.seoulvinyl.com/product/57140e38-8172-49ac-8378-4d3ef1f01b38</guid>
-            <pubDate>Thu, 11 Nov 2021 08:10:36 GMT</pubDate>
+            <pubDate>Thu, 11 Nov 2021 08:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632374597821_1000.jpg" length="0" type="image/jpg"/>
         </item>
