@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Nov 2021 03:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Nov 2021 04:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,28 +64,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635487941798_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 리코(Rico) - [The Slow Tape] 블랙반 1LP (500장 오픈 에디션) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</link>
-            <guid>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635331200636_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</link>
             <guid>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</guid>
             <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] SURL 설 - Beside 내 옆 (7 Inch, Made In JAPAN) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</link>
-            <guid>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117225994_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - I Will Always Love You: The Best Of Whitney Houston Lp (서울바이닐 ─ 스토어)]]></title>
@@ -134,6 +118,22 @@
             <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631526801377_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robbie Williams 로비 윌리엄스 - Life Thru A Lens Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d842d955-f404-46d8-a82f-7806b7a577a4</link>
+            <guid>https://www.seoulvinyl.com/product/d842d955-f404-46d8-a82f-7806b7a577a4</guid>
+            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858241700_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robbie Williams 로비윌리엄스 - I've Been Expecting You Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</link>
+            <guid>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</guid>
+            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848894059_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
@@ -816,28 +816,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635487941798_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 리코(Rico) - [The Slow Tape] 블랙반 1LP (500장 오픈 에디션) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</link>
-            <guid>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635331200636_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</link>
             <guid>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</guid>
             <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] SURL 설 - Beside 내 옆 (7 Inch, Made In JAPAN) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</link>
-            <guid>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117225994_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장필순 - 장필순 7집 Soony Seven LP (서울바이닐 ─ KOREAN)]]></title>
@@ -902,6 +886,22 @@
             <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631616200515_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Various Artist - 올인(All In) O.S.T (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/f19aea35-5f94-4a81-9d77-44e83e74003f</link>
+            <guid>https://www.seoulvinyl.com/product/f19aea35-5f94-4a81-9d77-44e83e74003f</guid>
+            <pubDate>Sat, 13 Nov 2021 04:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634614519452_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DEUX 듀스 - 여름안에서 7인치 (blue color) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/1a18fd9e-b3cd-4371-a37d-763544ac64e2</link>
+            <guid>https://www.seoulvinyl.com/product/1a18fd9e-b3cd-4371-a37d-763544ac64e2</guid>
+            <pubDate>Sat, 13 Nov 2021 04:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631528027679_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
