@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Nov 2021 07:36:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Nov 2021 07:43:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1164,7 +1164,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1810&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1810&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[23,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/9b70820381c0890717c2a786604ee729.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1172,7 +1172,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1809&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1809&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/3e68e1595eb20fb2b9aa010d17d7164c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1180,7 +1180,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1806&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1806&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[17,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/7d7d4b4dd65c1b5809bd80457de30fab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1188,7 +1188,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1804&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1804&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[14,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202109/ca47c1423dbc900935b21f3c3e37ca79.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1196,7 +1196,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1775&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1775&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[16,300 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/7239b1d8de8436a5cd4d7c0eb4af7032.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1204,7 +1204,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1774&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1774&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[14,900 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/96c2db0ca83f141d0f8d8535ed82bb11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1212,7 +1212,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1784&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1784&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[22,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202107/22ff2a1364c828c27d9bd7f53876e6df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1220,7 +1220,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1772&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1772&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[16,300 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/6ca41437d9e6ea4ac984953bbfe11acb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1228,7 +1228,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1756&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1756&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/124303bafb53a56d69cd5282b36c52dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1236,7 +1236,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1734&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1734&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[11,900 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/2fcbc5df664d610a0b8b724eeb10457c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1244,7 +1244,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/67399f7696f9b2ada8cd67020ca8f806.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1252,7 +1252,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1762&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1762&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[16,300 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/50c8088f1d5636a8b73849e991950a16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1260,7 +1260,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1761&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1761&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,400 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/c36effde34e5e927d260d409906144ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1268,7 +1268,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1760&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1760&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[16,300 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/e1fe421909c17065f93e93b75c9c159f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1276,7 +1276,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1759&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1759&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[14,900 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/63c8aa5cab4385aa409e9b1f84059869.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1284,7 +1284,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1710&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1710&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202103/52579673db75602707fbed7237f21a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1292,7 +1292,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1747&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1747&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[17,800 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/5fe5cf8e99f9714a8f8485ca187d1400.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1300,7 +1300,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1746&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1746&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[16,300 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/e2ca7fa65a52e7b8c44f2cf2c2e3a81a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1308,7 +1308,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1735&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1735&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,400 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/6ccf798084c9885030f197ab4a6b28fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1316,7 +1316,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1672&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1672&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[30,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202102/869aa86ed011946f5a9205b933a0d8e4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1324,7 +1324,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1597&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1597&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202011/0c797286f685d3d077698b4fa493ae8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1332,7 +1332,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1532&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1532&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[18,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202008/288c9d7a4733eb7cad93feb1a30c7cc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1340,7 +1340,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1527&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1527&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[3,500 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202008/243c6c94506b5026fe2f22c9fc812066.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1348,7 +1348,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1478&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1478&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[17,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200627/c6a4f3e639306f9e43a11e125ef404aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1356,7 +1356,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1477&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1477&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[25,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200626/dc6258765054928ba58d4652f44b6a3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1364,7 +1364,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1456&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1456&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[12,900 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200613/c59215f481f059bdbec21e405454b355.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1372,7 +1372,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1433&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1433&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[8,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200527/fff98e19df095644e65e1d732c830120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1380,7 +1380,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1381&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1381&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200329/45cec1a9bd2707ac4e15aa69168b15b5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1388,7 +1388,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1380&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1380&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200329/7673e1b514e2bbc59f40a20bf38acb2c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1396,7 +1396,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1103&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1103&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200218/3b12ed6a665ca3f5b5e8ac33c2f5867c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1404,7 +1404,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=936&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=936&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20191118/3d03ce23bfa393015739e1d952aa6970.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1412,7 +1412,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1334&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1334&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200218/2feb45c6ca92ae18b3586184bf72e3a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1420,7 +1420,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1259&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1259&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[22,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20191223/418bebdeaeab5661f91b71bd6e5ea834.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1428,7 +1428,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1249&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1249&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20191202/17921d9d7f82aaecc50059e2f50fa500.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1436,7 +1436,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1195&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1195&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201910/f531c070505c83c1350847550edd0c60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1444,7 +1444,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1160&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1160&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201909/72d15234b424fafcd98deac4aef38a0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1452,7 +1452,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1142&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1142&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201908/b51a904e1bacd3f0ed61fbca0b1e680b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1460,7 +1460,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1022&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1022&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[10,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/7d330ec6176462db2c3c0eceecce2666.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1468,7 +1468,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1079&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1079&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201906/c8250e995c9014a05b458f011e3211e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1476,7 +1476,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1084&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1084&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201906/af021f25eec89e05540a9eaf4a82d080.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1484,7 +1484,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1045&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1045&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202007/ac8b7be041026b38d05380e51d2d0f47.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1492,7 +1492,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1021&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1021&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[10,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/58367e3f2c19fc827ba101f5398ea804.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1500,7 +1500,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=906&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=906&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[14,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201809/3a2cf93af122a89c431c39860a1d525e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1508,7 +1508,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=845&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=845&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201807/845_shop1_15309527680827.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1516,7 +1516,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=756&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=756&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
@@ -1524,7 +1524,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1816&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1816&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/013f7cfb89b7d34fcca379cbe144f273.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1532,7 +1532,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/7ad984731967a183940544c125bcbb89.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1540,7 +1540,7 @@
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[판매가]]></content:encoded>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
