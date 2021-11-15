@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 11:07:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 12:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</link>
+            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</guid>
+            <pubDate>Thu, 11 Nov 2021 09:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/callmeby</link>
+            <guid>https://www.seoulvinyl.com/product/callmeby</guid>
+            <pubDate>Mon, 15 Nov 2021 12:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - I Will Always Love You: The Best Of Whitney Houston Lp (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/03d92f35-0a3f-4f8f-b04f-ef2138f6a072</link>
             <guid>https://www.seoulvinyl.com/product/03d92f35-0a3f-4f8f-b04f-ef2138f6a072</guid>
@@ -96,14 +112,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1605260543560_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</link>
-            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</guid>
-            <pubDate>Thu, 11 Nov 2021 09:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jon Batiste - Soul 소울 OST (Music From And Inspired By Soul) lp vinyl (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-992</link>
             <guid>https://www.seoulvinyl.com/product/untitled-992</guid>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858241700_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robbie Williams 로비윌리엄스 - I've Been Expecting You Lp (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</link>
-            <guid>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848894059_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
@@ -408,6 +408,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/callmeby</link>
+            <guid>https://www.seoulvinyl.com/product/callmeby</guid>
+            <pubDate>Mon, 15 Nov 2021 12:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jon Batiste - Soul 소울 OST (Music From And Inspired By Soul) lp vinyl (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-992</link>
             <guid>https://www.seoulvinyl.com/product/untitled-992</guid>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632461985502_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Boy Erased OST 보이 이레이즈드 Lp (Limited Crystal colored) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/34417c3c-ea12-4951-9965-bb5407248b25</link>
-            <guid>https://www.seoulvinyl.com/product/34417c3c-ea12-4951-9965-bb5407248b25</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632460206533_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
@@ -1240,12 +1240,28 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/2fcbc5df664d610a0b8b724eeb10457c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[{ 2재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ (CD + POSTER 합본) (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 12:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[35,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/a74ce3accb1bad7ed1cd4763938f9ed7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안다영 Dayoung Ahn ‘ANTIHERO’ 파노라마 폴딩 포스터 POSTER (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/67399f7696f9b2ada8cd67020ca8f806.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[{ 4차재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Nov 2021 12:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/da99811b02cdb86baa9ce3ca2da07bfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌리카터 BILLY CARTER 2집 Don’t Push Me CD/음반 (일렉트릭 뮤즈) (공상온도 스토어 ─ 음반)]]></title>
@@ -1526,22 +1542,6 @@
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
             <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/013f7cfb89b7d34fcca379cbe144f273.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다린 Darin 3rd EP ‘갈래’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/7ad984731967a183940544c125bcbb89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양창근 정규1집  ‘오래된 마음’  CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
