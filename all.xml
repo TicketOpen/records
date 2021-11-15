@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Nov 2021 12:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Nov 2021 13:17:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -411,7 +411,7 @@
             <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/callmeby</link>
             <guid>https://www.seoulvinyl.com/product/callmeby</guid>
-            <pubDate>Mon, 15 Nov 2021 12:10:42 GMT</pubDate>
+            <pubDate>Mon, 15 Nov 2021 12:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
         </item>
