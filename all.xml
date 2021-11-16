@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632374597821_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Michael Jackson 마이클 잭슨 - Dangerous 30주년 RED & BLACK SWIRL DOUBLE VINYL (LIMITED EDITION) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-801-1528</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-801-1528</guid>
-            <pubDate>Thu, 11 Nov 2021 08:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1605260543560_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jon Batiste - Soul 소울 OST (Music From And Inspired By Soul) lp vinyl (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-992</link>
             <guid>https://www.seoulvinyl.com/product/untitled-992</guid>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858241700_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robbie Williams 로비윌리엄스 - I've Been Expecting You Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</link>
+            <guid>https://www.seoulvinyl.com/product/b97001ec-4e89-4938-b9c5-98c3fd911f84</guid>
+            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848894059_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
@@ -520,14 +520,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632461985502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</link>
-            <guid>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</link>
             <guid>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</guid>
@@ -574,6 +566,14 @@
             <pubDate>Fri, 05 Nov 2021 05:43:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861258526_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</link>
+            <guid>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</guid>
+            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Glenn Miller 글렌 밀러 - The Hits Lp (서울바이닐 ─ JAZZ)]]></title>
@@ -864,22 +864,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445949858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유키카(YUKIKA) – timeabout, Time Light ver. [140g, 1,000장 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/3422dd08-8636-4be3-9ac9-1894e8427c14</link>
-            <guid>https://www.seoulvinyl.com/product/3422dd08-8636-4be3-9ac9-1894e8427c14</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117193209_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키카(YUKIKA) – timeabout, Time Blue ver. [140g, 1,000장 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/92b54827-2477-40a5-a11e-a20b471097a7</link>
-            <guid>https://www.seoulvinyl.com/product/92b54827-2477-40a5-a11e-a20b471097a7</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634116854584_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서사무엘 Samuel Seo - EGO EXPAND(100%) LP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/a3090c61-9672-4650-9caf-a9b8ae2e2a47</link>
             <guid>https://www.seoulvinyl.com/product/a3090c61-9672-4650-9caf-a9b8ae2e2a47</guid>
@@ -902,6 +886,22 @@
             <pubDate>Sat, 13 Nov 2021 04:10:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631528027679_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNDER SEONGSU BRIDGE 언더 성수 브릿지 Lp - UNDER SEONGSU BRIDGE (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e527da0c-f4a1-4ead-be59-4716d8ab21b7</link>
+            <guid>https://www.seoulvinyl.com/product/e527da0c-f4a1-4ead-be59-4716d8ab21b7</guid>
+            <pubDate>Tue, 16 Nov 2021 07:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633587160730_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜진 (Park Hye Jin) - Before I Die [140g 마블핑크 컬러반 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/7f785678-00af-4c67-9e07-fab26fbe8f41</link>
+            <guid>https://www.seoulvinyl.com/product/7f785678-00af-4c67-9e07-fab26fbe8f41</guid>
+            <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858877188_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>

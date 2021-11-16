@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,22 +96,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445949858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유키카(YUKIKA) – timeabout, Time Light ver. [140g, 1,000장 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/3422dd08-8636-4be3-9ac9-1894e8427c14</link>
-            <guid>https://www.seoulvinyl.com/product/3422dd08-8636-4be3-9ac9-1894e8427c14</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117193209_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유키카(YUKIKA) – timeabout, Time Blue ver. [140g, 1,000장 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/92b54827-2477-40a5-a11e-a20b471097a7</link>
-            <guid>https://www.seoulvinyl.com/product/92b54827-2477-40a5-a11e-a20b471097a7</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634116854584_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서사무엘 Samuel Seo - EGO EXPAND(100%) LP]]></title>
             <link>https://www.seoulvinyl.com/product/a3090c61-9672-4650-9caf-a9b8ae2e2a47</link>
             <guid>https://www.seoulvinyl.com/product/a3090c61-9672-4650-9caf-a9b8ae2e2a47</guid>
@@ -134,6 +118,22 @@
             <pubDate>Sat, 13 Nov 2021 04:10:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631528027679_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UNDER SEONGSU BRIDGE 언더 성수 브릿지 Lp - UNDER SEONGSU BRIDGE]]></title>
+            <link>https://www.seoulvinyl.com/product/e527da0c-f4a1-4ead-be59-4716d8ab21b7</link>
+            <guid>https://www.seoulvinyl.com/product/e527da0c-f4a1-4ead-be59-4716d8ab21b7</guid>
+            <pubDate>Tue, 16 Nov 2021 07:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633587160730_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박혜진 (Park Hye Jin) - Before I Die [140g 마블핑크 컬러반 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7f785678-00af-4c67-9e07-fab26fbe8f41</link>
+            <guid>https://www.seoulvinyl.com/product/7f785678-00af-4c67-9e07-fab26fbe8f41</guid>
+            <pubDate>Tue, 16 Nov 2021 07:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858877188_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

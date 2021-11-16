@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 06:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 07:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</link>
-            <guid>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp]]></title>
             <link>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</link>
@@ -62,6 +54,14 @@
             <pubDate>Fri, 05 Nov 2021 05:43:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861258526_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</link>
+            <guid>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</guid>
+            <pubDate>Fri, 05 Nov 2021 05:43:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Glenn Miller 글렌 밀러 - The Hits Lp]]></title>
