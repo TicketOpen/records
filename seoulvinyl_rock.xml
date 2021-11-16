@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 11:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 12:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rex Orange County 렉스 오렌지 카운티 - pony (Blue Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/rex-1530</link>
+            <guid>https://www.seoulvinyl.com/product/rex-1530</guid>
+            <pubDate>Tue, 16 Nov 2021 12:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637062607183_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Robbie Williams 로비 윌리엄스 - Life Thru A Lens Lp]]></title>
             <link>https://www.seoulvinyl.com/product/d842d955-f404-46d8-a82f-7806b7a577a4</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633784079168_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You]]></title>
-            <link>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</link>
-            <guid>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851506390_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

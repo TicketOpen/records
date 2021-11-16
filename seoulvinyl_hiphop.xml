@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 11:07:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 12:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die]]></title>
+            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</link>
+            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</guid>
+            <pubDate>Tue, 16 Nov 2021 12:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Trap Soul 디럭스 Lp (게이트 폴더)]]></title>
+            <link>https://www.seoulvinyl.com/product/93a5b26e-affd-4455-bda2-46708bb29b32</link>
+            <guid>https://www.seoulvinyl.com/product/93a5b26e-affd-4455-bda2-46708bb29b32</guid>
+            <pubDate>Tue, 16 Nov 2021 12:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637063617672_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - I Will Always Love You: The Best Of Whitney Houston Lp]]></title>
             <link>https://www.seoulvinyl.com/product/03d92f35-0a3f-4f8f-b04f-ef2138f6a072</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 05 Nov 2021 05:42:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631947403407_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ne Yo 니요 - in my own words LP]]></title>
-            <link>https://www.seoulvinyl.com/product/8e849cb5-0fc9-45dd-b180-d93319f6f0f6</link>
-            <guid>https://www.seoulvinyl.com/product/8e849cb5-0fc9-45dd-b180-d93319f6f0f6</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631946769088_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lizzo 리쪼 - Cuz I Love You LP]]></title>
-            <link>https://www.seoulvinyl.com/product/3492ef49-1052-4386-974c-522a544d9a7b</link>
-            <guid>https://www.seoulvinyl.com/product/3492ef49-1052-4386-974c-522a544d9a7b</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631946573993_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
