@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 13:16:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 14:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
             <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
-            <pubDate>Tue, 16 Nov 2021 13:16:13 GMT</pubDate>
+            <pubDate>Tue, 16 Nov 2021 13:14:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
         </item>
