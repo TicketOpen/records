@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Anniversary (150g Gatefold 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/33dd775e-0e33-4502-ab45-2fa97fe00186</link>
+            <guid>https://www.seoulvinyl.com/product/33dd775e-0e33-4502-ab45-2fa97fe00186</guid>
+            <pubDate>Thu, 18 Nov 2021 15:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637244699094_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2 PAC 투팍 - Greatest Hits (4 LP)]]></title>
             <link>https://www.seoulvinyl.com/product/de252759-298d-4b4c-9f93-f443887cbcdc</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Nov 2021 05:42:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627365908864_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Stylistics 스타일리스틱스 - The best of the stylistics LP]]></title>
-            <link>https://www.seoulvinyl.com/product/afa9f5fe-0085-47cf-b9df-9551aa91993b</link>
-            <guid>https://www.seoulvinyl.com/product/afa9f5fe-0085-47cf-b9df-9551aa91993b</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">26,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631947403407_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

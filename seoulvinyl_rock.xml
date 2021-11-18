@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Nov 2021 14:07:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Nov 2021 15:08:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Tue, 16 Nov 2021 12:11:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637062607183_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ed Sheeran(에드시런) - Loose Change [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/463c3925-c9e9-45fa-8cd9-8a2b386e43e3</link>
+            <guid>https://www.seoulvinyl.com/product/463c3925-c9e9-45fa-8cd9-8a2b386e43e3</guid>
+            <pubDate>Thu, 18 Nov 2021 15:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637246170753_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana 너바나 - Nevermind (30th Anniversary) [180g, LP + 7인치 싱글]]]></title>
+            <link>https://www.seoulvinyl.com/product/440473ac-d023-4297-a57e-ef6532b305ea</link>
+            <guid>https://www.seoulvinyl.com/product/440473ac-d023-4297-a57e-ef6532b305ea</guid>
+            <pubDate>Thu, 18 Nov 2021 15:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637246514952_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robbie Williams 로비 윌리엄스 - Life Thru A Lens Lp]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858877188_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Black Keys 블랙 키스 - El Camino Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/f3adc1eb-a592-48af-959c-8160b76cf147</link>
-            <guid>https://www.seoulvinyl.com/product/f3adc1eb-a592-48af-959c-8160b76cf147</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634049195330_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mild High Club 마일드 하이 클럽 lp - skiptracing vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/0624fe19-3436-4023-ba0a-42e572cf5a21</link>
-            <guid>https://www.seoulvinyl.com/product/0624fe19-3436-4023-ba0a-42e572cf5a21</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633784079168_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
