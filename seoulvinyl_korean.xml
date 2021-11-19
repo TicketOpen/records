@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,22 @@
             <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리코(Rico) - [The Slow Tape] 블랙반 1LP (500장 오픈 에디션)]]></title>
+            <link>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</link>
+            <guid>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</guid>
+            <pubDate>Fri, 19 Nov 2021 12:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635331200636_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL 설 - Beside 내 옆 (7 Inch, Made In JAPAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</link>
+            <guid>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</guid>
+            <pubDate>Fri, 19 Nov 2021 12:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117225994_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장필순 - 장필순 7집 Soony Seven LP]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 13 Nov 2021 04:10:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631528027679_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UNDER SEONGSU BRIDGE 언더 성수 브릿지 Lp - UNDER SEONGSU BRIDGE]]></title>
-            <link>https://www.seoulvinyl.com/product/e527da0c-f4a1-4ead-be59-4716d8ab21b7</link>
-            <guid>https://www.seoulvinyl.com/product/e527da0c-f4a1-4ead-be59-4716d8ab21b7</guid>
-            <pubDate>Tue, 16 Nov 2021 07:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633587160730_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박혜진 (Park Hye Jin) - Before I Die [140g 마블핑크 컬러반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/7f785678-00af-4c67-9e07-fab26fbe8f41</link>
-            <guid>https://www.seoulvinyl.com/product/7f785678-00af-4c67-9e07-fab26fbe8f41</guid>
-            <pubDate>Tue, 16 Nov 2021 07:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633858877188_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

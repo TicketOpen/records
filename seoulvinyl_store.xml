@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Nov 2021 11:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Nov 2021 12:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636449274647_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[달력] 넷플릭스 '오징어게임' (Official Netflix 'Squid Game' 2022 Calendar)]]></title>
-            <link>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</link>
-            <guid>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] JUSTHIS & Paloalto - <4 THE YOUTH>]]></title>
             <link>https://www.seoulvinyl.com/product/5637c869-9f9f-404e-afd9-0b4a76b15e0c</link>
             <guid>https://www.seoulvinyl.com/product/5637c869-9f9f-404e-afd9-0b4a76b15e0c</guid>
@@ -78,6 +70,30 @@
             <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[달력] 넷플릭스 '오징어게임' (Official Netflix 'Squid Game' 2022 Calendar)]]></title>
+            <link>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</link>
+            <guid>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</guid>
+            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리코(Rico) - [The Slow Tape] 블랙반 1LP (500장 오픈 에디션)]]></title>
+            <link>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</link>
+            <guid>https://www.seoulvinyl.com/product/ec24f24c-6a20-47f8-92e2-2b4c26560174</guid>
+            <pubDate>Fri, 19 Nov 2021 12:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635331200636_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SURL 설 - Beside 내 옆 (7 Inch, Made In JAPAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</link>
+            <guid>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</guid>
+            <pubDate>Fri, 19 Nov 2021 12:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117225994_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Anniversary (150g Gatefold 2LP)]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 18 Nov 2021 15:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637246514952_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2 PAC 투팍 - Greatest Hits (4 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/de252759-298d-4b4c-9f93-f443887cbcdc</link>
-            <guid>https://www.seoulvinyl.com/product/de252759-298d-4b4c-9f93-f443887cbcdc</guid>
-            <pubDate>Tue, 16 Nov 2021 13:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">93,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633857166992_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Trap Soul 디럭스 Lp (게이트 폴더)]]></title>
-            <link>https://www.seoulvinyl.com/product/93a5b26e-affd-4455-bda2-46708bb29b32</link>
-            <guid>https://www.seoulvinyl.com/product/93a5b26e-affd-4455-bda2-46708bb29b32</guid>
-            <pubDate>Tue, 16 Nov 2021 12:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637063617672_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
