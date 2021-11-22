@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Nov 2021 13:17:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Nov 2021 14:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[아델 Adele lp - 30 (블랙 바이닐) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</link>
-            <guid>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</guid>
-            <pubDate>Mon, 22 Nov 2021 13:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586367690_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
@@ -30,6 +22,22 @@
             <pubDate>Thu, 11 Nov 2021 08:10:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아델 Adele lp - 30 (클리어 컬러 바이닐) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/64b1e58a-9db1-4687-97c3-77b761784328</link>
+            <guid>https://www.seoulvinyl.com/product/64b1e58a-9db1-4687-97c3-77b761784328</guid>
+            <pubDate>Mon, 22 Nov 2021 14:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586938601_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아델 Adele lp - 30 (블랙 컬러 바이닐) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</link>
+            <guid>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</guid>
+            <pubDate>Mon, 22 Nov 2021 13:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586367690_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ed Sheeran(에드시런) - Loose Change [LP] (서울바이닐 ─ 스토어)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 18 Nov 2021 15:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637244699094_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</link>
-            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90</guid>
-            <pubDate>Thu, 11 Nov 2021 09:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
@@ -648,10 +648,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608888200853_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아델 Adele lp - 30 (블랙 바이닐) (서울바이닐 ─ ROCK & POP)]]></title>
+            <title><![CDATA[아델 Adele lp - 30 (클리어 컬러 바이닐) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/64b1e58a-9db1-4687-97c3-77b761784328</link>
+            <guid>https://www.seoulvinyl.com/product/64b1e58a-9db1-4687-97c3-77b761784328</guid>
+            <pubDate>Mon, 22 Nov 2021 14:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586938601_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아델 Adele lp - 30 (블랙 컬러 바이닐) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</link>
             <guid>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</guid>
-            <pubDate>Mon, 22 Nov 2021 13:16:38 GMT</pubDate>
+            <pubDate>Mon, 22 Nov 2021 13:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586367690_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -667,7 +675,7 @@
             <title><![CDATA[Bruno Mars - Unorthodox Jukebox lp 브루노 마스 vinyl (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/f6e69e1a-ef0a-4084-9061-96f7be18bc81</link>
             <guid>https://www.seoulvinyl.com/product/f6e69e1a-ef0a-4084-9061-96f7be18bc81</guid>
-            <pubDate>Mon, 22 Nov 2021 13:16:38 GMT</pubDate>
+            <pubDate>Mon, 22 Nov 2021 13:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637583628411_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633850601256_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse 에이미와인하우스 - Back To Black Lp (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/78178bd8-d787-4566-b0f5-3e3c3c3f60b1</link>
-            <guid>https://www.seoulvinyl.com/product/78178bd8-d787-4566-b0f5-3e3c3c3f60b1</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633849290718_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 시나위 6집 - 은퇴선언 [180g 블랙반] (서울바이닐 ─ KOREAN)]]></title>
@@ -1021,7 +1021,7 @@
             <guid>https://www.seoulvinyl.com/product/untitled-875-1364</guid>
             <pubDate>Fri, 05 Nov 2021 05:45:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617871411529_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637588232815_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru 우타다 히카루 - One Last Kiss LP (clear colored) (서울바이닐 ─ JAPANESE)]]></title>
