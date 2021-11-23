@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 08:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 09:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프)]]></title>
+            <link>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</link>
+            <guid>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</guid>
+            <pubDate>Tue, 23 Nov 2021 09:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Green colored Cassette Tape 카세트테이프)]]></title>
+            <link>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</link>
+            <guid>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</guid>
+            <pubDate>Tue, 23 Nov 2021 09:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션)]]></title>
             <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 19 Nov 2021 12:10:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635331200636_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SURL 설 - Beside 내 옆 (7 Inch, Made In JAPAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</link>
-            <guid>https://www.seoulvinyl.com/product/29b0b176-830c-448b-9fb9-aeca175e04fd</guid>
-            <pubDate>Fri, 19 Nov 2021 12:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634117225994_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Anniversary (150g Gatefold 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/33dd775e-0e33-4502-ab45-2fa97fe00186</link>
-            <guid>https://www.seoulvinyl.com/product/33dd775e-0e33-4502-ab45-2fa97fe00186</guid>
-            <pubDate>Thu, 18 Nov 2021 15:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637244699094_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
