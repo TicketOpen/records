@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 09:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 10:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,22 @@
             <pubDate>Tue, 23 Nov 2021 09:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Yellow Splatter Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</link>
+            <guid>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</guid>
+            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445766898_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Transparent/Translucent Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/a0eb70e2-a9e1-45e0-98d1-05048e12a537</link>
+            <guid>https://www.seoulvinyl.com/product/a0eb70e2-a9e1-45e0-98d1-05048e12a537</guid>
+            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445949858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 시나위 6집 - 은퇴선언 [180g 블랙반]]]></title>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627375194380_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Yellow Splatter Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</link>
-            <guid>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445766898_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Transparent/Translucent Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/a0eb70e2-a9e1-45e0-98d1-05048e12a537</link>
-            <guid>https://www.seoulvinyl.com/product/a0eb70e2-a9e1-45e0-98d1-05048e12a537</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445949858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서사무엘 Samuel Seo - EGO EXPAND(100%) LP]]></title>
