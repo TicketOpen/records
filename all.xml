@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Nov 2021 12:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Nov 2021 13:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,12 +16,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Black Panther soundtrack lp - 블랙팬서 ost vinyl (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</link>
+            <guid>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</guid>
+            <pubDate>Thu, 25 Nov 2021 13:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637842902538_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Blxst 블래스트 lp - No Love Lost 블루 컬러 한정반 (Limited Blue Vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/e290525b-ec55-48b6-b9e9-54e6097803a5</link>
             <guid>https://www.seoulvinyl.com/product/e290525b-ec55-48b6-b9e9-54e6097803a5</guid>
             <pubDate>Thu, 25 Nov 2021 12:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637840376715_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar 켄드릭 라마 lp - Damn. vinyl (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-553</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-553</guid>
+            <pubDate>Thu, 25 Nov 2021 13:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637839443125_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 스토어)]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636448928736_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 시나위 4집 -  [LP RED Color 500장 한정] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/20c1db8b-6c94-46a0-80cb-d0e756515da2</link>
-            <guid>https://www.seoulvinyl.com/product/20c1db8b-6c94-46a0-80cb-d0e756515da2</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636449274647_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] JUSTHIS & Paloalto - <4 THE YOUTH> (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/5637c869-9f9f-404e-afd9-0b4a76b15e0c</link>
-            <guid>https://www.seoulvinyl.com/product/5637c869-9f9f-404e-afd9-0b4a76b15e0c</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">68,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635763784625_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
@@ -264,12 +264,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1604056952821_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Black Panther soundtrack lp - 블랙팬서 ost vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</link>
+            <guid>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</guid>
+            <pubDate>Thu, 25 Nov 2021 13:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637842902538_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Blxst 블래스트 lp - No Love Lost 블루 컬러 한정반 (Limited Blue Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/e290525b-ec55-48b6-b9e9-54e6097803a5</link>
             <guid>https://www.seoulvinyl.com/product/e290525b-ec55-48b6-b9e9-54e6097803a5</guid>
-            <pubDate>Thu, 25 Nov 2021 12:10:40 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 12:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637840376715_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar 켄드릭 라마 lp - Damn. vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-553</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-553</guid>
+            <pubDate>Thu, 25 Nov 2021 13:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637839443125_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Anniversary (150g Gatefold 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -376,20 +392,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848661689_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Omar Apollo 오마 아폴로 - Apolonio (violet color) LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/6422ff3d-ea90-4552-ab80-a1ec4c4d47d2</link>
-            <guid>https://www.seoulvinyl.com/product/6422ff3d-ea90-4552-ab80-a1ec4c4d47d2</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632546747671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SZA 시저 - good days (10인치 yellow colored) LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/3adb7898-d1a8-47c1-b835-21ef66e67c68</link>
-            <guid>https://www.seoulvinyl.com/product/3adb7898-d1a8-47c1-b835-21ef66e67c68</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632914902684_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Black Panther soundtrack lp - 블랙팬서 ost vinyl (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</link>
+            <guid>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</guid>
+            <pubDate>Thu, 25 Nov 2021 13:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637842902538_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반) (서울바이닐 ─ OST)]]></title>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632462121035_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bracula 브라큘라 OST (Limited Edition silver & black color) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/8095e33c-5bf1-4ae4-8de2-dbfd884ae4d0</link>
-            <guid>https://www.seoulvinyl.com/product/8095e33c-5bf1-4ae4-8de2-dbfd884ae4d0</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632461985502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</link>
             <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</guid>
-            <pubDate>Thu, 25 Nov 2021 12:11:10 GMT</pubDate>
+            <pubDate>Thu, 25 Nov 2021 12:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
