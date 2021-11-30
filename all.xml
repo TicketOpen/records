@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 30 Nov 2021 05:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638248143198_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</link>
-            <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</guid>
-            <pubDate>Thu, 25 Nov 2021 12:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Black Panther soundtrack lp - 블랙팬서 ost vinyl (서울바이닐 ─ 스토어)]]></title>
@@ -96,6 +88,30 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - One Last Kiss [블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/58c530fd-a6fa-4442-a048-7e091c4ec849</link>
+            <guid>https://www.seoulvinyl.com/product/58c530fd-a6fa-4442-a048-7e091c4ec849</guid>
+            <pubDate>Tue, 30 Nov 2021 06:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638251776126_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[sam snith 샘스미스 - in the lonely hour Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/inthe-1545</link>
+            <guid>https://www.seoulvinyl.com/product/inthe-1545</guid>
+            <pubDate>Tue, 30 Nov 2021 06:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1576149213413_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</link>
+            <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</guid>
+            <pubDate>Thu, 25 Nov 2021 12:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아델 Adele lp - 30 (클리어 컬러 바이닐) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/64b1e58a-9db1-4687-97c3-77b761784328</link>
             <guid>https://www.seoulvinyl.com/product/64b1e58a-9db1-4687-97c3-77b761784328</guid>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 18 Nov 2021 15:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637246170753_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars - Unorthodox Jukebox lp 브루노 마스 vinyl (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f6e69e1a-ef0a-4084-9061-96f7be18bc81</link>
-            <guid>https://www.seoulvinyl.com/product/f6e69e1a-ef0a-4084-9061-96f7be18bc81</guid>
-            <pubDate>Mon, 22 Nov 2021 13:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637583628411_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 시나위 6집 - 은퇴선언 [180g 블랙반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/4b36574d-0d2b-4934-8617-23e66c859b9d</link>
-            <guid>https://www.seoulvinyl.com/product/4b36574d-0d2b-4934-8617-23e66c859b9d</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636449155481_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
@@ -400,6 +400,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637842902538_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - One Last Kiss [블루 컬러 LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/58c530fd-a6fa-4442-a048-7e091c4ec849</link>
+            <guid>https://www.seoulvinyl.com/product/58c530fd-a6fa-4442-a048-7e091c4ec849</guid>
+            <pubDate>Tue, 30 Nov 2021 06:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638251776126_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</link>
             <guid>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</guid>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632462644995_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Transformer 트랜스포머 - Dark of The Moon O.S.T. (brown color)LP (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/7ffa6f31-83ae-48f8-bfb2-43c42c60d9eb</link>
-            <guid>https://www.seoulvinyl.com/product/7ffa6f31-83ae-48f8-bfb2-43c42c60d9eb</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632462121035_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608888200853_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[sam snith 샘스미스 - in the lonely hour Lp (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/inthe-1545</link>
+            <guid>https://www.seoulvinyl.com/product/inthe-1545</guid>
+            <pubDate>Tue, 30 Nov 2021 06:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1576149213413_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</link>
             <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</guid>
@@ -768,18 +776,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848298496_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[khruangbin 크루앙빈 lp - con todo el mundo vinyl (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/con-1504</link>
-            <guid>https://www.seoulvinyl.com/product/con-1504</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1574338928538_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 조광일 - <암순응> [1LP, Colored vinyl, 500장 한정] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b333a1ad-229b-420a-be40-0173e53649b3</link>
             <guid>https://www.seoulvinyl.com/product/b333a1ad-229b-420a-be40-0173e53649b3</guid>
-            <pubDate>Tue, 30 Nov 2021 05:06:16 GMT</pubDate>
+            <pubDate>Tue, 30 Nov 2021 05:05:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638248143198_1000.jpg" length="0" type="image/jpg"/>
         </item>

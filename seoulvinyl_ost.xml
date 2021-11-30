@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 05:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 06:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 25 Nov 2021 13:15:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637842902538_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - One Last Kiss [블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/58c530fd-a6fa-4442-a048-7e091c4ec849</link>
+            <guid>https://www.seoulvinyl.com/product/58c530fd-a6fa-4442-a048-7e091c4ec849</guid>
+            <pubDate>Tue, 30 Nov 2021 06:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638251776126_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632462644995_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Transformer 트랜스포머 - Dark of The Moon O.S.T. (brown color)LP]]></title>
-            <link>https://www.seoulvinyl.com/product/7ffa6f31-83ae-48f8-bfb2-43c42c60d9eb</link>
-            <guid>https://www.seoulvinyl.com/product/7ffa6f31-83ae-48f8-bfb2-43c42c60d9eb</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632462121035_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
