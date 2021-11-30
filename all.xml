@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 04:08:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 05:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 조광일 - <암순응> [1LP, Colored vinyl, 500장 한정] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b333a1ad-229b-420a-be40-0173e53649b3</link>
+            <guid>https://www.seoulvinyl.com/product/b333a1ad-229b-420a-be40-0173e53649b3</guid>
+            <pubDate>Tue, 30 Nov 2021 05:05:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638248143198_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636449155481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 시나위 7집 - Psychedelos [180g 블랙반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c68d7532-1368-4d15-9081-a8d6b250a626</link>
-            <guid>https://www.seoulvinyl.com/product/c68d7532-1368-4d15-9081-a8d6b250a626</guid>
-            <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636448928736_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1574338928538_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 조광일 - <암순응> [1LP, Colored vinyl, 500장 한정] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/b333a1ad-229b-420a-be40-0173e53649b3</link>
+            <guid>https://www.seoulvinyl.com/product/b333a1ad-229b-420a-be40-0173e53649b3</guid>
+            <pubDate>Tue, 30 Nov 2021 05:06:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638248143198_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</link>
             <guid>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</guid>
@@ -894,14 +902,6 @@
             <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627375194380_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서사무엘 Samuel Seo - EGO EXPAND(100%) LP (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a3090c61-9672-4650-9caf-a9b8ae2e2a47</link>
-            <guid>https://www.seoulvinyl.com/product/a3090c61-9672-4650-9caf-a9b8ae2e2a47</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631616200515_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ JAPANESE)]]></title>
