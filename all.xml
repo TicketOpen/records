@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 11:07:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 12:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
+            <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
+            <pubDate>Tue, 16 Nov 2021 13:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Notting Hill(노팅힐) O.S.T 블랙반 Lp (22년 4월 출시) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/acc75fb1-f282-405a-ae3c-9b0e701e183b-1548</link>
             <guid>https://www.seoulvinyl.com/product/acc75fb1-f282-405a-ae3c-9b0e701e183b-1548</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445766898_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Transparent/Translucent Vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a0eb70e2-a9e1-45e0-98d1-05048e12a537</link>
-            <guid>https://www.seoulvinyl.com/product/a0eb70e2-a9e1-45e0-98d1-05048e12a537</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445949858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Ohashi Junko (오하시 준코) - Magical [2 Lp] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</link>
             <guid>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</guid>
-            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442770423_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -915,7 +915,7 @@
             <title><![CDATA[[예약판매] 今井裕 이마이 유 - A Cool Evening Lp (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</link>
             <guid>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</guid>
-            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442554912_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -923,7 +923,7 @@
             <title><![CDATA[[예약판매] Fujimaru Band 후지마루 밴드 - BGM Lp (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/4bfda77b-70c1-4433-a492-6eba8b424cd1</link>
             <guid>https://www.seoulvinyl.com/product/4bfda77b-70c1-4433-a492-6eba8b424cd1</guid>
-            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442231699_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -931,7 +931,7 @@
             <title><![CDATA[[예약판매] Amy 에이미 - Amy Lp (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</link>
             <guid>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</guid>
-            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
+            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442001739_1000.jpg" length="0" type="image/jpg"/>
         </item>
