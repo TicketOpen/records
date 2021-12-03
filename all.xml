@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 11:07:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 12:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Khruangbin (크루앙빈) - Mordechai Remixes [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0f624fc1-5590-45dc-aa1c-b1dba7ca9895</link>
+            <guid>https://www.seoulvinyl.com/product/0f624fc1-5590-45dc-aa1c-b1dba7ca9895</guid>
+            <pubDate>Fri, 03 Dec 2021 12:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638532022721_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ohashi Junko (오하시 준코) - Magical [2 Lp] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 19 Nov 2021 15:06:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Yellow Splatter Vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</link>
-            <guid>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445766898_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608888200853_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Khruangbin (크루앙빈) - Mordechai Remixes [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/0f624fc1-5590-45dc-aa1c-b1dba7ca9895</link>
+            <guid>https://www.seoulvinyl.com/product/0f624fc1-5590-45dc-aa1c-b1dba7ca9895</guid>
+            <pubDate>Fri, 03 Dec 2021 12:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638532022721_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[sam snith 샘스미스 - in the lonely hour Lp (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/inthe-1545</link>
             <guid>https://www.seoulvinyl.com/product/inthe-1545</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603525193926_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khruangbin 크루앙빈 - Mordechai [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/cd6579e0-bcdd-4236-917c-986fcaf0bb44</link>
-            <guid>https://www.seoulvinyl.com/product/cd6579e0-bcdd-4236-917c-986fcaf0bb44</guid>
-            <pubDate>Fri, 05 Nov 2021 05:43:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848298496_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 조광일 - <암순응> [1LP, Colored vinyl, 500장 한정] (서울바이닐 ─ KOREAN)]]></title>
