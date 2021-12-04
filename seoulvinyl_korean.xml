@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Dec 2021 08:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Dec 2021 09:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 장우혁 - 어때 Tonight LP (7인치 투명 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/ceeecd62-e6bc-4980-90b0-2d1b52e53d50</link>
+            <guid>https://www.seoulvinyl.com/product/ceeecd62-e6bc-4980-90b0-2d1b52e53d50</guid>
+            <pubDate>Sat, 04 Dec 2021 09:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637746374868_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 조광일 - <암순응> [1LP, Colored vinyl, 500장 한정]]]></title>
             <link>https://www.seoulvinyl.com/product/b333a1ad-229b-420a-be40-0173e53649b3</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631526801377_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전람회 3집 - 졸업 LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1300</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1300</guid>
-            <pubDate>Tue, 09 Nov 2021 20:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627375194380_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
