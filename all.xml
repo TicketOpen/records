@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 12:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 13:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1035,7 +1035,7 @@
             <title><![CDATA[[CD] 김아름 - WINTER CITY (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/2a1fc333-1077-4f05-a6c7-98b821548822</link>
             <guid>https://www.seoulvinyl.com/product/2a1fc333-1077-4f05-a6c7-98b821548822</guid>
-            <pubDate>Fri, 10 Dec 2021 12:11:33 GMT</pubDate>
+            <pubDate>Fri, 10 Dec 2021 12:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">19,900원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639136230827_1000.jpg" length="0" type="image/jpg"/>
         </item>
