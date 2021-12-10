@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 04:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 05:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Oasis ‎오아시스 lp – (What's The Story) Morning Glory]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-660-1566</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-660-1566</guid>
-            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1591618935654_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[BLACKPINK 블랙핑크 - [THE ALBUM] 카세트 테이프 (리미티드 에디션)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1022-1565</link>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 02 Dec 2021 12:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</guid>
+            <pubDate>Fri, 10 Dec 2021 05:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장우혁 - 어때 Tonight LP (7인치 투명 싱글)]]></title>
