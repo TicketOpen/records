@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Dec 2021 10:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Dec 2021 11:07:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김아름 - WINTER CITY [140g 그린 투명 LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
+            <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
+            <pubDate>Fri, 10 Dec 2021 11:05:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639133173139_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vanilla Ice 바닐라 아이스 - Ice Ice Baby (화이트 + 블루 스플레터, 한정판)]]></title>
             <link>https://www.seoulvinyl.com/product/662d98de-707a-434e-9928-1f8b7f85f011</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633852220597_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50 Cent 50센트 - The Massacre Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/74c13d0e-4210-4d24-b7f0-6a88480e350b</link>
-            <guid>https://www.seoulvinyl.com/product/74c13d0e-4210-4d24-b7f0-6a88480e350b</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851640889_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
