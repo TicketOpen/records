@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 11:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[J Dilla 제이딜라 - Donuts Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</link>
+            <guid>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</guid>
+            <pubDate>Sat, 11 Dec 2021 11:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639219556569_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starship 스타쉽 - Greatest Hits Relaunched (Gatefold)(Purple LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</link>
+            <guid>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</guid>
+            <pubDate>Sat, 11 Dec 2021 11:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639218984204_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sting (스팅) - 15집 The Bridge Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d300bfdf-6272-49ef-90b1-d64fed2726a9</link>
+            <guid>https://www.seoulvinyl.com/product/d300bfdf-6272-49ef-90b1-d64fed2726a9</guid>
+            <pubDate>Sat, 11 Dec 2021 11:05:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639218712394_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CD] 김아름 - WINTER CITY (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2a1fc333-1077-4f05-a6c7-98b821548822</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 01 Dec 2021 10:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638350987671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
-            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
-            <pubDate>Wed, 01 Dec 2021 09:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
-            <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
-            <pubDate>Tue, 16 Nov 2021 13:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</link>
-            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</guid>
-            <pubDate>Thu, 11 Nov 2021 08:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194943269_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[J Dilla 제이딜라 - Donuts Lp (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</link>
+            <guid>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</guid>
+            <pubDate>Sat, 11 Dec 2021 11:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639219556569_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김아름 - WINTER CITY [140g 그린 투명 LP][한정반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
             <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861773681_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Incredible Bongo Band 인크레더블 봉고 밴드 - Bongo Rock Lp (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/cc1ff557-df6d-432b-a335-751e1d039bd1</link>
-            <guid>https://www.seoulvinyl.com/product/cc1ff557-df6d-432b-a335-751e1d039bd1</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633852220597_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반) (서울바이닐 ─ OST)]]></title>
@@ -648,6 +648,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608888200853_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Starship 스타쉽 - Greatest Hits Relaunched (Gatefold)(Purple LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</link>
+            <guid>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</guid>
+            <pubDate>Sat, 11 Dec 2021 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639218984204_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sting (스팅) - 15집 The Bridge Lp (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d300bfdf-6272-49ef-90b1-d64fed2726a9</link>
+            <guid>https://www.seoulvinyl.com/product/d300bfdf-6272-49ef-90b1-d64fed2726a9</guid>
+            <pubDate>Sat, 11 Dec 2021 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639218712394_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis ‎오아시스 lp – (What's The Story) Morning Glory (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-660-1566</link>
             <guid>https://www.seoulvinyl.com/product/untitled-660-1566</guid>
@@ -758,22 +774,6 @@
             <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848894059_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Mayer 존 메이어 - Continuum LP vinyl (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1006</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1006</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1613476894364_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse 에이미 와인하우스 - At The BBC [Gatefold] Lp (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/6eb73a41-80e6-43fe-b9e1-a971ca239ad0</link>
-            <guid>https://www.seoulvinyl.com/product/6eb73a41-80e6-43fe-b9e1-a971ca239ad0</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634894486250_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김아름 - WINTER CITY [140g 그린 투명 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>

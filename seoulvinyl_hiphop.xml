@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 11:06:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[J Dilla 제이딜라 - Donuts Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</link>
+            <guid>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</guid>
+            <pubDate>Sat, 11 Dec 2021 11:05:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639219556569_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김아름 - WINTER CITY [140g 그린 투명 LP][한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861773681_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Incredible Bongo Band 인크레더블 봉고 밴드 - Bongo Rock Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/cc1ff557-df6d-432b-a335-751e1d039bd1</link>
-            <guid>https://www.seoulvinyl.com/product/cc1ff557-df6d-432b-a335-751e1d039bd1</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633852220597_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
