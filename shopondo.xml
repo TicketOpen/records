@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 05:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 06:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,28 +88,12 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/2fcbc5df664d610a0b8b724eeb10457c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[{ 2재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ (CD + POSTER 합본)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 12:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[35,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/a74ce3accb1bad7ed1cd4763938f9ed7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안다영 Dayoung Ahn ‘ANTIHERO’ 파노라마 폴딩 포스터 POSTER]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/67399f7696f9b2ada8cd67020ca8f806.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[{ 4차재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ CD음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Mon, 15 Nov 2021 12:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/da99811b02cdb86baa9ce3ca2da07bfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌리카터 BILLY CARTER 2집 Don’t Push Me CD/음반 (일렉트릭 뮤즈)]]></title>
@@ -390,6 +374,22 @@
             <pubDate>Fri, 10 Dec 2021 07:09:00 GMT</pubDate>
             <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/013f7cfb89b7d34fcca379cbe144f273.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다린 Darin 3rd EP ‘갈래’ CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 13 Dec 2021 06:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/7ad984731967a183940544c125bcbb89.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양창근 정규1집  ‘오래된 마음’  CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 13 Dec 2021 06:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
