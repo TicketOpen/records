@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 09:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 10:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Legend 존 레전드 - Get Lifted Vinyl LP (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-865-1575</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-865-1575</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608545788876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[maxwell 맥스웰 lp - maxwell's urban hang suite gold color (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/max-1574</link>
+            <guid>https://www.seoulvinyl.com/product/max-1574</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1602580660263_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Maxwell 맥스웰 - Embrya (20th Anniversary)(White Coloured 2 LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</link>
+            <guid>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639389477897_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - The Highlights 2 LP 블랙반 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c1a3a9d4-27de-4927-b1d1-926d7fb9ab03</link>
+            <guid>https://www.seoulvinyl.com/product/c1a3a9d4-27de-4927-b1d1-926d7fb9ab03</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639387282205_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[J Dilla 제이딜라 - Donuts Lp (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</link>
@@ -44,7 +76,7 @@
             <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
             <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
             <pubDate>Fri, 10 Dec 2021 11:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639133173139_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -102,38 +134,6 @@
             <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442001739_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Matsuhista Makoto (마츠시타 마코토) - First Light (Orange Vinyl LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2802acbb-4e74-4240-93dd-38d23fc656ab</link>
-            <guid>https://www.seoulvinyl.com/product/2802acbb-4e74-4240-93dd-38d23fc656ab</guid>
-            <pubDate>Wed, 01 Dec 2021 10:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351596567_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (33 rpm 1 Lp) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1552</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1552</guid>
-            <pubDate>Wed, 01 Dec 2021 10:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Tomoko Aran (토모코 아란) - 부유공간 (浮遊空間) [핑크 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</link>
-            <guid>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</guid>
-            <pubDate>Wed, 01 Dec 2021 10:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351298870_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Onuki Taeko 오오누키 타에코 - Sunshower (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/5eaf9320-5d28-49fc-9ad9-29c24410ae1b</link>
-            <guid>https://www.seoulvinyl.com/product/5eaf9320-5d28-49fc-9ad9-29c24410ae1b</guid>
-            <pubDate>Wed, 01 Dec 2021 10:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638350987671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,38 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194943269_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[John Legend 존 레전드 - Get Lifted Vinyl LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-865-1575</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-865-1575</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608545788876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[maxwell 맥스웰 lp - maxwell's urban hang suite gold color (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/max-1574</link>
+            <guid>https://www.seoulvinyl.com/product/max-1574</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1602580660263_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Maxwell 맥스웰 - Embrya (20th Anniversary)(White Coloured 2 LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</link>
+            <guid>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639389477897_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - The Highlights 2 LP 블랙반 (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/c1a3a9d4-27de-4927-b1d1-926d7fb9ab03</link>
+            <guid>https://www.seoulvinyl.com/product/c1a3a9d4-27de-4927-b1d1-926d7fb9ab03</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639387282205_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[J Dilla 제이딜라 - Donuts Lp (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</link>
             <guid>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</guid>
@@ -276,7 +308,7 @@
             <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
             <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
             <pubDate>Fri, 10 Dec 2021 11:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639133173139_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -358,38 +390,6 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1605260543560_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[boney m. & friends 보니엠 - Their Ultimate Collection LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/88d99abd-a0e4-4524-b3d8-7c73c69bed56</link>
-            <guid>https://www.seoulvinyl.com/product/88d99abd-a0e4-4524-b3d8-7c73c69bed56</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944269101_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - Corinne Bailey Rae LP (15th Anniversary Edition) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/50500f3e-172f-424a-aadf-0cc774c71619-1385</link>
-            <guid>https://www.seoulvinyl.com/product/50500f3e-172f-424a-aadf-0cc774c71619-1385</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629286037949_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anderson Paak 앤더슨 팍 - Malibu Lp (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/dac3a60f-88df-4621-bb6f-5aa3c6203272</link>
-            <guid>https://www.seoulvinyl.com/product/dac3a60f-88df-4621-bb6f-5aa3c6203272</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633848464041_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yola 욜라 - Stand For Myself Lp (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/99710e65-453a-4d13-96df-df087333e107</link>
-            <guid>https://www.seoulvinyl.com/product/99710e65-453a-4d13-96df-df087333e107</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861773681_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반) (서울바이닐 ─ OST)]]></title>
@@ -780,7 +780,7 @@
             <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
             <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
             <pubDate>Fri, 10 Dec 2021 11:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639133173139_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
