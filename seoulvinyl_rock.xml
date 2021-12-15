@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 11:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 12:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ariana Grande 아리아나 그란데 - Dangerous Woman Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/5fc4a907-980a-437f-a243-79860c4d9c5a</link>
+            <guid>https://www.seoulvinyl.com/product/5fc4a907-980a-437f-a243-79860c4d9c5a</guid>
+            <pubDate>Wed, 15 Dec 2021 12:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566739940_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ariana Grande 아리아나 그란데 - 4집 Sweetener [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3109a85e-5dd3-447e-b94d-130c3d788f99</link>
+            <guid>https://www.seoulvinyl.com/product/3109a85e-5dd3-447e-b94d-130c3d788f99</guid>
+            <pubDate>Wed, 15 Dec 2021 12:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566569633_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Parcels 파슬스 - Live Vol. 1 (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/521c1d51-9928-4ad5-a842-373842431cc4</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 22 Nov 2021 13:16:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586367690_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ed Sheeran(에드시런) - Loose Change [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/463c3925-c9e9-45fa-8cd9-8a2b386e43e3</link>
-            <guid>https://www.seoulvinyl.com/product/463c3925-c9e9-45fa-8cd9-8a2b386e43e3</guid>
-            <pubDate>Thu, 18 Nov 2021 15:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637246170753_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars - Unorthodox Jukebox lp 브루노 마스 vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/f6e69e1a-ef0a-4084-9061-96f7be18bc81</link>
-            <guid>https://www.seoulvinyl.com/product/f6e69e1a-ef0a-4084-9061-96f7be18bc81</guid>
-            <pubDate>Mon, 22 Nov 2021 13:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637583628411_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
