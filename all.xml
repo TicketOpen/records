@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 09:08:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 10:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639136230827_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김아름 - WINTER CITY [140g 그린 투명 LP][한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
-            <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
-            <pubDate>Fri, 10 Dec 2021 11:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639133173139_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[BLACKPINK 블랙핑크 - [THE ALBUM] 카세트 테이프 (리미티드 에디션) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1022-1565</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1022-1565</guid>
@@ -102,14 +94,6 @@
             <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vanilla Ice 바닐라 아이스 - Ice Ice Baby (화이트 + 블루 스플레터, 한정판) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/662d98de-707a-434e-9928-1f8b7f85f011</link>
-            <guid>https://www.seoulvinyl.com/product/662d98de-707a-434e-9928-1f8b7f85f011</guid>
-            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049027695_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Ohashi Junko (오하시 준코) - Magical [2 Lp] (서울바이닐 ─ 스토어)]]></title>
@@ -134,6 +118,22 @@
             <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442231699_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Amy 에이미 - Amy Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</link>
+            <guid>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</guid>
+            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442001739_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Matsuhista Makoto (마츠시타 마코토) - First Light (Orange Vinyl LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2802acbb-4e74-4240-93dd-38d23fc656ab</link>
+            <guid>https://www.seoulvinyl.com/product/2802acbb-4e74-4240-93dd-38d23fc656ab</guid>
+            <pubDate>Wed, 01 Dec 2021 10:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351596567_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ 제작)]]></title>
@@ -304,22 +304,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639219556569_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김아름 - WINTER CITY [140g 그린 투명 LP][한정반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
-            <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
-            <pubDate>Fri, 10 Dec 2021 11:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639133173139_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vanilla Ice 바닐라 아이스 - Ice Ice Baby (화이트 + 블루 스플레터, 한정판) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/662d98de-707a-434e-9928-1f8b7f85f011</link>
-            <guid>https://www.seoulvinyl.com/product/662d98de-707a-434e-9928-1f8b7f85f011</guid>
-            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049027695_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Black Panther soundtrack lp - 블랙팬서 ost vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</link>
             <guid>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</guid>
@@ -384,12 +368,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635851555816_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Vanilla Ice 바닐라 아이스 - Ice Ice Baby (화이트 + 블루 스플레터, 한정판) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/662d98de-707a-434e-9928-1f8b7f85f011</link>
+            <guid>https://www.seoulvinyl.com/product/662d98de-707a-434e-9928-1f8b7f85f011</guid>
+            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049027695_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Michael Jackson 마이클 잭슨 - Dangerous 30주년 RED & BLACK SWIRL DOUBLE VINYL (LIMITED EDITION) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-801-1528</link>
             <guid>https://www.seoulvinyl.com/product/untitled-801-1528</guid>
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1605260543560_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[boney m. & friends 보니엠 - Their Ultimate Collection LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/88d99abd-a0e4-4524-b3d8-7c73c69bed56</link>
+            <guid>https://www.seoulvinyl.com/product/88d99abd-a0e4-4524-b3d8-7c73c69bed56</guid>
+            <pubDate>Wed, 15 Dec 2021 10:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944269101_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반) (서울바이닐 ─ OST)]]></title>
@@ -779,17 +779,9 @@
             <title><![CDATA[장필순lp - 장필순 1집 어느 새 (초회한정반, 투명옐로우 컬러) vinyl (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1213</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1213</guid>
-            <pubDate>Wed, 15 Dec 2021 09:08:15 GMT</pubDate>
+            <pubDate>Wed, 15 Dec 2021 09:07:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1623223190488_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김아름 - WINTER CITY [140g 그린 투명 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</link>
-            <guid>https://www.seoulvinyl.com/product/6b04724a-fc3c-4877-b23b-bed08d6e34e3</guid>
-            <pubDate>Fri, 10 Dec 2021 11:05:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639133173139_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK 블랙핑크 - [THE ALBUM] 카세트 테이프 (리미티드 에디션) (서울바이닐 ─ KOREAN)]]></title>
@@ -902,6 +894,14 @@
             <pubDate>Sat, 04 Dec 2021 10:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1619086224770_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Yellow Splatter Vinyl) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</link>
+            <guid>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</guid>
+            <pubDate>Wed, 15 Dec 2021 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445766898_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Ohashi Junko (오하시 준코) - Magical [2 Lp] (서울바이닐 ─ JAPANESE)]]></title>
