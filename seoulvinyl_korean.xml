@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 10:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 11:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임창정lp - 10집 BYE (140g 스카이 블루 컬러, 한정반) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1081-1584</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1081-1584</guid>
+            <pubDate>Mon, 20 Dec 2021 11:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637150582299_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프)]]></title>
             <link>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 04 Dec 2021 10:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1619086224770_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Yellow Splatter Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</link>
-            <guid>https://www.seoulvinyl.com/product/2e95d14e-8954-4c5e-9578-cae6d120571b</guid>
-            <pubDate>Wed, 15 Dec 2021 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629445766898_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
