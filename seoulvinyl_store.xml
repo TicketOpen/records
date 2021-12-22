@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 06:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 07:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You]]></title>
+            <link>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</link>
+            <guid>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</guid>
+            <pubDate>Wed, 22 Dec 2021 07:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851506390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임창정lp - 10집 BYE (140g 스카이 블루 컬러, 한정반) LP]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1081-1584</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 20 Dec 2021 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637150582299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy 에이미 - Amy Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</link>
-            <guid>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</guid>
-            <pubDate>Sun, 19 Dec 2021 07:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442001739_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>

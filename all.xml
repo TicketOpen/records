@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Dec 2021 06:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Dec 2021 07:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</link>
+            <guid>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</guid>
+            <pubDate>Wed, 22 Dec 2021 07:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851506390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임창정lp - 10집 BYE (140g 스카이 블루 컬러, 한정반) LP (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1081-1584</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 20 Dec 2021 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637150582299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy 에이미 - Amy Lp (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</link>
-            <guid>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</guid>
-            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442001739_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ 스토어)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629803201902_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</link>
+            <guid>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</guid>
+            <pubDate>Wed, 22 Dec 2021 07:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851506390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ariana Grande 아리아나 그란데 - Dangerous Woman Lp (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/5fc4a907-980a-437f-a243-79860c4d9c5a</link>
             <guid>https://www.seoulvinyl.com/product/5fc4a907-980a-437f-a243-79860c4d9c5a</guid>
@@ -766,14 +774,6 @@
             <pubDate>Mon, 22 Nov 2021 14:07:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586938601_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아델 Adele lp - 30 (블랙 컬러 바이닐) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</link>
-            <guid>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</guid>
-            <pubDate>Mon, 22 Nov 2021 13:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586367690_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임창정lp - 10집 BYE (140g 스카이 블루 컬러, 한정반) LP (서울바이닐 ─ KOREAN)]]></title>
@@ -904,14 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1619086224770_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Amy 에이미 - Amy Lp (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</link>
-            <guid>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</guid>
-            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442001739_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
             <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
@@ -1030,6 +1022,14 @@
             <pubDate>Fri, 05 Nov 2021 05:45:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1581077460487_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amy 에이미 - Amy Lp (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</link>
+            <guid>https://www.seoulvinyl.com/product/e44eeae2-f1e5-458f-9e19-a997aedfd68c</guid>
+            <pubDate>Thu, 02 Dec 2021 11:05:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442001739_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CD] 김아름 - WINTER CITY (서울바이닐 ─ etc)]]></title>
