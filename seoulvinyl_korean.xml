@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 03:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 04:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 23 Dec 2021 05:09:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640235412068_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버스커 버스커 - 1집+1집 마무리 합본 한정반 (clear color) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1057-1585</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1057-1585</guid>
-            <pubDate>Wed, 22 Dec 2021 12:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1616405942771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임창정lp - 10집 BYE (140g 스카이 블루 컬러, 한정반) LP]]></title>
@@ -46,6 +38,14 @@
             <pubDate>Tue, 23 Nov 2021 09:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버스커 버스커 - 1집+1집 마무리 합본 한정반 (clear color) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1057-1585</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1057-1585</guid>
+            <pubDate>Wed, 22 Dec 2021 12:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1616405942771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장필순lp - 장필순 1집 어느 새 (초회한정반, 투명옐로우 컬러) vinyl]]></title>

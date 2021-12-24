@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Dec 2021 03:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 04:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 23 Dec 2021 05:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640235412068_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버스커 버스커 - 1집+1집 마무리 합본 한정반 (clear color) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1057-1585</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1057-1585</guid>
-            <pubDate>Wed, 22 Dec 2021 12:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1616405942771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Sun, 19 Dec 2021 07:07:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566739940_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버스커 버스커 - 1집+1집 마무리 합본 한정반 (clear color) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1057-1585</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1057-1585</guid>
+            <pubDate>Wed, 22 Dec 2021 12:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1616405942771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ariana Grande 아리아나 그란데 - 4집 Sweetener [2LP]]]></title>
