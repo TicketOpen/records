@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 11:06:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 12:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 이상은 - 6집 공무도하가 [컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</link>
+            <guid>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</guid>
+            <pubDate>Sat, 25 Dec 2021 12:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640432186545_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이상은 - 5집 언젠가는 [180g LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</link>
+            <guid>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</guid>
+            <pubDate>Sat, 25 Dec 2021 12:09:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640431867678_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이소라 BEST Lp (Black) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1166-1589</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 15 Dec 2021 11:06:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639565369807_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Parcels 파슬스 - Day/Night (Gatefold 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/4df733fa-8ab6-4269-8059-fd9063bf2277</link>
-            <guid>https://www.seoulvinyl.com/product/4df733fa-8ab6-4269-8059-fd9063bf2277</guid>
-            <pubDate>Wed, 15 Dec 2021 11:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639564909550_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[천장터짐 DC] honne 혼네 - warm on a cold night - black LP (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/warm-1577</link>
-            <guid>https://www.seoulvinyl.com/product/warm-1577</guid>
-            <pubDate>Wed, 15 Dec 2021 11:06:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586938601_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 이상은 - 6집 공무도하가 [컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</link>
+            <guid>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</guid>
+            <pubDate>Sat, 25 Dec 2021 12:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640432186545_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이상은 - 5집 언젠가는 [180g LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</link>
+            <guid>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</guid>
+            <pubDate>Sat, 25 Dec 2021 12:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640431867678_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이소라 BEST Lp (Black) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1166-1589</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1166-1589</guid>
@@ -886,22 +902,6 @@
             <pubDate>Tue, 09 Nov 2021 20:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636448928736_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[심규선 - 소로 小路 [180g LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/aa3254d2-ff8f-4f3d-9c91-0ab71f1cd810</link>
-            <guid>https://www.seoulvinyl.com/product/aa3254d2-ff8f-4f3d-9c91-0ab71f1cd810</guid>
-            <pubDate>Sat, 04 Dec 2021 10:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638611835080_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이적 - 정규 6집 Trace Vinyl LP (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-843-1560</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-843-1560</guid>
-            <pubDate>Sat, 04 Dec 2021 10:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607587953914_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[천장터짐 할인] 류이치 사카모토 영화음악 세계 (Ryuichi Sakamoto - Music For Film) [2LP] (서울바이닐 ─ JAPANESE)]]></title>
