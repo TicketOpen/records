@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Dec 2021 12:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Dec 2021 13:16:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 이상은 - 6집 공무도하가 [컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</link>
             <guid>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</guid>
-            <pubDate>Sat, 25 Dec 2021 12:11:13 GMT</pubDate>
+            <pubDate>Sat, 25 Dec 2021 12:09:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640432186545_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 이상은 - 5집 언젠가는 [180g LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</link>
             <guid>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</guid>
-            <pubDate>Sat, 25 Dec 2021 12:11:13 GMT</pubDate>
+            <pubDate>Sat, 25 Dec 2021 12:09:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640431867678_1000.jpg" length="0" type="image/jpg"/>
         </item>
