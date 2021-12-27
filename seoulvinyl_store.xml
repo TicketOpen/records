@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Dec 2021 07:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Dec 2021 08:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
+            <pubDate>Sun, 19 Dec 2021 07:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 이상은 - 6집 공무도하가 [컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 20 Dec 2021 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637150582299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
-            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
-            <pubDate>Sun, 19 Dec 2021 07:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프)]]></title>
