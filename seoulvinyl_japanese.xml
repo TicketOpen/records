@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 03:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 04:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640773595712_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Ohashi Junko (오하시 준코) - Magical [2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</link>
+            <guid>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</guid>
+            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442770423_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Onuki Taeko 오오누키 타에코 - Sunshower]]></title>
+            <link>https://www.seoulvinyl.com/product/5eaf9320-5d28-49fc-9ad9-29c24410ae1b</link>
+            <guid>https://www.seoulvinyl.com/product/5eaf9320-5d28-49fc-9ad9-29c24410ae1b</guid>
+            <pubDate>Wed, 01 Dec 2021 10:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638350987671_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
             <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
             <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
@@ -38,30 +54,6 @@
             <pubDate>Thu, 23 Dec 2021 11:06:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1597747049231_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ohashi Junko (오하시 준코) - Magical [2 Lp]]]></title>
-            <link>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</link>
-            <guid>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</guid>
-            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442770423_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</link>
-            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</guid>
-            <pubDate>Thu, 11 Nov 2021 08:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 今井裕 이마이 유 - A Cool Evening Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</link>
-            <guid>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</guid>
-            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442554912_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Fujimaru Band 후지마루 밴드 - BGM Lp]]></title>
@@ -96,12 +88,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351298870_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Onuki Taeko 오오누키 타에코 - Sunshower]]></title>
-            <link>https://www.seoulvinyl.com/product/5eaf9320-5d28-49fc-9ad9-29c24410ae1b</link>
-            <guid>https://www.seoulvinyl.com/product/5eaf9320-5d28-49fc-9ad9-29c24410ae1b</guid>
-            <pubDate>Wed, 01 Dec 2021 10:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638350987671_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] 今井裕 이마이 유 - A Cool Evening Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</link>
+            <guid>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</guid>
+            <pubDate>Thu, 02 Dec 2021 11:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442554912_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 16 Nov 2021 13:16:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457</guid>
+            <pubDate>Thu, 11 Nov 2021 08:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP]]></title>

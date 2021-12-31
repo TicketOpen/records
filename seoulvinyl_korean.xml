@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 03:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 04:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 25 Dec 2021 12:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640431867678_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라 BEST Lp (Black)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1166-1589</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1166-1589</guid>
-            <pubDate>Fri, 24 Dec 2021 11:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1621841904041_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 지누션 [THE REIGN] (1000장 한정, Clear Transparent Lp)]]></title>
@@ -72,14 +64,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[버스커 버스커 - 1집+1집 마무리 합본 한정반 (clear color) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1057-1585</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1057-1585</guid>
-            <pubDate>Wed, 22 Dec 2021 12:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1616405942771_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[장필순lp - 장필순 1집 어느 새 (초회한정반, 투명옐로우 컬러) vinyl]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1213</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1213</guid>
@@ -94,6 +78,14 @@
             <pubDate>Thu, 09 Dec 2021 12:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1614767492038_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이소라 BEST Lp (Black)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1166-1589</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1166-1589</guid>
+            <pubDate>Fri, 24 Dec 2021 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1621841904041_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 30 Dec 2021 07:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636448928736_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[심규선 - 소로 小路 [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/aa3254d2-ff8f-4f3d-9c91-0ab71f1cd810</link>
+            <guid>https://www.seoulvinyl.com/product/aa3254d2-ff8f-4f3d-9c91-0ab71f1cd810</guid>
+            <pubDate>Fri, 31 Dec 2021 04:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638611835080_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

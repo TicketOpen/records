@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Dec 2021 03:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Dec 2021 04:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Tue, 28 Dec 2021 17:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639564909550_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[천장터짐 DC] honne 혼네 - warm on a cold night - black LP]]></title>
-            <link>https://www.seoulvinyl.com/product/warm-1577</link>
-            <guid>https://www.seoulvinyl.com/product/warm-1577</guid>
-            <pubDate>Tue, 28 Dec 2021 17:17:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Starship 스타쉽 - Greatest Hits Relaunched (Gatefold)(Purple LP)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 28 Dec 2021 17:17:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586938601_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아델 Adele lp - 30 (블랙 컬러 바이닐)]]></title>
+            <link>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</link>
+            <guid>https://www.seoulvinyl.com/product/dea8280c-3bb1-4e55-b53f-8e53408a522c</guid>
+            <pubDate>Fri, 31 Dec 2021 04:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637586367690_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
