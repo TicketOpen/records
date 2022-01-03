@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 10:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 11:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,7 +139,7 @@
             <title><![CDATA[[예약판매] Summer Soul 썸머 소울 - December (Cassette Tape) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/a18e9974-b546-4c29-a525-58950e541948</link>
             <guid>https://www.seoulvinyl.com/product/a18e9974-b546-4c29-a525-58950e541948</guid>
-            <pubDate>Mon, 03 Jan 2022 10:08:20 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 10:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201323694_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -147,7 +147,7 @@
             <title><![CDATA[[예약판매] Summer Soul 썸머 소울 - November (Cassette Tape) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</link>
             <guid>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</guid>
-            <pubDate>Mon, 03 Jan 2022 10:08:20 GMT</pubDate>
+            <pubDate>Mon, 03 Jan 2022 10:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201067984_1000.jpg" length="0" type="image/jpg"/>
         </item>
