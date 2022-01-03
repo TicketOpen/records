@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jan 2022 09:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 10:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Summer Soul 썸머 소울 - December (Cassette Tape) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a18e9974-b546-4c29-a525-58950e541948</link>
+            <guid>https://www.seoulvinyl.com/product/a18e9974-b546-4c29-a525-58950e541948</guid>
+            <pubDate>Mon, 03 Jan 2022 10:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201323694_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Summer Soul 썸머 소울 - November (Cassette Tape) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</link>
+            <guid>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</guid>
+            <pubDate>Mon, 03 Jan 2022 10:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201067984_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] MONDO GROSSO 몬도 그로소 BEST 1 Ver. Lp (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/3fc386c5-ec71-46a9-a9dd-ddaabb8c194d</link>
@@ -120,20 +136,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637150582299_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</link>
-            <guid>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</guid>
-            <pubDate>Fri, 19 Nov 2021 15:06:58 GMT</pubDate>
+            <title><![CDATA[[예약판매] Summer Soul 썸머 소울 - December (Cassette Tape) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/a18e9974-b546-4c29-a525-58950e541948</link>
+            <guid>https://www.seoulvinyl.com/product/a18e9974-b546-4c29-a525-58950e541948</guid>
+            <pubDate>Mon, 03 Jan 2022 10:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201323694_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Green colored Cassette Tape 카세트테이프) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</link>
-            <guid>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</guid>
-            <pubDate>Fri, 19 Nov 2021 15:06:58 GMT</pubDate>
+            <title><![CDATA[[예약판매] Summer Soul 썸머 소울 - November (Cassette Tape) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</link>
+            <guid>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</guid>
+            <pubDate>Mon, 03 Jan 2022 10:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201067984_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
@@ -246,22 +262,6 @@
             <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">8,250원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092814365_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레코드 이너 슬리브 (속지) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1067</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1067</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">5,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7인치 도넛반 코스터 (랜덤발송) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-933</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-933</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194943269_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[John Legend 존 레전드 - Get Lifted Vinyl LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
