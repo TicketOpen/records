@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 10:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 11:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640240458350_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 지누션 [THE REIGN] (1000장 한정, Clear Transparent Lp) (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[지누션 [THE REIGN] (1000장 한정, Clear Transparent Lp) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2e6b8f29-11f6-4048-92eb-34e5d6e512f5</link>
             <guid>https://www.seoulvinyl.com/product/2e6b8f29-11f6-4048-92eb-34e5d6e512f5</guid>
             <pubDate>Thu, 23 Dec 2021 05:08:50 GMT</pubDate>
@@ -800,7 +800,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640431867678_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 지누션 [THE REIGN] (1000장 한정, Clear Transparent Lp) (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[지누션 [THE REIGN] (1000장 한정, Clear Transparent Lp) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2e6b8f29-11f6-4048-92eb-34e5d6e512f5</link>
             <guid>https://www.seoulvinyl.com/product/2e6b8f29-11f6-4048-92eb-34e5d6e512f5</guid>
             <pubDate>Thu, 23 Dec 2021 05:08:50 GMT</pubDate>
