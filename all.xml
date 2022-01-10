@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jan 2022 07:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jan 2022 08:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] CL 씨엘 - ALPHA Lp (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
             <guid>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</guid>
-            <pubDate>Mon, 10 Jan 2022 07:08:54 GMT</pubDate>
+            <pubDate>Mon, 10 Jan 2022 07:07:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641797329124_1000.jpg" length="0" type="image/jpg"/>
         </item>
