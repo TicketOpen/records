@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 07:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 08:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</link>
+            <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</guid>
+            <pubDate>Wed, 12 Jan 2022 08:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Arts Symphony Orchestra 아르츠 심포니 오케스트라 - 러브레터(Love Letter) OST (Symphony Live, white colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</link>
+            <guid>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</guid>
+            <pubDate>Wed, 12 Jan 2022 08:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Vince Guaraldi Trio 찰리 브라운 크리스마스 - A Charlie Brown Christmas (Ltd)(Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/5acc92b3-914e-4666-81fc-0241fdf7192b</link>
@@ -104,14 +120,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635587608440_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2</link>
-            <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2</guid>
-            <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Hisaishi Joe 히사이시 조 - 이웃집 토토로 이미지앨범 Vinyl LP]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-883</link>
             <guid>https://www.seoulvinyl.com/product/untitled-883</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1613724200700_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[V.A ‎– Stranger Things 기묘한 이야기 OST [Red & Blue Color 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9e4b3aa7-8d74-4406-8c40-b32bd6723cc1</link>
-            <guid>https://www.seoulvinyl.com/product/9e4b3aa7-8d74-4406-8c40-b32bd6723cc1</guid>
-            <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633862222553_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
