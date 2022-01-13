@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 09:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 박주원 - 1집 집시의 시간 [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/0415ab9a-c074-4f1f-a6d5-a2e907d08aed</link>
+            <guid>https://www.seoulvinyl.com/product/0415ab9a-c074-4f1f-a6d5-a2e907d08aed</guid>
+            <pubDate>Thu, 13 Jan 2022 09:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062480693_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] CL 씨엘 - ALPHA Lp]]></title>
             <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 07 Jan 2022 05:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636449155481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 시나위 7집 - Psychedelos [180g 블랙반]]]></title>
-            <link>https://www.seoulvinyl.com/product/c68d7532-1368-4d15-9081-a8d6b250a626</link>
-            <guid>https://www.seoulvinyl.com/product/c68d7532-1368-4d15-9081-a8d6b250a626</guid>
-            <pubDate>Fri, 07 Jan 2022 05:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636448928736_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

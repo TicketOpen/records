@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 08:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 09:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 일대종사 (The Grandmaster OST) [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</link>
+            <guid>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</guid>
+            <pubDate>Thu, 13 Jan 2022 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">79,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062066279_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 2046 OST [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/45e5294b-cdff-4f1f-9450-55ccdeef2ce1</link>
+            <guid>https://www.seoulvinyl.com/product/45e5294b-cdff-4f1f-9450-55ccdeef2ce1</guid>
+            <pubDate>Thu, 13 Jan 2022 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">93,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642061933822_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 화양연화 (花樣年華) (In The Mood For Love OST) [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7382fa7a-fc8d-4f92-b57e-e9e4f98e3312</link>
+            <guid>https://www.seoulvinyl.com/product/7382fa7a-fc8d-4f92-b57e-e9e4f98e3312</guid>
+            <pubDate>Thu, 13 Jan 2022 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642061768522_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Happy Together 해피투게더 OST LP]]></title>
             <link>https://www.seoulvinyl.com/product/056b11de-c5cb-43d5-8929-826adec8ace7-1605</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jon Batiste - Soul 소울 OST (Music From And Inspired By Soul) lp vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-992</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-992</guid>
-            <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1612442775177_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오드리(AUDREY) OST Lp (white pearl vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/77e8a1eb-a2c9-40a6-bad8-2af80e6aae6a</link>
-            <guid>https://www.seoulvinyl.com/product/77e8a1eb-a2c9-40a6-bad8-2af80e6aae6a</guid>
-            <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635587608440_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hisaishi Joe 히사이시 조 - 이웃집 토토로 이미지앨범 Vinyl LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-883</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-883</guid>
-            <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608986157520_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
