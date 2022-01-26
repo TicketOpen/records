@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 05:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 06:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
+            <link>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</link>
+            <guid>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</guid>
+            <pubDate>Wed, 26 Jan 2022 06:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[박주원 - 1집 집시의 시간 [투명 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/0415ab9a-c074-4f1f-a6d5-a2e907d08aed</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 11 Jan 2022 13:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201323694_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Summer Soul 썸머 소울 - November (Cassette Tape)]]></title>
-            <link>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</link>
-            <guid>https://www.seoulvinyl.com/product/878b1c88-9dea-4e5e-916b-eceaa93da36f</guid>
-            <pubDate>Tue, 11 Jan 2022 13:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201067984_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 일대종사 (The Grandmaster OST) [LP]]]></title>
