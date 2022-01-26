@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 00:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 01:59:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp]]]></title>
-            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
-            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
-            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp]]></title>
             <link>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</link>
@@ -56,22 +48,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633860992667_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ryo Fukui 후쿠이 료 - My Favorite Tune Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/6e37733e-13b7-4f4f-a43f-22771fd3daf8</link>
-            <guid>https://www.seoulvinyl.com/product/6e37733e-13b7-4f4f-a43f-22771fd3daf8</guid>
-            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861258526_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</link>
-            <guid>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</guid>
-            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Glenn Miller 글렌 밀러 - The Hits Lp]]></title>
             <link>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</link>
             <guid>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</guid>
@@ -96,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sergio mendes 세르지오 멘데스 - The Beat of Brazil (double split colored) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</link>
-            <guid>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</guid>
-            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sergio Mendes 세르지오 멘데스 - The Swinger From Rio (green & yellow colored) LP]]></title>
             <link>https://www.seoulvinyl.com/product/13730edf-7371-469c-b1bd-6798a05fc9bb</link>
             <guid>https://www.seoulvinyl.com/product/13730edf-7371-469c-b1bd-6798a05fc9bb</guid>
@@ -126,6 +94,38 @@
             <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
+            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
+            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryo Fukui 후쿠이 료 - My Favorite Tune Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/6e37733e-13b7-4f4f-a43f-22771fd3daf8</link>
+            <guid>https://www.seoulvinyl.com/product/6e37733e-13b7-4f4f-a43f-22771fd3daf8</guid>
+            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861258526_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</link>
+            <guid>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</guid>
+            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sergio mendes 세르지오 멘데스 - The Beat of Brazil (double split colored) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</link>
+            <guid>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</guid>
+            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vince Guaraldi 빈스 과랄디 스누피 찰리 브라운 - A BOY NAMED CHARLIE BROWN LP]]></title>

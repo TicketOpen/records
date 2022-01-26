@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ etc</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 00:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 01:59:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CD] 김아름 - WINTER CITY]]></title>
-            <link>https://www.seoulvinyl.com/product/2a1fc333-1077-4f05-a6c7-98b821548822</link>
-            <guid>https://www.seoulvinyl.com/product/2a1fc333-1077-4f05-a6c7-98b821548822</guid>
-            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">19,900원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639136230827_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[달력] 넷플릭스 '오징어게임' (Official Netflix 'Squid Game' 2022 Calendar)]]></title>
-            <link>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</link>
-            <guid>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</guid>
-            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상]]></title>
@@ -96,20 +80,44 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442519827_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-908</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-908</guid>
-            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609587934862_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[7인치(미니레코드) 전용 슬림프레임 / 옅은 색상]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-909</link>
             <guid>https://www.seoulvinyl.com/product/untitled-909</guid>
             <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609588802722_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레코드 겉비닐 1LP 사이즈]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1066</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1066</guid>
+            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">8,250원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092814365_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CD] 김아름 - WINTER CITY]]></title>
+            <link>https://www.seoulvinyl.com/product/2a1fc333-1077-4f05-a6c7-98b821548822</link>
+            <guid>https://www.seoulvinyl.com/product/2a1fc333-1077-4f05-a6c7-98b821548822</guid>
+            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">19,900원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639136230827_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[달력] 넷플릭스 '오징어게임' (Official Netflix 'Squid Game' 2022 Calendar)]]></title>
+            <link>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</link>
+            <guid>https://www.seoulvinyl.com/product/4c5d5cc2-a75d-4632-be1d-75ee05fe7a6d</guid>
+            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-908</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-908</guid>
+            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609587934862_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hiroshi Nagai 히로시 나가이 일러스트 캔버스 액자]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">11,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617095014736_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레코드 겉비닐 1LP 사이즈]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1066</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1066</guid>
-            <pubDate>Tue, 04 Jan 2022 07:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">8,250원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092814365_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
