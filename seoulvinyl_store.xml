@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 14:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 15:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 13 Jan 2022 09:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062480693_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 일대종사 (The Grandmaster OST) [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</link>
+            <guid>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</guid>
+            <pubDate>Thu, 13 Jan 2022 09:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">79,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062066279_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버즈 lp / The Best of Buzz (180g, Limited Blue Color) Vinyl]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 11 Jan 2022 13:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640235412068_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 일대종사 (The Grandmaster OST) [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</link>
-            <guid>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</guid>
-            <pubDate>Thu, 13 Jan 2022 09:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">79,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062066279_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 사랑과 평화 - 골든 힛트곡 선집 [컬러 LP 한정반, 180G]]]></title>
