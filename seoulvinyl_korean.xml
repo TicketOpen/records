@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:08:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062480693_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 사랑과 평화 - 골든 힛트곡 선집 [컬러 LP 한정반, 180G]]]></title>
-            <link>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</link>
-            <guid>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</guid>
-            <pubDate>Tue, 25 Jan 2022 08:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643097207446_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] CL 씨엘 - ALPHA Lp]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 사랑과 평화 - 골든 힛트곡 선집 [컬러 LP 한정반, 180G]]]></title>
+            <link>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</link>
+            <guid>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</guid>
+            <pubDate>Tue, 25 Jan 2022 08:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643097207446_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성시경 - 정규 8집 ㅅ (시옷) [ 45 RPM 블랙 & 화이트 2LP, 한정반 ]]]></title>
