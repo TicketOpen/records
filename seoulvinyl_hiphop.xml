@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 04:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 05:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608545788876_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maxwell 맥스웰 - Embrya (20th Anniversary)(White Coloured 2 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</link>
-            <guid>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</guid>
-            <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639389477897_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Anniversary (150g Gatefold 2LP)]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1602580660263_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Maxwell 맥스웰 - Embrya (20th Anniversary)(White Coloured 2 LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</link>
+            <guid>https://www.seoulvinyl.com/product/37f9e842-9d36-45aa-8930-bb98926598e2</guid>
+            <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639389477897_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd (위켄드) - The Highlights 2 LP 블랙반]]></title>
