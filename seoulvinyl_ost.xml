@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 09:06:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 10:06:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 12 Jan 2022 08:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Arts Symphony Orchestra 아르츠 심포니 오케스트라 - 러브레터(Love Letter) OST (Symphony Live, white colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</link>
-            <guid>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</guid>
-            <pubDate>Wed, 12 Jan 2022 08:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 디즈니 애니메이션 히트곡 모음집 (The Essential Disney Collection) [투명 로얄블루 컬러, 1000장 한정]]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 13 Jan 2022 09:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">79,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062066279_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Arts Symphony Orchestra 아르츠 심포니 오케스트라 - 러브레터(Love Letter) OST (Symphony Live, white colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</link>
+            <guid>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</guid>
+            <pubDate>Wed, 12 Jan 2022 08:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vince Guaraldi Trio 찰리 브라운 크리스마스 - A Charlie Brown Christmas (Ltd)(Colored LP)]]></title>
