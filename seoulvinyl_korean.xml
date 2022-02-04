@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 11:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 12:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists - 무선지 컴필레이션 바이닐 Vol.1 [Vanishing Air]]]></title>
+            <link>https://www.seoulvinyl.com/product/9cb56ea6-4f8e-42aa-a03d-6fa9f1f2d061</link>
+            <guid>https://www.seoulvinyl.com/product/9cb56ea6-4f8e-42aa-a03d-6fa9f1f2d061</guid>
+            <pubDate>Fri, 04 Feb 2022 12:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643973279798_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지누션 [THE REIGN] (1000장 한정, Clear Transparent Lp)]]></title>
             <link>https://www.seoulvinyl.com/product/2e6b8f29-11f6-4048-92eb-34e5d6e512f5</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1623223190488_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] O.S.T - 봄날은 간다 [180g, Limited, Gate Folder Black 2LP] (한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</link>
-            <guid>https://www.seoulvinyl.com/product/3009e554-6765-4ee4-bfae-faa67fb65631</guid>
-            <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634809875743_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[박주원 - 1집 집시의 시간 [투명 컬러 LP]]]></title>
