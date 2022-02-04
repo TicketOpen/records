@@ -4,25 +4,9 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 07:06:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 08:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
-            <link>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</link>
-            <guid>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</guid>
-            <pubDate>Wed, 26 Jan 2022 06:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일대종사 (The Grandmaster OST) [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</link>
-            <guid>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</guid>
-            <pubDate>Thu, 13 Jan 2022 09:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">79,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062066279_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2046 OST [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/45e5294b-cdff-4f1f-9450-55ccdeef2ce1</link>
@@ -102,6 +86,22 @@
             <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
+            <link>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</link>
+            <guid>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</guid>
+            <pubDate>Wed, 26 Jan 2022 06:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일대종사 (The Grandmaster OST) [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</link>
+            <guid>https://www.seoulvinyl.com/product/f9836d11-2c42-48a0-9624-b0eb40101703</guid>
+            <pubDate>Thu, 13 Jan 2022 09:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">79,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062066279_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vince Guaraldi Trio 찰리 브라운 크리스마스 - A Charlie Brown Christmas (Ltd)(Colored LP)]]></title>
