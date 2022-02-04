@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 10:06:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 11:05:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oasis (오아시스) - 넵워스 공연 실황 (Knebworth 1996) [3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ab05f6c0-b93c-402a-98ac-f1829262c799</link>
+            <guid>https://www.seoulvinyl.com/product/ab05f6c0-b93c-402a-98ac-f1829262c799</guid>
+            <pubDate>Fri, 04 Feb 2022 11:03:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2046 OST [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/45e5294b-cdff-4f1f-9450-55ccdeef2ce1</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641812676790_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지누션 [THE REIGN] (1000장 한정, Clear Transparent Lp)]]></title>
-            <link>https://www.seoulvinyl.com/product/2e6b8f29-11f6-4048-92eb-34e5d6e512f5</link>
-            <guid>https://www.seoulvinyl.com/product/2e6b8f29-11f6-4048-92eb-34e5d6e512f5</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640235412068_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
