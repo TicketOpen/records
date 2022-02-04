@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 04:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 05:06:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -704,6 +704,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639218712394_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (red color) LP (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-855-1562</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-855-1562</guid>
+            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608115762216_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Dua Lipa 두아 리파 - Future Nostalgia Lp (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/4c372004-22e9-434d-a52b-6d41db5a26a7</link>
             <guid>https://www.seoulvinyl.com/product/4c372004-22e9-434d-a52b-6d41db5a26a7</guid>
@@ -758,14 +766,6 @@
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1591618935654_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (red color) LP (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-855-1562</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-855-1562</guid>
-            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608115762216_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[sam snith 샘스미스 - in the lonely hour Lp (서울바이닐 ─ ROCK & POP)]]></title>
