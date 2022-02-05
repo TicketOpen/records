@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 10:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 11:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 04 Feb 2022 11:05:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prep 프렙 - Prep (오렌지 컬러 Lp)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1036-1599</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599</guid>
-            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You]]></title>
@@ -54,6 +46,14 @@
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639565538656_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Parcels 파슬스 - 1집 Parcels [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f90b9ffa-d035-4030-81ba-c70c331e5c6f</link>
+            <guid>https://www.seoulvinyl.com/product/f90b9ffa-d035-4030-81ba-c70c331e5c6f</guid>
+            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639565369807_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Parcels 파슬스 - Day/Night (Gatefold 2LP)]]></title>
@@ -104,12 +104,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Parcels 파슬스 - 1집 Parcels [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f90b9ffa-d035-4030-81ba-c70c331e5c6f</link>
-            <guid>https://www.seoulvinyl.com/product/f90b9ffa-d035-4030-81ba-c70c331e5c6f</guid>
+            <title><![CDATA[Prep 프렙 - Prep (오렌지 컬러 Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1036-1599</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599</guid>
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639565369807_1000.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oasis ‎오아시스 lp – (What's The Story) Morning Glory]]></title>

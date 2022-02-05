@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 10:06:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 11:08:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608545788876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Panther soundtrack lp - 블랙팬서 ost vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</link>
+            <guid>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</guid>
+            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637842902538_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bryson Tiller 브라이슨 틸러 - Anniversary (150g Gatefold 2LP)]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 11 Dec 2021 11:05:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639219556569_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Panther soundtrack lp - 블랙팬서 ost vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</link>
-            <guid>https://www.seoulvinyl.com/product/a782aa6a-f7e0-4d9b-85b6-478ea8e441f7</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637842902538_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Blxst 블래스트 lp - No Love Lost 블루 컬러 한정반 (Limited Blue Vinyl)]]></title>
