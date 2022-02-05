@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 09:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 10:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 04 Feb 2022 11:05:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prep 프렙 - Prep (오렌지 컬러 Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1036-1599</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599</guid>
+            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prep 프렙 - Prep (오렌지 컬러 Lp)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1036-1599</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599</guid>
-            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Parcels 파슬스 - 1집 Parcels [LP]]]></title>
