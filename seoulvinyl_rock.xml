@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 11:07:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 12:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639564909550_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Starship 스타쉽 - Greatest Hits Relaunched (Gatefold)(Purple LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</link>
-            <guid>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</guid>
-            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639218984204_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sting (스팅) - 15집 The Bridge Lp]]></title>
             <link>https://www.seoulvinyl.com/product/d300bfdf-6272-49ef-90b1-d64fed2726a9</link>
             <guid>https://www.seoulvinyl.com/product/d300bfdf-6272-49ef-90b1-d64fed2726a9</guid>
@@ -110,6 +102,14 @@
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Starship 스타쉽 - Greatest Hits Relaunched (Gatefold)(Purple LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</link>
+            <guid>https://www.seoulvinyl.com/product/97318ef5-a8e1-42c8-a44e-e4c588bece8b</guid>
+            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639218984204_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oasis ‎오아시스 lp – (What's The Story) Morning Glory]]></title>
