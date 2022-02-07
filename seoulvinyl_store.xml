@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 10:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 11:06:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[King james Version - First Time We Met Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/0872ce22-6716-4a5c-a068-44bb78f804f4-1624</link>
+            <guid>https://www.seoulvinyl.com/product/0872ce22-6716-4a5c-a068-44bb78f804f4-1624</guid>
+            <pubDate>Mon, 07 Feb 2022 11:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644231372001_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50 Cent 50 센트 - Best Of (Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</link>
+            <guid>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</guid>
+            <pubDate>Mon, 07 Feb 2022 11:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644230376110_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Breakfast At Tiffany’s (티파니에서 아침을) - O.S.T. (Picture)]]></title>
+            <link>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</link>
+            <guid>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</guid>
+            <pubDate>Mon, 07 Feb 2022 11:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644228184219_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Arts Symphony Orchestra 아르츠 심포니 오케스트라 - 러브레터(Love Letter) OST (Symphony Live, white colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</link>
-            <guid>https://www.seoulvinyl.com/product/887decf0-d29d-42c3-b124-162820f41301-1604</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Musiq Soulchild 뮤지크 소울차일드 - Luvanmusiq (2 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b48ab877-7261-4c84-91ad-abd54f945bfc</link>
-            <guid>https://www.seoulvinyl.com/product/b48ab877-7261-4c84-91ad-abd54f945bfc</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641812676790_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 사랑과 평화 - 골든 힛트곡 선집 [컬러 LP 한정반, 180G]]]></title>
-            <link>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</link>
-            <guid>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643097207446_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
