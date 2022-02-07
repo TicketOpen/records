@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 12:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 13:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 04 Feb 2022 12:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974256345_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
-            <link>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</link>
-            <guid>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</guid>
-            <pubDate>Wed, 26 Jan 2022 06:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[일대종사 (The Grandmaster OST) [LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638272425117_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
+            <link>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</link>
+            <guid>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</guid>
+            <pubDate>Wed, 26 Jan 2022 06:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[friends ost - 프렌즈 ost lp 리미티드에디션 핑크컬러]]></title>
