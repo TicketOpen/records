@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 13:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 14:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -472,14 +472,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vince Guaraldi Trio 찰리 브라운 크리스마스 - A Charlie Brown Christmas (Ltd)(Colored LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/5acc92b3-914e-4666-81fc-0241fdf7192b</link>
-            <guid>https://www.seoulvinyl.com/product/5acc92b3-914e-4666-81fc-0241fdf7192b</guid>
-            <pubDate>Mon, 10 Jan 2022 11:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641811686595_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 디즈니 애니메이션 히트곡 모음집 (The Essential Disney Collection) [투명 로얄블루 컬러, 1000장 한정] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/aa93a49b-ae53-479b-ad22-46bc40fac46d</link>
             <guid>https://www.seoulvinyl.com/product/aa93a49b-ae53-479b-ad22-46bc40fac46d</guid>
@@ -510,6 +502,14 @@
             <pubDate>Wed, 26 Jan 2022 06:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vince Guaraldi Trio 찰리 브라운 크리스마스 - A Charlie Brown Christmas (Ltd)(Colored LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/5acc92b3-914e-4666-81fc-0241fdf7192b</link>
+            <guid>https://www.seoulvinyl.com/product/5acc92b3-914e-4666-81fc-0241fdf7192b</guid>
+            <pubDate>Mon, 10 Jan 2022 11:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641811686595_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[friends ost - 프렌즈 ost lp 리미티드에디션 핑크컬러 (서울바이닐 ─ OST)]]></title>
