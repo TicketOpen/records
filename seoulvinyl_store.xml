@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 11:06:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 12:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Led Zeppelin (레드 제플린) - 1집 Led Zeppelin I [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d4c20ceb-a27a-4814-a189-54ec9e9615f3</link>
+            <guid>https://www.seoulvinyl.com/product/d4c20ceb-a27a-4814-a189-54ec9e9615f3</guid>
+            <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235492516_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[eremy Zucker (제레미 주커) - 1집 Love Is Not Dying [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8f739a49-41ec-455d-aca6-9ac242d2f65f</link>
+            <guid>https://www.seoulvinyl.com/product/8f739a49-41ec-455d-aca6-9ac242d2f65f</guid>
+            <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644234132696_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pink Floyd (핑크 플로이드) - The Wall [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</link>
+            <guid>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</guid>
+            <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233666753_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[King james Version - First Time We Met Lp]]></title>
             <link>https://www.seoulvinyl.com/product/0872ce22-6716-4a5c-a068-44bb78f804f4-1624</link>
@@ -104,36 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408741645_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2046 OST [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/45e5294b-cdff-4f1f-9450-55ccdeef2ce1</link>
-            <guid>https://www.seoulvinyl.com/product/45e5294b-cdff-4f1f-9450-55ccdeef2ce1</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">93,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642061933822_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화양연화 (花樣年華) (In The Mood For Love OST) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/7382fa7a-fc8d-4f92-b57e-e9e4f98e3312</link>
-            <guid>https://www.seoulvinyl.com/product/7382fa7a-fc8d-4f92-b57e-e9e4f98e3312</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642061768522_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy Together 해피투게더 OST LP]]></title>
-            <link>https://www.seoulvinyl.com/product/056b11de-c5cb-43d5-8929-826adec8ace7-1605</link>
-            <guid>https://www.seoulvinyl.com/product/056b11de-c5cb-43d5-8929-826adec8ace7-1605</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634790703160_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</link>
-            <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Jamiroquai (자미로콰이) - 3집 Travelling Without Moving [옐로우 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d4e18c3b-05d2-4fdf-90eb-ee4cba00ebfd</link>
+            <guid>https://www.seoulvinyl.com/product/d4e18c3b-05d2-4fdf-90eb-ee4cba00ebfd</guid>
+            <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233799480_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
