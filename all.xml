@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 10:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 11:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] O.S.T. - You've Got Mail (유브 갓 메일) (Soundtrack)(Ltd)(Highlighter Yellow Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</link>
-            <guid>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</guid>
-            <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974417749_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바닐라 스카이 영화음악 (Vanilla Sky OST) [화이트 & 오렌지 소용돌이 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9fd59273-a554-42ba-a3a5-d33bf7a20ce8</link>
             <guid>https://www.seoulvinyl.com/product/9fd59273-a554-42ba-a3a5-d33bf7a20ce8</guid>
@@ -126,6 +118,14 @@
             <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233799480_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] O.S.T. - You've Got Mail (유브 갓 메일) (Soundtrack)(Ltd)(Highlighter Yellow Colored LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</link>
+            <guid>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</guid>
+            <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974417749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul) (서울바이닐 ─ 스토어)]]></title>
@@ -408,14 +408,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] O.S.T. - You've Got Mail (유브 갓 메일) (Soundtrack)(Ltd)(Highlighter Yellow Colored LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</link>
-            <guid>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</guid>
-            <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974417749_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바닐라 스카이 영화음악 (Vanilla Sky OST) [화이트 & 오렌지 소용돌이 컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/9fd59273-a554-42ba-a3a5-d33bf7a20ce8</link>
             <guid>https://www.seoulvinyl.com/product/9fd59273-a554-42ba-a3a5-d33bf7a20ce8</guid>
@@ -494,6 +486,14 @@
             <pubDate>Wed, 05 Jan 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638272425117_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] O.S.T. - You've Got Mail (유브 갓 메일) (Soundtrack)(Ltd)(Highlighter Yellow Colored LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</link>
+            <guid>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</guid>
+            <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974417749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul) (서울바이닐 ─ OST)]]></title>
