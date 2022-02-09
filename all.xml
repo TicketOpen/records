@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 10:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 11:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[[예약판매] 별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</link>
             <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</guid>
-            <pubDate>Wed, 09 Feb 2022 10:07:35 GMT</pubDate>
+            <pubDate>Wed, 09 Feb 2022 10:07:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644400927517_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -792,6 +792,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062480693_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[버즈 lp / The Best of Buzz (180g, Limited Blue Color) Vinyl (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1089-1615</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1089-1615</guid>
+            <pubDate>Thu, 27 Jan 2022 10:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408741645_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] CL 씨엘 - ALPHA Lp (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
             <guid>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</guid>
@@ -838,14 +846,6 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1623223190488_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버즈 lp / The Best of Buzz (180g, Limited Blue Color) Vinyl (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1089-1615</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1089-1615</guid>
-            <pubDate>Thu, 27 Jan 2022 10:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408741645_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 사랑과 평화 - 골든 힛트곡 선집 [컬러 LP 한정반, 180G] (서울바이닐 ─ KOREAN)]]></title>
