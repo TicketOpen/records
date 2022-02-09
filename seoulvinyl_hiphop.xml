@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 16:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 17:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 07 Feb 2022 11:05:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644231372001_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[50 Cent 50 센트 - Best Of (Lp)]]></title>
-            <link>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</link>
-            <guid>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</guid>
-            <pubDate>Mon, 07 Feb 2022 11:05:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644230376110_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Musiq Soulchild 뮤지크 소울차일드 - Luvanmusiq (2 LP)]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[50 Cent 50 센트 - Best Of (Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</link>
+            <guid>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</guid>
+            <pubDate>Mon, 07 Feb 2022 11:05:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644230376110_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[maxwell 맥스웰 lp - maxwell's urban hang suite gold color]]></title>
