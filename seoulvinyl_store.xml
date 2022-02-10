@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 10:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 11:06:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
-            <link>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</link>
-            <guid>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</guid>
-            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[박주원 - 1집 집시의 시간 [투명 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/0415ab9a-c074-4f1f-a6d5-a2e907d08aed</link>
             <guid>https://www.seoulvinyl.com/product/0415ab9a-c074-4f1f-a6d5-a2e907d08aed</guid>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974417749_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 모리무라켄 & 라틴재즈밴드 - 라틴쿠바 재즈 지브리를 만나다 (Blue Vinyl, 180G) (Live in Seoul)]]></title>
+            <link>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</link>
+            <guid>https://www.seoulvinyl.com/product/037a6f15-c764-47e0-b494-10f33462d31b</guid>
+            <pubDate>Thu, 03 Feb 2022 18:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
