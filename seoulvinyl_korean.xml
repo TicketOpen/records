@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:07:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 06:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062480693_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버즈 lp / The Best of Buzz (180g, Limited Blue Color) Vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1089-1615</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1089-1615</guid>
+            <pubDate>Thu, 27 Jan 2022 10:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408741645_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] CL 씨엘 - ALPHA Lp]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 10 Feb 2022 05:07:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644468895097_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[버즈 lp / The Best of Buzz (180g, Limited Blue Color) Vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1089-1615</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1089-1615</guid>
-            <pubDate>Thu, 27 Jan 2022 10:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408741645_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 사랑과 평화 - 골든 힛트곡 선집 [컬러 LP 한정반, 180G]]]></title>
