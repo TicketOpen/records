@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633857166992_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die]]></title>
-            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</link>
-            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[maxwell 맥스웰 lp - maxwell's urban hang suite gold color]]></title>
             <link>https://www.seoulvinyl.com/product/max-1574</link>
             <guid>https://www.seoulvinyl.com/product/max-1574</guid>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637063617672_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die]]></title>
+            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</link>
+            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</guid>
+            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - I Will Always Love You: The Best Of Whitney Houston Lp]]></title>

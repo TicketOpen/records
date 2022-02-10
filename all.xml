@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 11:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 12:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,12 +88,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[박주원 - 1집 집시의 시간 [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0415ab9a-c074-4f1f-a6d5-a2e907d08aed</link>
-            <guid>https://www.seoulvinyl.com/product/0415ab9a-c074-4f1f-a6d5-a2e907d08aed</guid>
-            <pubDate>Thu, 13 Jan 2022 09:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1642062480693_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] 릴러말즈 < MARZ 2 AMBITION > (500장 한정, 더콰이즈 블루 투명 바이닐) ☆ (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/5fd4f04b-e5f0-4e34-b236-46728164b825</link>
+            <guid>https://www.seoulvinyl.com/product/5fd4f04b-e5f0-4e34-b236-46728164b825</guid>
+            <pubDate>Thu, 10 Feb 2022 12:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644468895097_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Jamiroquai (자미로콰이) - 3집 Travelling Without Moving [옐로우 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -320,14 +320,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633857166992_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</link>
-            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[maxwell 맥스웰 lp - maxwell's urban hang suite gold color (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/max-1574</link>
             <guid>https://www.seoulvinyl.com/product/max-1574</guid>
@@ -382,6 +374,14 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637063617672_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</link>
+            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</guid>
+            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - I Will Always Love You: The Best Of Whitney Houston Lp (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -848,6 +848,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1623223190488_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 릴러말즈 < MARZ 2 AMBITION > (500장 한정, 더콰이즈 블루 투명 바이닐) ☆ (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/5fd4f04b-e5f0-4e34-b236-46728164b825</link>
+            <guid>https://www.seoulvinyl.com/product/5fd4f04b-e5f0-4e34-b236-46728164b825</guid>
+            <pubDate>Thu, 10 Feb 2022 12:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644468895097_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 사랑과 평화 - 골든 힛트곡 선집 [컬러 LP 한정반, 180G] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</link>
             <guid>https://www.seoulvinyl.com/product/24dad9fb-2b6f-4fb6-8e56-4eea45860138</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1614767492038_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이소라 BEST Lp (Black) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1166-1589</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1166-1589</guid>
-            <pubDate>Thu, 10 Feb 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1621841904041_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
