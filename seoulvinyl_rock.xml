@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 15:07:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 16:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566739940_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ariana Grande 아리아나 그란데 - 4집 Sweetener [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3109a85e-5dd3-447e-b94d-130c3d788f99</link>
-            <guid>https://www.seoulvinyl.com/product/3109a85e-5dd3-447e-b94d-130c3d788f99</guid>
-            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566569633_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Parcels 파슬스 - Live Vol. 1 (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/521c1d51-9928-4ad5-a842-373842431cc4</link>
             <guid>https://www.seoulvinyl.com/product/521c1d51-9928-4ad5-a842-373842431cc4</guid>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ariana Grande 아리아나 그란데 - 4집 Sweetener [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3109a85e-5dd3-447e-b94d-130c3d788f99</link>
+            <guid>https://www.seoulvinyl.com/product/3109a85e-5dd3-447e-b94d-130c3d788f99</guid>
+            <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566569633_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Starship 스타쉽 - Greatest Hits Relaunched (Gatefold)(Purple LP)]]></title>
