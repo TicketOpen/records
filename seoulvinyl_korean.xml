@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 02:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 03:08:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CL 씨엘 - ALPHA Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
-            <guid>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</guid>
-            <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641797329124_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Various Artists - 무선지 컴필레이션 바이닐 Vol.1 [Vanishing Air]]]></title>
             <link>https://www.seoulvinyl.com/product/9cb56ea6-4f8e-42aa-a03d-6fa9f1f2d061</link>
@@ -62,6 +54,14 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CL 씨엘 - ALPHA Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
+            <guid>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</guid>
+            <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641797329124_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버즈 lp / The Best of Buzz (180g, Limited Blue Color) Vinyl]]></title>
