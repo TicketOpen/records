@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 00:48:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 02:04:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235492516_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeremy Zucker (제레미 주커) - 1집 Love Is Not Dying [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8f739a49-41ec-455d-aca6-9ac242d2f65f</link>
-            <guid>https://www.seoulvinyl.com/product/8f739a49-41ec-455d-aca6-9ac242d2f65f</guid>
-            <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644234132696_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Floyd (핑크 플로이드) - The Wall [2LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 11 Feb 2022 12:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643177072796_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeremy Zucker (제레미 주커) - 1집 Love Is Not Dying [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8f739a49-41ec-455d-aca6-9ac242d2f65f</link>
+            <guid>https://www.seoulvinyl.com/product/8f739a49-41ec-455d-aca6-9ac242d2f65f</guid>
+            <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644234132696_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jamiroquai (자미로콰이) - 3집 Travelling Without Moving [옐로우 컬러 2LP]]]></title>
