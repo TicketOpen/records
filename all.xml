@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 06:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 07:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1599906276804_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-779</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-779</guid>
-            <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JP Saxe 제이프 색스 - Dangerous Levels Of Introspection (LP) (서울바이닐 ─ 스토어)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-779</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-779</guid>
+            <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jeremy Zucker (제레미 주커) - 1집 Love Is Not Dying [LP] (서울바이닐 ─ 스토어)]]></title>
@@ -600,14 +600,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632395871895_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Buena Vista Social Club 부에나 비스타 소셜 클럽 - Buena Vista Social Club 25th anniversary [2LP] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</link>
-            <guid>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</guid>
-            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
             <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
@@ -640,20 +632,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Buena Vista Social Club 부에나 비스타 소셜 클럽 - Buena Vista Social Club 25th anniversary [2LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</link>
+            <guid>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</guid>
+            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Vince Guaraldi 빈스 과랄디 스누피 찰리 브라운 - A BOY NAMED CHARLIE BROWN LP (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/c1df0bb4-2e1e-41ca-8c8c-4eacd05b0080</link>
             <guid>https://www.seoulvinyl.com/product/c1df0bb4-2e1e-41ca-8c8c-4eacd05b0080</guid>
             <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629803201902_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-779</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-779</guid>
-            <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JP Saxe 제이프 색스 - Dangerous Levels Of Introspection (LP) (서울바이닐 ─ ROCK & POP)]]></title>
@@ -726,6 +718,14 @@
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639564909550_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-779</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-779</guid>
+            <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jeremy Zucker (제레미 주커) - 1집 Love Is Not Dying [LP] (서울바이닐 ─ ROCK & POP)]]></title>

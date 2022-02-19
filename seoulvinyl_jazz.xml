@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 06:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 07:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632395871895_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Buena Vista Social Club 부에나 비스타 소셜 클럽 - Buena Vista Social Club 25th anniversary [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</link>
-            <guid>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</guid>
-            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp]]]></title>
             <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
             <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
@@ -126,6 +118,14 @@
             <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buena Vista Social Club 부에나 비스타 소셜 클럽 - Buena Vista Social Club 25th anniversary [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</link>
+            <guid>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</guid>
+            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vince Guaraldi 빈스 과랄디 스누피 찰리 브라운 - A BOY NAMED CHARLIE BROWN LP]]></title>

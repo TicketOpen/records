@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 06:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 07:09:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1599906276804_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-779</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-779</guid>
-            <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JP Saxe 제이프 색스 - Dangerous Levels Of Introspection (LP)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-779</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-779</guid>
+            <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jeremy Zucker (제레미 주커) - 1집 Love Is Not Dying [LP]]]></title>
