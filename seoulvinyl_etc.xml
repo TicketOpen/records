@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ etc</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 04:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 05:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[CD] Kanye West 카니예 웨스트 - Donda]]></title>
+            <link>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</link>
+            <guid>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</guid>
+            <pubDate>Sat, 19 Feb 2022 05:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[카세트테이프 케이스]]></title>
             <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 02 Feb 2022 17:11:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">11,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617095014736_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레코드 겉비닐 1LP 사이즈]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1066</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1066</guid>
-            <pubDate>Wed, 02 Feb 2022 17:11:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">8,250원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092814365_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CD] 김아름 - WINTER CITY]]></title>
