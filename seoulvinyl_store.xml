@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 00:29:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 01:54:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe</link>
+            <guid>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe</guid>
+            <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[CD] Kanye West 카니예 웨스트 - Donda]]></title>
             <link>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</link>
@@ -96,12 +104,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644230376110_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe</link>
-            <guid>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe</guid>
-            <pubDate>Fri, 04 Feb 2022 12:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Breakfast At Tiffany’s (티파니에서 아침을) - O.S.T. (Picture)]]></title>
+            <link>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</link>
+            <guid>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</guid>
+            <pubDate>Mon, 07 Feb 2022 11:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644228184219_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 07 Feb 2022 12:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233799480_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Breakfast At Tiffany’s (티파니에서 아침을) - O.S.T. (Picture)]]></title>
-            <link>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</link>
-            <guid>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</guid>
-            <pubDate>Mon, 07 Feb 2022 11:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644228184219_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
