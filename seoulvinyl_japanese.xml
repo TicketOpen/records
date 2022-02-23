@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351596567_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
-            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
-            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442554912_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
+            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
+            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[천장터짐 할인] 류이치 사카모토 영화음악 세계 (Ryuichi Sakamoto - Music For Film) [2LP]]]></title>
