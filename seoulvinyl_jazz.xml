@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 02:39:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 03:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633856911416_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Evans 빌 에반스 - Everybody Digs Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</link>
-            <guid>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</guid>
-            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633852623408_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[True Loves 트루 러브즈 - Sunday Aftertnoon (blue colored) LP]]></title>
             <link>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</link>
             <guid>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</guid>
@@ -110,6 +102,14 @@
             <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans 빌 에반스 - Everybody Digs Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</link>
+            <guid>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</guid>
+            <pubDate>Sun, 26 Dec 2021 19:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633852623408_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sergio mendes 세르지오 멘데스 - The Beat of Brazil (double split colored) LP]]></title>
