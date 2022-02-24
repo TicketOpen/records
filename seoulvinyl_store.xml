@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 12:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 13:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 24 Feb 2022 09:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645691306039_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정미조 - 바람같은 날을 살다가 [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</link>
-            <guid>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</guid>
-            <pubDate>Thu, 24 Feb 2022 10:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645692718040_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 불독맨션 - 1집 Funk [2 Lp, 블랙반]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 24 Feb 2022 10:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645692789440_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 - 바람같은 날을 살다가 [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</link>
+            <guid>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</guid>
+            <pubDate>Thu, 24 Feb 2022 10:08:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645692718040_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드)]]></title>
