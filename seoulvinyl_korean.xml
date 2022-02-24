@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 09:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 10:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 24 Feb 2022 09:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645691306039_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 - 바람같은 날을 살다가 [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</link>
+            <guid>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</guid>
+            <pubDate>Thu, 24 Feb 2022 10:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645692718040_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 불독맨션 - 1집 Funk [2 Lp, 블랙반]]]></title>
@@ -96,6 +104,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640235412068_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[릴피쉬 (Lil FISH) - 분열 [투명 레드 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/cb2af981-11b4-4049-ba67-db4335d5e3a9</link>
+            <guid>https://www.seoulvinyl.com/product/cb2af981-11b4-4049-ba67-db4335d5e3a9</guid>
+            <pubDate>Thu, 24 Feb 2022 10:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645692789440_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[악동뮤지션 악뮤 AKMU 3rd FULL ALBUM [항해SAILING] LP -2nd ANNIVERSARY LIMITED EDITION(blue colored) 1인1매]]></title>
             <link>https://www.seoulvinyl.com/product/9f10cee6-5bf8-4382-a03c-da01e1ed0ca5-1634</link>
             <guid>https://www.seoulvinyl.com/product/9f10cee6-5bf8-4382-a03c-da01e1ed0ca5-1634</guid>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640772775857_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이상은 - 6집 공무도하가 [컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</link>
-            <guid>https://www.seoulvinyl.com/product/47c2182d-5711-4587-9870-e9f4e3f4c986</guid>
-            <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640432186545_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이상은 - 5집 언젠가는 [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</link>
-            <guid>https://www.seoulvinyl.com/product/6fb5fb79-d805-49ff-b0c0-b2f249405bd7</guid>
-            <pubDate>Thu, 20 Jan 2022 17:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640431867678_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
