@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -483,7 +483,7 @@
             <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</link>
             <guid>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</guid>
-            <pubDate>Fri, 25 Feb 2022 09:08:37 GMT</pubDate>
+            <pubDate>Fri, 25 Feb 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645776355469_1000.jpg" length="0" type="image/jpg"/>
         </item>
