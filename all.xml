@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 08:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 09:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,12 +104,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CL 씨엘 - ALPHA Lp (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
-            <guid>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</guid>
-            <pubDate>Mon, 10 Jan 2022 07:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641797329124_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</link>
+            <guid>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</guid>
+            <pubDate>Fri, 25 Feb 2022 09:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645776355469_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[릴피쉬 (Lil FISH) - 분열 [투명 레드 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -408,14 +408,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</link>
-            <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</guid>
-            <pubDate>Wed, 09 Feb 2022 10:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644400927517_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] O.S.T. - You've Got Mail (유브 갓 메일) (Soundtrack)(Ltd)(Highlighter Yellow Colored LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</link>
             <guid>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</guid>
@@ -488,6 +480,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641813052717_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</link>
+            <guid>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</guid>
+            <pubDate>Fri, 25 Feb 2022 09:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645776355469_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</link>
+            <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</guid>
+            <pubDate>Wed, 09 Feb 2022 10:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644400927517_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Breakfast At Tiffany’s (티파니에서 아침을) - O.S.T. (Picture) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</link>
             <guid>https://www.seoulvinyl.com/product/017ab535-a431-4fa9-bcd2-3dd06d00633c</guid>
@@ -510,14 +518,6 @@
             <pubDate>Mon, 10 Jan 2022 11:06:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641811686595_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[friends ost - 프렌즈 ost lp 리미티드에디션 핑크컬러 (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-677-1592</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-677-1592</guid>
-            <pubDate>Wed, 29 Dec 2021 06:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1595418340404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
