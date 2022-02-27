@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 03:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 04:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LP액자 / 슬림 프레임 (13mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</link>
-            <guid>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635584058315_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[7인치(미니레코드) 전용 슬림프레임 / 옅은 색상 (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-909</link>
             <guid>https://www.seoulvinyl.com/product/untitled-909</guid>
@@ -238,6 +230,14 @@
             <pubDate>Fri, 04 Feb 2022 12:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1579954795073_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LP액자 / 슬림 프레임 (13mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</link>
+            <guid>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</guid>
+            <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635584058315_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ 제작)]]></title>
@@ -408,14 +408,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</link>
-            <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</guid>
-            <pubDate>Wed, 09 Feb 2022 10:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644400927517_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] O.S.T. - You've Got Mail (유브 갓 메일) (Soundtrack)(Ltd)(Highlighter Yellow Colored LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</link>
             <guid>https://www.seoulvinyl.com/product/85dd1133-8aab-4e27-a5a0-895fae5a9183</guid>
@@ -494,6 +486,14 @@
             <pubDate>Fri, 25 Feb 2022 09:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645776355469_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</link>
+            <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</guid>
+            <pubDate>Wed, 09 Feb 2022 10:07:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644400927517_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Breakfast At Tiffany’s (티파니에서 아침을) - O.S.T. (Picture) (서울바이닐 ─ OST)]]></title>
@@ -1064,14 +1064,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LP액자 / 슬림 프레임 (13mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</link>
-            <guid>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</guid>
-            <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635584058315_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[중고 / 비디오 테이프] Ray 레이 (상/하) (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/11199dd7-198b-4a61-adfd-8d25753c675a</link>
             <guid>https://www.seoulvinyl.com/product/11199dd7-198b-4a61-adfd-8d25753c675a</guid>
@@ -1142,6 +1134,14 @@
             <pubDate>Wed, 02 Feb 2022 17:11:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LP액자 / 슬림 프레임 (13mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</link>
+            <guid>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</guid>
+            <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635584058315_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ etc)]]></title>
