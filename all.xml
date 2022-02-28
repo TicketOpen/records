@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 05:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 06:12:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Juice WRLD (주스 월드) - 4집 Fighting Demons [투명 코발트 블루 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</link>
+            <guid>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</guid>
+            <pubDate>Mon, 28 Feb 2022 06:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646028487201_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[haihm (하임) - NOWHERE [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/1a9fb2df-c5d7-47e3-ab1d-2fdb63ed2280</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645006520482_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis (오아시스) - 넵워스 공연 실황 (Knebworth 1996) [3LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ab05f6c0-b93c-402a-98ac-f1829262c799</link>
-            <guid>https://www.seoulvinyl.com/product/ab05f6c0-b93c-402a-98ac-f1829262c799</guid>
-            <pubDate>Fri, 04 Feb 2022 11:03:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반] (서울바이닐 ─ 스토어)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606885154766_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Juice WRLD (주스 월드) - 4집 Fighting Demons [투명 코발트 블루 컬러 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</link>
+            <guid>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</guid>
+            <pubDate>Mon, 28 Feb 2022 06:11:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646028487201_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Weeknd 위캔드lp - After Hours limited vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-732-1636</link>
             <guid>https://www.seoulvinyl.com/product/untitled-732-1636</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637063617672_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</link>
-            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412</guid>
-            <pubDate>Sat, 27 Nov 2021 18:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 갯마을 차차차 OST [투명 컬러 LP] (서울바이닐 ─ OST)]]></title>
