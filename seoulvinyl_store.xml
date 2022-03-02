@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 슬기로운 의사생활 시즌 2 드라마 음악 (Hospital OST 2)[솔리드 화이트 & 블루 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3f440441-91d6-49a0-9e37-cdd77cb83213</link>
+            <guid>https://www.seoulvinyl.com/product/3f440441-91d6-49a0-9e37-cdd77cb83213</guid>
+            <pubDate>Wed, 02 Mar 2022 04:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">71,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646192063021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Juice WRLD (주스 월드) - 4집 Fighting Demons [투명 코발트 블루 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1599906276804_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JP Saxe 제이프 색스 - Dangerous Levels Of Introspection (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/f27f55bf-cf25-44b8-a23a-e5740aeb11ac</link>
-            <guid>https://www.seoulvinyl.com/product/f27f55bf-cf25-44b8-a23a-e5740aeb11ac</guid>
-            <pubDate>Wed, 16 Feb 2022 11:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645006520482_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반]]]></title>
