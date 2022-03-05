@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 08:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 09:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</link>
-            <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</guid>
-            <pubDate>Wed, 12 Jan 2022 08:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[haihm (하임) - NOWHERE [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/1a9fb2df-c5d7-47e3-ab1d-2fdb63ed2280</link>
             <guid>https://www.seoulvinyl.com/product/1a9fb2df-c5d7-47e3-ab1d-2fdb63ed2280</guid>
             <pubDate>Thu, 24 Feb 2022 09:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645691306039_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</link>
+            <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</guid>
+            <pubDate>Wed, 12 Jan 2022 08:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반] (서울바이닐 ─ 스토어)]]></title>
@@ -408,14 +408,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</link>
-            <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</guid>
-            <pubDate>Wed, 12 Jan 2022 08:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 갯마을 차차차 OST [투명 컬러 LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/f80952bf-f3c6-4f30-abcc-01dc19f0501b</link>
             <guid>https://www.seoulvinyl.com/product/f80952bf-f3c6-4f30-abcc-01dc19f0501b</guid>
@@ -486,6 +478,14 @@
             <pubDate>Thu, 13 Jan 2022 08:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634790703160_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</link>
+            <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</guid>
+            <pubDate>Wed, 12 Jan 2022 08:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반] (서울바이닐 ─ OST)]]></title>
