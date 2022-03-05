@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 03:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 04:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 에프케이제이 (FKJ) - French Kiwi Juice [한국 스페셜 에디션, 골드컬러 2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</link>
+            <guid>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</guid>
+            <pubDate>Wed, 02 Mar 2022 07:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646203493332_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
             <link>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 04 Mar 2022 11:07:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646391405634_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 에프케이제이 (FKJ) - French Kiwi Juice [한국 스페셜 에디션, 골드컬러 2 Lp]]]></title>
-            <link>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</link>
-            <guid>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</guid>
-            <pubDate>Wed, 02 Mar 2022 07:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646203493332_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[JP Saxe 제이프 색스 - Dangerous Levels Of Introspection (LP)]]></title>
@@ -88,20 +88,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566739940_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[One Direction 원디렉션 – Take Me Home (Lp, Limited Edition, Clear With White Swirl)]]></title>
-            <link>https://www.seoulvinyl.com/product/1e6368f0-2d86-4033-bb90-cd9c5866829d</link>
-            <guid>https://www.seoulvinyl.com/product/1e6368f0-2d86-4033-bb90-cd9c5866829d</guid>
-            <pubDate>Fri, 04 Mar 2022 12:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646392054184_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-779</link>
             <guid>https://www.seoulvinyl.com/product/untitled-779</guid>
             <pubDate>Wed, 16 Feb 2022 11:08:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Direction 원디렉션 – Take Me Home (Lp, Limited Edition, Clear With White Swirl)]]></title>
+            <link>https://www.seoulvinyl.com/product/1e6368f0-2d86-4033-bb90-cd9c5866829d</link>
+            <guid>https://www.seoulvinyl.com/product/1e6368f0-2d86-4033-bb90-cd9c5866829d</guid>
+            <pubDate>Fri, 04 Mar 2022 12:13:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646392054184_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jeremy Zucker (제레미 주커) - 1집 Love Is Not Dying [LP]]]></title>
