@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 정준일 정규 1집 바이닐(LP) / Lo9ve3r4s 발매 10주년 기념 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</link>
+            <guid>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</guid>
+            <pubDate>Mon, 07 Mar 2022 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646631105885_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 12 Jan 2022 08:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[haihm (하임) - NOWHERE [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/1a9fb2df-c5d7-47e3-ab1d-2fdb63ed2280</link>
-            <guid>https://www.seoulvinyl.com/product/1a9fb2df-c5d7-47e3-ab1d-2fdb63ed2280</guid>
-            <pubDate>Thu, 24 Feb 2022 09:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645691306039_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이루펀트 < Eluphant Bakery > (500개 한정반, 1 Lp 180G 중량반) (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566569633_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 정준일 정규 1집 바이닐(LP) / Lo9ve3r4s 발매 10주년 기념 (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</link>
+            <guid>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</guid>
+            <pubDate>Mon, 07 Mar 2022 06:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646631105885_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</link>
             <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</guid>
@@ -820,7 +828,7 @@
             <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
             <guid>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</guid>
             <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641797329124_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -851,7 +859,7 @@
             <title><![CDATA[[예약판매] 이루펀트 < Eluphant Bakery > (500개 한정반, 1 Lp 180G 중량반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</link>
             <guid>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</guid>
-            <pubDate>Mon, 07 Mar 2022 05:09:33 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2022 05:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646626683757_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643097207446_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악동뮤지션 악뮤 AKMU 3rd FULL ALBUM [항해SAILING] LP -2nd ANNIVERSARY LIMITED EDITION(blue colored) 1인1매 (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/9f10cee6-5bf8-4382-a03c-da01e1ed0ca5-1634</link>
-            <guid>https://www.seoulvinyl.com/product/9f10cee6-5bf8-4382-a03c-da01e1ed0ca5-1634</guid>
-            <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629797213273_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Matsuhista Makoto (마츠시타 마코토) - First Light (Orange Vinyl LP) (서울바이닐 ─ JAPANESE)]]></title>

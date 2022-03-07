@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 05:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 06:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 정준일 정규 1집 바이닐(LP) / Lo9ve3r4s 발매 10주년 기념]]></title>
+            <link>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</link>
+            <guid>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</guid>
+            <pubDate>Mon, 07 Mar 2022 06:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646631105885_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정)]]></title>
             <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</link>
@@ -52,7 +60,7 @@
             <link>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</link>
             <guid>https://www.seoulvinyl.com/product/6690bd7e-4b0b-4b00-afbb-a2eea707a4f1</guid>
             <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641797329124_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643097207446_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악동뮤지션 악뮤 AKMU 3rd FULL ALBUM [항해SAILING] LP -2nd ANNIVERSARY LIMITED EDITION(blue colored) 1인1매]]></title>
-            <link>https://www.seoulvinyl.com/product/9f10cee6-5bf8-4382-a03c-da01e1ed0ca5-1634</link>
-            <guid>https://www.seoulvinyl.com/product/9f10cee6-5bf8-4382-a03c-da01e1ed0ca5-1634</guid>
-            <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629797213273_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
