@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 02 Mar 2022 07:09:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646203493332_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</link>
-            <guid>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</guid>
-            <pubDate>Fri, 04 Mar 2022 11:07:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646391726275_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pearl Jam (펄 잼) - MTV Unplugged [LP]]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Thu, 13 Jan 2022 04:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566739940_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</link>
+            <guid>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</guid>
+            <pubDate>Fri, 04 Mar 2022 11:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646391726275_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk 다프트 펑크 ‎– Discovery Vinyl (2LP, 게이트폴드)]]></title>

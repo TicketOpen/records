@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 09:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 10:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645604959814_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</link>
-            <guid>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</guid>
-            <pubDate>Fri, 04 Mar 2022 11:06:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646391726275_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Pearl Jam (펄 잼) - MTV Unplugged [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/a7d301e1-798e-42b1-abd0-bfb3331f3202</link>
             <guid>https://www.seoulvinyl.com/product/a7d301e1-798e-42b1-abd0-bfb3331f3202</guid>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 05 Mar 2022 10:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</link>
+            <guid>https://www.seoulvinyl.com/product/2757ee7d-2467-4a7e-8f81-1654d99dee02</guid>
+            <pubDate>Fri, 04 Mar 2022 11:06:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646391726275_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP]]></title>
