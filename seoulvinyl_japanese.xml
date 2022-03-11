@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 11:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 12:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351596567_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
-            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
-            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tomoko Aran (토모코 아란) - 부유공간 (浮遊空間) [핑크 컬러 LP]]]></title>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
+            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
+            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] MONDO GROSSO 몬도 그로소 BEST 1 Ver. Lp]]></title>
