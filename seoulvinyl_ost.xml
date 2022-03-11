@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 02:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 03:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 12 Jan 2022 08:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 갯마을 차차차 OST [투명 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f80952bf-f3c6-4f30-abcc-01dc19f0501b</link>
-            <guid>https://www.seoulvinyl.com/product/f80952bf-f3c6-4f30-abcc-01dc19f0501b</guid>
-            <pubDate>Wed, 23 Feb 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645604634252_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP]]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 25 Feb 2022 09:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645776355469_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 갯마을 차차차 OST [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f80952bf-f3c6-4f30-abcc-01dc19f0501b</link>
+            <guid>https://www.seoulvinyl.com/product/f80952bf-f3c6-4f30-abcc-01dc19f0501b</guid>
+            <pubDate>Wed, 23 Feb 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645604634252_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반]]]></title>
