@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ etc</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 00:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 01:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sun, 06 Mar 2022 18:14:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카세트테이프 케이스]]></title>
-            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
-            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
-            <pubDate>Sun, 06 Mar 2022 18:14:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 06 Mar 2022 18:14:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609588802722_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카세트테이프 케이스]]></title>
+            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
+            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
+            <pubDate>Sun, 06 Mar 2022 18:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CD] 김아름 - WINTER CITY]]></title>

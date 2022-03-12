@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 00:31:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 01:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
-            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
-            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션)]]></title>
             <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
             <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
@@ -62,6 +54,14 @@
             <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
+            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] MONDO GROSSO 몬도 그로소 BEST 1 Ver. Lp]]></title>
