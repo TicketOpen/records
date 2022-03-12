@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 07:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sergio Mendes 세르지오 멘데스 - The Swinger From Rio (green & yellow colored) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/13730edf-7371-469c-b1bd-6798a05fc9bb</link>
-            <guid>https://www.seoulvinyl.com/product/13730edf-7371-469c-b1bd-6798a05fc9bb</guid>
-            <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944649095_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp]]]></title>
             <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
             <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
@@ -110,6 +102,14 @@
             <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sergio Mendes 세르지오 멘데스 - The Swinger From Rio (green & yellow colored) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/13730edf-7371-469c-b1bd-6798a05fc9bb</link>
+            <guid>https://www.seoulvinyl.com/product/13730edf-7371-469c-b1bd-6798a05fc9bb</guid>
+            <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944649095_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Art Blakey & The Jazz Messengers 아트 블래키 - caravan LP]]></title>
