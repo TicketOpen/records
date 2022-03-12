@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 05:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 06:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -859,7 +859,7 @@
             <title><![CDATA[김광석 - 베스트 앨범 (Best Album) [2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</link>
             <guid>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</guid>
-            <pubDate>Sat, 12 Mar 2022 05:08:40 GMT</pubDate>
+            <pubDate>Sat, 12 Mar 2022 05:07:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
         </item>
