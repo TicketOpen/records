@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 03:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카세트테이프 케이스]]></title>
+            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
+            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
+            <pubDate>Fri, 04 Feb 2022 12:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상]]></title>
             <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
             <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 04 Feb 2022 12:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630064108130_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카세트테이프 케이스]]></title>
-            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
-            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
-            <pubDate>Fri, 04 Feb 2022 12:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상]]></title>

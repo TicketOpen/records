@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 03:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351596567_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
+            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
+            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tomoko Aran (토모코 아란) - 부유공간 (浮遊空間) [핑크 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</link>
             <guid>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</guid>
@@ -70,6 +78,14 @@
             <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
+            <pubDate>Sat, 18 Dec 2021 08:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 정준일 정규 1집 바이닐(LP) / Lo9ve3r4s 발매 10주년 기념 (서울바이닐 ─ 스토어)]]></title>
@@ -102,22 +118,6 @@
             <pubDate>Thu, 10 Mar 2022 05:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646887125057_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
-            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
-            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
-            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
-            <pubDate>Sat, 18 Dec 2021 08:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이루펀트 < Eluphant Bakery > (500개 한정반, 1 Lp 180G 중량반) (서울바이닐 ─ 스토어)]]></title>
@@ -192,6 +192,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
+            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
+            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
             <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
@@ -222,14 +230,6 @@
             <pubDate>Fri, 04 Feb 2022 12:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630064108130_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
-            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
-            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ 제작)]]></title>
@@ -920,6 +920,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351596567_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
+            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
+            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tomoko Aran (토모코 아란) - 부유공간 (浮遊空間) [핑크 컬러 LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</link>
             <guid>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</guid>
@@ -936,28 +944,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
-            <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
-            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
-            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
-            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
             <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
             <pubDate>Sat, 18 Dec 2021 08:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
+            <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
+            <pubDate>Tue, 11 Jan 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] MONDO GROSSO 몬도 그로소 BEST 1 Ver. Lp (서울바이닐 ─ JAPANESE)]]></title>
@@ -1048,6 +1048,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
+            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
+            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
             <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
@@ -1118,14 +1126,6 @@
             <pubDate>Fri, 05 Nov 2021 05:42:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609588802722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
-            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
-            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CD] 김아름 - WINTER CITY (서울바이닐 ─ etc)]]></title>
