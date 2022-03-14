@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 13:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 14:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에프케이제이 (FKJ) - French Kiwi Juice [한국 스페셜 에디션, 골드컬러 2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</link>
+            <guid>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</guid>
+            <pubDate>Sat, 12 Mar 2022 15:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646203493332_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Pearl Jam (펄 잼) - MTV Unplugged [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/a7d301e1-798e-42b1-abd0-bfb3331f3202</link>
@@ -54,14 +62,6 @@
             <pubDate>Sat, 12 Mar 2022 15:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639566739940_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에프케이제이 (FKJ) - French Kiwi Juice [한국 스페셜 에디션, 골드컬러 2 Lp]]]></title>
-            <link>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</link>
-            <guid>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</guid>
-            <pubDate>Sat, 12 Mar 2022 15:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646203493332_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
