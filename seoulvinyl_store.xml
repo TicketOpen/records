@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 04:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 05:32:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 임창정 - 9집 - 鳩集 (구집) [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4933be3a-d0d6-4bcc-8191-dd25c54f03b3</link>
+            <guid>https://www.seoulvinyl.com/product/4933be3a-d0d6-4bcc-8191-dd25c54f03b3</guid>
+            <pubDate>Mon, 14 Mar 2022 05:30:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647235330506_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 엄정화 - 4집 invitation [180g 투명 레드 컬러반 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f89d328c-eb00-442f-818d-8b5dc7d041d7</link>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 07 Mar 2022 06:14:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646631105885_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정)]]></title>
-            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</link>
-            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</guid>
-            <pubDate>Sat, 05 Mar 2022 04:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645505987109_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김광석 - 베스트 앨범 (Best Album) [2LP]]]></title>
