@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 11:07:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 12:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,22 @@
             <pubDate>Thu, 10 Mar 2022 10:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646905837461_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정준일 정규 1집 바이닐(LP) / Lo9ve3r4s 발매 10주년 기념]]></title>
+            <link>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</link>
+            <guid>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</guid>
+            <pubDate>Mon, 07 Mar 2022 06:14:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646631105885_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에프케이제이 (FKJ) - French Kiwi Juice [한국 스페셜 에디션, 골드컬러 2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</link>
+            <guid>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</guid>
+            <pubDate>Mon, 14 Mar 2022 12:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646203493332_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이루마 - First Love [Repackage][180g 화이트컬러 12" 프랑스 프레싱]]]></title>
@@ -88,28 +104,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 정준일 정규 1집 바이닐(LP) / Lo9ve3r4s 발매 10주년 기념]]></title>
-            <link>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</link>
-            <guid>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</guid>
-            <pubDate>Mon, 07 Mar 2022 06:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646631105885_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김광석 - 베스트 앨범 (Best Album) [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</link>
             <guid>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</guid>
             <pubDate>Sat, 12 Mar 2022 05:07:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지소울 (GSoul) - Natural (EP) [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/6d3d2bbb-6b86-4392-a6c9-86a68a14dedf</link>
-            <guid>https://www.seoulvinyl.com/product/6d3d2bbb-6b86-4392-a6c9-86a68a14dedf</guid>
-            <pubDate>Thu, 10 Mar 2022 05:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646887125057_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
