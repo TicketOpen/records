@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store</id>
-    <title>서울바이닐 ─ 스토어</title>
-    <updated>2022-03-16T13:18:50.424Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ 스토어</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Mar 2022 14:09:29 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 임창정 - 9집 - 鳩集 (구집) [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4933be3a-d0d6-4bcc-8191-dd25c54f03b3</link>
+            <guid>https://www.seoulvinyl.com/product/4933be3a-d0d6-4bcc-8191-dd25c54f03b3</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647235330506_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정준일 정규 1집 바이닐(LP) / Lo9ve3r4s 발매 10주년 기념]]></title>
+            <link>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</link>
+            <guid>https://www.seoulvinyl.com/product/8ad2b4a5-f2ee-4b80-b56d-d3b2793cebc3</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646631105885_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에프케이제이 (FKJ) - French Kiwi Juice [한국 스페셜 에디션, 골드컬러 2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</link>
+            <guid>https://www.seoulvinyl.com/product/a1169407-1c3d-42c7-8e93-d41c59b8e2c9</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646203493332_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이루마 - First Love [Repackage][180g 화이트컬러 12" 프랑스 프레싱]]]></title>
+            <link>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7</link>
+            <guid>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722302738_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이루마 - From The Yellow Room [180g 옐로우 투명 12" 프랑스 스레싱]]]></title>
+            <link>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6</link>
+            <guid>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ohashi Junko (오하시 준코) - Magical [2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</link>
+            <guid>https://www.seoulvinyl.com/product/9cee9600-bfba-4c0c-9b89-fa352250a71b</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442770423_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matsuhista Makoto (마츠시타 마코토) - First Light (Orange Vinyl LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/2802acbb-4e74-4240-93dd-38d23fc656ab</link>
+            <guid>https://www.seoulvinyl.com/product/2802acbb-4e74-4240-93dd-38d23fc656ab</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351596567_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tomoko Aran (토모코 아란) - 부유공간 (浮遊空間) [핑크 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</link>
+            <guid>https://www.seoulvinyl.com/product/11c56ca0-969b-4dcd-9546-c93d5ea3fd5e</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351298870_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (33 rpm 1 Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1552</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1552</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정)]]></title>
+            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</link>
+            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645505987109_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Orange 500장 한정)]]></title>
+            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639</link>
+            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645515323047_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김광석 - 베스트 앨범 (Best Album) [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</link>
+            <guid>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</link>
+            <guid>https://www.seoulvinyl.com/product/773660f7-5a24-4b38-974a-f218fc10e3b1</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638349288311_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이루펀트 < Eluphant Bakery > (500개 한정반, 1 Lp 180G 중량반)]]></title>
+            <link>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</link>
+            <guid>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646626683757_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나미 - 7집 Chameleon [반투명 핑크 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1</link>
+            <guid>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1</guid>
+            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
