@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:16:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,22 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645691306039_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 엄정화 - 4집 invitation [180g 투명 레드 컬러반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f89d328c-eb00-442f-818d-8b5dc7d041d7</link>
-            <guid>https://www.seoulvinyl.com/product/f89d328c-eb00-442f-818d-8b5dc7d041d7</guid>
-            <pubDate>Thu, 10 Mar 2022 10:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646906045867_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 신승훈 - 8집 The Shin Seung Hun [투명 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a1d0d035-c0ed-40ea-8dea-ca32dce8d0c4</link>
-            <guid>https://www.seoulvinyl.com/product/a1d0d035-c0ed-40ea-8dea-ca32dce8d0c4</guid>
-            <pubDate>Thu, 10 Mar 2022 10:09:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646905837461_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김광석 - 베스트 앨범 (Best Album) [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</link>
             <guid>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891</guid>
@@ -134,6 +118,22 @@
             <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645692789440_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정미조 - 바람같은 날을 살다가 [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</link>
+            <guid>https://www.seoulvinyl.com/product/8b32a365-c387-41e5-b585-f5a9f5c79a4e</guid>
+            <pubDate>Wed, 16 Mar 2022 04:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645692718040_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이정선 - 이정선 BEST [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/23fb04f3-eb00-4aec-8898-306400ef8301</link>
+            <guid>https://www.seoulvinyl.com/product/23fb04f3-eb00-4aec-8898-306400ef8301</guid>
+            <pubDate>Wed, 16 Mar 2022 04:11:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645604454750_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
