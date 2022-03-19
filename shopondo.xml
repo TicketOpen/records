@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 17:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 18:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -232,14 +232,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202008/243c6c94506b5026fe2f22c9fc812066.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[{ 7차재입고 } Dabda 다브다 정규 1집 But, All The Shining Things Are]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1478&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1478&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[17,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200627/c6a4f3e639306f9e43a11e125ef404aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이야기, 멀고도 가까운 : 여성 싱어송라이터 다섯 사람의 말과 노래로 기록한 ‘나’의 시공간 인터뷰집+음반 결합된 서적]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1477&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1477&amp;cate_no=60&amp;display_group=1</guid>
@@ -390,6 +382,14 @@
             <pubDate>Sun, 27 Feb 2022 17:09:51 GMT</pubDate>
             <content:encoded><![CDATA[14,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201809/3a2cf93af122a89c431c39860a1d525e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티어파크 Tierpark 정규 3집’Vacance’ 앨범 및 가사 부클렛]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=845&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=845&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Mar 2022 18:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201807/845_shop1_15309527680827.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
