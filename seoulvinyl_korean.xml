@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 11:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
-            <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
-            <pubDate>Sat, 19 Mar 2022 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 임재범 - After the sunset: White Night (애프터 더 선셋: 화이트 나잇) [컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/44ea1f9b-5cba-48db-a7f7-e7409016bcb8</link>
@@ -94,6 +86,14 @@
             <pubDate>Thu, 03 Mar 2022 11:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645604959814_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
+            <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
+            <pubDate>Sat, 19 Mar 2022 06:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 오르내림 (OLNL) - 2집 Cyber Lover (블루 컬러반)]]></title>
