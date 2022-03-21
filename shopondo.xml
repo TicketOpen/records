@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,14 +240,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200626/dc6258765054928ba58d4652f44b6a3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사막꽃 Desert Flower EP '사막꽃']]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1456&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1456&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[12,900 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200613/c59215f481f059bdbec21e405454b355.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Feeling of You 그립톡 싱어송라이터 윤새 (Yunsae) 싱글앨범 발매 기념 굿즈]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1433&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1433&amp;cate_no=60&amp;display_group=1</guid>
@@ -390,6 +382,14 @@
             <pubDate>Sat, 19 Mar 2022 18:10:55 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201807/845_shop1_15309527680827.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아날로그소년정규3집 TAPE '현장의 소리'(음원 다운로드 쿠폰 포함)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=756&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=756&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Mar 2022 03:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
     </channel>
 </rss>
