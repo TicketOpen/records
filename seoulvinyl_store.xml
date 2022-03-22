@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 쇼팽으로 만나는 지브리 - 퍼스트 앙상블 (Studio Ghibli Meets Chopin - Live) [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bf5b6066-0db2-4f26-8db9-8e19c76dd7c3</link>
+            <guid>https://www.seoulvinyl.com/product/bf5b6066-0db2-4f26-8db9-8e19c76dd7c3</guid>
+            <pubDate>Tue, 22 Mar 2022 08:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647935962389_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638351298870_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (33 rpm 1 Lp)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1552</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1552</guid>
-            <pubDate>Wed, 16 Mar 2022 14:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 오르내림 (OLNL) - 2집 Cyber Lover (블루 컬러반)]]></title>
