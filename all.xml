@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 07:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 08:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</link>
+            <guid>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</guid>
+            <pubDate>Fri, 25 Mar 2022 08:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 이적 - 3집 나무로 만든 노래 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 08 Mar 2022 08:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722302738_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이루마 - From The Yellow Room [180g 옐로우 투명 12" 프랑스 스레싱] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6</link>
-            <guid>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6</guid>
-            <pubDate>Tue, 08 Mar 2022 08:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 임재범 - After the sunset: White Night (애프터 더 선셋: 화이트 나잇) [컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -776,10 +776,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</link>
+            <guid>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</guid>
+            <pubDate>Fri, 25 Mar 2022 08:11:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 이적 - 3집 나무로 만든 노래 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</link>
             <guid>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</guid>
-            <pubDate>Fri, 25 Mar 2022 07:10:39 GMT</pubDate>
+            <pubDate>Fri, 25 Mar 2022 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648189263592_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -830,14 +838,6 @@
             <pubDate>Tue, 22 Feb 2022 06:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645515323047_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 불독맨션 - 1집 Funk [2 Lp, 블랙반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/171eaa09-60e4-49ee-aa31-2dc419d32b7b</link>
-            <guid>https://www.seoulvinyl.com/product/171eaa09-60e4-49ee-aa31-2dc419d32b7b</guid>
-            <pubDate>Wed, 23 Feb 2022 09:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645604959814_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 임재범 - After the sunset: White Night (애프터 더 선셋: 화이트 나잇) [컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
