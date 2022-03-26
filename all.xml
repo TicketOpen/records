@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 12:13:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 13:15:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
-            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
-            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
-            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
-            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
@@ -134,6 +118,22 @@
             <pubDate>Fri, 25 Mar 2022 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648189263592_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
+            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
+            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정) (서울바이닐 ─ 제작)]]></title>
@@ -392,14 +392,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639389477897_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
-            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
-            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Various Artists - Now Yacht Rock 2 (Colored 2LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</link>
             <guid>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</guid>
@@ -480,6 +472,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
+            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</link>
             <guid>https://www.seoulvinyl.com/product/008d054a-8ef2-4d58-ad1b-7b3f22f717e2-1603</guid>
@@ -518,14 +518,6 @@
             <pubDate>Sat, 19 Mar 2022 09:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644228184219_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
-            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
-            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
@@ -590,6 +582,14 @@
             <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
+            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
