@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 09:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 10:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브]]]></title>
+            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
+            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
+            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
@@ -29,7 +45,7 @@
             <guid>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</guid>
             <pubDate>Sat, 26 Mar 2022 08:09:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648281208050_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287890601_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jorja Smith(조자 스미스) - Be Right Back [LP]]]></title>
@@ -101,7 +117,7 @@
             <guid>https://www.seoulvinyl.com/product/fb40ce17-6799-4bec-b41e-b79b08516c3a</guid>
             <pubDate>Sat, 26 Mar 2022 06:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648273546299_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288013148_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP]]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 25 Mar 2022 07:09:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648189263592_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 해를 품은 달 드라마 OST [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9</link>
-            <guid>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9</guid>
-            <pubDate>Thu, 24 Mar 2022 07:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648105157206_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 킬미, 힐미 드라마 OST [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1934fbbe-ca49-44c4-9fe7-f6d3d9d2fa82</link>
-            <guid>https://www.seoulvinyl.com/product/1934fbbe-ca49-44c4-9fe7-f6d3d9d2fa82</guid>
-            <pubDate>Thu, 24 Mar 2022 07:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648105083401_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
