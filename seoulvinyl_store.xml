@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 07:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 08:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists - Now Yacht Rock 2 (Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</link>
+            <guid>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</guid>
+            <pubDate>Sat, 26 Mar 2022 08:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648281208050_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jorja Smith(조자 스미스) - Be Right Back [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</link>
+            <guid>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</guid>
+            <pubDate>Sat, 26 Mar 2022 08:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279808631_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists - Motown: A Symphony Of Soul (With The Royal Philharmonic Orchestra) (Ltd)]]></title>
+            <link>https://www.seoulvinyl.com/product/86813ca3-061f-47f8-b425-4bf520e3574e</link>
+            <guid>https://www.seoulvinyl.com/product/86813ca3-061f-47f8-b425-4bf520e3574e</guid>
+            <pubDate>Sat, 26 Mar 2022 08:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279360638_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JMSN - Heals Me [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 24 Mar 2022 07:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104933222_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rex Orange County (렉스 오렌지 카운티) - 4집 WHO CARES? [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f0bd03cb-29a0-46df-8fd6-ee3b6038c097</link>
-            <guid>https://www.seoulvinyl.com/product/f0bd03cb-29a0-46df-8fd6-ee3b6038c097</guid>
-            <pubDate>Tue, 22 Mar 2022 12:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647945666705_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 쇼팽으로 만나는 지브리 - 퍼스트 앙상블 (Studio Ghibli Meets Chopin - Live) [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/bf5b6066-0db2-4f26-8db9-8e19c76dd7c3</link>
-            <guid>https://www.seoulvinyl.com/product/bf5b6066-0db2-4f26-8db9-8e19c76dd7c3</guid>
-            <pubDate>Tue, 22 Mar 2022 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647935962389_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
-            <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
-            <pubDate>Sat, 19 Mar 2022 06:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

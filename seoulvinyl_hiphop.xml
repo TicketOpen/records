@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 07:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 08:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jorja Smith(조자 스미스) - Be Right Back [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</link>
+            <guid>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</guid>
+            <pubDate>Sat, 26 Mar 2022 08:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279808631_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists - Motown: A Symphony Of Soul (With The Royal Philharmonic Orchestra) (Ltd)]]></title>
+            <link>https://www.seoulvinyl.com/product/86813ca3-061f-47f8-b425-4bf520e3574e</link>
+            <guid>https://www.seoulvinyl.com/product/86813ca3-061f-47f8-b425-4bf520e3574e</guid>
+            <pubDate>Sat, 26 Mar 2022 08:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279360638_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JMSN - Heals Me [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
@@ -80,14 +96,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641812676790_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Weeknd (위켄드) - The Highlights 2 LP 블랙반]]></title>
-            <link>https://www.seoulvinyl.com/product/c1a3a9d4-27de-4927-b1d1-926d7fb9ab03</link>
-            <guid>https://www.seoulvinyl.com/product/c1a3a9d4-27de-4927-b1d1-926d7fb9ab03</guid>
-            <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639387282205_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Weeknd 위캔드lp - After Hours limited vinyl]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-732-1636</link>
             <guid>https://www.seoulvinyl.com/product/untitled-732-1636</guid>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 13 Dec 2021 10:07:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639389477897_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[J Dilla 제이딜라 - Donuts Lp]]></title>
-            <link>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</link>
-            <guid>https://www.seoulvinyl.com/product/a8388f21-4498-4227-9181-b527c6acfb2d</guid>
-            <pubDate>Sat, 11 Dec 2021 11:05:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639219556569_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
