@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 08:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 09:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
+            <guid>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</guid>
+            <pubDate>Sat, 26 Mar 2022 09:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648285624514_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Panic! At The Disco (패닉 앳 더 디스코) - A Fever You Can't Sweat Out [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f8f66e3d-abec-4ef1-83a9-7ad94ed05c20</link>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 12 Mar 2022 15:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233666753_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas 2 You]]></title>
-            <link>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</link>
-            <guid>https://www.seoulvinyl.com/product/87b86253-3d97-4a60-9f1b-cd817b8da7c9</guid>
-            <pubDate>Sat, 12 Mar 2022 15:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851506390_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
