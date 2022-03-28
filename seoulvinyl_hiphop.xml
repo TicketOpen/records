@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sat, 26 Mar 2022 08:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279360638_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JMSN - Heals Me [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
-            <guid>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</guid>
-            <pubDate>Sat, 26 Mar 2022 07:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruno Mars - 24K Magic (Ltd)(Colored LP)]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Mon, 10 Jan 2022 12:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641812676790_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JMSN - Heals Me [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
+            <guid>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</guid>
+            <pubDate>Sat, 26 Mar 2022 07:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd 위캔드lp - After Hours limited vinyl]]></title>
