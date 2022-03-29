@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 16:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 17:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -142,14 +142,6 @@
             <pubDate>Fri, 28 Jan 2022 10:11:51 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/da99811b02cdb86baa9ce3ca2da07bfd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌리카터 BILLY CARTER 2집 Don’t Push Me CD/음반 (일렉트릭 뮤즈)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1762&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1762&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[16,300 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/50c8088f1d5636a8b73849e991950a16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빌리카터 BILLY CARTER 1집 Here I Am CD/음반 (일렉트릭 뮤즈)]]></title>
@@ -390,6 +382,14 @@
             <pubDate>Mon, 21 Mar 2022 03:19:34 GMT</pubDate>
             <content:encoded><![CDATA[12,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[더 윌리엄즈 The Williams Love Child  CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Mar 2022 17:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[18,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202202/f0626b3fb6a4ab64004361578836b339.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
