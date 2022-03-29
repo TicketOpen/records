@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 04:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 05:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -824,14 +824,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이루펀트 < Eluphant Bakery > (500개 한정반, 1 Lp 180G 중량반) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</link>
-            <guid>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</guid>
-            <pubDate>Mon, 07 Mar 2022 05:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646626683757_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</link>
             <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</guid>
@@ -894,6 +886,14 @@
             <pubDate>Sat, 12 Mar 2022 05:07:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이루펀트 < Eluphant Bakery > (500개 한정반, 1 Lp 180G 중량반) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</link>
+            <guid>https://www.seoulvinyl.com/product/6a759fc0-77d8-4015-91dd-55cc59930ac9</guid>
+            <pubDate>Mon, 07 Mar 2022 05:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646626683757_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나미 - 7집 Chameleon [반투명 핑크 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
