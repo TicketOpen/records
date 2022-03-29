@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 07:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 08:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,38 +30,6 @@
             <pubDate>Sat, 26 Mar 2022 06:10:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288013148_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 해를 품은 달 드라마 OST [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9</link>
-            <guid>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9</guid>
-            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648105157206_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 킬미, 힐미 드라마 OST [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1934fbbe-ca49-44c4-9fe7-f6d3d9d2fa82</link>
-            <guid>https://www.seoulvinyl.com/product/1934fbbe-ca49-44c4-9fe7-f6d3d9d2fa82</guid>
-            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648105083401_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 쌈, 마이웨이 드라마 OST [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2a4fc7d3-cbe5-4f75-a474-6f6d89504db4</link>
-            <guid>https://www.seoulvinyl.com/product/2a4fc7d3-cbe5-4f75-a474-6f6d89504db4</guid>
-            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104997118_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 동백꽃 필 무렵 드라마 OST [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/79ab58c4-f6c6-4f36-8e1e-46ea931b6ca9</link>
-            <guid>https://www.seoulvinyl.com/product/79ab58c4-f6c6-4f36-8e1e-46ea931b6ca9</guid>
-            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104933222_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 쇼팽으로 만나는 지브리 - 퍼스트 앙상블 (Studio Ghibli Meets Chopin - Live) [화이트 컬러 LP]]]></title>
@@ -102,6 +70,38 @@
             <pubDate>Sat, 26 Mar 2022 10:09:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 해를 품은 달 드라마 OST [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9</link>
+            <guid>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9</guid>
+            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648105157206_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 킬미, 힐미 드라마 OST [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1934fbbe-ca49-44c4-9fe7-f6d3d9d2fa82</link>
+            <guid>https://www.seoulvinyl.com/product/1934fbbe-ca49-44c4-9fe7-f6d3d9d2fa82</guid>
+            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648105083401_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 쌈, 마이웨이 드라마 OST [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2a4fc7d3-cbe5-4f75-a474-6f6d89504db4</link>
+            <guid>https://www.seoulvinyl.com/product/2a4fc7d3-cbe5-4f75-a474-6f6d89504db4</guid>
+            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104997118_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 동백꽃 필 무렵 드라마 OST [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/79ab58c4-f6c6-4f36-8e1e-46ea931b6ca9</link>
+            <guid>https://www.seoulvinyl.com/product/79ab58c4-f6c6-4f36-8e1e-46ea931b6ca9</guid>
+            <pubDate>Thu, 24 Mar 2022 07:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104933222_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아르츠 심포니 오케스트라(Arts Symphony Orchestra) - 스튜디오 지브리 (Studio Ghibli) (Symphony Live Concert) LP]]></title>
