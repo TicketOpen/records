@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 09:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 10:13:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자우림 - 10집 자우림 [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</guid>
+            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</guid>
+            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl]]]></title>
             <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 26 Mar 2022 07:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275873087_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kehlani - You Should Be Here [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a982c3bf-cf52-45fe-a070-0a3c3f682684</link>
-            <guid>https://www.seoulvinyl.com/product/a982c3bf-cf52-45fe-a070-0a3c3f682684</guid>
-            <pubDate>Sat, 26 Mar 2022 07:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275661281_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kehlani(켈라니) - SweetSexySavage [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b0d576b9-1001-4f8b-917b-0bca06491a65</link>
-            <guid>https://www.seoulvinyl.com/product/b0d576b9-1001-4f8b-917b-0bca06491a65</guid>
-            <pubDate>Sat, 26 Mar 2022 07:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275490526_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브]]]></title>
