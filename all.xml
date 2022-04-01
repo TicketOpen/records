@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 08:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 09:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</guid>
+            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</guid>
+            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 사랑의 불시착 OST [투명 밀크 & 퍼플 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</link>
+            <guid>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</guid>
+            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648801738966_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 알고있지만, 드라마 OST [화이트 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b9fb062f-d425-4758-8275-50c51e026135</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 26 Mar 2022 07:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275490526_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kehlani - While We Wait[2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/fc3d67a3-f26a-4dae-9250-78e09f15393c</link>
-            <guid>https://www.seoulvinyl.com/product/fc3d67a3-f26a-4dae-9250-78e09f15393c</guid>
-            <pubDate>Sat, 26 Mar 2022 07:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275293465_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Jeremy - Coffee Talk (커피 토크) (Original Game Soundtrack)(Ltd)(180g Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/fb40ce17-6799-4bec-b41e-b79b08516c3a</link>
-            <guid>https://www.seoulvinyl.com/product/fb40ce17-6799-4bec-b41e-b79b08516c3a</guid>
-            <pubDate>Sat, 26 Mar 2022 06:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288013148_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</link>
-            <guid>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</guid>
-            <pubDate>Fri, 25 Mar 2022 08:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ 스토어)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639389477897_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 사랑의 불시착 OST [투명 밀크 & 퍼플 컬러 2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</link>
+            <guid>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</guid>
+            <pubDate>Fri, 01 Apr 2022 09:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648801738966_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 알고있지만, 드라마 OST [화이트 컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/b9fb062f-d425-4758-8275-50c51e026135</link>
             <guid>https://www.seoulvinyl.com/product/b9fb062f-d425-4758-8275-50c51e026135</guid>
@@ -510,14 +518,6 @@
             <pubDate>Sat, 19 Mar 2022 09:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645604634252_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</link>
-            <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48</guid>
-            <pubDate>Sat, 19 Mar 2022 09:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644400927517_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</guid>
+            <pubDate>Fri, 01 Apr 2022 09:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</guid>
+            <pubDate>Fri, 01 Apr 2022 09:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</link>
             <guid>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</guid>
@@ -822,22 +838,6 @@
             <pubDate>Tue, 08 Mar 2022 08:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Clear 500장 한정) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</link>
-            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa</guid>
-            <pubDate>Tue, 22 Feb 2022 06:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645505987109_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] DEUX FOREVER CASSETTE TAPE (Orange 500장 한정) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639</link>
-            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639</guid>
-            <pubDate>Tue, 22 Feb 2022 06:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645515323047_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 임재범 - After the sunset: White Night (애프터 더 선셋: 화이트 나잇) [컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
