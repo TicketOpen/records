@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 10:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 11:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -704,6 +704,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235492516_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pink Floyd (핑크 플로이드) - The Wall [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</link>
+            <guid>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</guid>
+            <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233666753_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
             <guid>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</guid>
@@ -758,14 +766,6 @@
             <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233799480_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd (핑크 플로이드) - The Wall [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</link>
-            <guid>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</guid>
-            <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233666753_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Prep 프렙 - Prep (오렌지 컬러 Lp) (서울바이닐 ─ ROCK & POP)]]></title>
