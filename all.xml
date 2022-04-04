@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 12:14:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 13:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
-            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -38,22 +30,6 @@
             <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073427444_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</link>
-            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</guid>
-            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</link>
-            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</guid>
-            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ 스토어)]]></title>
@@ -110,6 +86,30 @@
             <pubDate>Sat, 26 Mar 2022 08:09:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279808631_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
+            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</guid>
+            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</guid>
+            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ 스토어)]]></title>
@@ -395,7 +395,7 @@
             <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/callmeby-1701</link>
             <guid>https://www.seoulvinyl.com/product/callmeby-1701</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:42 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -776,22 +776,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</link>
-            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</guid>
-            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</link>
-            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</guid>
-            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</link>
             <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</guid>
@@ -864,6 +848,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647504147538_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</guid>
+            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</guid>
+            <pubDate>Fri, 01 Apr 2022 10:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 임재범 - After the sunset: White Night (애프터 더 선셋: 화이트 나잇) [컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/44ea1f9b-5cba-48db-a7f7-e7409016bcb8</link>
             <guid>https://www.seoulvinyl.com/product/44ea1f9b-5cba-48db-a7f7-e7409016bcb8</guid>
@@ -904,18 +904,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
-            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
-            <pubDate>Mon, 04 Apr 2022 12:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</link>
             <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</guid>
-            <pubDate>Mon, 04 Apr 2022 12:14:25 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073512071_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -923,7 +915,7 @@
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Deep River [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151</link>
             <guid>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151</guid>
-            <pubDate>Mon, 04 Apr 2022 12:14:25 GMT</pubDate>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073427444_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -968,20 +960,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
-            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
-            <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
             <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
             <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
+            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</link>
+            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583</guid>
+            <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] MONDO GROSSO 몬도 그로소 BEST 1 Ver. Lp (서울바이닐 ─ JAPANESE)]]></title>
@@ -1520,14 +1520,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201809/3a2cf93af122a89c431c39860a1d525e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[티어파크 Tierpark 정규 3집’Vacance’ 앨범 및 가사 부클렛 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=845&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=845&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sat, 19 Mar 2022 18:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201807/845_shop1_15309527680827.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아날로그소년정규3집 TAPE '현장의 소리'(음원 다운로드 쿠폰 포함) (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=756&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=756&amp;cate_no=60&amp;display_group=1</guid>
@@ -1542,6 +1534,14 @@
             <pubDate>Tue, 29 Mar 2022 17:13:01 GMT</pubDate>
             <content:encoded><![CDATA[18,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202202/f0626b3fb6a4ab64004361578836b339.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양창근 정규1집  ‘오래된 마음’  CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Apr 2022 13:21:04 GMT</pubDate>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
