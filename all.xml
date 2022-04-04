@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 10:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 11:08:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,14 +320,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275293465_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Juice WRLD (주스 월드) - 4집 Fighting Demons [투명 코발트 블루 컬러 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</link>
-            <guid>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</guid>
-            <pubDate>Mon, 28 Feb 2022 06:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646028487201_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[50 Cent 50 센트 - Best Of (Lp) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</link>
             <guid>https://www.seoulvinyl.com/product/9df13060-0db9-4146-9464-cc983283c627</guid>
@@ -350,6 +342,14 @@
             <pubDate>Sat, 26 Mar 2022 07:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Juice WRLD (주스 월드) - 4집 Fighting Demons [투명 코발트 블루 컬러 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</link>
+            <guid>https://www.seoulvinyl.com/product/f09b1b1e-40e5-4692-a61d-593b01f2dfcf</guid>
+            <pubDate>Mon, 28 Feb 2022 06:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646028487201_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd 위캔드lp - After Hours limited vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
