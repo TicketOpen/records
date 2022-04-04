@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 14:09:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 15:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
+            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -64,6 +72,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
+            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Panic! At The Disco (패닉 앳 더 디스코) - A Fever You Can't Sweat Out [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/f8f66e3d-abec-4ef1-83a9-7ad94ed05c20</link>
             <guid>https://www.seoulvinyl.com/product/f8f66e3d-abec-4ef1-83a9-7ad94ed05c20</guid>
@@ -88,14 +104,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279808631_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
-            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</link>
             <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-1697</guid>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
-            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
-            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
@@ -416,6 +416,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
+            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists - Now Yacht Rock 2 (Colored 2LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</link>
             <guid>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</guid>
@@ -454,14 +462,6 @@
             <pubDate>Sat, 19 Mar 2022 09:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630493177484_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
-            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
-            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 해를 품은 달 드라마 OST [컬러 LP] (서울바이닐 ─ OST)]]></title>
@@ -800,14 +800,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 이적 - 3집 나무로 만든 노래 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</link>
-            <guid>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</guid>
-            <pubDate>Fri, 25 Mar 2022 07:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648189263592_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
             <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
@@ -864,6 +856,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 이적 - 3집 나무로 만든 노래 [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</link>
+            <guid>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</guid>
+            <pubDate>Fri, 25 Mar 2022 07:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648189263592_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 임재범 - After the sunset: White Night (애프터 더 선셋: 화이트 나잇) [컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/44ea1f9b-5cba-48db-a7f7-e7409016bcb8</link>
             <guid>https://www.seoulvinyl.com/product/44ea1f9b-5cba-48db-a7f7-e7409016bcb8</guid>
@@ -902,6 +902,14 @@
             <pubDate>Sat, 12 Mar 2022 05:07:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
+            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
@@ -966,14 +974,6 @@
             <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
-            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
