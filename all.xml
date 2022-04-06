@@ -4,49 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 02:24:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</link>
-            <guid>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</guid>
-            <pubDate>Tue, 05 Apr 2022 12:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649157084788_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이정현 - 4집 I Love Natural [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a5f4657f-301e-4aaa-9abd-d10ad66f98a5</link>
-            <guid>https://www.seoulvinyl.com/product/a5f4657f-301e-4aaa-9abd-d10ad66f98a5</guid>
-            <pubDate>Tue, 05 Apr 2022 12:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156944289_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이정현 - 3집 Magic To Go To My Star [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/dd4ea3ed-4804-4482-83ef-ae990a589b6f</link>
-            <guid>https://www.seoulvinyl.com/product/dd4ea3ed-4804-4482-83ef-ae990a589b6f</guid>
-            <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156752072_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이정현 - 2집 평화 (Peace) [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/19bc8fee-0650-4852-9e49-e8c152452305</link>
-            <guid>https://www.seoulvinyl.com/product/19bc8fee-0650-4852-9e49-e8c152452305</guid>
-            <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156669428_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이정현 - 1집 Let's Go To My Star [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/079e40ca-e720-4eb6-ac7c-b73ad85b057d</link>
-            <guid>https://www.seoulvinyl.com/product/079e40ca-e720-4eb6-ac7c-b73ad85b057d</guid>
-            <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156619940_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe-1702</link>
@@ -102,6 +62,46 @@
             <pubDate>Tue, 29 Mar 2022 07:09:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</link>
+            <guid>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</guid>
+            <pubDate>Tue, 05 Apr 2022 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649157084788_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이정현 - 4집 I Love Natural [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a5f4657f-301e-4aaa-9abd-d10ad66f98a5</link>
+            <guid>https://www.seoulvinyl.com/product/a5f4657f-301e-4aaa-9abd-d10ad66f98a5</guid>
+            <pubDate>Tue, 05 Apr 2022 12:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156944289_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이정현 - 3집 Magic To Go To My Star [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/dd4ea3ed-4804-4482-83ef-ae990a589b6f</link>
+            <guid>https://www.seoulvinyl.com/product/dd4ea3ed-4804-4482-83ef-ae990a589b6f</guid>
+            <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156752072_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이정현 - 2집 평화 (Peace) [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/19bc8fee-0650-4852-9e49-e8c152452305</link>
+            <guid>https://www.seoulvinyl.com/product/19bc8fee-0650-4852-9e49-e8c152452305</guid>
+            <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156669428_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이정현 - 1집 Let's Go To My Star [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/079e40ca-e720-4eb6-ac7c-b73ad85b057d</link>
+            <guid>https://www.seoulvinyl.com/product/079e40ca-e720-4eb6-ac7c-b73ad85b057d</guid>
+            <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156619940_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,38 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</guid>
+            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</guid>
+            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</link>
+            <guid>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</guid>
+            <pubDate>Fri, 25 Mar 2022 08:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
+            <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
+            <pubDate>Sat, 19 Mar 2022 06:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</link>
             <guid>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</guid>
@@ -814,38 +846,6 @@
             <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156619940_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</link>
-            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1</guid>
-            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</link>
-            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</guid>
-            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</link>
-            <guid>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</guid>
-            <pubDate>Fri, 25 Mar 2022 08:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
-            <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
-            <pubDate>Sat, 19 Mar 2022 06:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
