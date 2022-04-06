@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</link>
+            <guid>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</guid>
+            <pubDate>Wed, 06 Apr 2022 10:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237618963_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브]]]></title>
             <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Buena Vista Social Club 부에나 비스타 소셜 클럽 - Buena Vista Social Club 25th anniversary [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</link>
-            <guid>https://www.seoulvinyl.com/product/5d40a49e-2fc1-4a43-a232-0ac39d9e2297</guid>
-            <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp]]]></title>

@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 06 Apr 2022 09:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
+            <guid>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</guid>
+            <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648285624514_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Panic! At The Disco (패닉 앳 더 디스코) - A Fever You Can't Sweat Out [LP]]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235492516_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
-            <guid>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</guid>
-            <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648285624514_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>

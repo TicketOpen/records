@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[O.S.T. - French Dispatch (프렌치 디스패치) (Soundtrack)(180g 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</link>
+            <guid>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</guid>
+            <pubDate>Wed, 06 Apr 2022 10:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe-1702</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 19 Mar 2022 09:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] `그 해 우리는` OST [5월 발매, 블랙반]]]></title>
-            <link>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</link>
-            <guid>https://www.seoulvinyl.com/product/a70e69c9-b29f-4d00-9136-fca8f8d12441</guid>
-            <pubDate>Sat, 19 Mar 2022 09:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645776355469_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
