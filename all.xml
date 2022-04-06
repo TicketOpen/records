@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
+            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</guid>
+            <pubDate>Wed, 06 Apr 2022 09:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 블랙반) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</link>
+            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</guid>
+            <pubDate>Wed, 06 Apr 2022 09:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe-1702</link>
@@ -46,22 +62,6 @@
             <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 사랑의 불시착 OST [투명 밀크 & 퍼플 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</link>
-            <guid>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</guid>
-            <pubDate>Fri, 01 Apr 2022 09:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648801738966_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 알고있지만, 드라마 OST [화이트 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b9fb062f-d425-4758-8275-50c51e026135</link>
-            <guid>https://www.seoulvinyl.com/product/b9fb062f-d425-4758-8275-50c51e026135</guid>
-            <pubDate>Tue, 29 Mar 2022 07:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645776355469_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
+            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
+            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</link>
             <guid>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</guid>
@@ -584,14 +592,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631794727931_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
-            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
-            <pubDate>Sat, 26 Mar 2022 10:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
             <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
@@ -646,6 +646,22 @@
             <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632395871895_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
+            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</guid>
+            <pubDate>Wed, 06 Apr 2022 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 블랙반) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</link>
+            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</guid>
+            <pubDate>Wed, 06 Apr 2022 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Panic! At The Disco (패닉 앳 더 디스코) - A Fever You Can't Sweat Out [LP] (서울바이닐 ─ ROCK & POP)]]></title>
@@ -704,14 +720,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235492516_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pink Floyd (핑크 플로이드) - The Wall [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</link>
-            <guid>https://www.seoulvinyl.com/product/b21f71b1-944a-4483-902c-76bbc86e61aa</guid>
-            <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233666753_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
             <guid>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233799480_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prep 프렙 - Prep (오렌지 컬러 Lp) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1036-1599</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599</guid>
-            <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
