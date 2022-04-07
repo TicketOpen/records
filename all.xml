@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 19:08:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 20:12:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
-            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</link>
             <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</guid>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 05 Apr 2022 11:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649156619940_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
+            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -904,14 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647235330506_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
-            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</link>
             <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</guid>
@@ -982,6 +974,14 @@
             <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637067027935_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</link>
+            <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] MONDO GROSSO 몬도 그로소 BEST 1 Ver. Lp (서울바이닐 ─ JAPANESE)]]></title>
