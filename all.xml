@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 02:31:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:29:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,6 +968,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Fujimaru Band 후지마루 밴드 - BGM Lp (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/4bfda77b-70c1-4433-a492-6eba8b424cd1</link>
+            <guid>https://www.seoulvinyl.com/product/4bfda77b-70c1-4433-a492-6eba8b424cd1</guid>
+            <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442231699_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 今井裕 이마이 유 - A Cool Evening Lp (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</link>
+            <guid>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</guid>
+            <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442554912_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 – Request (2021년 바이닐 에디션) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</link>
             <guid>https://www.seoulvinyl.com/product/519cd10d-d49b-4fe5-afdd-f68f574a87d3</guid>
@@ -1014,22 +1030,6 @@
             <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638350987671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Fujimaru Band 후지마루 밴드 - BGM Lp (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/4bfda77b-70c1-4433-a492-6eba8b424cd1</link>
-            <guid>https://www.seoulvinyl.com/product/4bfda77b-70c1-4433-a492-6eba8b424cd1</guid>
-            <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442231699_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 今井裕 이마이 유 - A Cool Evening Lp (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</link>
-            <guid>https://www.seoulvinyl.com/product/57044fda-8294-49d0-bc1f-fad5450710ff</guid>
-            <pubDate>Sun, 03 Apr 2022 16:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638442554912_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ etc)]]></title>
