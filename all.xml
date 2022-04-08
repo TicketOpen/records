@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 09:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 10:13:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,12 +80,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</link>
-            <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073512071_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[쿤디판다 (Khundi Panda) - 1집 가로사옥 [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/e509f083-7606-4678-9e90-dfa35835e649</link>
+            <guid>https://www.seoulvinyl.com/product/e509f083-7606-4678-9e90-dfa35835e649</guid>
+            <pubDate>Fri, 08 Apr 2022 10:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649410800605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -808,6 +808,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿤디판다 (Khundi Panda) - 1집 가로사옥 [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e509f083-7606-4678-9e90-dfa35835e649</link>
+            <guid>https://www.seoulvinyl.com/product/e509f083-7606-4678-9e90-dfa35835e649</guid>
+            <pubDate>Fri, 08 Apr 2022 10:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649410800605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</link>
             <guid>https://www.seoulvinyl.com/product/6fee2a1e-7a63-4e49-af37-e61f6ec16e8a</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 17 Mar 2022 08:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647501988065_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 임창정 - 9집 - 鳩集 (구집) [화이트 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/4933be3a-d0d6-4bcc-8191-dd25c54f03b3</link>
-            <guid>https://www.seoulvinyl.com/product/4933be3a-d0d6-4bcc-8191-dd25c54f03b3</guid>
-            <pubDate>Mon, 14 Mar 2022 05:30:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647235330506_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
