@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:10:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Howlin' Wolf - Moanin' In The Moonlight [180g 오디오파일 LP][레드 컬러 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</link>
+            <guid>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</guid>
+            <pubDate>Fri, 08 Apr 2022 08:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649402912704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073512071_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - Deep River [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151</link>
-            <guid>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073427444_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -267,7 +267,7 @@
             <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
             <guid>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</guid>
-            <pubDate>Fri, 08 Apr 2022 07:09:35 GMT</pubDate>
+            <pubDate>Fri, 08 Apr 2022 07:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -520,6 +520,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633497429236_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Howlin' Wolf - Moanin' In The Moonlight [180g 오디오파일 LP][레드 컬러 한정반] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</link>
+            <guid>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</guid>
+            <pubDate>Fri, 08 Apr 2022 08:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649402912704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</link>
             <guid>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</guid>
@@ -638,14 +646,6 @@
             <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944649095_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Blakey & The Jazz Messengers 아트 블래키 - caravan LP (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/bd3ba039-5705-46da-8a66-dfbba20ad3d9</link>
-            <guid>https://www.seoulvinyl.com/product/bd3ba039-5705-46da-8a66-dfbba20ad3d9</guid>
-            <pubDate>Fri, 04 Mar 2022 09:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1632395871895_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반) (서울바이닐 ─ ROCK & POP)]]></title>
