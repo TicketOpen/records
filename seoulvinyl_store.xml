@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 11:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 12:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 08 Apr 2022 07:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O.S.T. - French Dispatch (프렌치 디스패치) (Soundtrack)(180g 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</link>
-            <guid>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</guid>
-            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP]]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Fri, 08 Apr 2022 10:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649410800605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O.S.T. - French Dispatch (프렌치 디스패치) (Soundtrack)(180g 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</link>
+            <guid>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</guid>
+            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이정현 - 4.5집 Summer Party! (Special Album) [180g 컬러 LP]]]></title>
