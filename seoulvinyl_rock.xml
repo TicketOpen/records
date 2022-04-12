@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 10:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sia 시아 - Music : Songs From And Inspired By The Motion Picture [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7e01e86f-6ba8-46c5-8e1b-f0bcbf806080</link>
+            <guid>https://www.seoulvinyl.com/product/7e01e86f-6ba8-46c5-8e1b-f0bcbf806080</guid>
+            <pubDate>Tue, 12 Apr 2022 10:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756347090_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
             <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644234132696_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jamiroquai (자미로콰이) - 3집 Travelling Without Moving [옐로우 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d4e18c3b-05d2-4fdf-90eb-ee4cba00ebfd</link>
-            <guid>https://www.seoulvinyl.com/product/d4e18c3b-05d2-4fdf-90eb-ee4cba00ebfd</guid>
-            <pubDate>Fri, 01 Apr 2022 14:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644233799480_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
