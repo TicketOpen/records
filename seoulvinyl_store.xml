@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 02:39:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:31:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/callmeby-1701</link>
+            <guid>https://www.seoulvinyl.com/product/callmeby-1701</guid>
+            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</link>
             <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</guid>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/callmeby-1701</link>
-            <guid>https://www.seoulvinyl.com/product/callmeby-1701</guid>
-            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP]]]></title>
