@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 10:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 11:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,6 +40,30 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845384303_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[장나라 2집 Sweet Dream (블루컬러 2LP, 더블게이트폴드 커버)]]></title>
+            <link>https://www.seoulvinyl.com/product/3f4a4147-c3a6-4f3b-9e5f-33e666ae9307-1727</link>
+            <guid>https://www.seoulvinyl.com/product/3f4a4147-c3a6-4f3b-9e5f-33e666ae9307-1727</guid>
+            <pubDate>Thu, 14 Apr 2022 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640772775857_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바비킴 - Holy Bumz Presents [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/426dff6c-561a-4b8b-bf54-f40e9e8f282e</link>
+            <guid>https://www.seoulvinyl.com/product/426dff6c-561a-4b8b-bf54-f40e9e8f282e</guid>
+            <pubDate>Thu, 14 Apr 2022 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649931289939_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엄정화 - All Details :Special Best [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d9f6d578-1a1e-48a3-a1af-f6d7ee20edbf</link>
+            <guid>https://www.seoulvinyl.com/product/d9f6d578-1a1e-48a3-a1af-f6d7ee20edbf</guid>
+            <pubDate>Thu, 14 Apr 2022 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649931133170_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Out Kast 아웃 캐스트 - Speakerboxxx / The Love Below [180g 4LP]]]></title>
             <link>https://www.seoulvinyl.com/product/87bf2e9e-6186-4e70-ab67-504e8869f14c</link>
             <guid>https://www.seoulvinyl.com/product/87bf2e9e-6186-4e70-ab67-504e8869f14c</guid>
@@ -48,20 +72,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756741973_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sia 시아 - Music : Songs From And Inspired By The Motion Picture [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/7e01e86f-6ba8-46c5-8e1b-f0bcbf806080</link>
-            <guid>https://www.seoulvinyl.com/product/7e01e86f-6ba8-46c5-8e1b-f0bcbf806080</guid>
-            <pubDate>Tue, 12 Apr 2022 10:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756347090_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Lianne La Havas (리앤 라 하바스) - Lianne La Havas [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/6bb0cb0c-ecad-4324-8d5c-330815003f1d</link>
             <guid>https://www.seoulvinyl.com/product/6bb0cb0c-ecad-4324-8d5c-330815003f1d</guid>
             <pubDate>Tue, 12 Apr 2022 10:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756049080_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sia 시아 - Music : Songs From And Inspired By The Motion Picture [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7e01e86f-6ba8-46c5-8e1b-f0bcbf806080</link>
+            <guid>https://www.seoulvinyl.com/product/7e01e86f-6ba8-46c5-8e1b-f0bcbf806080</guid>
+            <pubDate>Tue, 12 Apr 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756347090_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Howlin' Wolf - Moanin' In The Moonlight [180g 오디오파일 LP][레드 컬러 한정반]]]></title>
@@ -80,36 +104,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[O.S.T. - French Dispatch (프렌치 디스패치) (Soundtrack)(180g 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</link>
+            <guid>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</guid>
+            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</link>
             <guid>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</guid>
             <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237618963_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donny Hathaway 도니 해서웨이 - Donny Hathaway Collection (Ltd)(Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</link>
-            <guid>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</guid>
-            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237106365_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
-            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
-            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</guid>
-            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김광석 - 베스트 앨범 (Best Album) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891-1720</link>
-            <guid>https://www.seoulvinyl.com/product/9800621b-3588-42d1-a09b-0affa6871891-1720</guid>
-            <pubDate>Wed, 13 Apr 2022 09:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takeuchi Mariya (타케우치 마리야) - 6집 Variety [LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 08 Apr 2022 10:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649410800605_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O.S.T. - French Dispatch (프렌치 디스패치) (Soundtrack)(180g 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</link>
-            <guid>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</guid>
-            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
