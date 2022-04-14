@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 09:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 10:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 전람회 - 2집 Exhibition 2 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/adf256e5-b14b-4277-8c73-9322e0315780</link>
+            <guid>https://www.seoulvinyl.com/product/adf256e5-b14b-4277-8c73-9322e0315780</guid>
+            <pubDate>Thu, 14 Apr 2022 10:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649929227060_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 꽃보다 남자 드라마 OST Part. 2 [컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e3653f9a-faf1-4314-983e-11e19ffb8735</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 블랙반)]]></title>
-            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</link>
-            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</guid>
-            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 베스트 앨범 (Best Album) [2LP]]]></title>
