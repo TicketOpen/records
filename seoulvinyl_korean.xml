@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 10:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 11:08:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
-            <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
-            <pubDate>Sat, 19 Mar 2022 06:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쿤디판다 (Khundi Panda) - 1집 가로사옥 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e509f083-7606-4678-9e90-dfa35835e649</link>
             <guid>https://www.seoulvinyl.com/product/e509f083-7606-4678-9e90-dfa35835e649</guid>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 25 Mar 2022 07:10:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648189263592_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비아이 (B.I) - 1st Full Album : WATERFALL [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</link>
+            <guid>https://www.seoulvinyl.com/product/6d3468d1-87ed-41f3-bc3d-c3bb48b396a5</guid>
+            <pubDate>Sat, 19 Mar 2022 06:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647668139371_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
