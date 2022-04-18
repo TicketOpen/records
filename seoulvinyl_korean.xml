@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 07:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 08:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 드라마 '그 해 우리는' O.S.T [LP] (2차 판매분)]]></title>
-            <link>https://www.seoulvinyl.com/product/cd0279cc-a809-4617-adf7-3ed0ed5db9ac</link>
-            <guid>https://www.seoulvinyl.com/product/cd0279cc-a809-4617-adf7-3ed0ed5db9ac</guid>
-            <pubDate>Mon, 18 Apr 2022 06:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650262107859_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 전람회 - 2집 Exhibition 2 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/adf256e5-b14b-4277-8c73-9322e0315780</link>
@@ -48,14 +40,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845384303_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[장나라 2집 Sweet Dream (블루컬러 2LP, 더블게이트폴드 커버)]]></title>
-            <link>https://www.seoulvinyl.com/product/3f4a4147-c3a6-4f3b-9e5f-33e666ae9307-1727</link>
-            <guid>https://www.seoulvinyl.com/product/3f4a4147-c3a6-4f3b-9e5f-33e666ae9307-1727</guid>
-            <pubDate>Thu, 14 Apr 2022 11:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640772775857_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[바비킴 - Holy Bumz Presents [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/426dff6c-561a-4b8b-bf54-f40e9e8f282e</link>
             <guid>https://www.seoulvinyl.com/product/426dff6c-561a-4b8b-bf54-f40e9e8f282e</guid>
@@ -78,6 +62,22 @@
             <pubDate>Fri, 25 Mar 2022 08:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648193292679_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 드라마 '그 해 우리는' O.S.T [LP] (2차 판매분)]]></title>
+            <link>https://www.seoulvinyl.com/product/cd0279cc-a809-4617-adf7-3ed0ed5db9ac</link>
+            <guid>https://www.seoulvinyl.com/product/cd0279cc-a809-4617-adf7-3ed0ed5db9ac</guid>
+            <pubDate>Mon, 18 Apr 2022 06:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650262107859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장나라 2집 Sweet Dream (블루컬러 2LP, 더블게이트폴드 커버)]]></title>
+            <link>https://www.seoulvinyl.com/product/3f4a4147-c3a6-4f3b-9e5f-33e666ae9307-1727</link>
+            <guid>https://www.seoulvinyl.com/product/3f4a4147-c3a6-4f3b-9e5f-33e666ae9307-1727</guid>
+            <pubDate>Thu, 14 Apr 2022 11:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640772775857_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿤디판다 (Khundi Panda) - 1집 가로사옥 [LP]]]></title>
