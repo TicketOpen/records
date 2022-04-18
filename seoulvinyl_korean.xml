@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 02:50:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 03:39:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 자우림 - 10집 자우림 [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</guid>
+            <pubDate>Fri, 01 Apr 2022 09:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보니 (Boni) - 1집 LOVE [화이트 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</link>
             <guid>https://www.seoulvinyl.com/product/2cc95c70-9080-48be-95ca-ff0aede7041e</guid>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 01 Apr 2022 10:12:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 자우림 - 10집 자우림 [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</link>
-            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089</guid>
-            <pubDate>Fri, 01 Apr 2022 09:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 베스트 앨범 (Best Album) [2LP]]]></title>
