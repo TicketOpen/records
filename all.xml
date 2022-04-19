@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 11:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 12:15:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -235,7 +235,7 @@
             <title><![CDATA[[Soul / Funk] A Select (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430</link>
             <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430</guid>
-            <pubDate>Tue, 19 Apr 2022 11:08:12 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 11:08:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
