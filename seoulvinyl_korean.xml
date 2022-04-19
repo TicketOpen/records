@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 06:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 14 Apr 2022 11:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640772775857_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[eAeon 이이언 - Fragile LP (Dark Purple colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/800e9795-d487-484c-b5e9-49a417b158f7-1731</link>
+            <guid>https://www.seoulvinyl.com/product/800e9795-d487-484c-b5e9-49a417b158f7-1731</guid>
+            <pubDate>Tue, 19 Apr 2022 06:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1628235154304_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[바비킴 - Holy Bumz Presents [180g LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Apr 2022 09:09:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이적 - 3집 나무로 만든 노래 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</link>
-            <guid>https://www.seoulvinyl.com/product/f709c2ee-07e4-46d4-b2fa-8bd21c9883b4</guid>
-            <pubDate>Fri, 25 Mar 2022 07:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648189263592_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

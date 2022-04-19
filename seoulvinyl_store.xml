@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 05:18:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 06:12:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 14 Apr 2022 11:07:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640772775857_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[eAeon 이이언 - Fragile LP (Dark Purple colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/800e9795-d487-484c-b5e9-49a417b158f7-1731</link>
+            <guid>https://www.seoulvinyl.com/product/800e9795-d487-484c-b5e9-49a417b158f7-1731</guid>
+            <pubDate>Tue, 19 Apr 2022 06:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1628235154304_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Red Hot Chili Peppers 레드 핫 칠리 페퍼스 - Unlimited Love]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</link>
-            <guid>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</guid>
-            <pubDate>Fri, 08 Apr 2022 00:36:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237618963_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 드라마 '그 해 우리는' O.S.T [LP] (2차 판매분)]]></title>
