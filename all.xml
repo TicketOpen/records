@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 06:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 07:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -819,7 +819,7 @@
             <title><![CDATA[eAeon 이이언 - Fragile LP (Dark Purple colored) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/800e9795-d487-484c-b5e9-49a417b158f7-1731</link>
             <guid>https://www.seoulvinyl.com/product/800e9795-d487-484c-b5e9-49a417b158f7-1731</guid>
-            <pubDate>Tue, 19 Apr 2022 06:12:13 GMT</pubDate>
+            <pubDate>Tue, 19 Apr 2022 06:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1628235154304_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647059828860_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</link>
+            <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073512071_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - Deep River [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151</link>
             <guid>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151</guid>
@@ -982,14 +990,6 @@
             <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</link>
-            <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073512071_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
