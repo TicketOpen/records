@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 08:12:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 09:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,22 +88,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635584058315_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[7인치(미니레코드) 전용 슬림프레임 / 옅은 색상]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-909</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-909</guid>
-            <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609588802722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Horim 호림 - [METROCITY] (clear colored) 2LP]]></title>
-            <link>https://www.seoulvinyl.com/product/c2d54dfc-b744-4003-a7ff-cd72bd318efd</link>
-            <guid>https://www.seoulvinyl.com/product/c2d54dfc-b744-4003-a7ff-cd72bd318efd</guid>
-            <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630064108130_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Soul / Funk] Type A]]></title>
             <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430</link>
             <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430</guid>
@@ -112,28 +96,44 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-908</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-908</guid>
-            <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609587934862_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Soul / Funk] Type B]]></title>
+            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756</link>
+            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756</guid>
+            <pubDate>Fri, 22 Apr 2022 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hiroshi Nagai 히로시 나가이 일러스트 캔버스 액자]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1065</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1065</guid>
-            <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1616990052551_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Soul / Funk] Type C]]></title>
+            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756-1757</link>
+            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756-1757</guid>
+            <pubDate>Fri, 22 Apr 2022 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크러쉬lp crush lp - with HER Vinyl LP]]></title>
-            <link>https://www.seoulvinyl.com/product/crush</link>
-            <guid>https://www.seoulvinyl.com/product/crush</guid>
-            <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606885154766_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[Soul / Funk] Type D]]></title>
+            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756-1758</link>
+            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756-1758</guid>
+            <pubDate>Fri, 22 Apr 2022 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Soul / Funk] Type E]]></title>
+            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1759-1760</link>
+            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1759-1760</guid>
+            <pubDate>Fri, 22 Apr 2022 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Soul / Funk] Type F]]></title>
+            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1759</link>
+            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1759</guid>
+            <pubDate>Fri, 22 Apr 2022 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
