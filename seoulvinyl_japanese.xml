@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 09:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 10:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Naoko Gushima (나오코 구시마) - miss.G [그린 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c8c382fd-c182-43bb-859a-5616c0a41c6b</link>
+            <guid>https://www.seoulvinyl.com/product/c8c382fd-c182-43bb-859a-5616c0a41c6b</guid>
+            <pubDate>Sat, 23 Apr 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650706861387_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Naoko Gushima (나오코 구시마) - 2집 Quiet Emotion [투명 오렌지 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fa3cae17-29e8-42b6-9e6d-900825624b30</link>
+            <guid>https://www.seoulvinyl.com/product/fa3cae17-29e8-42b6-9e6d-900825624b30</guid>
+            <pubDate>Sat, 23 Apr 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650706963145_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Makoto Matsushita (마코토 마츠시타) - The Pressures And The Pleasures [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/5c3f9146-17a7-4d49-8087-736c136b5427</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 21 Apr 2022 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650529650376_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRF - EZ DO DANCE (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/84f2f796-af13-4cb0-8caf-92a07bf49fd7</link>
-            <guid>https://www.seoulvinyl.com/product/84f2f796-af13-4cb0-8caf-92a07bf49fd7</guid>
-            <pubDate>Thu, 21 Apr 2022 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650528995594_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TRF - Boy Meets Girl (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/faab6dfa-0f92-456d-93b8-e047ef18d94d</link>
-            <guid>https://www.seoulvinyl.com/product/faab6dfa-0f92-456d-93b8-e047ef18d94d</guid>
-            <pubDate>Thu, 21 Apr 2022 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650528717110_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
