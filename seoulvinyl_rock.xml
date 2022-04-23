@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 10:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 11:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646391405634_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[JP Saxe 제이프 색스 - Dangerous Levels Of Introspection (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f27f55bf-cf25-44b8-a23a-e5740aeb11ac</link>
+            <guid>https://www.seoulvinyl.com/product/f27f55bf-cf25-44b8-a23a-e5740aeb11ac</guid>
+            <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645006520482_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis (오아시스) - 넵워스 공연 실황 (Knebworth 1996) [3LP]]]></title>
             <link>https://www.seoulvinyl.com/product/ab05f6c0-b93c-402a-98ac-f1829262c799</link>
             <guid>https://www.seoulvinyl.com/product/ab05f6c0-b93c-402a-98ac-f1829262c799</guid>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JP Saxe 제이프 색스 - Dangerous Levels Of Introspection (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/f27f55bf-cf25-44b8-a23a-e5740aeb11ac</link>
-            <guid>https://www.seoulvinyl.com/product/f27f55bf-cf25-44b8-a23a-e5740aeb11ac</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645006520482_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[One Direction 원디렉션 – Take Me Home (Lp, Limited Edition, Clear With White Swirl)]]></title>
