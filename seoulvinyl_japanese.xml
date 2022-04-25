@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187588</id>
-    <title>서울바이닐 ─ JAPANESE</title>
-    <updated>2022-04-25T10:10:39.239Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ JAPANESE</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 25 Apr 2022 11:09:12 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Naoko Gushima (나오코 구시마) - miss.G [그린 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c8c382fd-c182-43bb-859a-5616c0a41c6b</link>
+            <guid>https://www.seoulvinyl.com/product/c8c382fd-c182-43bb-859a-5616c0a41c6b</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650706861387_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Naoko Gushima (나오코 구시마) - 2집 Quiet Emotion [투명 오렌지 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fa3cae17-29e8-42b6-9e6d-900825624b30</link>
+            <guid>https://www.seoulvinyl.com/product/fa3cae17-29e8-42b6-9e6d-900825624b30</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650706963145_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Makoto Matsushita (마코토 마츠시타) - The Pressures And The Pleasures [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5c3f9146-17a7-4d49-8087-736c136b5427</link>
+            <guid>https://www.seoulvinyl.com/product/5c3f9146-17a7-4d49-8087-736c136b5427</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650537632462_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ego-Wrappin' (이고 랩핑) - Dream Baby Dream (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/130c43cc-3120-400f-8254-af476d60b805</link>
+            <guid>https://www.seoulvinyl.com/product/130c43cc-3120-400f-8254-af476d60b805</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650537495853_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ohashi Junko (오하시 준코) - Point Zero [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9</link>
+            <guid>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650536715320_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamaya Kiyoshi (야마야 키요시) - Tsugaru / Osorezan [LP] (2021 일본 RSD 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/e4904e12-a81c-4996-8544-40a882dac23f</link>
+            <guid>https://www.seoulvinyl.com/product/e4904e12-a81c-4996-8544-40a882dac23f</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650534499403_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kinokuniya Band 키노쿠니야 밴드 - Street Sensation]]></title>
+            <link>https://www.seoulvinyl.com/product/93dc7d2c-b43e-4246-b398-8ce441896bf9</link>
+            <guid>https://www.seoulvinyl.com/product/93dc7d2c-b43e-4246-b398-8ce441896bf9</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650538148513_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yukihiro Takahashi 타카하시 유키히로 – Saravah Saravah!]]></title>
+            <link>https://www.seoulvinyl.com/product/d3db9112-20ea-4afa-968d-0cd11dbcbfbe</link>
+            <guid>https://www.seoulvinyl.com/product/d3db9112-20ea-4afa-968d-0cd11dbcbfbe</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650538009531_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greenwood - SUMMER SUN (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</link>
+            <guid>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650533519882_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ OSSHY PRESENTS - FEELING YOU (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/af941e1e-a75e-4dac-80d3-a905d4bbd3bd</link>
+            <guid>https://www.seoulvinyl.com/product/af941e1e-a75e-4dac-80d3-a905d4bbd3bd</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650532975444_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lui - Oh, Oh (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/4db33c80-050a-4b18-aa04-68c8d7f2028c</link>
+            <guid>https://www.seoulvinyl.com/product/4db33c80-050a-4b18-aa04-68c8d7f2028c</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650533149152_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pink Shadow - Devil Woman (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/d87bc223-cd0e-4f39-8782-48438f1adbf5</link>
+            <guid>https://www.seoulvinyl.com/product/d87bc223-cd0e-4f39-8782-48438f1adbf5</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650533334494_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[INOKASIRA RANGERS - AUTOBAHN (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/4fa23fb9-1816-40b8-84e7-7542e5cac7af</link>
+            <guid>https://www.seoulvinyl.com/product/4fa23fb9-1816-40b8-84e7-7542e5cac7af</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650532011349_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Globe - Feel Like Dance (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/16129d47-c92b-4a7c-b938-3d27fad6164b</link>
+            <guid>https://www.seoulvinyl.com/product/16129d47-c92b-4a7c-b938-3d27fad6164b</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650530074503_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Globe - DEPARTURES (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/fede24d2-2935-4ad4-a062-248bbfcb6d5c</link>
+            <guid>https://www.seoulvinyl.com/product/fede24d2-2935-4ad4-a062-248bbfcb6d5c</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650529919118_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Globe - Can't Stop Fallin` In Love (7인치 싱글)]]></title>
+            <link>https://www.seoulvinyl.com/product/9636f3e6-86e8-42fc-a40c-74c0595f1bb0</link>
+            <guid>https://www.seoulvinyl.com/product/9636f3e6-86e8-42fc-a40c-74c0595f1bb0</guid>
+            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650529650376_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
