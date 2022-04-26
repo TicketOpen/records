@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 21:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 22:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,14 +448,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/callmeby-1701</link>
-            <guid>https://www.seoulvinyl.com/product/callmeby-1701</guid>
-            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 사랑의 불시착 OST [투명 밀크 & 퍼플 컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</link>
             <guid>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</guid>
@@ -494,6 +486,14 @@
             <pubDate>Sat, 26 Mar 2022 06:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288013148_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[call me by your name lp 콜미 바이 유어 네임 black vinyl (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/callmeby-1701</link>
+            <guid>https://www.seoulvinyl.com/product/callmeby-1701</guid>
+            <pubDate>Mon, 04 Apr 2022 12:13:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 해를 품은 달 드라마 OST [컬러 LP] (서울바이닐 ─ OST)]]></title>
