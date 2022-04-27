@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 07:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 08:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756347090_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
-            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
-            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 블랙반)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235492516_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
+            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
+            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</guid>
+            <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Travis - Boy With No Name (Gatefold LP+7 Inch Single LP)]]></title>
