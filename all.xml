@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 06:14:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 08:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756049080_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
+            <guid>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</guid>
+            <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Donny Hathaway 도니 해서웨이 - Donny Hathaway Collection (Ltd)(Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</link>
             <guid>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</guid>
@@ -350,14 +358,6 @@
             <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275293465_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
-            <guid>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JMSN - Heals Me [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
