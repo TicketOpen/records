@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 10:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 11:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,12 +120,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650538009531_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Greenwood - SUMMER SUN (7인치 싱글) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</link>
-            <guid>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</guid>
-            <pubDate>Thu, 21 Apr 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650533519882_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[기리보이 - 9집 avante [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d0ef3fdf-e3b7-46cf-8645-898ea8735b24</link>
+            <guid>https://www.seoulvinyl.com/product/d0ef3fdf-e3b7-46cf-8645-898ea8735b24</guid>
+            <pubDate>Fri, 29 Apr 2022 11:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651225705951_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ 스토어)]]></title>
@@ -864,6 +864,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649931133170_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기리보이 - 9집 avante [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/d0ef3fdf-e3b7-46cf-8645-898ea8735b24</link>
+            <guid>https://www.seoulvinyl.com/product/d0ef3fdf-e3b7-46cf-8645-898ea8735b24</guid>
+            <pubDate>Fri, 29 Apr 2022 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651225705951_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[추가 예약판매] The Volunteers 1집 [The Volunteers] LP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1306-1735</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1306-1735</guid>
@@ -894,14 +902,6 @@
             <pubDate>Mon, 25 Apr 2022 11:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</link>
-            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-1696</guid>
-            <pubDate>Mon, 25 Apr 2022 11:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Naoko Gushima (나오코 구시마) - miss.G [그린 컬러 LP] (서울바이닐 ─ JAPANESE)]]></title>

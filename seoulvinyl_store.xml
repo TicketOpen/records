@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 10:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 11:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,12 +120,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650538009531_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Greenwood - SUMMER SUN (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</link>
-            <guid>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</guid>
-            <pubDate>Sat, 23 Apr 2022 07:07:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650533519882_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[기리보이 - 9집 avante [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d0ef3fdf-e3b7-46cf-8645-898ea8735b24</link>
+            <guid>https://www.seoulvinyl.com/product/d0ef3fdf-e3b7-46cf-8645-898ea8735b24</guid>
+            <pubDate>Fri, 29 Apr 2022 11:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651225705951_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반]]]></title>
