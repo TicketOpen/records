@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 14:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 15:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -592,14 +592,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633856911416_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[True Loves 트루 러브즈 - Sunday Aftertnoon (blue colored) LP (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</link>
-            <guid>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</guid>
-            <pubDate>Fri, 29 Apr 2022 14:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
             <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
@@ -630,6 +622,14 @@
             <pubDate>Fri, 29 Apr 2022 14:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633852623408_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[True Loves 트루 러브즈 - Sunday Aftertnoon (blue colored) LP (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</link>
+            <guid>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</guid>
+            <pubDate>Fri, 29 Apr 2022 14:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sergio mendes 세르지오 멘데스 - The Beat of Brazil (double split colored) LP (서울바이닐 ─ JAZZ)]]></title>
