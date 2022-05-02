@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:43:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 2PM - 7집 MUST [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</link>
+            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</guid>
+            <pubDate>Mon, 02 May 2022 05:24:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 심규선 (Lucia) - 몸과 마음 (EP) [투명 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/995334e2-0fe3-4bb7-a8df-1f30d4ad6ec3</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 25 Apr 2022 11:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1628235154304_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[바비킴 - Holy Bumz Presents [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/426dff6c-561a-4b8b-bf54-f40e9e8f282e</link>
-            <guid>https://www.seoulvinyl.com/product/426dff6c-561a-4b8b-bf54-f40e9e8f282e</guid>
-            <pubDate>Mon, 25 Apr 2022 11:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649931289939_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기리보이 - 9집 avante [LP]]]></title>
