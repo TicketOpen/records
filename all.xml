@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 00:39:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 02:57:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</link>
+            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</guid>
+            <pubDate>Mon, 02 May 2022 05:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 심규선 (Lucia) - 몸과 마음 (EP) [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/995334e2-0fe3-4bb7-a8df-1f30d4ad6ec3</link>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 21 Apr 2022 11:07:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650537495853_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</link>
-            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</guid>
-            <pubDate>Mon, 02 May 2022 05:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기리보이 - 9집 avante [LP] (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646392054184_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</link>
+            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</guid>
+            <pubDate>Mon, 02 May 2022 05:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 심규선 (Lucia) - 몸과 마음 (EP) [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/995334e2-0fe3-4bb7-a8df-1f30d4ad6ec3</link>
             <guid>https://www.seoulvinyl.com/product/995334e2-0fe3-4bb7-a8df-1f30d4ad6ec3</guid>
@@ -870,14 +878,6 @@
             <pubDate>Mon, 25 Apr 2022 11:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1628235154304_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</link>
-            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</guid>
-            <pubDate>Mon, 02 May 2022 05:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기리보이 - 9집 avante [LP] (서울바이닐 ─ KOREAN)]]></title>
