@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 02:32:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:34:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라 - 엔니오 모리꼬네 BEST OST (Symphony Live) [180g 블루 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a</link>
-            <guid>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a</guid>
-            <pubDate>Thu, 05 May 2022 14:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650604634198_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 꽃보다 남자 드라마 OST Part. 2 [컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e3653f9a-faf1-4314-983e-11e19ffb8735</link>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 05 May 2022 14:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644400927517_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라 - 엔니오 모리꼬네 BEST OST (Symphony Live) [180g 블루 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a</link>
+            <guid>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a</guid>
+            <pubDate>Thu, 05 May 2022 14:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650604634198_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 해를 품은 달 드라마 OST [컬러 LP]]]></title>
