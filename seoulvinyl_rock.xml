@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 10:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 11:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650275490021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kavinsky 케빈스카이 - Reborn (2 LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/bcb5f73f-54c9-4fe1-be96-62ab82a7cd92</link>
+            <guid>https://www.seoulvinyl.com/product/bcb5f73f-54c9-4fe1-be96-62ab82a7cd92</guid>
+            <pubDate>Sat, 07 May 2022 11:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651921214961_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sia 시아 - Music : Songs From And Inspired By The Motion Picture [LP]]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235782600_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Led Zeppelin (레드 제플린) - 1집 Led Zeppelin I [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d4c20ceb-a27a-4814-a189-54ec9e9615f3</link>
-            <guid>https://www.seoulvinyl.com/product/d4c20ceb-a27a-4814-a189-54ec9e9615f3</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235492516_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
