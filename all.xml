@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 06:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 02 May 2022 04:41:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462168928_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
-            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
-            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 위켄드 The Weeknd - Blinding Lights Limited LP (서울바이닐 ─ 스토어)]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Mon, 02 May 2022 05:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
+            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
+            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Volunteers 1집 [The Volunteers] LP (서울바이닐 ─ 스토어)]]></title>
@@ -264,14 +264,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
-            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
-            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[더 위켄드 The Weeknd - Blinding Lights Limited LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/ae3f5483-9832-4e12-bc41-56948b7d486c</link>
             <guid>https://www.seoulvinyl.com/product/ae3f5483-9832-4e12-bc41-56948b7d486c</guid>
@@ -374,6 +366,14 @@
             <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275293465_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
+            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
+            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
