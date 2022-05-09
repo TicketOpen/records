@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 10:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 11:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 수호 (SUHO) - 미니앨범 2집 : Grey Suit [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</link>
+            <guid>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</guid>
+            <pubDate>Mon, 09 May 2022 11:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Hiroshi II Hiroshi – Hiroshi II Hiroshi Vol. 1 (클리어 블루)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ed6302b-c9c6-44a0-92a0-737750e590f7</link>
+            <guid>https://www.seoulvinyl.com/product/2ed6302b-c9c6-44a0-92a0-737750e590f7</guid>
+            <pubDate>Mon, 09 May 2022 11:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
             <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645515323047_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX FOREVER CASSETTE TAPE (Clear 500장 한정)]]></title>
-            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1778</link>
-            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1778</guid>
-            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645505987109_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 유희열 - 생활음악 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b8fa03a4-3d83-4ee0-b05b-d465f58153ef</link>
-            <guid>https://www.seoulvinyl.com/product/b8fa03a4-3d83-4ee0-b05b-d465f58153ef</guid>
-            <pubDate>Wed, 04 May 2022 03:45:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651634401520_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
