@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 09:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 10:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
+            <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
+            <guid>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</guid>
+            <pubDate>Mon, 09 May 2022 10:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Candee (캔디) - Candee [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/850c29b4-8ac4-476f-afd3-93ced9537fb0</link>
+            <guid>https://www.seoulvinyl.com/product/850c29b4-8ac4-476f-afd3-93ced9537fb0</guid>
+            <pubDate>Mon, 09 May 2022 10:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090674982_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Naoko Gushima (나오코 구시마) - miss.G [그린 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/c8c382fd-c182-43bb-859a-5616c0a41c6b</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650530074503_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Globe - DEPARTURES (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/fede24d2-2935-4ad4-a062-248bbfcb6d5c</link>
-            <guid>https://www.seoulvinyl.com/product/fede24d2-2935-4ad4-a062-248bbfcb6d5c</guid>
-            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650529919118_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Globe - Can't Stop Fallin` In Love (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/9636f3e6-86e8-42fc-a40c-74c0595f1bb0</link>
-            <guid>https://www.seoulvinyl.com/product/9636f3e6-86e8-42fc-a40c-74c0595f1bb0</guid>
-            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650529650376_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
