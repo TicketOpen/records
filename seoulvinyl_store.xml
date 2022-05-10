@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 03:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 04:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Mon, 09 May 2022 11:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Narumin & Etsu (東北新幹線) – Thru Traffic]]></title>
+            <link>https://www.seoulvinyl.com/product/9335ee99-6926-4173-9400-0beba4e5941c</link>
+            <guid>https://www.seoulvinyl.com/product/9335ee99-6926-4173-9400-0beba4e5941c</guid>
+            <pubDate>Tue, 10 May 2022 04:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652154886457_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Masayoshi Takanaka 마사요시 타카나카 高中正義 – An Insatiable High]]></title>
+            <link>https://www.seoulvinyl.com/product/f315e4b6-71da-4b5e-a827-2f2fd2b1dd1c</link>
+            <guid>https://www.seoulvinyl.com/product/f315e4b6-71da-4b5e-a827-2f2fd2b1dd1c</guid>
+            <pubDate>Tue, 10 May 2022 04:10:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652154348905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Hiroshi II Hiroshi – Hiroshi II Hiroshi Vol. 1 (클리어 블루)]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 02 May 2022 05:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Volunteers 1집 [The Volunteers] LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1306-1735-1774</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1306-1735-1774</guid>
-            <pubDate>Fri, 06 May 2022 11:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627632212693_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX FOREVER CASSETTE TAPE (Orange 500장 한정)]]></title>
-            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639-1779</link>
-            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639-1779</guid>
-            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645515323047_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
