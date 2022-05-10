@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 00:39:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 02:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [5월 출고분]]]></title>
+            <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</link>
+            <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</guid>
+            <pubDate>Tue, 03 May 2022 09:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 심규선 (Lucia) - 몸과 마음 (EP) [투명 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/995334e2-0fe3-4bb7-a8df-1f30d4ad6ec3</link>
             <guid>https://www.seoulvinyl.com/product/995334e2-0fe3-4bb7-a8df-1f30d4ad6ec3</guid>
@@ -62,6 +70,14 @@
             <pubDate>Mon, 02 May 2022 04:41:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462168928_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반]]]></title>
+            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
+            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
+            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 위켄드 The Weeknd - Blinding Lights Limited LP]]></title>
@@ -96,28 +112,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237106365_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [5월 출고분]]]></title>
-            <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</link>
-            <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</guid>
-            <pubDate>Tue, 03 May 2022 09:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 2PM - 7집 MUST [컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</link>
             <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df</guid>
             <pubDate>Mon, 02 May 2022 05:23:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반]]]></title>
-            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
-            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
-            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Volunteers 1집 [The Volunteers] LP]]></title>
