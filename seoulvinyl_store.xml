@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 09:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 10:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클래지콰이 - BLINK [180g 핑크컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3b21af02-9bef-476a-bc7d-35aaadb81d99</link>
+            <guid>https://www.seoulvinyl.com/product/3b21af02-9bef-476a-bc7d-35aaadb81d99</guid>
+            <pubDate>Wed, 11 May 2022 10:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652260654967_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 수호 (SUHO) - 미니앨범 2집 : Grey Suit [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651921214961_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donny Hathaway 도니 해서웨이 - Donny Hathaway Collection (Ltd)(Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</link>
-            <guid>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</guid>
-            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237106365_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [5월 출고분]]]></title>
