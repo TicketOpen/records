@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 23:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 00:39:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -27,14 +27,6 @@
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [7월 출고분]]]></title>
             <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771</link>
             <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771</guid>
-            <pubDate>Tue, 03 May 2022 09:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [5월 출고분]]]></title>
-            <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</link>
-            <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</guid>
             <pubDate>Tue, 03 May 2022 09:09:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
@@ -78,6 +70,14 @@
             <pubDate>Mon, 25 Apr 2022 11:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650441383051_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [5월 출고분]]]></title>
+            <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</link>
+            <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</guid>
+            <pubDate>Tue, 03 May 2022 09:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 2PM - 7집 MUST [컬러 LP]]]></title>
