@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 09:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 10:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daft Punk 다프트 펑크 - Alive 1997 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5f6c1427-4751-4a33-9d68-c733e4421cdb</link>
+            <guid>https://www.seoulvinyl.com/product/5f6c1427-4751-4a33-9d68-c733e4421cdb</guid>
+            <pubDate>Thu, 12 May 2022 10:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652349341704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[My Chemical Romance 마이 케미컬 로맨스 – The Black Parade (2LP, gatefold)]]></title>
+            <link>https://www.seoulvinyl.com/product/dc7b8b60-b85d-4669-bad1-fc6e5fb31de4</link>
+            <guid>https://www.seoulvinyl.com/product/dc7b8b60-b85d-4669-bad1-fc6e5fb31de4</guid>
+            <pubDate>Thu, 12 May 2022 10:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348050287_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Hot Chili Peppers 레드 핫 칠리 페퍼스 - Unlimited Love]]></title>
             <link>https://www.seoulvinyl.com/product/0e384aa6-e23b-4154-91c5-cedc75b732a7</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643971379414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Led Zeppelin (레드 제플린) - 2집 Led Zeppelin II [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2dd356b9-9bf4-4858-979a-6a8912e9e2e2</link>
-            <guid>https://www.seoulvinyl.com/product/2dd356b9-9bf4-4858-979a-6a8912e9e2e2</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1644235782600_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
             <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
             <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</guid>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1603795688530_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One Direction 원디렉션 – Take Me Home (Lp, Limited Edition, Clear With White Swirl)]]></title>
-            <link>https://www.seoulvinyl.com/product/1e6368f0-2d86-4033-bb90-cd9c5866829d</link>
-            <guid>https://www.seoulvinyl.com/product/1e6368f0-2d86-4033-bb90-cd9c5866829d</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646392054184_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
