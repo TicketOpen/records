@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 11:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 12:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652347102587_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
-            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
-            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[더 위켄드 The Weeknd - Blinding Lights Limited LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/ae3f5483-9832-4e12-bc41-56948b7d486c</link>
             <guid>https://www.seoulvinyl.com/product/ae3f5483-9832-4e12-bc41-56948b7d486c</guid>
@@ -374,6 +366,14 @@
             <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648275873087_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
+            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
+            <pubDate>Sat, 07 May 2022 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 에덴의 동쪽 드라마 음악 (East of Eden OST) [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c69c399e-8b8f-4a60-b7cc-e5aa0c2abba6</link>
             <guid>https://www.seoulvinyl.com/product/c69c399e-8b8f-4a60-b7cc-e5aa0c2abba6</guid>
-            <pubDate>Thu, 12 May 2022 11:09:20 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 11:08:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652350996834_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 슬픔보다 더 슬픈 이야기 영화음악 (More Than Blue) [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/924e3266-e66b-4715-9893-83d8354a7513</link>
             <guid>https://www.seoulvinyl.com/product/924e3266-e66b-4715-9893-83d8354a7513</guid>
-            <pubDate>Thu, 12 May 2022 11:09:20 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 11:08:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652350854604_1000.jpg" length="0" type="image/jpg"/>
         </item>
