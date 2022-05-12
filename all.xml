@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 07:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 08:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</link>
             <guid>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</guid>
-            <pubDate>Thu, 12 May 2022 07:10:44 GMT</pubDate>
+            <pubDate>Thu, 12 May 2022 07:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
         </item>
