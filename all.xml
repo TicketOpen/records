@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,7 +288,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237106365_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Do Not Pass Me By Vol. 2 [140g Silver LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Do Not Pass Me By Vol. 2 (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71</link>
             <guid>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71</guid>
             <pubDate>Sat, 23 Apr 2022 07:08:12 GMT</pubDate>
@@ -334,6 +334,14 @@
             <pubDate>Sat, 23 Apr 2022 07:08:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279360638_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JMSN - Heals Me [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
+            <guid>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</guid>
+            <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruno Mars - 24K Magic (Ltd)(Colored LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -384,14 +392,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JMSN - Heals Me [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
-            <guid>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48-1764</link>
             <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48-1764</guid>
@@ -432,11 +432,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756347090_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[O.S.T. - French Dispatch (프렌치 디스패치) (Soundtrack)(180g 2LP) (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA[French Dispatch (프렌치 디스패치) (Soundtrack) (180g 2LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</link>
             <guid>https://www.seoulvinyl.com/product/1970ba83-e937-4591-b2cf-e36c39fc9592</guid>
             <pubDate>Mon, 09 May 2022 05:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -544,6 +544,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
+            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
+            <pubDate>Thu, 05 May 2022 14:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</link>
             <guid>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</guid>
@@ -590,14 +598,6 @@
             <pubDate>Thu, 05 May 2022 14:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633856911416_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
-            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
-            <pubDate>Thu, 05 May 2022 14:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryo Fukui 후쿠이 료 - My Favorite Tune Lp (서울바이닐 ─ JAZZ)]]></title>

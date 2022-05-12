@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237106365_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Do Not Pass Me By Vol. 2 [140g Silver LP]]]></title>
+            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Do Not Pass Me By Vol. 2]]></title>
             <link>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71</link>
             <guid>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71</guid>
             <pubDate>Sat, 23 Apr 2022 07:08:12 GMT</pubDate>
@@ -78,6 +78,14 @@
             <pubDate>Sat, 23 Apr 2022 07:08:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279360638_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[JMSN - Heals Me [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
+            <guid>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</guid>
+            <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruno Mars - 24K Magic (Ltd)(Colored LP)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 28 Apr 2022 11:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JMSN - Heals Me [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
-            <guid>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</guid>
-            <pubDate>Sat, 23 Apr 2022 07:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

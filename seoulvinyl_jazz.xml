@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 08:12:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 09:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 05 May 2022 14:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
+            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
+            <pubDate>Thu, 05 May 2022 14:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 05 May 2022 14:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633856911416_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp]]]></title>
-            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
-            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
-            <pubDate>Thu, 05 May 2022 14:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryo Fukui 후쿠이 료 - My Favorite Tune Lp]]></title>
