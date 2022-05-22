@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 23:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2022 02:52:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1807</guid>
+            <pubDate>Sun, 22 May 2022 02:52:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message]]></title>
+            <link>https://www.seoulvinyl.com/product/ec5b8bc3-e58e-4a46-9fb5-3089a5e827f7</link>
+            <guid>https://www.seoulvinyl.com/product/ec5b8bc3-e58e-4a46-9fb5-3089a5e827f7</guid>
+            <pubDate>Sun, 22 May 2022 02:52:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652438132796_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Masayoshi Takanaka 마사요시 타카나카 高中正義 – An Insatiable High]]></title>
             <link>https://www.seoulvinyl.com/product/f315e4b6-71da-4b5e-a827-2f2fd2b1dd1c</link>
@@ -22,14 +38,6 @@
             <pubDate>Mon, 09 May 2022 11:09:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
-            <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
-            <guid>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</guid>
-            <pubDate>Mon, 09 May 2022 10:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Narumin & Etsu (東北新幹線) – Thru Traffic]]></title>
@@ -96,44 +104,36 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650534499403_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kinokuniya Band 키노쿠니야 밴드 - Street Sensation]]></title>
-            <link>https://www.seoulvinyl.com/product/93dc7d2c-b43e-4246-b398-8ce441896bf9</link>
-            <guid>https://www.seoulvinyl.com/product/93dc7d2c-b43e-4246-b398-8ce441896bf9</guid>
-            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650538148513_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Meiko Nakahara 메이코 나카하라 - Friday Magic]]></title>
+            <link>https://www.seoulvinyl.com/product/eeea94b4-c3eb-40bc-a9fe-ba20b4893887</link>
+            <guid>https://www.seoulvinyl.com/product/eeea94b4-c3eb-40bc-a9fe-ba20b4893887</guid>
+            <pubDate>Sun, 22 May 2022 02:52:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652784775667_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yukihiro Takahashi 타카하시 유키히로 – Saravah Saravah!]]></title>
-            <link>https://www.seoulvinyl.com/product/d3db9112-20ea-4afa-968d-0cd11dbcbfbe</link>
-            <guid>https://www.seoulvinyl.com/product/d3db9112-20ea-4afa-968d-0cd11dbcbfbe</guid>
-            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650538009531_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Pictured Resort - Once Upon A Season (한정판 블루 바이닐)]]></title>
+            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
+            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
+            <pubDate>Sun, 22 May 2022 02:52:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Greenwood - SUMMER SUN (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</link>
-            <guid>https://www.seoulvinyl.com/product/ae34ac6e-4ccd-41e8-9bcf-0d297599d668</guid>
-            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650533519882_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Tomoko Aran 토모코 아란 - More Relax]]></title>
+            <link>https://www.seoulvinyl.com/product/de801fb1-7f59-4f7d-a634-ff7539f6b23d</link>
+            <guid>https://www.seoulvinyl.com/product/de801fb1-7f59-4f7d-a634-ff7539f6b23d</guid>
+            <pubDate>Sun, 22 May 2022 02:52:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652438609518_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DJ OSSHY PRESENTS - FEELING YOU (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/af941e1e-a75e-4dac-80d3-a905d4bbd3bd</link>
-            <guid>https://www.seoulvinyl.com/product/af941e1e-a75e-4dac-80d3-a905d4bbd3bd</guid>
-            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650532975444_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lui - Oh, Oh (7인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/4db33c80-050a-4b18-aa04-68c8d7f2028c</link>
-            <guid>https://www.seoulvinyl.com/product/4db33c80-050a-4b18-aa04-68c8d7f2028c</guid>
-            <pubDate>Mon, 25 Apr 2022 07:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650533149152_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
+            <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
+            <guid>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</guid>
+            <pubDate>Mon, 09 May 2022 10:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
