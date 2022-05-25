@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 06:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 07:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
+            <guid>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</guid>
+            <pubDate>Wed, 25 May 2022 07:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653459818075_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 백지영 - 1집 Sorrow [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 09 May 2022 11:09:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [7월 출고분]]]></title>
-            <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771</link>
-            <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771</guid>
-            <pubDate>Tue, 03 May 2022 09:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [5월 출고분]]]></title>
