@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 11:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 12:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</link>
             <guid>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</guid>
-            <pubDate>Thu, 26 May 2022 11:08:45 GMT</pubDate>
+            <pubDate>Thu, 26 May 2022 11:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653558983723_1000.jpg" length="0" type="image/jpg"/>
         </item>
