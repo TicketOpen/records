@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 11:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</link>
+            <guid>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</guid>
+            <pubDate>Thu, 26 May 2022 11:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653558983723_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
@@ -112,14 +120,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652692178324_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Pictured Resort - Once Upon A Season (한정판 블루 바이닐) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
-            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
-            <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Meiko Nakahara 메이코 나카하라 - Friday Magic (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/eeea94b4-c3eb-40bc-a9fe-ba20b4893887</link>
             <guid>https://www.seoulvinyl.com/product/eeea94b4-c3eb-40bc-a9fe-ba20b4893887</guid>
@@ -208,6 +208,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
+            <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
+            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LP액자 / 슬림 프레임 (13mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</link>
             <guid>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</guid>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
-            <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - The Sea (LP, 블루컬러 한정반, 2022 RSD) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</link>
+            <guid>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</guid>
+            <pubDate>Thu, 26 May 2022 11:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653558983723_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
             <guid>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</guid>
@@ -894,14 +902,6 @@
             <pubDate>Mon, 09 May 2022 11:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 1집 자전거 탄 풍경 [5월 출고분] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</link>
-            <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434</guid>
-            <pubDate>Tue, 03 May 2022 09:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp) (서울바이닐 ─ JAPANESE)]]></title>
@@ -1048,6 +1048,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
+            <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
+            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LP액자 / 슬림 프레임 (13mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</link>
             <guid>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</guid>
@@ -1134,14 +1142,6 @@
             <pubDate>Mon, 02 May 2022 09:10:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
-            <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
-            <pubDate>Fri, 05 Nov 2021 05:30:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ etc)]]></title>
