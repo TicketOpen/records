@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 23:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 00:40:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -888,20 +888,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652350854604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</link>
-            <guid>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</guid>
-            <pubDate>Thu, 12 May 2022 07:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 수호 (SUHO) - 미니앨범 2집 : Grey Suit [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</link>
             <guid>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</guid>
             <pubDate>Mon, 09 May 2022 11:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</link>
+            <guid>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</guid>
+            <pubDate>Thu, 12 May 2022 07:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp) (서울바이닐 ─ JAPANESE)]]></title>
