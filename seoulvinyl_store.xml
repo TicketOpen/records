@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 10:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 11:13:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2PM - 7집 MUST [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</link>
+            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</guid>
+            <pubDate>Fri, 27 May 2022 11:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Black Colored Cassette Tape)]]></title>
             <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba-1829</link>
@@ -118,14 +126,6 @@
             <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652867662002_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1807</guid>
-            <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Meiko Nakahara 메이코 나카하라 - Friday Magic]]></title>
