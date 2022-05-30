@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 09:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 10:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
+            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
+            <pubDate>Mon, 30 May 2022 10:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650536715320_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamaya Kiyoshi (야마야 키요시) - Tsugaru / Osorezan [LP] (2021 일본 RSD 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/e4904e12-a81c-4996-8544-40a882dac23f</link>
-            <guid>https://www.seoulvinyl.com/product/e4904e12-a81c-4996-8544-40a882dac23f</guid>
-            <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650534499403_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Meiko Nakahara 메이코 나카하라 - Friday Magic]]></title>

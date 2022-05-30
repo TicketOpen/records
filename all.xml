@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 09:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 10:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김아름 - AQUA CITY [140g 레드투명 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</link>
+            <guid>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</guid>
+            <pubDate>Mon, 30 May 2022 10:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653903286029_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
+            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
+            <pubDate>Mon, 30 May 2022 10:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</link>
@@ -112,28 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 코나 (KONA) - 2.5집 OVERLAP [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0916e088-9e9b-4b53-a6fe-f4c5c291e127</link>
-            <guid>https://www.seoulvinyl.com/product/0916e088-9e9b-4b53-a6fe-f4c5c291e127</guid>
-            <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652692178324_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Meiko Nakahara 메이코 나카하라 - Friday Magic (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/eeea94b4-c3eb-40bc-a9fe-ba20b4893887</link>
             <guid>https://www.seoulvinyl.com/product/eeea94b4-c3eb-40bc-a9fe-ba20b4893887</guid>
             <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652784775667_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Mari Iijima 이이지마 마리 - My Heart In Red (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/5d4a5e47-af95-44d0-a650-3522ea3afe20</link>
-            <guid>https://www.seoulvinyl.com/product/5d4a5e47-af95-44d0-a650-3522ea3afe20</guid>
-            <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439314942_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer Soul 썸머 소울 - December (Cassette Tape) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김아름 - AQUA CITY [140g 레드투명 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</link>
+            <guid>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</guid>
+            <pubDate>Mon, 30 May 2022 10:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653903286029_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</link>
             <guid>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</guid>
@@ -896,12 +904,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 수호 (SUHO) - 미니앨범 2집 : Grey Suit [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</link>
-            <guid>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</guid>
-            <pubDate>Sat, 28 May 2022 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
+            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
+            <pubDate>Mon, 30 May 2022 10:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp) (서울바이닐 ─ JAPANESE)]]></title>
@@ -998,14 +1006,6 @@
             <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650536715320_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamaya Kiyoshi (야마야 키요시) - Tsugaru / Osorezan [LP] (2021 일본 RSD 한정반) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/e4904e12-a81c-4996-8544-40a882dac23f</link>
-            <guid>https://www.seoulvinyl.com/product/e4904e12-a81c-4996-8544-40a882dac23f</guid>
-            <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650534499403_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Meiko Nakahara 메이코 나카하라 - Friday Magic (서울바이닐 ─ JAPANESE)]]></title>
