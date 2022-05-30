@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 14:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 15:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -920,14 +920,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Pictured Resort - Once Upon A Season (한정판 블루 바이닐) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
-            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
-            <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/ec5b8bc3-e58e-4a46-9fb5-3089a5e827f7</link>
             <guid>https://www.seoulvinyl.com/product/ec5b8bc3-e58e-4a46-9fb5-3089a5e827f7</guid>
@@ -1014,6 +1006,14 @@
             <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652784775667_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Pictured Resort - Once Upon A Season (한정판 블루 바이닐) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
+            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
+            <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Tomoko Aran 토모코 아란 - More Relax (서울바이닐 ─ JAPANESE)]]></title>
