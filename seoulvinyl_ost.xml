@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 03:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 04:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 12 May 2022 10:11:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346938502_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리커리쉬 피자 O.S.T [Gatefold][2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</link>
+            <guid>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</guid>
+            <pubDate>Thu, 12 May 2022 10:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346227044_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반]]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 12 May 2022 10:11:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346508429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리커리쉬 피자 O.S.T [Gatefold][2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</link>
-            <guid>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</guid>
-            <pubDate>Thu, 12 May 2022 10:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346227044_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라 - 엔니오 모리꼬네 BEST OST (Symphony Live) [180g 블루 LP]]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 03:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 04:30:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -400,6 +400,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346938502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리커리쉬 피자 O.S.T [Gatefold][2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</link>
+            <guid>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</guid>
+            <pubDate>Thu, 12 May 2022 10:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346227044_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[별에서 온 그대 O.S.T [150g 투명 블루 컬러반 LP, 초회한정반] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48-1764</link>
             <guid>https://www.seoulvinyl.com/product/628bb307-0665-4c0a-a90e-e6f7a4821d48-1764</guid>
@@ -496,14 +504,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346508429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리커리쉬 피자 O.S.T [Gatefold][2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</link>
-            <guid>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</guid>
-            <pubDate>Thu, 12 May 2022 10:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346227044_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라 - 엔니오 모리꼬네 BEST OST (Symphony Live) [180g 블루 LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a</link>
             <guid>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a</guid>
@@ -534,6 +534,14 @@
             <pubDate>Mon, 23 May 2022 06:12:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237618963_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
+            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
+            <pubDate>Mon, 23 May 2022 06:12:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
@@ -598,14 +606,6 @@
             <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439314942_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
-            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
-            <pubDate>Mon, 23 May 2022 06:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryo Fukui 후쿠이 료 - My Favorite Tune Lp (서울바이닐 ─ JAZZ)]]></title>
@@ -888,20 +888,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652350854604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 수호 (SUHO) - 미니앨범 2집 : Grey Suit [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</link>
-            <guid>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</guid>
-            <pubDate>Sat, 28 May 2022 05:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</link>
             <guid>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f</guid>
             <pubDate>Thu, 12 May 2022 07:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 수호 (SUHO) - 미니앨범 2집 : Grey Suit [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</link>
+            <guid>https://www.seoulvinyl.com/product/1587f7ba-2677-4d83-9cd9-a4b0b8530a11</guid>
+            <pubDate>Sat, 28 May 2022 05:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091518797_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp) (서울바이닐 ─ JAPANESE)]]></title>
