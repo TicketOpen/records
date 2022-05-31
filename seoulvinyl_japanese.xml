@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:48:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
+            <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
+            <guid>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</guid>
+            <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Narumin & Etsu (東北新幹線) – Thru Traffic]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652438609518_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
-            <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
-            <guid>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</guid>
-            <pubDate>Mon, 23 May 2022 06:13:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
