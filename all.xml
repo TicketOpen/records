@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,7 +376,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648279360638_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[JMSN - Heals Me [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[JMSN 제임슨 - Heals Me [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</link>
             <guid>https://www.seoulvinyl.com/product/68b2eec4-2274-4531-b790-2705f1a60d5e</guid>
             <pubDate>Mon, 23 May 2022 21:08:07 GMT</pubDate>
@@ -395,7 +395,7 @@
             <title><![CDATA[드라이브 마이 카 영화음악 [LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/9452f1ee-cc11-4148-93e5-957aaa9b597a</link>
             <guid>https://www.seoulvinyl.com/product/9452f1ee-cc11-4148-93e5-957aaa9b597a</guid>
-            <pubDate>Fri, 03 Jun 2022 09:08:42 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 09:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654245382028_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -651,7 +651,7 @@
             <title><![CDATA[Sigrid 시그리드 - How To Let Go (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/184c8443-d46c-40e8-95f0-3f6e3c6e131a</link>
             <guid>https://www.seoulvinyl.com/product/184c8443-d46c-40e8-95f0-3f6e3c6e131a</guid>
-            <pubDate>Fri, 03 Jun 2022 09:09:05 GMT</pubDate>
+            <pubDate>Fri, 03 Jun 2022 09:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654246147889_1000.jpg" length="0" type="image/jpg"/>
         </item>
