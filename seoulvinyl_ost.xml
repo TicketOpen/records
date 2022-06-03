@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[드라이브 마이 카 영화음악 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9452f1ee-cc11-4148-93e5-957aaa9b597a</link>
+            <guid>https://www.seoulvinyl.com/product/9452f1ee-cc11-4148-93e5-957aaa9b597a</guid>
+            <pubDate>Fri, 03 Jun 2022 09:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654245382028_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Japanese Breakfast (재패니즈 브렉퍼스트) - Sable (Original Game Soundtrack)(Ltd)(Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/80e63184-920c-4048-8f7e-d4a8613c43f3</link>
@@ -102,14 +110,6 @@
             <pubDate>Mon, 09 May 2022 05:14:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists - Now Yacht Rock 2 (Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</link>
-            <guid>https://www.seoulvinyl.com/product/2ac8910d-f403-4de6-b9a8-b539d7cdb7c1</guid>
-            <pubDate>Mon, 09 May 2022 05:14:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287890601_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모아나 O.S.T [LP]]]></title>

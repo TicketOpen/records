@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 08:11:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 09:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Mon, 23 May 2022 21:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652347102587_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반]]]></title>
+            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
+            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
+            <pubDate>Mon, 23 May 2022 21:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[더 위켄드 The Weeknd - Blinding Lights Limited LP]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 23 May 2022 21:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반]]]></title>
-            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
-            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
-            <pubDate>Mon, 23 May 2022 21:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP]]]></title>
