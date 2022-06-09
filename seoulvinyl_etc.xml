@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ etc</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 09:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 10:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442893682_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[중고 / 비디오 테이프] Hedwig And The Angry Inch 헤드웍]]></title>
-            <link>https://www.seoulvinyl.com/product/53589501-863e-416b-a723-05c3d015a3a3</link>
-            <guid>https://www.seoulvinyl.com/product/53589501-863e-416b-a723-05c3d015a3a3</guid>
-            <pubDate>Tue, 07 Jun 2022 22:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442845849_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[중고 / 비디오 테이프] August Rush 어거스트 러쉬]]></title>
             <link>https://www.seoulvinyl.com/product/4ff50e13-203f-4e63-a551-4267620895f4</link>
             <guid>https://www.seoulvinyl.com/product/4ff50e13-203f-4e63-a551-4267620895f4</guid>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 07 Jun 2022 22:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[중고 / 비디오 테이프] Hedwig And The Angry Inch 헤드웍]]></title>
+            <link>https://www.seoulvinyl.com/product/53589501-863e-416b-a723-05c3d015a3a3</link>
+            <guid>https://www.seoulvinyl.com/product/53589501-863e-416b-a723-05c3d015a3a3</guid>
+            <pubDate>Tue, 07 Jun 2022 22:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442845849_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LP액자 / 두꺼운 프레임 (20mm) / 일반 레코드판 사이즈 / 옅은 색상]]></title>
