@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 06:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 08:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] SOULBYSEL (소울바이서울) Compilation 01 [반투명 블루컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8b8612dc-10d4-427d-bee4-8236899733dc</link>
+            <guid>https://www.seoulvinyl.com/product/8b8612dc-10d4-427d-bee4-8236899733dc</guid>
+            <pubDate>Fri, 10 Jun 2022 08:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654844847836_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 신용재 - 사계 (四季) [2LP] (한정반)]]></title>
             <link>https://www.seoulvinyl.com/product/57adb68b-228d-4e9f-a502-7f9eeef2361d</link>
@@ -30,14 +38,6 @@
             <pubDate>Fri, 03 Jun 2022 09:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654245382028_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</link>
-            <guid>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</guid>
-            <pubDate>Fri, 03 Jun 2022 03:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JUSTHIS & Paloalto - <4 THE YOUTH>]]></title>
@@ -112,12 +112,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653459818075_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 백지영 - 1집 Sorrow [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</link>
-            <guid>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</guid>
-            <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935719322_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</link>
+            <guid>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</guid>
+            <pubDate>Fri, 03 Jun 2022 03:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
