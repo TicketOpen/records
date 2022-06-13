@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 11:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 12:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 02 Jun 2022 11:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">68,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635763784625_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김아름 - AQUA CITY [140g 레드투명 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</link>
-            <guid>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</guid>
-            <pubDate>Thu, 02 Jun 2022 12:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653903286029_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 신해철 - 2집 Myself [레드 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 03 Jun 2022 03:38:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김아름 - AQUA CITY [140g 레드투명 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</link>
+            <guid>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</guid>
+            <pubDate>Thu, 02 Jun 2022 12:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653903286029_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp] (서울바이닐 ─ 스토어)]]></title>
@@ -800,14 +800,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635763784625_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김아름 - AQUA CITY [140g 레드투명 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</link>
-            <guid>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</guid>
-            <pubDate>Thu, 02 Jun 2022 12:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653903286029_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 신해철 - 2집 Myself [레드 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/3d3e1a51-85ed-49ac-82c6-37932b5d135e</link>
             <guid>https://www.seoulvinyl.com/product/3d3e1a51-85ed-49ac-82c6-37932b5d135e</guid>
@@ -894,6 +886,14 @@
             <pubDate>Fri, 03 Jun 2022 03:38:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김아름 - AQUA CITY [140g 레드투명 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</link>
+            <guid>https://www.seoulvinyl.com/product/31d6da2c-ec9b-4aa0-9f82-804258330571</guid>
+            <pubDate>Thu, 02 Jun 2022 12:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653903286029_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 백지영 - 2집 Rouge [180g LP] (서울바이닐 ─ KOREAN)]]></title>
