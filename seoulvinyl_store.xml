@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 14:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 15:14:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 03 Jun 2022 09:08:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654245382028_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</link>
+            <guid>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</guid>
+            <pubDate>Fri, 03 Jun 2022 03:38:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JUSTHIS & Paloalto (저스디스 & 팔로알토) - <4 THE YOUTH>]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 25 May 2022 07:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653459818075_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</link>
-            <guid>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</guid>
-            <pubDate>Fri, 03 Jun 2022 03:38:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김아름 - AQUA CITY [140g 레드투명 LP]]]></title>
