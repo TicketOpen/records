@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:43:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN]]]></title>
+            <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
+            <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
+            <pubDate>Tue, 14 Jun 2022 05:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655111397583_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654245382028_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</link>
-            <guid>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[JUSTHIS & Paloalto (저스디스 & 팔로알토) - <4 THE YOUTH>]]></title>
@@ -120,12 +120,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</link>
-            <guid>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</guid>
+            <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</link>
+            <guid>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</guid>
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653558983723_1000.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654226059945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp]]]></title>
