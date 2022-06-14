@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 03:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 04:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</link>
+            <guid>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</guid>
+            <pubDate>Tue, 14 Jun 2022 04:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655177737219_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] SOULBYSEL (소울바이서울) Compilation 01 [반투명 블루컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/8b8612dc-10d4-427d-bee4-8236899733dc</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653558983723_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
-            <guid>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653459818075_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp]]]></title>

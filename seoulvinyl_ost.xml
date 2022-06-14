@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 03:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 04:43:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</link>
+            <guid>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</guid>
+            <pubDate>Tue, 14 Jun 2022 04:41:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655177737219_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라이브 마이 카 영화음악 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9452f1ee-cc11-4148-93e5-957aaa9b597a</link>
@@ -102,14 +110,6 @@
             <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[queen 보헤미안 랩소디 O.S.T [게이트폴드 180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</link>
-            <guid>https://www.seoulvinyl.com/product/0bdb3900-fb7e-4d07-a05e-dbb6f04fdbe5</guid>
-            <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648287629630_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모아나 O.S.T [LP]]]></title>
