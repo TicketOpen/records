@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145871566_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
+            <link>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</link>
+            <guid>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</guid>
+            <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
             <guid>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</guid>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145748255_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
-            <link>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</link>
-            <guid>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</guid>
-            <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP]]]></title>

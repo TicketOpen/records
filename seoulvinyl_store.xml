@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 14:07:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 15:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145871566_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
+            <link>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</link>
+            <guid>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</guid>
+            <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</link>
             <guid>https://www.seoulvinyl.com/product/fc1c7ac8-7346-4ac3-9c49-9ac38e689dab</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145748255_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
-            <link>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</link>
-            <guid>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp]]]></title>
