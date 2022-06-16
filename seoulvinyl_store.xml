@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:26:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 스물다섯 스물하나 OST [크리스탈 투명 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2a30e9e8-0314-4850-8a90-0a6dc434c226</link>
+            <guid>https://www.seoulvinyl.com/product/2a30e9e8-0314-4850-8a90-0a6dc434c226</guid>
+            <pubDate>Thu, 16 Jun 2022 09:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655369053429_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN]]]></title>
             <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145748255_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp]]]></title>
-            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
-            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
