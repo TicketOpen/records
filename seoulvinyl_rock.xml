@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 17:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 18:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654246147889_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</link>
-            <guid>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</guid>
-            <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301779670_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Toro Y Moi (토로 이 므와) - 7집 MAHAL [실버 컬러 LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647945666705_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</link>
+            <guid>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</guid>
+            <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301779670_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
