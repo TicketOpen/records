@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 05:12:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 06:12:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756049080_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
+            <guid>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</guid>
+            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jorja Smith(조자 스미스) - Be Right Back [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</link>
             <guid>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
-            <guid>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
