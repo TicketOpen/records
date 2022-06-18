@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 00:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 02:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 16 Jun 2022 09:09:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655369053429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN]]]></title>
-            <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
-            <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
-            <pubDate>Tue, 14 Jun 2022 05:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655111397583_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP)]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN]]]></title>
+            <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
+            <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
+            <pubDate>Tue, 14 Jun 2022 05:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655111397583_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP]]]></title>

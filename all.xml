@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 00:41:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 02:54:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 16 Jun 2022 09:09:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655369053429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
-            <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
-            <pubDate>Tue, 14 Jun 2022 05:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655111397583_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 02 Jun 2022 05:25:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
+            <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
+            <pubDate>Tue, 14 Jun 2022 05:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655111397583_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -360,14 +360,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756049080_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
-            <guid>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jorja Smith(조자 스미스) - Be Right Back [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</link>
             <guid>https://www.seoulvinyl.com/product/cfb3d643-b1bc-40f4-bb8e-632a6291754d</guid>
@@ -390,6 +382,14 @@
             <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</link>
+            <guid>https://www.seoulvinyl.com/product/4edc6e65-365b-4f66-adfe-c876261dd3af</guid>
+            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649401223855_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ OST)]]></title>
@@ -784,14 +784,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655369053429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
-            <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
-            <pubDate>Tue, 14 Jun 2022 05:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655111397583_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] SOULBYSEL (소울바이서울) Compilation 01 [반투명 블루컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/8b8612dc-10d4-427d-bee4-8236899733dc</link>
             <guid>https://www.seoulvinyl.com/product/8b8612dc-10d4-427d-bee4-8236899733dc</guid>
@@ -864,20 +856,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
-            <guid>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</guid>
-            <pubDate>Wed, 25 May 2022 07:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653459818075_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 백지영 - 1집 Sorrow [180g LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</link>
             <guid>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</guid>
             <pubDate>Sun, 22 May 2022 02:50:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935719322_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
+            <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
+            <pubDate>Tue, 14 Jun 2022 05:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655111397583_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 리쌍 - 1집 leessang of honey familly [2LP] (서울바이닐 ─ KOREAN)]]></title>
@@ -902,6 +894,14 @@
             <pubDate>Thu, 26 May 2022 11:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653558983723_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
+            <guid>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</guid>
+            <pubDate>Wed, 25 May 2022 07:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653459818075_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp) (서울바이닐 ─ JAPANESE)]]></title>
