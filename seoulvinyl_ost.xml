@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654245382028_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[True Stories 트루 스토리스 OST]]></title>
+            <link>https://www.seoulvinyl.com/product/8bc9abef-f32b-405e-961a-c474cd16ab3a</link>
+            <guid>https://www.seoulvinyl.com/product/8bc9abef-f32b-405e-961a-c474cd16ab3a</guid>
+            <pubDate>Mon, 20 Jun 2022 10:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655718301739_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Japanese Breakfast (재패니즈 브렉퍼스트) - Sable (Original Game Soundtrack)(Ltd)(Colored 2LP)]]></title>
@@ -102,14 +110,6 @@
             <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648801738966_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 알고있지만, 드라마 OST [화이트 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b9fb062f-d425-4758-8275-50c51e026135</link>
-            <guid>https://www.seoulvinyl.com/product/b9fb062f-d425-4758-8275-50c51e026135</guid>
-            <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모아나 O.S.T [LP]]]></title>
