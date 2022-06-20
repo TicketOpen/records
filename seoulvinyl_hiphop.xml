@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 07:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 08:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - The Sea (LP, 블루컬러 한정반, 2022 RSD)]]></title>
-            <link>https://www.seoulvinyl.com/product/2f9d3924-c3db-497d-8069-0fc90b1d099d</link>
-            <guid>https://www.seoulvinyl.com/product/2f9d3924-c3db-497d-8069-0fc90b1d099d</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301920688_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Jeff Redd – Down Low (P-Vine 발매)]]></title>
             <link>https://www.seoulvinyl.com/product/6af16f1f-01f3-4b6f-8d14-3763b36e59b0</link>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648277898202_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - The Sea (LP, 블루컬러 한정반, 2022 RSD)]]></title>
+            <link>https://www.seoulvinyl.com/product/2f9d3924-c3db-497d-8069-0fc90b1d099d</link>
+            <guid>https://www.seoulvinyl.com/product/2f9d3924-c3db-497d-8069-0fc90b1d099d</guid>
+            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301920688_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP]]]></title>
