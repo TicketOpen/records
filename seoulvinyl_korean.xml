@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 09:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 10:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 강산에 - 1집 Vol.0 [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</link>
+            <guid>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</guid>
+            <pubDate>Tue, 21 Jun 2022 10:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655806027060_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 스물다섯 스물하나 OST [크리스탈 투명 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/2a30e9e8-0314-4850-8a90-0a6dc434c226</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 백지영 - 1집 Sorrow [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</link>
-            <guid>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</guid>
-            <pubDate>Sun, 22 May 2022 02:51:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935719322_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN]]]></title>
