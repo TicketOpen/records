@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 00:44:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 03:02:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145871566_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
-            <link>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</link>
-            <guid>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</guid>
-            <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 지누션 - 정규 1집 [JINUSEAN]]]></title>
             <link>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</link>
             <guid>https://www.seoulvinyl.com/product/c0c7c9bd-2ac6-425a-9b31-7407de74640f</guid>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145748255_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
+            <link>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</link>
+            <guid>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</guid>
+            <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP]]]></title>
