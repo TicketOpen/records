@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 13:28:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 14:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -518,6 +518,134 @@
             <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1593598329744_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Howlin' Wolf - Moanin' In The Moonlight [180g 오디오파일 LP][레드 컬러 한정반] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</link>
+            <guid>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649402912704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</link>
+            <guid>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237618963_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
+            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
+            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</link>
+            <guid>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633866067653_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doug Carn 더그 칸 - Spirit of the New Land Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/a874c1b0-53af-48d2-a609-5ef870b5e68a</link>
+            <guid>https://www.seoulvinyl.com/product/a874c1b0-53af-48d2-a609-5ef870b5e68a</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633865947209_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kellee Patterson 켈리 패터슨 - Maiden Voyage Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/fddbee82-2979-4c34-8eb7-3efb6343511a</link>
+            <guid>https://www.seoulvinyl.com/product/fddbee82-2979-4c34-8eb7-3efb6343511a</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633865775244_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Haden 찰리 헤이든 - Nocturne Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/e266b3a9-f364-4866-bb3c-844d4e6483a7</link>
+            <guid>https://www.seoulvinyl.com/product/e266b3a9-f364-4866-bb3c-844d4e6483a7</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861441917_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thelonious Monk Septet 텔로니어스 몽크 셉텟 - Monk's Music Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/a4878e93-cb21-453b-b40f-86eae8442037</link>
+            <guid>https://www.seoulvinyl.com/product/a4878e93-cb21-453b-b40f-86eae8442037</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633860992667_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Glenn Miller 글렌 밀러 - The Hits Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</link>
+            <guid>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633856911416_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sergio mendes 세르지오 멘데스 - The Beat of Brazil (double split colored) LP (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</link>
+            <guid>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Mari Iijima 이이지마 마리 - My Heart In Red (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/5d4a5e47-af95-44d0-a650-3522ea3afe20</link>
+            <guid>https://www.seoulvinyl.com/product/5d4a5e47-af95-44d0-a650-3522ea3afe20</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439314942_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryo Fukui 후쿠이 료 - My Favorite Tune Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/6e37733e-13b7-4f4f-a43f-22771fd3daf8</link>
+            <guid>https://www.seoulvinyl.com/product/6e37733e-13b7-4f4f-a43f-22771fd3daf8</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861258526_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ella Fitzgerald (엘라 피츠제럴드) - Ella Wishes You A Swinging Christmas [화이트 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</link>
+            <guid>https://www.seoulvinyl.com/product/a68c89bc-e240-4ae8-a601-d5bf21ecceb8</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans 빌 에반스 - Everybody Digs Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</link>
+            <guid>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633852623408_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[True Loves 트루 러브즈 - Sunday Aftertnoon (blue colored) LP (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</link>
+            <guid>https://www.seoulvinyl.com/product/35f3cbb7-de4d-4bf8-8fc9-7f1891806f3a</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sigrid 시그리드 LP - How To Let Go (서울바이닐 ─ ROCK & POP)]]></title>
