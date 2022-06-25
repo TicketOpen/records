@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 10:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 11:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 세이수미(Say Sue Me) - One Week / My Problem [7인치]]]></title>
+            <link>https://www.seoulvinyl.com/product/507f4f57-e235-44c8-94ee-ecb5c4c5b506</link>
+            <guid>https://www.seoulvinyl.com/product/507f4f57-e235-44c8-94ee-ecb5c4c5b506</guid>
+            <pubDate>Sat, 25 Jun 2022 11:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152351491_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치]]]></title>
+            <link>https://www.seoulvinyl.com/product/f0b579e2-0362-4234-acf4-7c0c657d9024</link>
+            <guid>https://www.seoulvinyl.com/product/f0b579e2-0362-4234-acf4-7c0c657d9024</guid>
+            <pubDate>Sat, 25 Jun 2022 11:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152169886_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 해서웨이(Hathaw9y) - Scribble / hayley [7인치]]]></title>
+            <link>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</link>
+            <guid>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</guid>
+            <pubDate>Sat, 25 Jun 2022 11:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 강산에 - 1집 Vol.0 [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145748255_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Oceanfromtheblue 오션프롬더블루 - 검은머리 (Girl) (Feat. 블루 Bloo) / Ice Cream [7인치, 일본 HMV 한정판]]]></title>
-            <link>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</link>
-            <guid>https://www.seoulvinyl.com/product/0b169fce-e960-409a-b886-c2bfd74ff536</guid>
-            <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145509078_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 업타운 - 1집 Represent [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</link>
-            <guid>https://www.seoulvinyl.com/product/606ed959-ef3f-4110-8921-4ef6487597d6</guid>
-            <pubDate>Thu, 26 May 2022 11:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653558983723_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 프로듀사 드라마음악 (The Producers OST) [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</link>
-            <guid>https://www.seoulvinyl.com/product/e7d4d75a-b4bd-4bf0-85da-3db5de3b5a6f</guid>
-            <pubDate>Wed, 25 May 2022 07:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653459818075_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
