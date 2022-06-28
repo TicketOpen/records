@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 09:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 10:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</guid>
+            <pubDate>Tue, 28 Jun 2022 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656410695702_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prep 프렙 - Prep (핑크 컬러 Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</guid>
+            <pubDate>Tue, 28 Jun 2022 10:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615380304932_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sigrid 시그리드 LP - How To Let Go]]></title>
             <link>https://www.seoulvinyl.com/product/184c8443-d46c-40e8-95f0-3f6e3c6e131a</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648285624514_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Panic! At The Disco (패닉 앳 더 디스코) - A Fever You Can't Sweat Out [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f8f66e3d-abec-4ef1-83a9-7ad94ed05c20</link>
-            <guid>https://www.seoulvinyl.com/product/f8f66e3d-abec-4ef1-83a9-7ad94ed05c20</guid>
-            <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648281372636_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rex Orange County (렉스 오렌지 카운티) - 4집 WHO CARES? [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f0bd03cb-29a0-46df-8fd6-ee3b6038c097</link>
-            <guid>https://www.seoulvinyl.com/product/f0bd03cb-29a0-46df-8fd6-ee3b6038c097</guid>
-            <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647945666705_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP]]]></title>
