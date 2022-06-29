@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -25,6 +25,14 @@
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용)]]></title>
+            <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862</link>
+            <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862</guid>
+            <pubDate>Wed, 29 Jun 2022 10:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인치 VINYL 액자]]></title>
             <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</link>
             <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</guid>
             <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카세트테이프 케이스]]></title>
-            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
-            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
-            <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

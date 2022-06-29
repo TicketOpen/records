@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 09:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 10:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -153,6 +153,14 @@
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862</link>
+            <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862</guid>
+            <pubDate>Wed, 29 Jun 2022 10:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인치 VINYL 액자 (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</link>
             <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</guid>
             <pubDate>Tue, 22 Feb 2022 06:09:44 GMT</pubDate>
@@ -254,14 +262,6 @@
             <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[카세트테이프 케이스 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</link>
-            <guid>https://www.seoulvinyl.com/product/7e7c8b71-0ae7-47de-be24-776882af1c8b</guid>
-            <pubDate>Thu, 09 Dec 2021 12:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">2,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639049387049_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jackson Five (잭슨파이브) - ABC [180g LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -1033,6 +1033,14 @@
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862</link>
+            <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862</guid>
+            <pubDate>Wed, 29 Jun 2022 10:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인치 VINYL 액자 (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</link>
             <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</guid>
             <pubDate>Tue, 22 Feb 2022 06:09:44 GMT</pubDate>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 07 Jun 2022 22:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609587934862_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hiroshi Nagai 히로시 나가이 일러스트 캔버스 액자 (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1065</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1065</guid>
-            <pubDate>Tue, 07 Jun 2022 22:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1616990052551_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GLDN x PAKK x US​:​WE 스플릿 앨범 ‘「玖 / jiǔ」: 3-way split’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
