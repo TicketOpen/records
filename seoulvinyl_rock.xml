@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 10:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 11:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[harry styles 해리 스타일스 lp - fine line (black & white limited vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/harry-1863</link>
+            <guid>https://www.seoulvinyl.com/product/harry-1863</guid>
+            <pubDate>Wed, 29 Jun 2022 11:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656497562292_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment 2 (Ltd)(Gatefold Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</link>
-            <guid>https://www.seoulvinyl.com/product/385962c0-012c-4df5-ad45-c7b5dc2f519a</guid>
-            <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648285624514_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP]]]></title>
