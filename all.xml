@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 09:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 10:13:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[핫펠트 (HA:TFELT) - LEFT [화이트 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/ae2543ef-1439-45cd-83c5-500a7064aa21</link>
             <guid>https://www.seoulvinyl.com/product/ae2543ef-1439-45cd-83c5-500a7064aa21</guid>
-            <pubDate>Thu, 30 Jun 2022 09:09:14 GMT</pubDate>
+            <pubDate>Thu, 30 Jun 2022 09:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656577021584_1000.jpg" length="0" type="image/jpg"/>
         </item>
