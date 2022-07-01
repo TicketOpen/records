@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 23:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</link>
+            <guid>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</guid>
+            <pubDate>Fri, 01 Jul 2022 09:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">97,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656646903704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[핫펠트 (HA:TFELT) - LEFT [화이트 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/ae2543ef-1439-45cd-83c5-500a7064aa21</link>
@@ -22,22 +30,6 @@
             <pubDate>Wed, 29 Jun 2022 11:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656497562292_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</guid>
-            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656410695702_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prep 프렙 - Prep (핑크 컬러 Lp) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</guid>
-            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656411423200_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 클래지콰이 - 정규 4집 Mucho Punk [레드컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -128,12 +120,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146148576_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 서사무엘 (Samuel Seo) - Vulture (Feat. DeAndre') / 먼지 [7인치, 일본 HMV 한정] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</link>
-            <guid>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</guid>
-            <pubDate>Thu, 02 Jun 2022 05:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145871566_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</guid>
+            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656410695702_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prep 프렙 - Prep (핑크 컬러 Lp) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</guid>
+            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656411423200_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Summer Soul 썸머 소울 - December (Cassette Tape) (서울바이닐 ─ 제작)]]></title>
@@ -656,22 +656,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656497562292_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</guid>
-            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656410695702_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prep 프렙 - Prep (핑크 컬러 Lp) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</guid>
-            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656411423200_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sigrid 시그리드 LP - How To Let Go (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/184c8443-d46c-40e8-95f0-3f6e3c6e131a</link>
             <guid>https://www.seoulvinyl.com/product/184c8443-d46c-40e8-95f0-3f6e3c6e131a</guid>
@@ -760,6 +744,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1102-1507-1860</guid>
+            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656410695702_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prep 프렙 - Prep (핑크 컬러 Lp) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1036-1599-1859</guid>
+            <pubDate>Tue, 28 Jun 2022 10:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656411423200_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</link>
             <guid>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</guid>
@@ -774,6 +774,14 @@
             <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</link>
+            <guid>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</guid>
+            <pubDate>Fri, 01 Jul 2022 09:09:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">97,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656646903704_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핫펠트 (HA:TFELT) - LEFT [화이트 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 29 Jun 2022 06:11:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935486556_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 버즈 (Buzz) - 1집 Morning of Buzz [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec511c52-8d04-41ae-9da9-bac92185e5ce</link>
-            <guid>https://www.seoulvinyl.com/product/ec511c52-8d04-41ae-9da9-bac92185e5ce</guid>
-            <pubDate>Wed, 29 Jun 2022 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652868103681_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message (서울바이닐 ─ JAPANESE)]]></title>
