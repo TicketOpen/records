@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 08:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 09:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 29 Jun 2022 11:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656497562292_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 클래지콰이 - 정규 4집 Mucho Punk [레드컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/32a4b69e-4800-4fd5-adea-96e229b07aa0</link>
-            <guid>https://www.seoulvinyl.com/product/32a4b69e-4800-4fd5-adea-96e229b07aa0</guid>
-            <pubDate>Mon, 27 Jun 2022 11:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656327025151_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 세이수미(Say Sue Me) - One Week / My Problem [7인치]]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146462191_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 몬스타엑스 (Monsta X) - Dreaming (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68</link>
+            <guid>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68</guid>
+            <pubDate>Sat, 02 Jul 2022 09:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146148576_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl)]]></title>
