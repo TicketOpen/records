@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 07:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 08:13:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Keshi 케시 - Gabriel (Ltd)(Colored LP) vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/54d1854e-b104-40ef-a954-93c8b10934b9</link>
+            <guid>https://www.seoulvinyl.com/product/54d1854e-b104-40ef-a954-93c8b10934b9</guid>
+            <pubDate>Sat, 02 Jul 2022 08:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656747418779_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl]]></title>
             <link>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 14 Jun 2022 03:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146462191_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 몬스타엑스 (Monsta X) - Dreaming (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68</link>
-            <guid>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68</guid>
-            <pubDate>Mon, 27 Jun 2022 09:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146148576_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl)]]></title>
