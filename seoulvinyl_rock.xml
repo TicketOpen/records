@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 10:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 11:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[olivia rodrigo 올리비아 로드리고 - sour lp(크리스탈 컬러)]]></title>
+            <link>https://www.seoulvinyl.com/product/96d7b2a5-4363-4d17-81e5-e04ca1d3cd71-1867</link>
+            <guid>https://www.seoulvinyl.com/product/96d7b2a5-4363-4d17-81e5-e04ca1d3cd71-1867</guid>
+            <pubDate>Sat, 02 Jul 2022 11:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631941933020_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[harry styles 해리 스타일스 lp - fine line (black & white limited vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/harry-1863</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756347090_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 블랙반)]]></title>
-            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</link>
-            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</guid>
-            <pubDate>Tue, 07 Jun 2022 22:08:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HONNE 혼네 lp - no song without you (퍼플 한정반vinyl)]]></title>
