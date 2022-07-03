@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 12:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 13:19:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,14 +288,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652953189163_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas Vinyl (Red color) LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-841-1809</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-841-1809</guid>
-            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Wee 위 - You Can Fly On My Aeroplane [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/9da8033a-d5f8-4960-b072-01d9e9e208d9</link>
             <guid>https://www.seoulvinyl.com/product/9da8033a-d5f8-4960-b072-01d9e9e208d9</guid>
@@ -382,6 +374,14 @@
             <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301920688_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas Vinyl (Red color) LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-841-1809</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-841-1809</guid>
+            <pubDate>Tue, 14 Jun 2022 03:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
