@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 하현상 - Calibrate [투명 코크 보틀 컬러 LP] vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</link>
+            <guid>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</guid>
+            <pubDate>Mon, 04 Jul 2022 09:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656925307462_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl]]></title>
             <link>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 25 Jun 2022 11:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152169886_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 버즈 (Buzz) - 1집 Morning of Buzz [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/ec511c52-8d04-41ae-9da9-bac92185e5ce</link>
-            <guid>https://www.seoulvinyl.com/product/ec511c52-8d04-41ae-9da9-bac92185e5ce</guid>
-            <pubDate>Sat, 02 Jul 2022 09:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652868103681_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
