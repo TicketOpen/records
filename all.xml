@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 07:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 08:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 04 Jul 2022 09:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656925307462_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</link>
+            <guid>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</guid>
+            <pubDate>Fri, 01 Jul 2022 09:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">97,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656646903704_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kanye West 카니예 웨스트 vinyl - Donda 4LP (서울바이닐 ─ 스토어)]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 02 Jul 2022 08:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656747418779_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</link>
-            <guid>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</guid>
-            <pubDate>Fri, 01 Jul 2022 09:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">97,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656646903704_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핫펠트 (HA:TFELT) - LEFT [화이트 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[이루마 - From The Yellow Room [180g 옐로우 투명 프랑스 스레싱] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</link>
             <guid>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</guid>
-            <pubDate>Tue, 05 Jul 2022 07:09:09 GMT</pubDate>
+            <pubDate>Tue, 05 Jul 2022 07:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[이루마 - First Love [Repackage][180g 화이트컬러 프랑스 프레싱] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</link>
             <guid>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</guid>
-            <pubDate>Tue, 05 Jul 2022 07:09:09 GMT</pubDate>
+            <pubDate>Tue, 05 Jul 2022 07:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722302738_1000.jpg" length="0" type="image/jpg"/>
         </item>
