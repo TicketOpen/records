@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 06:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 07:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이루마 - From The Yellow Room [180g 옐로우 투명 프랑스 스레싱] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</link>
+            <guid>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</guid>
+            <pubDate>Tue, 05 Jul 2022 07:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이루마 - First Love [Repackage][180g 화이트컬러 프랑스 프레싱] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</link>
+            <guid>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</guid>
+            <pubDate>Tue, 05 Jul 2022 07:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722302738_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 하현상 - Calibrate [투명 코크 보틀 컬러 LP] vinyl (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 21 Jun 2022 10:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655806027060_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 스물다섯 스물하나 OST [크리스탈 투명 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2a30e9e8-0314-4850-8a90-0a6dc434c226</link>
-            <guid>https://www.seoulvinyl.com/product/2a30e9e8-0314-4850-8a90-0a6dc434c226</guid>
-            <pubDate>Thu, 16 Jun 2022 09:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655369053429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</link>
-            <guid>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</guid>
-            <pubDate>Tue, 14 Jun 2022 04:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655177737219_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치] (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이루마 - From The Yellow Room [180g 옐로우 투명 프랑스 스레싱] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</link>
+            <guid>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</guid>
+            <pubDate>Tue, 05 Jul 2022 07:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이루마 - First Love [Repackage][180g 화이트컬러 프랑스 프레싱] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</link>
+            <guid>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</guid>
+            <pubDate>Tue, 05 Jul 2022 07:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722302738_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 하현상 - Calibrate [투명 코크 보틀 컬러 LP] vinyl (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</link>
             <guid>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</guid>
@@ -878,22 +894,6 @@
             <pubDate>Wed, 29 Jun 2022 06:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935719322_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 변진섭 - 1집 홀로된다는 것 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/3eb51f8e-e6c8-4bfb-a830-54e044274384</link>
-            <guid>https://www.seoulvinyl.com/product/3eb51f8e-e6c8-4bfb-a830-54e044274384</guid>
-            <pubDate>Wed, 29 Jun 2022 06:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935531743_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 변진섭 - 2집 너에게로 또다시 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/3cffffeb-7074-4b8b-858b-e4c57877e157</link>
-            <guid>https://www.seoulvinyl.com/product/3cffffeb-7074-4b8b-858b-e4c57877e157</guid>
-            <pubDate>Wed, 29 Jun 2022 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935486556_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치] (서울바이닐 ─ KOREAN)]]></title>
