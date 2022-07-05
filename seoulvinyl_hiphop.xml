@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187583</id>
-    <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
-    <updated>2022-07-05T15:11:57.907Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 05 Jul 2022 16:12:47 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kanye West 카니예 웨스트 vinyl - Donda 4LP]]></title>
+            <link>https://www.seoulvinyl.com/product/7763eeb1-7960-4579-92a6-693fab8ba8c7</link>
+            <guid>https://www.seoulvinyl.com/product/7763eeb1-7960-4579-92a6-693fab8ba8c7</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">72,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656915707874_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West 카니예 웨스트 lp - 808s & Heartbreak deluxe collectors set vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-323-1870</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-323-1870</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[kanye west 카니예 웨스트 lp - the college dropout vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/kanyecollege-1869</link>
+            <guid>https://www.seoulvinyl.com/product/kanyecollege-1869</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582355621244_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[kanye west 카니예 웨스트 lp - late registration vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-219-1868</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-219-1868</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582356353786_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keshi 케시 - Gabriel (Ltd)(Colored LP) vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/54d1854e-b104-40ef-a954-93c8b10934b9</link>
+            <guid>https://www.seoulvinyl.com/product/54d1854e-b104-40ef-a954-93c8b10934b9</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656747418779_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jackson Five (잭슨파이브) - ABC [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5c2fddce-6f20-4b2e-ac92-4e86a890c787</link>
+            <guid>https://www.seoulvinyl.com/product/5c2fddce-6f20-4b2e-ac92-4e86a890c787</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656408869974_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Redd – Down Low (P-Vine 발매)]]></title>
+            <link>https://www.seoulvinyl.com/product/6af16f1f-01f3-4b6f-8d14-3763b36e59b0</link>
+            <guid>https://www.seoulvinyl.com/product/6af16f1f-01f3-4b6f-8d14-3763b36e59b0</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652953189163_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wee 위 - You Can Fly On My Aeroplane [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9da8033a-d5f8-4960-b072-01d9e9e208d9</link>
+            <guid>https://www.seoulvinyl.com/product/9da8033a-d5f8-4960-b072-01d9e9e208d9</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348162361_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ponderosa twins Plus One 폰데로사 트윈스 플러스 원 - 2 + 2 + 1 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4b1aa715-2c27-46ac-a794-f980e2d4e2c1</link>
+            <guid>https://www.seoulvinyl.com/product/4b1aa715-2c27-46ac-a794-f980e2d4e2c1</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652347608331_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Al Green 알그린 - Let's Stay Together [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4ad61c01-1989-40dc-a641-b74f6458ca8a</link>
+            <guid>https://www.seoulvinyl.com/product/4ad61c01-1989-40dc-a641-b74f6458ca8a</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652347102587_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반]]]></title>
+            <link>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</link>
+            <guid>https://www.seoulvinyl.com/product/56e05600-3a54-4d7f-a80f-adb80f4ba1d2-1777</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[더 위켄드 The Weeknd - Blinding Lights Limited LP]]></title>
+            <link>https://www.seoulvinyl.com/product/ae3f5483-9832-4e12-bc41-56948b7d486c</link>
+            <guid>https://www.seoulvinyl.com/product/ae3f5483-9832-4e12-bc41-56948b7d486c</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651920767640_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Donny Hathaway 도니 해서웨이 - Donny Hathaway Collection (Ltd)(Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</link>
+            <guid>https://www.seoulvinyl.com/product/ecacc11e-69dc-4c92-8a2a-07a8faee0303</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237106365_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Do Not Pass Me By Vol. 2]]></title>
+            <link>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71</link>
+            <guid>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650276632901_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - The Sea (LP, 블루컬러 한정반, 2022 RSD)]]></title>
+            <link>https://www.seoulvinyl.com/product/2f9d3924-c3db-497d-8069-0fc90b1d099d</link>
+            <guid>https://www.seoulvinyl.com/product/2f9d3924-c3db-497d-8069-0fc90b1d099d</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301920688_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas Vinyl (Red color) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-841-1809</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-841-1809</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
