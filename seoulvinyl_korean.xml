@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 김동률 - 1집 [180g White LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fd0b9215-cbd6-4f00-b5b4-d1cb273443c9</link>
+            <guid>https://www.seoulvinyl.com/product/fd0b9215-cbd6-4f00-b5b4-d1cb273443c9</guid>
+            <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100236022_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터보 - 1집 [180g RED LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</link>
+            <guid>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</guid>
+            <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100875900_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터보 - 2집 [180g purple & yellow 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/0a07e0ec-eebe-4f48-a849-a4c000165d6b</link>
+            <guid>https://www.seoulvinyl.com/product/0a07e0ec-eebe-4f48-a849-a4c000165d6b</guid>
+            <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100994307_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 하현상 - Calibrate [투명 코크 보틀 컬러 LP] vinyl]]></title>
             <link>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</link>
@@ -102,30 +126,6 @@
             <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146148576_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 서사무엘 (Samuel Seo) - Vulture (Feat. DeAndre') / 먼지 [7인치, 일본 HMV 한정]]]></title>
-            <link>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</link>
-            <guid>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</guid>
-            <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145871566_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 백지영 - 1집 Sorrow [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</link>
-            <guid>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</guid>
-            <pubDate>Wed, 29 Jun 2022 06:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935719322_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 변진섭 - 1집 홀로된다는 것 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3eb51f8e-e6c8-4bfb-a830-54e044274384</link>
-            <guid>https://www.seoulvinyl.com/product/3eb51f8e-e6c8-4bfb-a830-54e044274384</guid>
-            <pubDate>Wed, 06 Jul 2022 04:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935531743_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치]]]></title>

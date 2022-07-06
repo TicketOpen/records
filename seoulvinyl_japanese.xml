@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pictured Resort 픽쳐 리조트 - Once Upon A Season (한정판 블루 바이닐)]]></title>
+            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
+            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
+            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message]]></title>
             <link>https://www.seoulvinyl.com/product/ec5b8bc3-e58e-4a46-9fb5-3089a5e827f7</link>
@@ -56,20 +64,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650537495853_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp]]]></title>
+            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
+            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
+            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ohashi Junko (오하시 준코) - Point Zero [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9</link>
             <guid>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9</guid>
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650536715320_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Pictured Resort - Once Upon A Season (한정판 블루 바이닐)]]></title>
-            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
-            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
-            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Narumin & Etsu (東北新幹線) – Thru Traffic]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652438609518_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp]]]></title>
-            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
-            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
-            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamaya Kiyoshi (야마야 키요시) - Tsugaru / Osorezan [LP] (2021 일본 RSD 한정반)]]></title>

@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 09:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 10:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 김동률 - 1집 [180g White LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/fd0b9215-cbd6-4f00-b5b4-d1cb273443c9</link>
+            <guid>https://www.seoulvinyl.com/product/fd0b9215-cbd6-4f00-b5b4-d1cb273443c9</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100236022_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터보 - 1집 [180g RED LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</link>
+            <guid>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100875900_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터보 - 2집 [180g purple & yellow 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0a07e0ec-eebe-4f48-a849-a4c000165d6b</link>
+            <guid>https://www.seoulvinyl.com/product/0a07e0ec-eebe-4f48-a849-a4c000165d6b</guid>
+            <pubDate>Wed, 06 Jul 2022 10:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100994307_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Notting Hill(노팅힐) O.S.T 블랙반 Lp (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/acc75fb1-f282-405a-ae3c-9b0e701e183b-1548-1875</link>
@@ -102,30 +126,6 @@
             <pubDate>Tue, 21 Jun 2022 10:18:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655806027060_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 스물다섯 스물하나 OST [크리스탈 투명 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2a30e9e8-0314-4850-8a90-0a6dc434c226</link>
-            <guid>https://www.seoulvinyl.com/product/2a30e9e8-0314-4850-8a90-0a6dc434c226</guid>
-            <pubDate>Thu, 16 Jun 2022 09:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655369053429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Belle (용과 주근깨 공주) (Soundtrack)(Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</link>
-            <guid>https://www.seoulvinyl.com/product/d270e16b-702d-4fa7-b96b-f61357854872</guid>
-            <pubDate>Tue, 14 Jun 2022 04:41:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655177737219_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] SOULBYSEL (소울바이서울) Compilation 01 [반투명 블루컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/8b8612dc-10d4-427d-bee4-8236899733dc</link>
-            <guid>https://www.seoulvinyl.com/product/8b8612dc-10d4-427d-bee4-8236899733dc</guid>
-            <pubDate>Fri, 10 Jun 2022 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654844847836_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치] (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,30 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 김동률 - 1집 [180g White LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/fd0b9215-cbd6-4f00-b5b4-d1cb273443c9</link>
+            <guid>https://www.seoulvinyl.com/product/fd0b9215-cbd6-4f00-b5b4-d1cb273443c9</guid>
+            <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100236022_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터보 - 1집 [180g RED LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</link>
+            <guid>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</guid>
+            <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100875900_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터보 - 2집 [180g purple & yellow 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/0a07e0ec-eebe-4f48-a849-a4c000165d6b</link>
+            <guid>https://www.seoulvinyl.com/product/0a07e0ec-eebe-4f48-a849-a4c000165d6b</guid>
+            <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100994307_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 하현상 - Calibrate [투명 코크 보틀 컬러 LP] vinyl (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</link>
             <guid>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</guid>
@@ -872,36 +896,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146148576_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 서사무엘 (Samuel Seo) - Vulture (Feat. DeAndre') / 먼지 [7인치, 일본 HMV 한정] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</link>
-            <guid>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</guid>
-            <pubDate>Thu, 02 Jun 2022 05:25:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145871566_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 백지영 - 1집 Sorrow [180g LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</link>
-            <guid>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</guid>
-            <pubDate>Wed, 29 Jun 2022 06:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935719322_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 변진섭 - 1집 홀로된다는 것 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/3eb51f8e-e6c8-4bfb-a830-54e044274384</link>
-            <guid>https://www.seoulvinyl.com/product/3eb51f8e-e6c8-4bfb-a830-54e044274384</guid>
-            <pubDate>Wed, 06 Jul 2022 04:41:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935531743_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/f0b579e2-0362-4234-acf4-7c0c657d9024</link>
             <guid>https://www.seoulvinyl.com/product/f0b579e2-0362-4234-acf4-7c0c657d9024</guid>
             <pubDate>Sat, 25 Jun 2022 11:06:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152169886_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pictured Resort 픽쳐 리조트 - Once Upon A Season (한정판 블루 바이닐) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
+            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
+            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message (서울바이닐 ─ JAPANESE)]]></title>
@@ -952,20 +960,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650537495853_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
+            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
+            <pubDate>Mon, 30 May 2022 10:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ohashi Junko (오하시 준코) - Point Zero [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9</link>
             <guid>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9</guid>
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650536715320_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Pictured Resort - Once Upon A Season (한정판 블루 바이닐) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
-            <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
-            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Narumin & Etsu (東北新幹線) – Thru Traffic (서울바이닐 ─ JAPANESE)]]></title>
@@ -1014,14 +1022,6 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652438609518_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - SOFTLY [2 Lp] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</link>
-            <guid>https://www.seoulvinyl.com/product/68169fb8-19d5-4e54-bed6-f4ebef04aecf</guid>
-            <pubDate>Mon, 30 May 2022 10:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653902263159_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamaya Kiyoshi (야마야 키요시) - Tsugaru / Osorezan [LP] (2021 일본 RSD 한정반) (서울바이닐 ─ JAPANESE)]]></title>
