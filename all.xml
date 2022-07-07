@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:11:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -848,11 +848,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 강산에 - 1집 Vol.0 [180g LP] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[강산에 - 1집 Vol.0 [180g LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</link>
             <guid>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</guid>
             <pubDate>Tue, 21 Jun 2022 10:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655806027060_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
