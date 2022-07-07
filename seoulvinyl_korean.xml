@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 09:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 10:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,22 +46,6 @@
             <pubDate>Fri, 01 Jul 2022 09:09:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">97,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656646903704_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이루마 - From The Yellow Room [180g 옐로우 투명 프랑스 스레싱]]]></title>
-            <link>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</link>
-            <guid>https://www.seoulvinyl.com/product/c0dd72b7-0584-47f0-835a-ec72f01f42f6-1874</guid>
-            <pubDate>Tue, 05 Jul 2022 07:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722183067_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이루마 - First Love [Repackage][180g 화이트컬러 프랑스 프레싱]]]></title>
-            <link>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</link>
-            <guid>https://www.seoulvinyl.com/product/8a93edc4-b5bd-49fb-8d3e-f70b12f3d5e7-1873</guid>
-            <pubDate>Tue, 05 Jul 2022 07:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646722302738_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 세이수미(Say Sue Me) - One Week / My Problem [7인치]]]></title>
@@ -126,6 +110,22 @@
             <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146148576_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 서사무엘 (Samuel Seo) - Vulture (Feat. DeAndre') / 먼지 [7인치, 일본 HMV 한정]]]></title>
+            <link>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</link>
+            <guid>https://www.seoulvinyl.com/product/896b90b1-fa27-4d8d-be4a-f2c88ee666b4</guid>
+            <pubDate>Thu, 07 Jul 2022 10:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654145871566_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 백지영 - 1집 Sorrow [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</link>
+            <guid>https://www.seoulvinyl.com/product/fd2bdf05-d5c7-4b8f-99d4-ce86da18647e</guid>
+            <pubDate>Thu, 07 Jul 2022 10:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652935719322_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치]]]></title>
