@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 07:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 08:15:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1520,6 +1520,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[김시호 김시호 1st EP '18평방자’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Jul 2022 08:15:04 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/e2d8551233d8a247b76ba5552363f7f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[더 윌리엄즈 The Williams Love Child  CD음반 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Mon, 06 Jun 2022 07:09:32 GMT</pubDate>
             <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초현(Chohyun) single 카드앨범 ‘Last.Summer.’ (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=958&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=958&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 10:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[5,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201811/5977f840ccdaee0bf10dbe099358dc96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
