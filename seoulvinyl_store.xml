@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 10:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 11:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[냇 킹 콜 베스트 모음집 (Nat King Cole Greatest Hits) [블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</link>
+            <guid>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</guid>
+            <pubDate>Fri, 08 Jul 2022 11:07:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657276325542_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[M83 (엠83) - Hurry Up, We're Dreaming (10th Anniversary Edition)(Ltd)(Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/3bdca21e-07c0-4f5c-b7b8-6d51843192ec</link>
@@ -118,14 +126,6 @@
             <pubDate>Sat, 25 Jun 2022 11:06:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152351491_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 해서웨이(Hathaw9y) - Scribble / hayley [7인치]]]></title>
-            <link>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</link>
-            <guid>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</guid>
-            <pubDate>Sat, 25 Jun 2022 11:06:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치]]]></title>
