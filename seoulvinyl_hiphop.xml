@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Jul 2022 14:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 15:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Marvin Gaye 마빈 게이 - what's going on LP (OBI있음 재팬반)]]></title>
-            <link>https://www.seoulvinyl.com/product/e4b8872a-89ae-49ce-a426-256798e9c296-1887</link>
-            <guid>https://www.seoulvinyl.com/product/e4b8872a-89ae-49ce-a426-256798e9c296-1887</guid>
-            <pubDate>Mon, 11 Jul 2022 10:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631768686244_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Pink Sweats 핑크스웨츠 LP - At My Worst (핑크 바이닐 한정반)]]></title>
             <link>https://www.seoulvinyl.com/product/ce6790db-01af-485d-93fc-d6ed41128e8d</link>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651143681651_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marvin Gaye 마빈 게이 - what's going on LP (OBI있음 재팬반)]]></title>
+            <link>https://www.seoulvinyl.com/product/e4b8872a-89ae-49ce-a426-256798e9c296-1887</link>
+            <guid>https://www.seoulvinyl.com/product/e4b8872a-89ae-49ce-a426-256798e9c296-1887</guid>
+            <pubDate>Mon, 11 Jul 2022 10:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631768686244_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - The Sea (LP, 블루컬러 한정반, 2022 RSD)]]></title>
