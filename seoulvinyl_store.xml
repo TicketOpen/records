@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Jul 2022 08:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Jul 2022 09:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자전거 탄 풍경 - 1집 자전거 탄 풍경]]></title>
+            <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771-1890</link>
+            <guid>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771-1890</guid>
+            <pubDate>Tue, 12 Jul 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코나 (KONA) - 2.5집 OVERLAP [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/0916e088-9e9b-4b53-a6fe-f4c5c291e127-1889</link>
+            <guid>https://www.seoulvinyl.com/product/0916e088-9e9b-4b53-a6fe-f4c5c291e127-1889</guid>
+            <pubDate>Tue, 12 Jul 2022 09:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652692178324_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (1 Lp)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-1884</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kanye west 카니예 웨스트 lp - the college dropout vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/kanyecollege-1869</link>
-            <guid>https://www.seoulvinyl.com/product/kanyecollege-1869</guid>
-            <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582355621244_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kanye west 카니예 웨스트 lp - late registration vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-219-1868</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-219-1868</guid>
-            <pubDate>Tue, 12 Jul 2022 04:52:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582356353786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl]]></title>
