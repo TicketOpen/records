@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 08:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cowboy Bebop 카우보이 비밥 OST Vinyl (White / brown color) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-857-1891</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-857-1891</guid>
+            <pubDate>Wed, 13 Jul 2022 08:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657698571231_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자전거 탄 풍경 - 1집 자전거 탄 풍경 (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771-1890</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656915707874_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West 카니예 웨스트 lp - 808s & Heartbreak deluxe collectors set vinyl (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-323-1870</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-323-1870</guid>
-            <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP) (서울바이닐 ─ 스토어)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Cowboy Bebop 카우보이 비밥 OST Vinyl (White / brown color) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-857-1891</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-857-1891</guid>
+            <pubDate>Wed, 13 Jul 2022 08:11:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657698571231_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Notting Hill(노팅힐) O.S.T 블랙반 Lp (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/acc75fb1-f282-405a-ae3c-9b0e701e183b-1548-1875</link>
             <guid>https://www.seoulvinyl.com/product/acc75fb1-f282-405a-ae3c-9b0e701e183b-1548-1875</guid>
@@ -494,14 +502,6 @@
             <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649238018157_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시애틀의 잠 못 이루는 밤 영화음악 (Sleepless in Seattle OST) [썬셋 컬러 LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe-1702</link>
-            <guid>https://www.seoulvinyl.com/product/3b8c606c-22af-4fbf-99dc-d43e16a627fe-1702</guid>
-            <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1643974869361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모아나 O.S.T [LP] (서울바이닐 ─ OST)]]></title>

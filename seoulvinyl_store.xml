@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 07:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 08:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cowboy Bebop 카우보이 비밥 OST Vinyl (White / brown color)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-857-1891</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-857-1891</guid>
+            <pubDate>Wed, 13 Jul 2022 08:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657698571231_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자전거 탄 풍경 - 1집 자전거 탄 풍경]]></title>
             <link>https://www.seoulvinyl.com/product/d0e85f73-d029-47db-8d13-67a362daf434-1771-1890</link>
@@ -110,14 +118,6 @@
             <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656915707874_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West 카니예 웨스트 lp - 808s & Heartbreak deluxe collectors set vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-323-1870</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-323-1870</guid>
-            <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP)]]></title>
