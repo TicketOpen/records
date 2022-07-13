@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 08:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 09:14:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Muse 뮤즈 LP - Origin of Symmetry (Remastered)(Gatefold)(180G)(2LP)vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</link>
+            <guid>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</guid>
+            <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657703540094_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuxedo 턱시도 lp – Tuxedo vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/c68c4633-f066-4552-ba2d-966e5e300f7c</link>
+            <guid>https://www.seoulvinyl.com/product/c68c4633-f066-4552-ba2d-966e5e300f7c</guid>
+            <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657700960275_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[M83 (엠83) - Hurry Up, We're Dreaming (10th Anniversary Edition)(Ltd)(Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/3bdca21e-07c0-4f5c-b7b8-6d51843192ec</link>
@@ -112,28 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649756347090_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 블랙반)]]></title>
-            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</link>
-            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234784251_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</link>
             <guid>https://www.seoulvinyl.com/product/a5825d5c-4d55-44dd-ae6a-b913f3877493</guid>
             <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301779670_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liquid Tension Experiment - Liquid Tension Experiment (180g 2LP 스플레터반)]]></title>
-            <link>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</link>
-            <guid>https://www.seoulvinyl.com/product/03975685-9840-43e7-a2f0-1bd211b8ddf4-1709</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649234915557_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
