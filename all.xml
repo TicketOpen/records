@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 03:17:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 04:40:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -920,6 +920,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0</link>
+            <guid>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0</guid>
+            <pubDate>Thu, 07 Jul 2022 04:37:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657167970706_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pictured Resort 픽쳐 리조트 - Once Upon A Season (한정판 블루 바이닐) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</link>
             <guid>https://www.seoulvinyl.com/product/c719396c-426e-4801-9fdf-d50d4bf1e9f1</guid>
@@ -966,14 +974,6 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650537495853_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0</link>
-            <guid>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0</guid>
-            <pubDate>Thu, 07 Jul 2022 04:37:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657167970706_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message (서울바이닐 ─ JAPANESE)]]></title>
