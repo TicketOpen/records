@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Jul 2022 15:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Jul 2022 16:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704671591_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</link>
-            <guid>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</guid>
-            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl) (서울바이닐 ─ 스토어)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704185710_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</link>
+            <guid>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</guid>
+            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
@@ -648,14 +648,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</link>
-            <guid>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</guid>
-            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Muse 뮤즈 LP - Origin of Symmetry (Remastered)(Gatefold)(180G)(2LP)vinyl (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</link>
             <guid>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</guid>
@@ -766,6 +758,14 @@
             <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704185710_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</link>
+            <guid>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</guid>
+            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP] (서울바이닐 ─ ROCK & POP)]]></title>
