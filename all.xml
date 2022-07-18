@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 10:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 11:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
+            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657703540094_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nipsey Hussle 닙시 허슬 - Victory Lap [2LP] vinyl (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/cb1adccf-fb4c-4f5f-8ba7-d3f872f42d0b</link>
-            <guid>https://www.seoulvinyl.com/product/cb1adccf-fb4c-4f5f-8ba7-d3f872f42d0b</guid>
-            <pubDate>Wed, 13 Jul 2022 09:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657702216432_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AC/DC 에이씨디씨 lp - Highway to Hell (vinyl) (서울바이닐 ─ 스토어)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
+            <pubDate>Mon, 18 Jul 2022 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</link>
             <guid>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301920688_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas Vinyl (Red color) LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-841-1809</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-841-1809</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반] (서울바이닐 ─ OST)]]></title>
