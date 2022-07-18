@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 11:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 12:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652349341704_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dua Lipa 두아 리파 - Dua Lipa [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f3d8f086-9d3e-4926-8b86-9945ab3edeb0</link>
-            <guid>https://www.seoulvinyl.com/product/f3d8f086-9d3e-4926-8b86-9945ab3edeb0</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348683250_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Taylor Swift 테일러 스위프트 - Taylor Swift [2LP Gatefold]]]></title>
             <link>https://www.seoulvinyl.com/product/481e7679-4fd6-4a8e-a89a-a39989831ea0</link>
             <guid>https://www.seoulvinyl.com/product/481e7679-4fd6-4a8e-a89a-a39989831ea0</guid>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653301779670_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dua Lipa 두아 리파 - Dua Lipa [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f3d8f086-9d3e-4926-8b86-9945ab3edeb0</link>
+            <guid>https://www.seoulvinyl.com/product/f3d8f086-9d3e-4926-8b86-9945ab3edeb0</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348683250_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
