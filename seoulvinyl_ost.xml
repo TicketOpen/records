@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</link>
+            <guid>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</guid>
+            <pubDate>Mon, 18 Jul 2022 09:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658133593390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] O.S.T. - Top Gun: Maverick (탑건: 매버릭) (Soundtrack)(Ltd)(White Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845517510_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 넥스트 (N.EX.T) - 5.5집 Regame? [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a3ee81be-2342-4f43-b867-3e4b629d3cf8</link>
-            <guid>https://www.seoulvinyl.com/product/a3ee81be-2342-4f43-b867-3e4b629d3cf8</guid>
-            <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845384303_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모아나 O.S.T [LP]]]></title>

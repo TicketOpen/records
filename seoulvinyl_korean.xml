@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 08:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 09:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</link>
+            <guid>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</guid>
+            <pubDate>Mon, 18 Jul 2022 09:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658133593390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김종국 - 3집 This Is Me [컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/381597bf-65d8-4ea6-b46c-b4613052bc8c</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 08 Jun 2022 04:22:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">77,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657699926952_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 신해철 - 2집 Myself [레드 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3d3e1a51-85ed-49ac-82c6-37932b5d135e</link>
-            <guid>https://www.seoulvinyl.com/product/3d3e1a51-85ed-49ac-82c6-37932b5d135e</guid>
-            <pubDate>Thu, 02 Jun 2022 05:26:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146462191_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl]]></title>
