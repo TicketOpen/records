@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 03:22:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 05:01:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,6 +312,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657701306578_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pink Sweats 핑크스웨츠 LP - At My Worst (핑크 바이닐 한정반) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/ce6790db-01af-485d-93fc-d6ed41128e8d</link>
+            <guid>https://www.seoulvinyl.com/product/ce6790db-01af-485d-93fc-d6ed41128e8d</guid>
+            <pubDate>Sat, 09 Jul 2022 09:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657355730997_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Doja Cat (도자 캣) - 3집 Planet Her [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/57e3ea7d-8f4b-4392-af79-2a03aa737198</link>
             <guid>https://www.seoulvinyl.com/product/57e3ea7d-8f4b-4392-af79-2a03aa737198</guid>
@@ -374,14 +382,6 @@
             <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652953189163_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Sweats 핑크스웨츠 LP - At My Worst (핑크 바이닐 한정반) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/ce6790db-01af-485d-93fc-d6ed41128e8d</link>
-            <guid>https://www.seoulvinyl.com/product/ce6790db-01af-485d-93fc-d6ed41128e8d</guid>
-            <pubDate>Sat, 09 Jul 2022 09:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657355730997_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - The Sea (LP, 블루컬러 한정반, 2022 RSD) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
