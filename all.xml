@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 07:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 08:13:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,20 +368,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656747418779_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jeff Redd – Down Low (P-Vine 발매) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/6af16f1f-01f3-4b6f-8d14-3763b36e59b0</link>
-            <guid>https://www.seoulvinyl.com/product/6af16f1f-01f3-4b6f-8d14-3763b36e59b0</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652953189163_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jackson Five (잭슨파이브) - ABC [180g LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/5c2fddce-6f20-4b2e-ac92-4e86a890c787</link>
             <guid>https://www.seoulvinyl.com/product/5c2fddce-6f20-4b2e-ac92-4e86a890c787</guid>
             <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656408869974_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jeff Redd – Down Low (P-Vine 발매) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/6af16f1f-01f3-4b6f-8d14-3763b36e59b0</link>
+            <guid>https://www.seoulvinyl.com/product/6af16f1f-01f3-4b6f-8d14-3763b36e59b0</guid>
+            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652953189163_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Corinne Bailey Rae 코린 베일리 래 - The Sea (LP, 블루컬러 한정반, 2022 RSD) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
