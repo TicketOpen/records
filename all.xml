@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Jul 2022 10:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Jul 2022 11:09:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (yellow colored LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</guid>
+            <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
@@ -22,14 +30,6 @@
             <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
-            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
-            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반] (서울바이닐 ─ 스토어)]]></title>
@@ -80,7 +80,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657794999965_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Utada Hikaru (우타다 히카루) - Deep River [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - Deep River [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151-1908</link>
             <guid>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151-1908</guid>
             <pubDate>Thu, 14 Jul 2022 11:06:31 GMT</pubDate>
@@ -88,7 +88,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073427444_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f-1907</link>
             <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f-1907</guid>
             <pubDate>Thu, 14 Jul 2022 11:06:31 GMT</pubDate>
@@ -96,7 +96,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073512071_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178-1906</link>
             <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178-1906</guid>
             <pubDate>Thu, 14 Jul 2022 11:06:31 GMT</pubDate>
@@ -120,20 +120,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704671591_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AC/DC 에이씨디씨 lp - Highway to Hell (vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/538e97f6-4fe6-47c6-ace1-b653e8827ebe</link>
-            <guid>https://www.seoulvinyl.com/product/538e97f6-4fe6-47c6-ace1-b653e8827ebe</guid>
-            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704185710_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</link>
+            <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</guid>
+            <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</link>
-            <guid>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</guid>
-            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
+            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
@@ -264,10 +264,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (yellow colored LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</guid>
+            <pubDate>Tue, 19 Jul 2022 11:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
             <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
-            <pubDate>Tue, 19 Jul 2022 10:09:19 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -275,17 +283,9 @@
             <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
             <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
-            <pubDate>Tue, 19 Jul 2022 10:09:19 GMT</pubDate>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
-            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
-            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -376,12 +376,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656747418779_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jackson Five (잭슨파이브) - ABC [180g LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/5c2fddce-6f20-4b2e-ac92-4e86a890c787</link>
-            <guid>https://www.seoulvinyl.com/product/5c2fddce-6f20-4b2e-ac92-4e86a890c787</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656408869974_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
+            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Sweats 핑크스웨츠 LP - At My Worst (핑크 바이닐 한정반) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -728,12 +728,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652347330817_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Red Hot Chili Peppers 레드 핫 칠리 페퍼스 - Unlimited Love (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/0e384aa6-e23b-4154-91c5-cedc75b732a7</link>
-            <guid>https://www.seoulvinyl.com/product/0e384aa6-e23b-4154-91c5-cedc75b732a7</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650275490021_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</link>
+            <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</guid>
+            <pubDate>Tue, 19 Jul 2022 11:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AC/DC 에이씨디씨 lp - Highway to Hell (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
@@ -936,7 +936,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657794999965_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Utada Hikaru (우타다 히카루) - Deep River [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - Deep River [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151-1908</link>
             <guid>https://www.seoulvinyl.com/product/d935380a-80ca-46cf-aba4-cab8568cd151-1908</guid>
             <pubDate>Thu, 14 Jul 2022 11:06:31 GMT</pubDate>
@@ -944,7 +944,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073427444_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - Distance [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f-1907</link>
             <guid>https://www.seoulvinyl.com/product/9b600bd8-9844-4069-aebc-026778e9b05f-1907</guid>
             <pubDate>Thu, 14 Jul 2022 11:06:31 GMT</pubDate>
@@ -952,7 +952,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073512071_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178-1906</link>
             <guid>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178-1906</guid>
             <pubDate>Thu, 14 Jul 2022 11:06:31 GMT</pubDate>
