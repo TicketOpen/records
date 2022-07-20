@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Jul 2022 07:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 08:13:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</link>
-            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</guid>
-            <pubDate>Wed, 20 Jul 2022 05:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (yellow colored LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</link>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 14 Jul 2022 09:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657786598071_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</guid>
+            <pubDate>Wed, 20 Jul 2022 05:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored) (서울바이닐 ─ 스토어)]]></title>
@@ -776,14 +776,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348683250_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</link>
-            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</guid>
-            <pubDate>Wed, 20 Jul 2022 05:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</link>
             <guid>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</guid>
@@ -886,6 +878,14 @@
             <pubDate>Fri, 10 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654844847836_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</guid>
+            <pubDate>Wed, 20 Jul 2022 05:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl (서울바이닐 ─ KOREAN)]]></title>
@@ -1288,6 +1288,30 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/2fcbc5df664d610a0b8b724eeb10457c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[{ 4차 재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ (CD + POSTER 합본) (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1716&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 08:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[35,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/a74ce3accb1bad7ed1cd4763938f9ed7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안다영 Dayoung Ahn ‘ANTIHERO’ 파노라마 폴딩 포스터 POSTER (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1715&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 08:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/67399f7696f9b2ada8cd67020ca8f806.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[{ 5차재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 08:13:25 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/da99811b02cdb86baa9ce3ca2da07bfd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빌리카터 BILLY CARTER 1집 Here I Am CD/음반 (일렉트릭 뮤즈) (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1761&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1761&amp;cate_no=60&amp;display_group=1</guid>
@@ -1518,30 +1542,6 @@
             <pubDate>Mon, 21 Mar 2022 03:19:34 GMT</pubDate>
             <content:encoded><![CDATA[12,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김시호 김시호 1st EP '18평방자’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Jul 2022 08:15:04 GMT</pubDate>
-            <content:encoded><![CDATA[12,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/e2d8551233d8a247b76ba5552363f7f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더 윌리엄즈 The Williams Love Child  CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1867&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Apr 2022 05:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[18,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202202/f0626b3fb6a4ab64004361578836b339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양창근 정규1집  ‘오래된 마음’  CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Jun 2022 07:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
