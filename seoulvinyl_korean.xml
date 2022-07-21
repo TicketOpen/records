@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 09:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 10:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Wed, 20 Jul 2022 09:09:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647501988065_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김종국 - 3집 This Is Me [컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/381597bf-65d8-4ea6-b46c-b4613052bc8c</link>
-            <guid>https://www.seoulvinyl.com/product/381597bf-65d8-4ea6-b46c-b4613052bc8c</guid>
-            <pubDate>Thu, 14 Jul 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657786598071_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자전거 탄 풍경 - 1집 자전거 탄 풍경]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Sat, 25 Jun 2022 11:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[강산에 - 1집 Vol.0 [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</link>
+            <guid>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</guid>
+            <pubDate>Thu, 21 Jul 2022 10:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655806027060_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반)]]></title>
