@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 06:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 07:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657703540094_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tuxedo 턱시도 lp – Tuxedo vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/c68c4633-f066-4552-ba2d-966e5e300f7c</link>
+            <guid>https://www.seoulvinyl.com/product/c68c4633-f066-4552-ba2d-966e5e300f7c</guid>
+            <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657700960275_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[M83 (엠83) - Hurry Up, We're Dreaming (10th Anniversary Edition)(Ltd)(Colored 2LP)]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Jul 2022 10:12:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuxedo 턱시도 lp – Tuxedo vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/c68c4633-f066-4552-ba2d-966e5e300f7c</link>
-            <guid>https://www.seoulvinyl.com/product/c68c4633-f066-4552-ba2d-966e5e300f7c</guid>
-            <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657700960275_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Harry Styles (해리 스타일스) - Harry's House [LP]]]></title>
