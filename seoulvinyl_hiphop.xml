@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Jul 2022 15:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 16:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 13 Jul 2022 09:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657702216432_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Earth, Wind & Fire 어스 윈드 파이어 LP - Their Ultimate Collection (Ltd)(180g Colored LP) vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/e50bd46c-cffb-4b7e-b1c4-87d00a8de895</link>
-            <guid>https://www.seoulvinyl.com/product/e50bd46c-cffb-4b7e-b1c4-87d00a8de895</guid>
-            <pubDate>Wed, 13 Jul 2022 09:13:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657701913948_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tyler, The Creator (타일러, 더 크리에이터) - 6집 CALL ME IF YOU GET LOST [2LP] vinyl]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Mon, 18 Jul 2022 11:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earth, Wind & Fire 어스 윈드 파이어 LP - Their Ultimate Collection (Ltd)(180g Colored LP) vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/e50bd46c-cffb-4b7e-b1c4-87d00a8de895</link>
+            <guid>https://www.seoulvinyl.com/product/e50bd46c-cffb-4b7e-b1c4-87d00a8de895</guid>
+            <pubDate>Wed, 13 Jul 2022 09:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657701913948_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Sweats 핑크스웨츠 LP - At My Worst (핑크 바이닐 한정반)]]></title>
