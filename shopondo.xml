@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 09:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 10:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -94,6 +94,14 @@
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
             <content:encoded><![CDATA[16,300 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/7239b1d8de8436a5cd4d7c0eb4af7032.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김목인 3집 콜라보 씨의 일일 CD/음반 (일렉트릭 뮤즈)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1774&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1774&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Jul 2022 10:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[14,900 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/96c2db0ca83f141d0f8d8535ed82bb11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[{ 2차재입고 } 천용성 정규 2집 '수몰' CD/음반 (브로마이드 증정 / 오소리웍스)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 21 Mar 2022 03:19:34 GMT</pubDate>
             <content:encoded><![CDATA[12,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
-        </item>
-        <item>
-            <title><![CDATA[김시호 김시호 1st EP '18평방자’ CD음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 14:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[12,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/e2d8551233d8a247b76ba5552363f7f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
