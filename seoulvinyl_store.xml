@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 00:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 03:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Thu, 21 Jul 2022 08:10:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658388915655_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</link>
+            <guid>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</guid>
+            <pubDate>Thu, 21 Jul 2022 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658385932407_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP]]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 16 Jul 2022 12:12:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657971190219_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</link>
-            <guid>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</guid>
-            <pubDate>Thu, 21 Jul 2022 08:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658385932407_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반)]]></title>
