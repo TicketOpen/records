@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 04:40:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 05:22:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Black 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932</guid>
+            <pubDate>Mon, 25 Jul 2022 05:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명 컬러반 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0-1926</link>
@@ -14,6 +22,14 @@
             <pubDate>Thu, 21 Jul 2022 08:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658388915655_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</link>
+            <guid>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</guid>
+            <pubDate>Thu, 21 Jul 2022 08:11:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658385932407_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반]]]></title>
@@ -94,22 +110,6 @@
             <pubDate>Sat, 25 Jun 2022 11:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[강산에 - 1집 Vol.0 [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</link>
-            <guid>https://www.seoulvinyl.com/product/4c155526-b886-444b-a7b1-569adb5806f7</guid>
-            <pubDate>Thu, 21 Jul 2022 10:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655806027060_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</link>
-            <guid>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0</guid>
-            <pubDate>Thu, 21 Jul 2022 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658385932407_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반)]]></title>
