@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 12:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 13:35:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</link>
             <guid>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</guid>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ 스토어)]]></title>
@@ -280,14 +280,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</link>
             <guid>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</guid>
@@ -366,6 +358,14 @@
             <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
