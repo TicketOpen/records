@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 06:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 07:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (White colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</link>
-            <guid>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</guid>
-            <pubDate>Mon, 25 Jul 2022 11:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657607812314_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>
             <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923-1931</link>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348526524_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (White colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</link>
+            <guid>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</guid>
+            <pubDate>Mon, 25 Jul 2022 11:09:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657607812314_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>
