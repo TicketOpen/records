@@ -4,9 +4,41 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Daft Club [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/24f46ea6-cb6d-4e8e-8249-57a8bcefcec8</link>
+            <guid>https://www.seoulvinyl.com/product/24f46ea6-cb6d-4e8e-8249-57a8bcefcec8</guid>
+            <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821836529_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Human After All (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/847c8251-eebb-464f-932f-a8c1061ff46b</link>
+            <guid>https://www.seoulvinyl.com/product/847c8251-eebb-464f-932f-a8c1061ff46b</guid>
+            <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821727620_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Alive 2007 (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</link>
+            <guid>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</guid>
+            <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821616423_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Kendrick Lamar (켄드릭 라마) - 5집 Mr. Morale & The Big Steppers [2LP, Black vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</link>
+            <guid>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</guid>
+            <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658819866644_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Black 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932</link>
@@ -72,30 +104,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
-            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd 위켄드lp - After Hours (black)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</link>
-            <guid>https://www.seoulvinyl.com/product/8c0f5720-7686-4415-b8c5-ad02de8a62a2</guid>
-            <pubDate>Mon, 18 Jul 2022 09:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658133593390_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (White colored)]]></title>
             <link>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</link>
             <guid>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
-            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
-            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

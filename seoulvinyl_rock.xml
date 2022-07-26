@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 07:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 08:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Daft Club [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/24f46ea6-cb6d-4e8e-8249-57a8bcefcec8</link>
+            <guid>https://www.seoulvinyl.com/product/24f46ea6-cb6d-4e8e-8249-57a8bcefcec8</guid>
+            <pubDate>Tue, 26 Jul 2022 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821836529_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Human After All (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/847c8251-eebb-464f-932f-a8c1061ff46b</link>
+            <guid>https://www.seoulvinyl.com/product/847c8251-eebb-464f-932f-a8c1061ff46b</guid>
+            <pubDate>Tue, 26 Jul 2022 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821727620_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Alive 2007 (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</link>
+            <guid>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</guid>
+            <pubDate>Tue, 26 Jul 2022 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821616423_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>
             <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923-1931</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652951972130_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk 다프트 펑크 - Alive 1997 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/5f6c1427-4751-4a33-9d68-c733e4421cdb</link>
-            <guid>https://www.seoulvinyl.com/product/5f6c1427-4751-4a33-9d68-c733e4421cdb</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652349341704_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dua Lipa 두아 리파 - Dua Lipa [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f3d8f086-9d3e-4926-8b86-9945ab3edeb0</link>
-            <guid>https://www.seoulvinyl.com/product/f3d8f086-9d3e-4926-8b86-9945ab3edeb0</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348683250_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift 테일러 스위프트 - Taylor Swift [2LP Gatefold]]]></title>
-            <link>https://www.seoulvinyl.com/product/481e7679-4fd6-4a8e-a89a-a39989831ea0</link>
-            <guid>https://www.seoulvinyl.com/product/481e7679-4fd6-4a8e-a89a-a39989831ea0</guid>
-            <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652348526524_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (White colored)]]></title>
