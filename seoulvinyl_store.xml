@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 04:43:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 05:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 검정치마 - 3집 Part.1 TEAM BABY [Splatter Color LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</link>
+            <guid>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</guid>
+            <pubDate>Wed, 27 Jul 2022 05:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658893414179_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (White colored)]]></title>
             <link>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</link>
             <guid>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Jul 2022 05:19:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</link>
-            <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</guid>
-            <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
