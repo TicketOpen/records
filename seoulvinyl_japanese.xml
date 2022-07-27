@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 16:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 17:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8fc592c6-06ef-4a1a-8c93-e49451bebd43</link>
+            <guid>https://www.seoulvinyl.com/product/8fc592c6-06ef-4a1a-8c93-e49451bebd43</guid>
+            <pubDate>Wed, 27 Jul 2022 12:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658919978891_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Casiopea (카시오페아) - Casiopea (clear orange colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/65e43c68-19c0-4872-94a6-f0ad7b5fd227</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8fc592c6-06ef-4a1a-8c93-e49451bebd43</link>
-            <guid>https://www.seoulvinyl.com/product/8fc592c6-06ef-4a1a-8c93-e49451bebd43</guid>
-            <pubDate>Wed, 27 Jul 2022 12:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658919978891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message]]></title>
