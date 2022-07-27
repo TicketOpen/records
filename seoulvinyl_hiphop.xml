@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 06:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Tue, 19 Jul 2022 11:07:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
+            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
+            <pubDate>Tue, 19 Jul 2022 10:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582355621244_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
-            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
-            <pubDate>Tue, 19 Jul 2022 10:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd 위켄드lp - After Hours (black)]]></title>

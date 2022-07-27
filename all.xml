@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 05:27:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 06:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,6 +288,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
+            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</link>
             <guid>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</guid>
@@ -350,14 +358,6 @@
             <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582355621244_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
-            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -867,7 +867,7 @@
             <title><![CDATA[[예약판매] 검정치마 - 3집 Part.1 TEAM BABY [Splatter Color LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</link>
             <guid>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</guid>
-            <pubDate>Wed, 27 Jul 2022 05:26:35 GMT</pubDate>
+            <pubDate>Wed, 27 Jul 2022 05:25:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658893414179_1000.jpg" length="0" type="image/jpg"/>
         </item>
