@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 06:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 07:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,7 +16,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명 컬러반 2LP]]]></title>
+            <title><![CDATA[이소라 - 이소라 베스트 [투명 컬러반 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0-1926</link>
             <guid>https://www.seoulvinyl.com/product/774830d5-26f3-4d26-bf91-5e44ee24dca0-1926</guid>
             <pubDate>Thu, 21 Jul 2022 08:11:58 GMT</pubDate>
@@ -96,12 +96,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152351491_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 검정치마 - 3집 Part.1 TEAM BABY [Splatter Color LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</link>
-            <guid>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</guid>
-            <pubDate>Wed, 27 Jul 2022 05:26:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658893414179_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] 해서웨이(Hathaw9y) - Scribble / hayley [7인치]]]></title>
+            <link>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</link>
+            <guid>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</guid>
+            <pubDate>Thu, 28 Jul 2022 07:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP]]]></title>
@@ -112,20 +112,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658385932407_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</link>
-            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499</guid>
-            <pubDate>Wed, 20 Jul 2022 05:20:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 봄여름가을겨울 - Bravo My Life! 20th Anniversary (2022 MIX) [180g 2LP][게이트폴드][한정반] vinyl]]></title>
             <link>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</link>
             <guid>https://www.seoulvinyl.com/product/7b2c4207-3cdc-42d7-97a6-30e443a46384</guid>
             <pubDate>Fri, 01 Jul 2022 09:09:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">97,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656646903704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 검정치마 - 3집 Part.1 TEAM BABY [Splatter Color LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</link>
+            <guid>https://www.seoulvinyl.com/product/8acfa350-4ef8-49cc-a916-cc644902d211</guid>
+            <pubDate>Wed, 27 Jul 2022 05:26:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658893414179_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치]]]></title>
