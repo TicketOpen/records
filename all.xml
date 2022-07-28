@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 10:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 11:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -76,7 +76,7 @@
             <link>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</link>
             <guid>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</guid>
             <pubDate>Fri, 22 Jul 2022 05:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">76,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658467136657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -94,14 +94,6 @@
             <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
-            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나의 해방일지 O.S.T [2LP][한정반] (서울바이닐 ─ 스토어)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 27 Jul 2022 12:17:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658919978891_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
+            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
@@ -288,14 +288,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
-            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</link>
             <guid>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</guid>
@@ -360,6 +352,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582355621244_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
+            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
             <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
@@ -412,7 +412,7 @@
             <link>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</link>
             <guid>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</guid>
             <pubDate>Fri, 22 Jul 2022 05:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">76,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658467136657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
