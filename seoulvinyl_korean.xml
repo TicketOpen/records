@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 03:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 04:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 18 Jul 2022 09:09:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658133593390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임재범 - 6집 To… [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ffb5e71e-1f85-4e96-a9ee-2d016a9f62de-1911</link>
+            <guid>https://www.seoulvinyl.com/product/ffb5e71e-1f85-4e96-a9ee-2d016a9f62de-1911</guid>
+            <pubDate>Fri, 29 Jul 2022 04:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647502238188_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임재범 - 4집 Story of Two Years [컬러 LP]]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 25 Jun 2022 11:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152351491_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 해서웨이(Hathaw9y) - Scribble / hayley [7인치]]]></title>
-            <link>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</link>
-            <guid>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</guid>
-            <pubDate>Thu, 28 Jul 2022 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP]]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 03:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 04:41:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -800,6 +800,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658133593390_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임재범 - 6집 To… [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/ffb5e71e-1f85-4e96-a9ee-2d016a9f62de-1911</link>
+            <guid>https://www.seoulvinyl.com/product/ffb5e71e-1f85-4e96-a9ee-2d016a9f62de-1911</guid>
+            <pubDate>Fri, 29 Jul 2022 04:40:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647502238188_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임재범 - 4집 Story of Two Years [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/7dbc42de-2aac-48c6-94c1-60974e9925c5-1910</link>
             <guid>https://www.seoulvinyl.com/product/7dbc42de-2aac-48c6-94c1-60974e9925c5-1910</guid>
@@ -862,14 +870,6 @@
             <pubDate>Sat, 25 Jun 2022 11:06:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152351491_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 해서웨이(Hathaw9y) - Scribble / hayley [7인치] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</link>
-            <guid>https://www.seoulvinyl.com/product/0efa6b41-4073-4806-8a42-69408d462f00</guid>
-            <pubDate>Thu, 28 Jul 2022 07:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152051322_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP] (서울바이닐 ─ KOREAN)]]></title>
@@ -1320,14 +1320,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/c36effde34e5e927d260d409906144ea.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드링킹소년소녀합창단 1집 Keep Drinking CD/음반 (일렉트릭 뮤즈) (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1760&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1760&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[16,300 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/e1fe421909c17065f93e93b75c9c159f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[드린지 오 Dringe Augh 3집 Black Hyll Side CD/음반 (일렉트릭 뮤즈) (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1759&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1759&amp;cate_no=60&amp;display_group=1</guid>
@@ -1542,6 +1534,14 @@
             <pubDate>Mon, 21 Mar 2022 03:19:34 GMT</pubDate>
             <content:encoded><![CDATA[12,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[김시호 김시호 1st EP '18평방자’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Jul 2022 04:41:21 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202207/e2d8551233d8a247b76ba5552363f7f1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
