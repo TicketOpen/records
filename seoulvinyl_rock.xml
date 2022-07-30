@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 23:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 00:39:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 29 Jul 2022 11:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092226043_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
-            <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
-            <pubDate>Fri, 29 Jul 2022 11:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Daft Club [2LP]]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 05 Jul 2022 16:11:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631941933020_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
+            <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
+            <pubDate>Fri, 29 Jul 2022 11:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AC/DC 에이씨디씨 lp - Highway to Hell (vinyl)]]></title>
