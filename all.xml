@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Jul 2022 03:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jul 2022 04:31:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
+            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alicia Keys 앨리샤 키스 lp - As I Am (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</link>
             <guid>https://www.seoulvinyl.com/product/df2df145-9068-43bd-86c1-9398033ad4a0</guid>
@@ -350,14 +358,6 @@
             <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</link>
-            <guid>https://www.seoulvinyl.com/product/b27f43c5-9ce8-43ef-a1af-7a8603f11f00</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658224368677_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -720,14 +720,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657700960275_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</link>
-            <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</guid>
-            <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[M83 (엠83) - Hurry Up, We're Dreaming (10th Anniversary Edition)(Ltd)(Colored 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/3bdca21e-07c0-4f5c-b7b8-6d51843192ec</link>
             <guid>https://www.seoulvinyl.com/product/3bdca21e-07c0-4f5c-b7b8-6d51843192ec</guid>
@@ -758,6 +750,14 @@
             <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704185710_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</link>
+            <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</guid>
+            <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored) (서울바이닐 ─ ROCK & POP)]]></title>
