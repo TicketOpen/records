@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 06:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 07:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 22 Jul 2022 06:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658469015023_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (yellow colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</link>
-            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</guid>
-            <pubDate>Tue, 19 Jul 2022 11:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP]]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (yellow colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-1924</guid>
+            <pubDate>Tue, 19 Jul 2022 11:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Weeknd 위켄드lp - After Hours (black)]]></title>
