@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 10:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 11:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[모서리 구김할인] Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</link>
-            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</guid>
-            <pubDate>Fri, 22 Jul 2022 11:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Conan Gray (코난 그레이) - 2집 Superache [반투명 루비 레드 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/fa998e46-c3b3-4e94-b349-92827d05899a</link>
             <guid>https://www.seoulvinyl.com/product/fa998e46-c3b3-4e94-b349-92827d05899a</guid>
@@ -118,6 +110,14 @@
             <pubDate>Fri, 22 Jul 2022 06:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658467372510_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중경삼림 영화음악 (Chungking Express OST) [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</link>
+            <guid>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</guid>
+            <pubDate>Fri, 22 Jul 2022 05:19:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658467136657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -392,14 +392,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[모서리 구김할인] Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</link>
-            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</guid>
-            <pubDate>Fri, 22 Jul 2022 11:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 동사서독 영화음악 (Ashes Of Time Redux OST) [LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</link>
             <guid>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</guid>
@@ -422,6 +414,14 @@
             <pubDate>Mon, 18 Jul 2022 09:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658133593390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모서리 구김할인] Bridgerton 브리저튼 OST LP (Purple colored) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</link>
+            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</guid>
+            <pubDate>Fri, 22 Jul 2022 11:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[O.S.T. - Summer Of Soul ...Or, When The Revolution Could Not Be Televised (축제의 여름 ...혹은 중계될 수 없는 혁명) (Soundtrack)(2LP) vinyl (서울바이닐 ─ OST)]]></title>

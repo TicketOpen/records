@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 10:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 11:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[모서리 구김할인] Bridgerton 브리저튼 OST LP (Purple colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</link>
-            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</guid>
-            <pubDate>Fri, 22 Jul 2022 11:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 동사서독 영화음악 (Ashes Of Time Redux OST) [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</link>
@@ -38,6 +30,14 @@
             <pubDate>Mon, 18 Jul 2022 09:09:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658133593390_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모서리 구김할인] Bridgerton 브리저튼 OST LP (Purple colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</link>
+            <guid>https://www.seoulvinyl.com/product/788c0978-f2cb-4f26-823f-31cb12bc4e90-1930</guid>
+            <pubDate>Fri, 22 Jul 2022 11:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1630408061795_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[O.S.T. - Summer Of Soul ...Or, When The Revolution Could Not Be Televised (축제의 여름 ...혹은 중계될 수 없는 혁명) (Soundtrack)(2LP) vinyl]]></title>
