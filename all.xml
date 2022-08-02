@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 00:45:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 03:30:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,7 +104,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658469015023_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 동사서독 영화음악 (Ashes Of Time Redux OST) [LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[동사서독 영화음악 (Ashes Of Time Redux OST) [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</link>
             <guid>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</guid>
             <pubDate>Fri, 22 Jul 2022 06:10:50 GMT</pubDate>
@@ -392,7 +392,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 동사서독 영화음악 (Ashes Of Time Redux OST) [LP] (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA[동사서독 영화음악 (Ashes Of Time Redux OST) [LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</link>
             <guid>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</guid>
             <pubDate>Fri, 22 Jul 2022 06:10:50 GMT</pubDate>
