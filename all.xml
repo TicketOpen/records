@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 06:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 07:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,6 +312,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657702216432_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
+            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Tyler, The Creator (타일러, 더 크리에이터) - 6집 CALL ME IF YOU GET LOST [2LP] vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/99ea0cd7-1335-4ad2-a55e-87cde92c1e80</link>
             <guid>https://www.seoulvinyl.com/product/99ea0cd7-1335-4ad2-a55e-87cde92c1e80</guid>
@@ -358,14 +366,6 @@
             <pubDate>Tue, 19 Jul 2022 11:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658227742881_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Weeknd 위켄드lp - After Hours (black) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-732-1636-1921</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-732-1636-1921</guid>
-            <pubDate>Tue, 19 Jul 2022 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658223947137_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Earth, Wind & Fire 어스 윈드 파이어 LP - Their Ultimate Collection (Ltd)(180g Colored LP) vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
