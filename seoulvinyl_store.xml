@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091696932_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
+            <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
+            <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 저스디스 (JUSTHIS) - Do Not Go Gentle Into That Good Night II [솔리드 화이트 컬러 LP]]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 01 Aug 2022 11:08:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658467136657_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
-            <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
-            <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>

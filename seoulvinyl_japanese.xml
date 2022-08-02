@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 07:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 08:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,12 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Masayoshi Takanaka 마사요시 타카나카 高中正義 – An Insatiable High]]></title>
-            <link>https://www.seoulvinyl.com/product/f315e4b6-71da-4b5e-a827-2f2fd2b1dd1c</link>
-            <guid>https://www.seoulvinyl.com/product/f315e4b6-71da-4b5e-a827-2f2fd2b1dd1c</guid>
-            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652154348905_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Mari Iijima 이이지마 마리 - My Heart In Red]]></title>
+            <link>https://www.seoulvinyl.com/product/5d4a5e47-af95-44d0-a650-3522ea3afe20</link>
+            <guid>https://www.seoulvinyl.com/product/5d4a5e47-af95-44d0-a650-3522ea3afe20</guid>
+            <pubDate>Tue, 02 Aug 2022 08:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439314942_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
