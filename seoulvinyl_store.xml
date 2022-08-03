@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Aug 2022 07:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2022 08:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 장혜진 - Before the Party [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/cfe51bb5-5ab8-4610-8857-555e569d471b</link>
+            <guid>https://www.seoulvinyl.com/product/cfe51bb5-5ab8-4610-8857-555e569d471b</guid>
+            <pubDate>Wed, 03 Aug 2022 08:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659510186614_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[오르내림 - 청소년관람불가 [180g 레드 컬러반 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/beca5b97-e4e3-4ef7-a416-87006e4f88ed</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 22 Jul 2022 06:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658467372510_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중경삼림 영화음악 (Chungking Express OST) [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</link>
-            <guid>https://www.seoulvinyl.com/product/d88ed36f-3c2b-4286-8226-24114c638d10</guid>
-            <pubDate>Mon, 01 Aug 2022 11:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658467136657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
