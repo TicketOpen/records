@@ -4,11 +4,11 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 07:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 09:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[예약판매] Casiopea (카시오페아) - Casiopea (clear orange colored LP)]]></title>
+            <title><![CDATA[Casiopea (카시오페아) - Casiopea (clear orange colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/65e43c68-19c0-4872-94a6-f0ad7b5fd227</link>
             <guid>https://www.seoulvinyl.com/product/65e43c68-19c0-4872-94a6-f0ad7b5fd227</guid>
             <pubDate>Sat, 16 Jul 2022 12:13:26 GMT</pubDate>
@@ -16,7 +16,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657971348775_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Kaze 카제 - Umikaze (180g,LP)]]></title>
+            <title><![CDATA[Kaze 카제 - Umikaze (180g,LP)]]></title>
             <link>https://www.seoulvinyl.com/product/09eac0be-42ca-4928-9baa-80188dc09936</link>
             <guid>https://www.seoulvinyl.com/product/09eac0be-42ca-4928-9baa-80188dc09936</guid>
             <pubDate>Sat, 16 Jul 2022 12:13:26 GMT</pubDate>
@@ -24,7 +24,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657971250722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Kaze 카제 - Moony Night (180g,LP)]]></title>
+            <title><![CDATA[Kaze 카제 - Moony Night (180g,LP)]]></title>
             <link>https://www.seoulvinyl.com/product/cdce09af-14bf-4560-8e49-13a3a846b97b</link>
             <guid>https://www.seoulvinyl.com/product/cdce09af-14bf-4560-8e49-13a3a846b97b</guid>
             <pubDate>Sat, 16 Jul 2022 12:13:26 GMT</pubDate>
@@ -32,7 +32,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657971190219_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Casiopea (카시오페아) - Mint Jams (green colored LP)]]></title>
+            <title><![CDATA[Casiopea (카시오페아) - Mint Jams (green colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/10e0ad4a-72cd-40f6-bc25-4942854b926d</link>
             <guid>https://www.seoulvinyl.com/product/10e0ad4a-72cd-40f6-bc25-4942854b926d</guid>
             <pubDate>Thu, 14 Jul 2022 11:07:47 GMT</pubDate>
@@ -88,12 +88,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Hiroshi II Hiroshi – Hiroshi II Hiroshi Vol. 1 (클리어 블루)]]></title>
+            <title><![CDATA[Hiroshi II Hiroshi – Hiroshi II Hiroshi Vol. 1 (클리어 블루)]]></title>
             <link>https://www.seoulvinyl.com/product/2ed6302b-c9c6-44a0-92a0-737750e590f7</link>
             <guid>https://www.seoulvinyl.com/product/2ed6302b-c9c6-44a0-92a0-737750e590f7</guid>
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
+            <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
+            <guid>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</guid>
+            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652154886457_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 水原明子 – So Crystal]]></title>
-            <link>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</link>
-            <guid>https://www.seoulvinyl.com/product/adc36032-5646-449d-aaa3-94657b59fc4f</guid>
-            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652090847310_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Mari Iijima 이이지마 마리 - My Heart In Red]]></title>
