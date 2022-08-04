@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Aug 2022 04:35:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Aug 2022 05:25:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Lizzo 리쪼 - Special]]></title>
-            <link>https://www.seoulvinyl.com/product/3e19ae25-7bff-4582-8231-0aa43a307a5e</link>
-            <guid>https://www.seoulvinyl.com/product/3e19ae25-7bff-4582-8231-0aa43a307a5e</guid>
-            <pubDate>Fri, 29 Jul 2022 11:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091696932_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Kendrick Lamar (켄드릭 라마) - 5집 Mr. Morale & The Big Steppers [2LP, Black vinyl]]]></title>
             <link>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</link>
@@ -22,6 +14,14 @@
             <pubDate>Tue, 26 Jul 2022 08:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658819866644_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lizzo 리쪼 - Special]]></title>
+            <link>https://www.seoulvinyl.com/product/3e19ae25-7bff-4582-8231-0aa43a307a5e</link>
+            <guid>https://www.seoulvinyl.com/product/3e19ae25-7bff-4582-8231-0aa43a307a5e</guid>
+            <pubDate>Fri, 29 Jul 2022 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091696932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Conan Gray (코난 그레이) - 2집 Superache [반투명 루비 레드 컬러 LP]]]></title>
