@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 06 Aug 2022 15:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Aug 2022 16:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
             <content:encoded><![CDATA[23,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/9b70820381c0890717c2a786604ee729.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소음발광 Soumbalgwang 정규2집 ‘기쁨, 꽃 Happiness, Flower’ CD음반 (오소리웍스)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1809&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1809&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Nov 2021 07:36:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/3e68e1595eb20fb2b9aa010d17d7164c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양창근 정규2집 ‘WAVE’ CD음반]]></title>
@@ -390,6 +382,14 @@
             <pubDate>Tue, 02 Aug 2022 20:13:16 GMT</pubDate>
             <content:encoded><![CDATA[18,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202202/f0626b3fb6a4ab64004361578836b339.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양창근 정규1집  ‘오래된 마음’  CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sat, 06 Aug 2022 16:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[13,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
