@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 07 Aug 2022 10:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Aug 2022 11:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -696,14 +696,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092226043_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</link>
-            <guid>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</guid>
-            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Muse 뮤즈 LP - Origin of Symmetry (Remastered)(Gatefold)(180G)(2LP)vinyl (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</link>
             <guid>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</guid>
@@ -742,6 +734,14 @@
             <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704185710_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</link>
+            <guid>https://www.seoulvinyl.com/product/3abc9e63-9e17-43b7-b7e1-1e377ee4e1eb</guid>
+            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704008302_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tuxedo 턱시도 lp – Tuxedo vinyl (서울바이닐 ─ ROCK & POP)]]></title>
