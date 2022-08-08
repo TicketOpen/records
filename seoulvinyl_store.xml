@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 09:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 10:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] KIRINJI 키린지 - crepuscular (1LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b92d05a9-6220-4abb-aa6e-9e6199b37e3b</link>
+            <guid>https://www.seoulvinyl.com/product/b92d05a9-6220-4abb-aa6e-9e6199b37e3b</guid>
+            <pubDate>Mon, 08 Aug 2022 10:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659953006678_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</link>
+            <guid>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</guid>
+            <pubDate>Mon, 08 Aug 2022 10:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP]]]></title>
             <link>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</link>
@@ -110,22 +126,6 @@
             <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637583628411_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sasha Sloan 사샤슬론 lp - I Blame The World]]></title>
-            <link>https://www.seoulvinyl.com/product/616ea566-509a-4eaf-abfc-8d56deb7de15</link>
-            <guid>https://www.seoulvinyl.com/product/616ea566-509a-4eaf-abfc-8d56deb7de15</guid>
-            <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092588777_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[L'imperatrice 랭페라트리스 - Odyssee (Deluxe Edition 45rpm 2 x vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/6731e749-43c2-4f84-9077-fcf8e2594601</link>
-            <guid>https://www.seoulvinyl.com/product/6731e749-43c2-4f84-9077-fcf8e2594601</guid>
-            <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092226043_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 한정반]]]></title>
