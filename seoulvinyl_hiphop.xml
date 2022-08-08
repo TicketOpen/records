@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 00:40:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 03:04:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 29 Jul 2022 11:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091696932_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Conan Gray (코난 그레이) - 2집 Superache [반투명 루비 레드 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fa998e46-c3b3-4e94-b349-92827d05899a</link>
-            <guid>https://www.seoulvinyl.com/product/fa998e46-c3b3-4e94-b349-92827d05899a</guid>
-            <pubDate>Fri, 22 Jul 2022 06:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658469015023_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Withers 빌 위더스 - The Ultimate Collection [colored LP]]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 05 Jul 2022 16:11:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656915707874_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Conan Gray (코난 그레이) - 2집 Superache [반투명 루비 레드 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fa998e46-c3b3-4e94-b349-92827d05899a</link>
+            <guid>https://www.seoulvinyl.com/product/fa998e46-c3b3-4e94-b349-92827d05899a</guid>
+            <pubDate>Fri, 22 Jul 2022 06:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658469015023_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (yellow colored LP)]]></title>
