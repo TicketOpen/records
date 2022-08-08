@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</link>
+            <guid>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</guid>
+            <pubDate>Mon, 08 Aug 2022 05:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659935382671_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장혜진 - Before the Party [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/cfe51bb5-5ab8-4610-8857-555e569d471b</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100994307_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 하현상 - Calibrate [투명 코크 보틀 컬러 LP] vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</link>
-            <guid>https://www.seoulvinyl.com/product/a3457044-7bbb-4fc9-a178-d8889b891521</guid>
-            <pubDate>Mon, 04 Jul 2022 09:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656925307462_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 한정반]]]></title>

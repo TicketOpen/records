@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 04:27:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 05:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</link>
+            <guid>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</guid>
+            <pubDate>Mon, 08 Aug 2022 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659935382671_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Beyonce 비욘세 - Renaissance (Deluxe Edition, 180g 2LP, 36p booklet, Poster)]]></title>
             <link>https://www.seoulvinyl.com/product/aea5ea2b-e3a6-4726-91c7-78221387e2e0</link>
@@ -118,14 +126,6 @@
             <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092226043_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lizzo 리쪼 - Special]]></title>
-            <link>https://www.seoulvinyl.com/product/3e19ae25-7bff-4582-8231-0aa43a307a5e</link>
-            <guid>https://www.seoulvinyl.com/product/3e19ae25-7bff-4582-8231-0aa43a307a5e</guid>
-            <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091696932_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 한정반]]]></title>
