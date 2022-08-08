@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 11:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 12:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659682061767_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KAZUSHI INAMURA 카즈시 이나무라 - Free Flight lp (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</link>
-            <guid>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</guid>
-            <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659681873070_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장혜진 - Before the Party [180g LP] (서울바이닐 ─ 스토어)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637583628411_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAZUSHI INAMURA 카즈시 이나무라 - Free Flight lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</link>
+            <guid>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</guid>
+            <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659681873070_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 한정반] (서울바이닐 ─ 스토어)]]></title>
@@ -920,14 +920,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659682061767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KAZUSHI INAMURA 카즈시 이나무라 - Free Flight lp (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</link>
-            <guid>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</guid>
-            <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659681873070_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Casiopea (카시오페아) - Casiopea (clear orange colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/65e43c68-19c0-4872-94a6-f0ad7b5fd227</link>
             <guid>https://www.seoulvinyl.com/product/65e43c68-19c0-4872-94a6-f0ad7b5fd227</guid>
@@ -1006,6 +998,14 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAZUSHI INAMURA 카즈시 이나무라 - Free Flight lp (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</link>
+            <guid>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</guid>
+            <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659681873070_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP] (서울바이닐 ─ JAPANESE)]]></title>
