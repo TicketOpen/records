@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 00:49:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 03:07:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 08 Aug 2022 05:16:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659935382671_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/683a9f6b-a2b3-4106-b39b-9fea99daa0aa</link>
+            <guid>https://www.seoulvinyl.com/product/683a9f6b-a2b3-4106-b39b-9fea99daa0aa</guid>
+            <pubDate>Thu, 04 Aug 2022 09:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659597168550_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장혜진 - Before the Party [180g LP]]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 Aug 2022 10:10:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/683a9f6b-a2b3-4106-b39b-9fea99daa0aa</link>
-            <guid>https://www.seoulvinyl.com/product/683a9f6b-a2b3-4106-b39b-9fea99daa0aa</guid>
-            <pubDate>Thu, 04 Aug 2022 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659597168550_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 이소라 - 이소라 베스트 [투명핑크 컬러반 2LP]]]></title>
