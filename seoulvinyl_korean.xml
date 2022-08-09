@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 07:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 08:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 딥샤워 (Deepshower) - Colors [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc</link>
+            <guid>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc</guid>
+            <pubDate>Tue, 09 Aug 2022 08:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032455791_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP]]]></title>
             <link>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</link>
@@ -16,11 +24,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659935382671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 한정반]]]></title>
+            <title><![CDATA[김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 넘버링 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/683a9f6b-a2b3-4106-b39b-9fea99daa0aa</link>
             <guid>https://www.seoulvinyl.com/product/683a9f6b-a2b3-4106-b39b-9fea99daa0aa</guid>
             <pubDate>Thu, 04 Aug 2022 09:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659597168550_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100236022_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 터보 - 1집 [180g RED LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</link>
-            <guid>https://www.seoulvinyl.com/product/02997470-21e1-4eba-9792-21f807447518</guid>
-            <pubDate>Wed, 06 Jul 2022 10:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657100875900_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
