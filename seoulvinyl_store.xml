@@ -4,16 +4,16 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 08:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 09:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[예약판매] 딥샤워 (Deepshower) - Coloer [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc</link>
-            <guid>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc</guid>
-            <pubDate>Tue, 09 Aug 2022 08:10:50 GMT</pubDate>
+            <title><![CDATA[[예약판매] 2단지 - 무딘농담 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</link>
+            <guid>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</guid>
+            <pubDate>Tue, 09 Aug 2022 09:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032455791_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032774286_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] KIRINJI 키린지 - crepuscular (1LP)]]></title>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 06 Aug 2022 08:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659772280704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kirinji 키린지 - 20132020 [2LP][게이트폴드]]]></title>
+            <link>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</link>
+            <guid>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</guid>
+            <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659682061767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김장훈 - 김장훈 베스트 [투명와인색 컬러반 LP][1,000장 넘버링 한정반]]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 08 Aug 2022 10:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji 키린지 - 20132020 [2LP][게이트폴드]]]></title>
-            <link>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</link>
-            <guid>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</guid>
-            <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659682061767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAZUSHI INAMURA 카즈시 이나무라 - Free Flight lp]]></title>
