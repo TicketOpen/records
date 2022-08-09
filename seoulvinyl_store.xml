@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 09:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Anzenchitai 安全地帶 안전지대 - 安全地帯Ⅶ～夢の都]]></title>
+            <link>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</link>
+            <guid>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</guid>
+            <pubDate>Tue, 09 Aug 2022 10:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660039227969_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-563-1967</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-563-1967</guid>
+            <pubDate>Tue, 09 Aug 2022 10:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586956302005_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 2단지 - 무딘농담 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821836529_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Alive 2007 (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</link>
-            <guid>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</guid>
-            <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821616423_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오르내림 - 청소년관람불가 [180g 레드 컬러반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/beca5b97-e4e3-4ef7-a416-87006e4f88ed</link>
-            <guid>https://www.seoulvinyl.com/product/beca5b97-e4e3-4ef7-a416-87006e4f88ed</guid>
-            <pubDate>Sat, 30 Jul 2022 10:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659175526544_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>

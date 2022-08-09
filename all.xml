@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 09:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Anzenchitai 安全地帶 안전지대 - 安全地帯Ⅶ～夢の都 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</link>
+            <guid>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</guid>
+            <pubDate>Tue, 09 Aug 2022 10:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660039227969_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-563-1967</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-563-1967</guid>
+            <pubDate>Tue, 09 Aug 2022 10:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586956302005_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 2단지 - 무딘농담 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</link>
@@ -102,22 +118,6 @@
             <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821836529_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Alive 2007 (2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</link>
-            <guid>https://www.seoulvinyl.com/product/10cab297-7f06-4032-874c-765e4e835b56</guid>
-            <pubDate>Tue, 26 Jul 2022 08:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821616423_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오르내림 - 청소년관람불가 [180g 레드 컬러반 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/beca5b97-e4e3-4ef7-a416-87006e4f88ed</link>
-            <guid>https://www.seoulvinyl.com/product/beca5b97-e4e3-4ef7-a416-87006e4f88ed</guid>
-            <pubDate>Sat, 30 Jul 2022 10:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659175526544_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition) (서울바이닐 ─ 스토어)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-563-1967</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-563-1967</guid>
+            <pubDate>Tue, 09 Aug 2022 10:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586956302005_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Beyonce 비욘세 - Renaissance (Deluxe Edition, 180g 2LP, 36p booklet, Poster) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/aea5ea2b-e3a6-4726-91c7-78221387e2e0</link>
             <guid>https://www.seoulvinyl.com/product/aea5ea2b-e3a6-4726-91c7-78221387e2e0</guid>
@@ -342,14 +350,6 @@
             <pubDate>Thu, 07 Jul 2022 10:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657185300680_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West 카니예 웨스트 vinyl - Donda 4LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/7763eeb1-7960-4579-92a6-693fab8ba8c7</link>
-            <guid>https://www.seoulvinyl.com/product/7763eeb1-7960-4579-92a6-693fab8ba8c7</guid>
-            <pubDate>Mon, 04 Jul 2022 07:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">72,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656915707874_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Conan Gray (코난 그레이) - 2집 Superache [반투명 루비 레드 컬러 LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 2단지 - 무딘농담 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</link>
             <guid>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</guid>
-            <pubDate>Tue, 09 Aug 2022 09:09:54 GMT</pubDate>
+            <pubDate>Tue, 09 Aug 2022 09:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032774286_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -904,6 +904,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658385932407_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Anzenchitai 安全地帶 안전지대 - 8집 安全地帶 VIII ~太陽 (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/3fce87af-f042-4405-8b36-5eb31a446c5f</link>
+            <guid>https://www.seoulvinyl.com/product/3fce87af-f042-4405-8b36-5eb31a446c5f</guid>
+            <pubDate>Tue, 09 Aug 2022 10:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660039773811_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Anzenchitai 安全地帶 안전지대 - 安全地帯Ⅶ～夢の都 (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</link>
+            <guid>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</guid>
+            <pubDate>Tue, 09 Aug 2022 10:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660039227969_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] KIRINJI 키린지 - crepuscular (1LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/b92d05a9-6220-4abb-aa6e-9e6199b37e3b</link>
             <guid>https://www.seoulvinyl.com/product/b92d05a9-6220-4abb-aa6e-9e6199b37e3b</guid>
@@ -992,14 +1008,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657167970706_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hiroshi II Hiroshi – Hiroshi II Hiroshi Vol. 1 (클리어 블루) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/2ed6302b-c9c6-44a0-92a0-737750e590f7</link>
-            <guid>https://www.seoulvinyl.com/product/2ed6302b-c9c6-44a0-92a0-737750e590f7</guid>
-            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KAZUSHI INAMURA 카즈시 이나무라 - Free Flight lp (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</link>
             <guid>https://www.seoulvinyl.com/product/1c47c7eb-e8ca-40f2-ab95-464efecdf75a</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652439049408_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Akiko Mizuhara 아키코 미즈하라 - Love Message (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec5b8bc3-e58e-4a46-9fb5-3089a5e827f7</link>
-            <guid>https://www.seoulvinyl.com/product/ec5b8bc3-e58e-4a46-9fb5-3089a5e827f7</guid>
-            <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652438132796_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ etc)]]></title>
