@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 03:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Fri, 01 Apr 2022 14:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX FOREVER CASSETTE TAPE (Orange 500장 한정)]]></title>
-            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639-1779</link>
-            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639-1779</guid>
-            <pubDate>Sat, 07 May 2022 11:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645515323047_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DEUX FOREVER CASSETTE TAPE (Clear 500장 한정)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 22 Apr 2022 09:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DEUX FOREVER CASSETTE TAPE (Orange 500장 한정)]]></title>
+            <link>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639-1779</link>
+            <guid>https://www.seoulvinyl.com/product/9a8e249b-7715-4d41-9bab-11728f83a6aa-1639-1779</guid>
+            <pubDate>Sat, 07 May 2022 11:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645515323047_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프)]]></title>

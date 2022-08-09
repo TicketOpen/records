@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Aug 2022 03:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 04:33:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 08 Aug 2022 10:10:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659953006678_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji 키린지 - 20132020 [2LP][게이트폴드]]]></title>
-            <link>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</link>
-            <guid>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</guid>
-            <pubDate>Fri, 05 Aug 2022 07:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659682061767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Casiopea (카시오페아) - Casiopea (clear orange colored LP)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 07 Jun 2022 04:18:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652091185624_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kirinji 키린지 - 20132020 [2LP][게이트폴드]]]></title>
+            <link>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</link>
+            <guid>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</guid>
+            <pubDate>Fri, 05 Aug 2022 07:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659682061767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAZUSHI INAMURA 카즈시 이나무라 - Free Flight lp]]></title>
