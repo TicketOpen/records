@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 Aug 2022 07:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Aug 2022 08:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1056,14 +1056,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
-            <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
-            <pubDate>Tue, 05 Jul 2022 16:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LP액자 / 슬림 프레임 (13mm) / 일반 레코드판 사이즈 / 옅은 색상 (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</link>
             <guid>https://www.seoulvinyl.com/product/8527fa5e-abeb-40b0-8f44-cfaf3c42218e</guid>
@@ -1142,6 +1134,14 @@
             <pubDate>Tue, 05 Jul 2022 16:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">20,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636184872463_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lp액자 / 슬림 프레임(13mm) / 일반 레코드판 사이즈 / 진한 색상 (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</link>
+            <guid>https://www.seoulvinyl.com/product/443b6736-7146-4635-a403-c9400fb94507</guid>
+            <pubDate>Tue, 05 Jul 2022 16:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1634369794435_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[중고 / 비디오 테이프] Hedwig And The Angry Inch 헤드웍 (서울바이닐 ─ etc)]]></title>
