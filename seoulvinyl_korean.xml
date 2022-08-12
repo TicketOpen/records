@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 00:41:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 03:00:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] JIDA (지다) - SUMMER COLOURS [불투명 피치컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4b350211-7ca2-41c7-b8e3-11a3027f3bbd</link>
+            <guid>https://www.seoulvinyl.com/product/4b350211-7ca2-41c7-b8e3-11a3027f3bbd</guid>
+            <pubDate>Fri, 12 Aug 2022 03:00:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660272968897_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 블랙핑크 (BLACKPINK) - BLACKPINK 2nd VINYL LP [BORN PINK] -LIMITED EDITION]]></title>
             <link>https://www.seoulvinyl.com/product/19ad4022-8c29-4785-9d44-31af12d0c281</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 12 Jul 2022 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651566872867_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코나 (KONA) - 2.5집 OVERLAP [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/0916e088-9e9b-4b53-a6fe-f4c5c291e127-1889</link>
-            <guid>https://www.seoulvinyl.com/product/0916e088-9e9b-4b53-a6fe-f4c5c291e127-1889</guid>
-            <pubDate>Tue, 12 Jul 2022 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652692178324_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
