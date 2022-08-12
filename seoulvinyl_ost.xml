@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Aug 2022 05:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2022 06:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Matrix 매트릭스 영화음악 [투명 레드 & 블루 소용돌이 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/483b132d-806f-44ac-97e3-65f12684b55c</link>
+            <guid>https://www.seoulvinyl.com/product/483b132d-806f-44ac-97e3-65f12684b55c</guid>
+            <pubDate>Fri, 12 Aug 2022 06:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660282549360_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동사서독 영화음악 (Ashes Of Time Redux OST) [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/32387546-8297-42f1-9e28-3bd913a52082</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346938502_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리커리쉬 피자 O.S.T [Gatefold][2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</link>
-            <guid>https://www.seoulvinyl.com/product/8e22042e-c779-4025-b33b-ae3d55550bff</guid>
-            <pubDate>Sat, 04 Jun 2022 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652346227044_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
