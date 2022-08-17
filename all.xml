@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 09:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 10:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659953006678_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</link>
-            <guid>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</guid>
-            <pubDate>Mon, 08 Aug 2022 05:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659935382671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</link>
             <guid>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</guid>
             <pubDate>Mon, 08 Aug 2022 10:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</link>
+            <guid>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</guid>
+            <pubDate>Mon, 08 Aug 2022 05:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659935382671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
@@ -824,6 +824,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032774286_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</link>
+            <guid>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</guid>
+            <pubDate>Mon, 08 Aug 2022 10:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</link>
             <guid>https://www.seoulvinyl.com/product/5f363f09-f105-49b5-bc33-f1f8a1e6c5b5</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 29 Jul 2022 04:40:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647502238188_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</link>
-            <guid>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</guid>
-            <pubDate>Mon, 08 Aug 2022 10:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Anzenchitai 安全地帶 안전지대 - 13집 安全地帯 XIII JUNK [2LP] (서울바이닐 ─ JAPANESE)]]></title>

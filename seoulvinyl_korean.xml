@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 09:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 10:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Tue, 09 Aug 2022 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032774286_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</link>
+            <guid>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</guid>
+            <pubDate>Mon, 08 Aug 2022 10:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 템페스트 - It's ME, It's WE [140g Clear Red LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 29 Jul 2022 04:40:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1647502238188_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
-            <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</link>
-            <guid>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc</guid>
-            <pubDate>Mon, 08 Aug 2022 10:10:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659950323126_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
