@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Aug 2022 03:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Aug 2022 05:01:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] HUS(허밍어반스테레오) - Gros Calin [180g 불투명 피치컬러 LP+CD]]]></title>
+            <link>https://www.seoulvinyl.com/product/98270fc6-4a7e-4ea3-8027-919d9b5f7f7e</link>
+            <guid>https://www.seoulvinyl.com/product/98270fc6-4a7e-4ea3-8027-919d9b5f7f7e</guid>
+            <pubDate>Wed, 17 Aug 2022 04:59:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660708941295_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 딥샤워 (Deepshower) - Colors [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc-1977</link>
+            <guid>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc-1977</guid>
+            <pubDate>Wed, 17 Aug 2022 04:59:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032455791_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Matrix 매트릭스 영화음악 [투명 레드 & 블루 소용돌이 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/483b132d-806f-44ac-97e3-65f12684b55c</link>
@@ -110,22 +126,6 @@
             <pubDate>Mon, 08 Aug 2022 05:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659935382671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Beyonce 비욘세 - Renaissance (Deluxe Edition, 180g 2LP, 36p booklet, Poster)]]></title>
-            <link>https://www.seoulvinyl.com/product/aea5ea2b-e3a6-4726-91c7-78221387e2e0</link>
-            <guid>https://www.seoulvinyl.com/product/aea5ea2b-e3a6-4726-91c7-78221387e2e0</guid>
-            <pubDate>Sat, 06 Aug 2022 08:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659772280704_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji 키린지 - 20132020 [2LP][게이트폴드]]]></title>
-            <link>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</link>
-            <guid>https://www.seoulvinyl.com/product/02beb30e-eb0b-4c5c-8bfb-15d57829a980</guid>
-            <pubDate>Fri, 05 Aug 2022 07:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659682061767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
