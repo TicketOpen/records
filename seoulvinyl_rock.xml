@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 03:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 04:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631941933020_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[harry styles 해리 스타일스 lp - fine line (black & white limited vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/harry-1863</link>
+            <guid>https://www.seoulvinyl.com/product/harry-1863</guid>
+            <pubDate>Thu, 18 Aug 2022 04:55:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656497562292_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
             <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657700960275_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</link>
-            <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923</guid>
-            <pubDate>Tue, 19 Jul 2022 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>

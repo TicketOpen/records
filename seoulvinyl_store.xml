@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 03:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 04:55:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 02 [140g 오렌지 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3ae5a55b-952c-49c5-9d14-4e2c30dca3da</link>
+            <guid>https://www.seoulvinyl.com/product/3ae5a55b-952c-49c5-9d14-4e2c30dca3da</guid>
+            <pubDate>Thu, 18 Aug 2022 04:54:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660793807773_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SOIL & PIMP SESSIONS 소일 & 핌프 세션 - LOST IN TOKYO]]></title>
             <link>https://www.seoulvinyl.com/product/735c6e8c-5831-4eec-a1eb-6ecef04dc029</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 11 Aug 2022 03:42:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660186926316_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 포지션 - 4.5집 I LOVE YOU [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9709ce01-ddd6-43a0-a1ff-4c7d257fad6e</link>
-            <guid>https://www.seoulvinyl.com/product/9709ce01-ddd6-43a0-a1ff-4c7d257fad6e</guid>
-            <pubDate>Wed, 10 Aug 2022 04:10:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660104438801_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
