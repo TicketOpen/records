@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 10:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 11:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[해파  Haepa 정규 1집 '죽은 척하기' CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1929&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1929&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 18 Aug 2022 11:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[18,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/8a0f20f2f7907ce0ee11c7ebe9cd57b6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김시호 김시호 1st EP '18평방자’ CD음반]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1917&amp;cate_no=60&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 02 Aug 2022 20:13:16 GMT</pubDate>
             <content:encoded><![CDATA[18,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202202/f0626b3fb6a4ab64004361578836b339.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양창근 정규1집  ‘오래된 마음’  CD음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1805&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sat, 06 Aug 2022 16:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
