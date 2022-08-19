@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Aug 2022 10:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Aug 2022 11:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Maxwell 맥스웰 - NOW [브라운 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/55a192dc-476d-4703-9ff0-d4df819a4f91</link>
+            <guid>https://www.seoulvinyl.com/product/55a192dc-476d-4703-9ff0-d4df819a4f91</guid>
+            <pubDate>Fri, 19 Aug 2022 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660906894582_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Extreme 익스트림 - Pornograffitti [180g LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/32d65106-2d22-4000-9983-194dbed37d17</link>
+            <guid>https://www.seoulvinyl.com/product/32d65106-2d22-4000-9983-194dbed37d17</guid>
+            <pubDate>Fri, 19 Aug 2022 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660906734810_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 들국화 - Best [180g 흰색 + 노랑 콤보 컬러반 LP][한정반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9b49b1af-4718-4b1f-a367-a2918d4438b5</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737677878_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Grave of the Fireflies 반딧불이의 묘 - Image Album (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/8df66c3c-3cdd-4943-8d38-e1bf790773c1</link>
-            <guid>https://www.seoulvinyl.com/product/8df66c3c-3cdd-4943-8d38-e1bf790773c1</guid>
-            <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737505654_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] HUS(허밍어반스테레오) - Gros Calin [180g 불투명 피치컬러 LP+CD] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/98270fc6-4a7e-4ea3-8027-919d9b5f7f7e</link>
-            <guid>https://www.seoulvinyl.com/product/98270fc6-4a7e-4ea3-8027-919d9b5f7f7e</guid>
-            <pubDate>Wed, 17 Aug 2022 04:59:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660708941295_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Maxwell 맥스웰 - NOW [브라운 컬러 LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/55a192dc-476d-4703-9ff0-d4df819a4f91</link>
+            <guid>https://www.seoulvinyl.com/product/55a192dc-476d-4703-9ff0-d4df819a4f91</guid>
+            <pubDate>Fri, 19 Aug 2022 11:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660906894582_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-563-1967</link>
             <guid>https://www.seoulvinyl.com/product/untitled-563-1967</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 09 Jul 2022 09:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657355730997_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
-            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
-            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Matrix 매트릭스 영화음악 [투명 레드 & 블루 소용돌이 컬러 2LP] (서울바이닐 ─ OST)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Extreme 익스트림 - Pornograffitti [180g LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/32d65106-2d22-4000-9983-194dbed37d17</link>
+            <guid>https://www.seoulvinyl.com/product/32d65106-2d22-4000-9983-194dbed37d17</guid>
+            <pubDate>Fri, 19 Aug 2022 11:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660906734810_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Human After All (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/847c8251-eebb-464f-932f-a8c1061ff46b</link>
             <guid>https://www.seoulvinyl.com/product/847c8251-eebb-464f-932f-a8c1061ff46b</guid>
@@ -696,6 +704,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092226043_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AC/DC 에이씨디씨 lp - Highway to Hell (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/538e97f6-4fe6-47c6-ace1-b653e8827ebe</link>
+            <guid>https://www.seoulvinyl.com/product/538e97f6-4fe6-47c6-ace1-b653e8827ebe</guid>
+            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704185710_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Muse 뮤즈 LP - Origin of Symmetry (Remastered)(Gatefold)(180G)(2LP)vinyl (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</link>
             <guid>https://www.seoulvinyl.com/product/d95b3135-3915-4edd-bdf9-1854136fccc5</guid>
@@ -720,28 +736,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631941933020_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[harry styles 해리 스타일스 lp - fine line (black & white limited vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/harry-1863</link>
-            <guid>https://www.seoulvinyl.com/product/harry-1863</guid>
-            <pubDate>Thu, 18 Aug 2022 04:55:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656497562292_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
             <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
             <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AC/DC 에이씨디씨 lp - Highway to Hell (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/538e97f6-4fe6-47c6-ace1-b653e8827ebe</link>
-            <guid>https://www.seoulvinyl.com/product/538e97f6-4fe6-47c6-ace1-b653e8827ebe</guid>
-            <pubDate>Wed, 13 Jul 2022 10:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704185710_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AC/DC 에이씨디씨 lp - Back In Black (vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
