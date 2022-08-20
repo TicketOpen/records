@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Aug 2022 10:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Aug 2022 11:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0-1999</link>
+            <guid>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0-1999</guid>
+            <pubDate>Sat, 20 Aug 2022 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657167970706_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ohashi Junko (오하시 준코) - Point Zero [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9-1997</link>
+            <guid>https://www.seoulvinyl.com/product/4e6c53db-1189-45d3-9f6b-00be9efe29e9-1997</guid>
+            <pubDate>Sat, 20 Aug 2022 11:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650536715320_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] SOIL & PIMP SESSIONS 소일 & 핌프 세션 - LOST IN TOKYO]]></title>
             <link>https://www.seoulvinyl.com/product/735c6e8c-5831-4eec-a1eb-6ecef04dc029</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 09 Aug 2022 10:11:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660039773811_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Anzenchitai 安全地帶 안전지대 - 7집 安全地帯Ⅶ～夢の都]]></title>
-            <link>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</link>
-            <guid>https://www.seoulvinyl.com/product/ab01c480-698b-4ada-9bef-1feef7d798ea</guid>
-            <pubDate>Tue, 09 Aug 2022 10:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660039227969_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] KIRINJI 키린지 - crepuscular (1LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b92d05a9-6220-4abb-aa6e-9e6199b37e3b</link>
-            <guid>https://www.seoulvinyl.com/product/b92d05a9-6220-4abb-aa6e-9e6199b37e3b</guid>
-            <pubDate>Mon, 08 Aug 2022 10:10:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659953006678_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
