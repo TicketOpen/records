@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Aug 2022 05:14:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2022 06:25:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
             <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
-            <pubDate>Tue, 23 Aug 2022 05:14:21 GMT</pubDate>
+            <pubDate>Tue, 23 Aug 2022 05:13:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -872,7 +872,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660708941295_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 딥샤워 (Deepshower) - Colors [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[딥샤워 (Deepshower) - Colors [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc-1977</link>
             <guid>https://www.seoulvinyl.com/product/bb7f2b6d-e823-4fe4-95f0-332febf822dc-1977</guid>
             <pubDate>Wed, 17 Aug 2022 04:59:42 GMT</pubDate>
