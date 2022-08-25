@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 11:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 12:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661157564429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
-            <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
-            <pubDate>Tue, 23 Aug 2022 05:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드] (서울바이닐 ─ 스토어)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 20 Aug 2022 11:06:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650536715320_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
+            <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
+            <pubDate>Tue, 23 Aug 2022 05:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반] (서울바이닐 ─ 스토어)]]></title>
@@ -816,14 +816,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661157564429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
-            <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
-            <pubDate>Tue, 23 Aug 2022 05:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 신중현과 퀘션스 - In-A-Kadda-Da-Vida (The Psychedelic Sound) [3색 스플레터 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/51979312-3184-4109-8f25-dd2b02cd7393</link>
             <guid>https://www.seoulvinyl.com/product/51979312-3184-4109-8f25-dd2b02cd7393</guid>
@@ -902,6 +894,14 @@
             <pubDate>Wed, 17 Aug 2022 04:59:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660708941295_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
+            <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
+            <pubDate>Tue, 23 Aug 2022 05:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP) (서울바이닐 ─ JAPANESE)]]></title>
@@ -1035,7 +1035,7 @@
             <title><![CDATA[레코드 겉비닐 2LP 사이즈 (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1068</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1068</guid>
-            <pubDate>Thu, 25 Aug 2022 11:09:47 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2022 11:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">11,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617095014736_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1043,7 +1043,7 @@
             <title><![CDATA[레코드 겉비닐 1LP 사이즈 (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1066</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1066</guid>
-            <pubDate>Thu, 25 Aug 2022 11:09:47 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2022 11:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">8,250원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092814365_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1051,7 +1051,7 @@
             <title><![CDATA[레코드 이너 슬리브 (속지) (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1067</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1067</guid>
-            <pubDate>Thu, 25 Aug 2022 11:09:47 GMT</pubDate>
+            <pubDate>Thu, 25 Aug 2022 11:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">5,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
         </item>

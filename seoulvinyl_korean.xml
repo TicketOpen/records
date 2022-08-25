@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Aug 2022 11:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 12:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 22 Aug 2022 09:09:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661157564429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
-            <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
-            <pubDate>Tue, 23 Aug 2022 05:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 신중현과 퀘션스 - In-A-Kadda-Da-Vida (The Psychedelic Sound) [3색 스플레터 컬러 LP]]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 17 Aug 2022 05:00:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660708941295_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
+            <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
+            <pubDate>Tue, 23 Aug 2022 05:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
