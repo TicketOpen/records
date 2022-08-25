@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 23:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2022 00:51:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -552,14 +552,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
-            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
-            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Awakening 어웨이크닝 - Hear, Sense and Feel Lp (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</link>
             <guid>https://www.seoulvinyl.com/product/6a8b0c80-6c55-494a-9de3-ed70ddc0230a</guid>
@@ -600,20 +592,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633860992667_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Glenn Miller 글렌 밀러 - The Hits Lp (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</link>
-            <guid>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</guid>
+            <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</link>
+            <guid>https://www.seoulvinyl.com/product/bd6a2cbe-636c-408f-a70d-3d533937502c</guid>
             <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633856911416_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sergio mendes 세르지오 멘데스 - The Beat of Brazil (double split colored) LP (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</link>
-            <guid>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</guid>
-            <pubDate>Tue, 02 Aug 2022 08:12:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryo Fukui 후쿠이 료 - My Favorite Tune Lp (서울바이닐 ─ JAZZ)]]></title>
@@ -632,6 +616,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1635588621129_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Glenn Miller 글렌 밀러 - The Hits Lp (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</link>
+            <guid>https://www.seoulvinyl.com/product/35cd7cb4-41f8-410d-b022-5e57ec749430</guid>
+            <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633856911416_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bill Evans 빌 에반스 - Everybody Digs Lp (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</link>
             <guid>https://www.seoulvinyl.com/product/b229c12d-8e73-46f6-898d-2dfe9c45b767</guid>
@@ -646,6 +638,14 @@
             <pubDate>Sat, 25 Jun 2022 14:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631943536751_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sergio mendes 세르지오 멘데스 - The Beat of Brazil (double split colored) LP (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</link>
+            <guid>https://www.seoulvinyl.com/product/f18dc717-c711-4695-bb71-52a374658c05</guid>
+            <pubDate>Tue, 02 Aug 2022 08:12:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반] (서울바이닐 ─ ROCK & POP)]]></title>
