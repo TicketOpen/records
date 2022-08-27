@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 03:23:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 04:51:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</link>
+            <guid>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</guid>
+            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661158049024_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</link>
             <guid>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</guid>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 22 Aug 2022 05:01:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661139387149_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</link>
-            <guid>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</guid>
-            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661158049024_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (서울바이닐 ─ 스토어)]]></title>
@@ -267,7 +267,7 @@
             <title><![CDATA[[예약판매] LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
             <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
-            <pubDate>Sat, 27 Aug 2022 03:22:01 GMT</pubDate>
+            <pubDate>Sat, 27 Aug 2022 03:21:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661569163441_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631944957422_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</link>
+            <guid>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</guid>
+            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661158049024_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</link>
             <guid>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</guid>
@@ -734,14 +742,6 @@
             <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657703540094_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</link>
-            <guid>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</guid>
-            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661158049024_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (서울바이닐 ─ ROCK & POP)]]></title>
