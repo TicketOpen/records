@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 05:26:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 06:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650518636273_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[김현식 - 4집 [1,000장 한정반 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ebdc48d7-4f98-4c9a-ba7a-eb6ff786892d</link>
+            <guid>https://www.seoulvinyl.com/product/ebdc48d7-4f98-4c9a-ba7a-eb6ff786892d</guid>
+            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661157564429_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
             <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 22 Aug 2022 05:01:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661139387149_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 4집 [1,000장 한정반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/ebdc48d7-4f98-4c9a-ba7a-eb6ff786892d</link>
-            <guid>https://www.seoulvinyl.com/product/ebdc48d7-4f98-4c9a-ba7a-eb6ff786892d</guid>
-            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661157564429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP]]></title>
