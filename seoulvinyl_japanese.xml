@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Aug 2022 09:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Aug 2022 10:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Fri, 26 Aug 2022 08:13:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661501162681_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nujabes 누자베스 - Modal Soul [2LP 게이트폴드]]]></title>
-            <link>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</link>
-            <guid>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</guid>
-            <pubDate>Fri, 26 Aug 2022 08:13:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661500949239_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP)]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Wed, 17 Aug 2022 12:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737677878_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nujabes 누자베스 - Modal Soul [2LP 게이트폴드]]]></title>
+            <link>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</link>
+            <guid>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</guid>
+            <pubDate>Fri, 26 Aug 2022 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661500949239_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] SOIL & PIMP SESSIONS 소일 & 핌프 세션 - LOST IN TOKYO]]></title>
