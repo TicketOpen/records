@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 05:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 06:46:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,7 +40,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032455791_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
             <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
             <pubDate>Sat, 27 Aug 2022 03:21:35 GMT</pubDate>
@@ -272,7 +272,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
             <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
             <pubDate>Sat, 27 Aug 2022 03:21:35 GMT</pubDate>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 방사능 (리듬파워) - 리듬파워 (Dark Green Transparent LP, 500매 한정반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</link>
             <guid>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</guid>
-            <pubDate>Tue, 30 Aug 2022 05:24:50 GMT</pubDate>
+            <pubDate>Tue, 30 Aug 2022 05:23:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661831572064_1000.jpg" length="0" type="image/jpg"/>
         </item>
