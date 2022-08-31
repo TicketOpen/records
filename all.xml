@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 03:52:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 05:31:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -888,20 +888,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660808022698_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 들국화 - Best [블랙반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2abeba31-3357-4865-8a8a-1ff3346a55bc</link>
-            <guid>https://www.seoulvinyl.com/product/2abeba31-3357-4865-8a8a-1ff3346a55bc</guid>
-            <pubDate>Thu, 18 Aug 2022 08:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660807977162_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 김현식 - Vol.6 [180g 흰색 컬러 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/897a8658-feaa-452b-a8e7-e7468f2dd272</link>
             <guid>https://www.seoulvinyl.com/product/897a8658-feaa-452b-a8e7-e7468f2dd272</guid>
             <pubDate>Thu, 18 Aug 2022 08:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660807886735_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 들국화 - Best [블랙반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2abeba31-3357-4865-8a8a-1ff3346a55bc</link>
+            <guid>https://www.seoulvinyl.com/product/2abeba31-3357-4865-8a8a-1ff3346a55bc</guid>
+            <pubDate>Thu, 18 Aug 2022 08:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660807977162_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach (서울바이닐 ─ JAPANESE)]]></title>
