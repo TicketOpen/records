@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Aug 2022 00:55:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2022 03:52:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반]]]></title>
+            <link>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</link>
+            <guid>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</guid>
+            <pubDate>Mon, 22 Aug 2022 09:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661158049024_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드]]]></title>
             <link>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Jul 2022 09:14:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657703540094_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반]]]></title>
-            <link>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</link>
-            <guid>https://www.seoulvinyl.com/product/27a66938-04b7-4fb1-8a21-3b2fcc257a07</guid>
-            <pubDate>Mon, 22 Aug 2022 09:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661158049024_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP]]></title>
