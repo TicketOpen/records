@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Sep 2022 06:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Sep 2022 07:14:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 김현식 - 3집 [Black, 1,300장 한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/356792b5-dcfd-4886-b412-df581ef94f16</link>
             <guid>https://www.seoulvinyl.com/product/356792b5-dcfd-4886-b412-df581ef94f16</guid>
-            <pubDate>Thu, 01 Sep 2022 06:21:58 GMT</pubDate>
+            <pubDate>Thu, 01 Sep 2022 06:20:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662011648037_1000.jpg" length="0" type="image/jpg"/>
         </item>
