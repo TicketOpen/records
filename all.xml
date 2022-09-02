@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Sep 2022 03:34:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Sep 2022 05:22:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 김현식 - 5집 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</link>
             <guid>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</guid>
-            <pubDate>Fri, 02 Sep 2022 03:34:05 GMT</pubDate>
+            <pubDate>Fri, 02 Sep 2022 03:32:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662087758553_1000.jpg" length="0" type="image/jpg"/>
         </item>
