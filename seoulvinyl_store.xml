@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Sep 2022 08:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2022 09:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반]]]></title>
+            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
+            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
+            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</link>
+            <guid>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</guid>
+            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193067129_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김현식 - 5집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657365279875_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji 키린지 - 11 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a3930024-d12d-4578-89c3-e4a9790a9c87</link>
-            <guid>https://www.seoulvinyl.com/product/a3930024-d12d-4578-89c3-e4a9790a9c87</guid>
-            <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661501376556_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kirinji 키린지 - ネオ(네오) [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2a8869fb-5cf2-4cae-84d6-306045cba726</link>
-            <guid>https://www.seoulvinyl.com/product/2a8869fb-5cf2-4cae-84d6-306045cba726</guid>
-            <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661501285157_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
