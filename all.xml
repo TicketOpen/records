@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 08:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 09:10:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -904,14 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661157564429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</link>
-            <guid>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</guid>
-            <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657365279875_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kirinji 키린지 - 11 [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/a3930024-d12d-4578-89c3-e4a9790a9c87</link>
             <guid>https://www.seoulvinyl.com/product/a3930024-d12d-4578-89c3-e4a9790a9c87</guid>
@@ -1014,6 +1006,14 @@
             <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737677878_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</link>
+            <guid>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</guid>
+            <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657365279875_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] SOIL & PIMP SESSIONS 소일 & 핌프 세션 - LOST IN TOKYO (서울바이닐 ─ JAPANESE)]]></title>
