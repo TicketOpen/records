@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 07:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 08:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] DJ DOC (디제이 디오씨) - 1집 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b1694c09-bf3a-4dcc-84f7-b0b70797f967</link>
+            <guid>https://www.seoulvinyl.com/product/b1694c09-bf3a-4dcc-84f7-b0b70797f967</guid>
+            <pubDate>Mon, 05 Sep 2022 08:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662365078945_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김현식 - 5집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 23 Aug 2022 05:14:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 신중현과 퀘션스 - In-A-Kadda-Da-Vida (The Psychedelic Sound) [3색 스플레터 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/51979312-3184-4109-8f25-dd2b02cd7393</link>
-            <guid>https://www.seoulvinyl.com/product/51979312-3184-4109-8f25-dd2b02cd7393</guid>
-            <pubDate>Mon, 22 Aug 2022 05:03:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661139387149_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해서웨이(Hathaw9y) - Scribble / hayley [7인치]]]></title>
