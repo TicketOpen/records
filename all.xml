@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Sep 2022 08:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 09:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] DJ DOC (디제이 디오씨) - 1집 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b1694c09-bf3a-4dcc-84f7-b0b70797f967</link>
             <guid>https://www.seoulvinyl.com/product/b1694c09-bf3a-4dcc-84f7-b0b70797f967</guid>
-            <pubDate>Mon, 05 Sep 2022 08:13:10 GMT</pubDate>
+            <pubDate>Mon, 05 Sep 2022 08:12:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662365078945_1000.jpg" length="0" type="image/jpg"/>
         </item>
