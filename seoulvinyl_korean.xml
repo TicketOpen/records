@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 05:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 06:53:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 에픽하이 - Sleepless In __________ [White colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/faff40fc-822a-45e8-af85-f237353f298c</link>
+            <guid>https://www.seoulvinyl.com/product/faff40fc-822a-45e8-af85-f237353f298c</guid>
+            <pubDate>Tue, 06 Sep 2022 06:52:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662447018543_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방사능 (리듬파워) - 리듬파워 (Dark Green Transparent LP, 500매 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</link>
+            <guid>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</guid>
+            <pubDate>Tue, 30 Aug 2022 05:24:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661831572064_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] DJ DOC (디제이 디오씨) - 1집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/b1694c09-bf3a-4dcc-84f7-b0b70797f967</link>
@@ -64,14 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146330414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 방사능 (리듬파워) - 리듬파워 (Dark Green Transparent LP, 500매 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</link>
-            <guid>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</guid>
-            <pubDate>Tue, 30 Aug 2022 05:24:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661831572064_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2단지 - 무딘농담 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</link>
             <guid>https://www.seoulvinyl.com/product/d36e38f7-458d-4c72-b90a-3f10d9c9d2fb</guid>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 25 Aug 2022 10:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650518636273_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김아름 - SUMMER CITY [블루 클리어 컬러 LP, 2,000장 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</link>
-            <guid>https://www.seoulvinyl.com/product/0598a146-0756-4655-8671-4af95cf546a5</guid>
-            <pubDate>Tue, 23 Aug 2022 05:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661224179728_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해서웨이(Hathaw9y) - Scribble / hayley [7인치]]]></title>
