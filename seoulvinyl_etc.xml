@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ etc</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Sep 2022 00:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 03:33:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 25 Aug 2022 11:09:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">5,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CD] Kanye West 카니예 웨스트 - Donda]]></title>
-            <link>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</link>
-            <guid>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</guid>
-            <pubDate>Tue, 05 Jul 2022 16:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용)]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Tue, 05 Jul 2022 16:12:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636442519827_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[CD] Kanye West 카니예 웨스트 - Donda]]></title>
+            <link>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</link>
+            <guid>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</guid>
+            <pubDate>Tue, 05 Jul 2022 16:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CD] 김아름 - WINTER CITY]]></title>
