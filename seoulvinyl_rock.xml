@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Sep 2022 03:33:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Sep 2022 05:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 08 Sep 2022 11:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624687577_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</link>
-            <guid>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</guid>
-            <pubDate>Sat, 03 Sep 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193067129_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Thu, 08 Sep 2022 11:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</link>
+            <guid>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</guid>
+            <pubDate>Sat, 03 Sep 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193067129_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반]]]></title>
