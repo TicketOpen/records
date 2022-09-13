@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 10:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 11:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (1 Lp) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034</guid>
+            <pubDate>Tue, 13 Sep 2022 11:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[L'imperatrice 랭페라트리스 - Tako Tsubo (Gatefold 2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2bfb6a95-d64c-45ce-8364-d9dbf2aa9d2b</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 31 Aug 2022 11:07:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649929227060_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해철 - 2집 Myself [레드 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/3d3e1a51-85ed-49ac-82c6-37932b5d135e</link>
-            <guid>https://www.seoulvinyl.com/product/3d3e1a51-85ed-49ac-82c6-37932b5d135e</guid>
-            <pubDate>Wed, 31 Aug 2022 11:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146462191_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반] (서울바이닐 ─ 스토어)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661157564429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (1 Lp) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034</guid>
+            <pubDate>Tue, 13 Sep 2022 11:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kirinji 키린지 - 11 [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/a3930024-d12d-4578-89c3-e4a9790a9c87</link>
             <guid>https://www.seoulvinyl.com/product/a3930024-d12d-4578-89c3-e4a9790a9c87</guid>
@@ -990,14 +998,6 @@
             <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737743119_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Grave of the Fireflies 반딧불이의 묘 - Original Soundtrack (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/dfcc528e-5c84-4814-9c45-f12905184b28</link>
-            <guid>https://www.seoulvinyl.com/product/dfcc528e-5c84-4814-9c45-f12905184b28</guid>
-            <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737677878_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach (서울바이닐 ─ JAPANESE)]]></title>

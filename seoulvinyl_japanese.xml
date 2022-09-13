@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 10:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 11:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (1 Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034</guid>
+            <pubDate>Tue, 13 Sep 2022 11:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620470826268_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kirinji 키린지 - 11 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/a3930024-d12d-4578-89c3-e4a9790a9c87</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 17 Aug 2022 12:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737743119_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Grave of the Fireflies 반딧불이의 묘 - Original Soundtrack]]></title>
-            <link>https://www.seoulvinyl.com/product/dfcc528e-5c84-4814-9c45-f12905184b28</link>
-            <guid>https://www.seoulvinyl.com/product/dfcc528e-5c84-4814-9c45-f12905184b28</guid>
-            <pubDate>Wed, 17 Aug 2022 12:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737677878_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach]]></title>
