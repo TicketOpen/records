@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 03:41:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 05:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625031232_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
+            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
+            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nirvana 너바나 - In Utero [LP] (서울바이닐 ─ 스토어)]]></title>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 31 Aug 2022 11:07:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654146462191_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
-            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
-            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반] (서울바이닐 ─ 스토어)]]></title>
@@ -664,6 +664,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625031232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
+            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
+            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nirvana 너바나 - In Utero [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/25a08e86-6e17-44a9-a0d5-1551537884c4</link>
             <guid>https://www.seoulvinyl.com/product/25a08e86-6e17-44a9-a0d5-1551537884c4</guid>
@@ -734,14 +742,6 @@
             <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092588777_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
-            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
-            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반] (서울바이닐 ─ ROCK & POP)]]></title>
@@ -928,14 +928,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661501162681_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nujabes 누자베스 - Modal Soul [2LP 게이트폴드] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</link>
-            <guid>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</guid>
-            <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661500949239_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Anzenchitai (安全地帶 : 안전지대) - All Time Best「35」~35th Anniversary Tour 2017~Live In 日本武道館 (3LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0-1999</link>
             <guid>https://www.seoulvinyl.com/product/850d411f-881e-4232-a414-b440398d0db0-1999</guid>
@@ -1014,6 +1006,14 @@
             <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657365279875_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nujabes 누자베스 - Modal Soul [2LP 게이트폴드] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</link>
+            <guid>https://www.seoulvinyl.com/product/9c945b04-5db4-4f4d-9017-080910e7c3a8</guid>
+            <pubDate>Fri, 26 Aug 2022 08:11:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661500949239_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] SOIL & PIMP SESSIONS 소일 & 핌프 세션 - LOST IN TOKYO (서울바이닐 ─ JAPANESE)]]></title>
