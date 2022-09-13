@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Sep 2022 12:20:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Sep 2022 13:41:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625031232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
-            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
-            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nirvana 너바나 - In Utero [LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Wed, 31 Aug 2022 11:07:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649929227060_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
+            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
+            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반]]]></title>
