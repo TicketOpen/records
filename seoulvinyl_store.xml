@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 00:47:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 03:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662365078945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반]]]></title>
-            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
-            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
-            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 김현식 - 5집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</link>
             <guid>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</guid>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반]]]></title>
+            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
+            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
+            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반]]]></title>
