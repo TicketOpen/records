@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Sep 2022 10:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Sep 2022 11:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임재범 - 2집 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/40ba4758-48f6-4dd7-a4bc-f9f3959dfcf4</link>
+            <guid>https://www.seoulvinyl.com/product/40ba4758-48f6-4dd7-a4bc-f9f3959dfcf4</guid>
+            <pubDate>Wed, 14 Sep 2022 11:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663150703710_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방사능 (리듬파워) - 리듬파워 (Dark Green Transparent LP, 500매 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</link>
+            <guid>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</guid>
+            <pubDate>Tue, 30 Aug 2022 05:23:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661831572064_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (1 Lp)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034</link>
@@ -56,19 +72,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662447018543_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방사능 (리듬파워) - 리듬파워 (Dark Green Transparent LP, 500매 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</link>
-            <guid>https://www.seoulvinyl.com/product/919456f9-4c52-4816-977c-ca41f67d7df2</guid>
-            <pubDate>Tue, 30 Aug 2022 05:23:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661831572064_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] DJ DOC (디제이 디오씨) - 1집 [LP]]]></title>
+            <title><![CDATA[DJ DOC (디제이 디오씨) - 1집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/b1694c09-bf3a-4dcc-84f7-b0b70797f967</link>
             <guid>https://www.seoulvinyl.com/product/b1694c09-bf3a-4dcc-84f7-b0b70797f967</guid>
             <pubDate>Mon, 05 Sep 2022 08:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662365078945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -102,14 +110,6 @@
             <pubDate>Thu, 01 Sep 2022 03:28:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전람회 - 2집 Exhibition 2 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/adf256e5-b14b-4277-8c73-9322e0315780</link>
-            <guid>https://www.seoulvinyl.com/product/adf256e5-b14b-4277-8c73-9322e0315780</guid>
-            <pubDate>Wed, 31 Aug 2022 11:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649929227060_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP]]]></title>
