@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 03:43:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 05:19:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 몬스타엑스 (Monsta X) - Dreaming (Yellow Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68-2036-2037</link>
-            <guid>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68-2036-2037</guid>
-            <pubDate>Thu, 15 Sep 2022 03:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663212607562_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 몬스타엑스 (Monsta X) - Dreaming (Red Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68-2036</link>
-            <guid>https://www.seoulvinyl.com/product/67215b50-2c7f-4e7b-b4be-139d08054d68-2036</guid>
-            <pubDate>Thu, 15 Sep 2022 03:41:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663212670778_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[임재범 - 2집 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/40ba4758-48f6-4dd7-a4bc-f9f3959dfcf4</link>
@@ -110,6 +94,22 @@
             <pubDate>Thu, 01 Sep 2022 10:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662024359168_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김현식 - 3집 [Black, 1,300장 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/356792b5-dcfd-4886-b412-df581ef94f16</link>
+            <guid>https://www.seoulvinyl.com/product/356792b5-dcfd-4886-b412-df581ef94f16</guid>
+            <pubDate>Thu, 01 Sep 2022 06:20:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662011648037_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923-1931</link>
+            <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923-1931</guid>
+            <pubDate>Thu, 01 Sep 2022 03:28:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ 스토어)]]></title>
