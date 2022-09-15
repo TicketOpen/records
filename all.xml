@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 19:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 20:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -992,14 +992,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737828361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Kingo Hamada 킹고 하마다 - Midnight Cruisin' (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</link>
-            <guid>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</guid>
-            <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737743119_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</link>
             <guid>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</guid>
@@ -1030,6 +1022,14 @@
             <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738151542_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Kingo Hamada 킹고 하마다 - Midnight Cruisin' (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</link>
+            <guid>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</guid>
+            <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737743119_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레코드 겉비닐 2LP 사이즈 (서울바이닐 ─ etc)]]></title>
