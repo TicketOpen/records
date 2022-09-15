@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 07:25:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 08:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,6 +272,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658819866644_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
+            <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
+            <pubDate>Sat, 27 Aug 2022 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661569163441_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
             <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
@@ -342,14 +350,6 @@
             <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
-            <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
-            <pubDate>Sat, 27 Aug 2022 03:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661569163441_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</link>
+            <guid>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</guid>
+            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661156179989_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[M83 (엠83) - Hurry Up, We're Dreaming (10th Anniversary Edition)(Ltd)(Colored 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/3bdca21e-07c0-4f5c-b7b8-6d51843192ec-1998</link>
             <guid>https://www.seoulvinyl.com/product/3bdca21e-07c0-4f5c-b7b8-6d51843192ec-1998</guid>
@@ -766,14 +774,6 @@
             <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661156609772_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</link>
-            <guid>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</guid>
-            <pubDate>Mon, 22 Aug 2022 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661156179989_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[임재범 - 2집 [LP] (서울바이닐 ─ KOREAN)]]></title>
