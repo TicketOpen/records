@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 10:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 11:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kingo Hamada 킹고 하마다 - Heart Cocktail]]></title>
+            <link>https://www.seoulvinyl.com/product/d04674cf-bb5e-4494-976f-e5ae6c207fab</link>
+            <guid>https://www.seoulvinyl.com/product/d04674cf-bb5e-4494-976f-e5ae6c207fab</guid>
+            <pubDate>Fri, 16 Sep 2022 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737828361_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tomoko Aran 토모코 아란 - Body To Body (7인치)]]></title>
+            <link>https://www.seoulvinyl.com/product/078d4786-27f9-427b-9aac-98296cc9a6ff</link>
+            <guid>https://www.seoulvinyl.com/product/078d4786-27f9-427b-9aac-98296cc9a6ff</guid>
+            <pubDate>Fri, 16 Sep 2022 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663323430371_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[INOKASHIRA RANGERS - Smells Like Teen Spirit / Summer Madness (7인치)]]></title>
             <link>https://www.seoulvinyl.com/product/5feee634-b0c3-4fd5-943d-3b9df63130a2</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738248063_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Fujimaru Yoshino 후지마루 요시노 - Romantic Guys]]></title>
-            <link>https://www.seoulvinyl.com/product/604bfd42-8e69-4151-a416-33786ccc80b2</link>
-            <guid>https://www.seoulvinyl.com/product/604bfd42-8e69-4151-a416-33786ccc80b2</guid>
-            <pubDate>Wed, 17 Aug 2022 12:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738010653_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach]]></title>
             <link>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</link>
             <guid>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 Aug 2022 12:16:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738441649_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] PIPER 피퍼 - LOVERS LOGIC]]></title>
-            <link>https://www.seoulvinyl.com/product/c3ef4080-42e8-4d15-b00e-968b2594b421</link>
-            <guid>https://www.seoulvinyl.com/product/c3ef4080-42e8-4d15-b00e-968b2594b421</guid>
-            <pubDate>Wed, 17 Aug 2022 12:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738151542_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
