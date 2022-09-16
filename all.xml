@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 05:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 06:42:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625031232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
+            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
+            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nirvana 너바나 - In Utero [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/25a08e86-6e17-44a9-a0d5-1551537884c4</link>
             <guid>https://www.seoulvinyl.com/product/25a08e86-6e17-44a9-a0d5-1551537884c4</guid>
@@ -80,6 +88,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662365078945_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
+            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
+            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 김현식 - 5집 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</link>
             <guid>https://www.seoulvinyl.com/product/34675a1d-cac1-47df-b8e0-aa078ccc22d7</guid>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 01 Sep 2022 03:28:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657604317976_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
-            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
-            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
-            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
-            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반] (서울바이닐 ─ 스토어)]]></title>
@@ -272,6 +272,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658819866644_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
+            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
+            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
             <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
@@ -342,14 +350,6 @@
             <pubDate>Wed, 13 Jul 2022 09:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657702216432_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
-            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
-            <pubDate>Sat, 03 Sep 2022 09:08:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -664,6 +664,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625031232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
+            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
+            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nirvana 너바나 - In Utero [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/25a08e86-6e17-44a9-a0d5-1551537884c4</link>
             <guid>https://www.seoulvinyl.com/product/25a08e86-6e17-44a9-a0d5-1551537884c4</guid>
@@ -742,14 +750,6 @@
             <pubDate>Fri, 29 Jul 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659092588777_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz 제이슨 므라즈 - Lalalalovesongs [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</link>
-            <guid>https://www.seoulvinyl.com/product/c8a867f3-82c8-43b5-b41d-fbad1664f3f4</guid>
-            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반] (서울바이닐 ─ ROCK & POP)]]></title>
@@ -992,6 +992,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737828361_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Kingo Hamada 킹고 하마다 - Midnight Cruisin' (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</link>
+            <guid>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</guid>
+            <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737743119_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Miki Matsubara 마츠바라 미키 松原みき* – Paradise Beach (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</link>
             <guid>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738151542_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Kingo Hamada 킹고 하마다 - Midnight Cruisin' (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</link>
-            <guid>https://www.seoulvinyl.com/product/aee1b8af-f209-4c25-a39d-ad7f1d9daab3</guid>
-            <pubDate>Wed, 17 Aug 2022 12:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737743119_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레코드 겉비닐 2LP 사이즈 (서울바이닐 ─ etc)]]></title>
