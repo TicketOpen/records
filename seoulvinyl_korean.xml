@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 09:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 10:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[장우혁 - HE(Don't wanna be alone) [7인치 픽처 디스크 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/739c3286-e4e3-4006-8d5f-b1b34e8927dd</link>
+            <guid>https://www.seoulvinyl.com/product/739c3286-e4e3-4006-8d5f-b1b34e8927dd</guid>
+            <pubDate>Fri, 16 Sep 2022 10:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663322596234_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임재범 - 2집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/40ba4758-48f6-4dd7-a4bc-f9f3959dfcf4</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 25 Aug 2022 10:10:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152351491_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[백아 - 우주선 [140g BABY PINK 투명 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/4f2f845d-107a-4d9f-b6ba-33f95d9a5fff</link>
-            <guid>https://www.seoulvinyl.com/product/4f2f845d-107a-4d9f-b6ba-33f95d9a5fff</guid>
-            <pubDate>Thu, 25 Aug 2022 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650518636273_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해서웨이(Hathaw9y) - Scribble / hayley [7인치]]]></title>
