@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Sep 2022 14:23:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Sep 2022 15:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,14 +280,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
-            <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
-            <pubDate>Sat, 27 Aug 2022 03:21:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661569163441_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
             <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
@@ -350,6 +342,14 @@
             <pubDate>Wed, 13 Jul 2022 09:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657702216432_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</link>
+            <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288</guid>
+            <pubDate>Sat, 27 Aug 2022 03:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661569163441_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
