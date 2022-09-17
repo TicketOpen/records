@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 10:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 11:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민규 - 1집 언제 어디인지 알 수는 없지만(Yellow colored LP) + 우주대청소(7inch)]]></title>
+            <link>https://www.seoulvinyl.com/product/a3a7e1cc-6e17-4b1c-a546-d0c59d1ca46b</link>
+            <guid>https://www.seoulvinyl.com/product/a3a7e1cc-6e17-4b1c-a546-d0c59d1ca46b</guid>
+            <pubDate>Sat, 17 Sep 2022 11:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663411146518_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장우혁 - HE(Don't wanna be alone) [7인치 픽처 디스크 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/739c3286-e4e3-4006-8d5f-b1b34e8927dd</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 27 Aug 2022 11:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660032455791_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보수동쿨러(Bosudong Cooler) - Sand / Rubber [7인치]]]></title>
-            <link>https://www.seoulvinyl.com/product/f0b579e2-0362-4234-acf4-7c0c657d9024-2012</link>
-            <guid>https://www.seoulvinyl.com/product/f0b579e2-0362-4234-acf4-7c0c657d9024-2012</guid>
-            <pubDate>Thu, 25 Aug 2022 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1656152169886_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[유복성과 신호등 - 혼자걷는 명동길 / 기분이 좋아요 (7인치)]]></title>

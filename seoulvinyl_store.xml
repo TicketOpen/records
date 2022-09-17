@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 10:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 11:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김민규 - 1집 언제 어디인지 알 수는 없지만(Yellow colored LP) + 우주대청소(7inch)]]></title>
+            <link>https://www.seoulvinyl.com/product/a3a7e1cc-6e17-4b1c-a546-d0c59d1ca46b</link>
+            <guid>https://www.seoulvinyl.com/product/a3a7e1cc-6e17-4b1c-a546-d0c59d1ca46b</guid>
+            <pubDate>Sat, 17 Sep 2022 11:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663411146518_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 - Midnights [Moonstone Blue Colored LP, Ltd]]]></title>
             <link>https://www.seoulvinyl.com/product/83b26c44-c50f-4050-834c-211d529f59df</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625232080_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cranberries 크랜베리스 - Dreams: The Collection (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/201d8466-b1dc-4828-a0ed-8e11808dfb41</link>
-            <guid>https://www.seoulvinyl.com/product/201d8466-b1dc-4828-a0ed-8e11808dfb41</guid>
-            <pubDate>Thu, 08 Sep 2022 11:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625031232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유복성과 신호등 - 혼자걷는 명동길 / 기분이 좋아요 (7인치)]]></title>
