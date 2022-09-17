@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 05:35:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 06:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Fri, 16 Sep 2022 11:08:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이탈리아 칸초네 명곡 모음집 (Canzone Canzone vol.1)]]></title>
+            <link>https://www.seoulvinyl.com/product/83280e22-9e6c-41e0-b4d0-887bafb0506e</link>
+            <guid>https://www.seoulvinyl.com/product/83280e22-9e6c-41e0-b4d0-887bafb0506e</guid>
+            <pubDate>Sat, 17 Sep 2022 06:13:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663393779115_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles 비틀즈 – The Beatles Play Chuck Berry (7인치 레드바이닐)]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 26 Jul 2022 08:11:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821727620_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daft Punk 다프트 펑크 - Daft Club [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/24f46ea6-cb6d-4e8e-8249-57a8bcefcec8</link>
-            <guid>https://www.seoulvinyl.com/product/24f46ea6-cb6d-4e8e-8249-57a8bcefcec8</guid>
-            <pubDate>Tue, 26 Jul 2022 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821836529_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반]]]></title>
