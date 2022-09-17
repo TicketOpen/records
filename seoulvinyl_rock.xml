@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Sep 2022 03:24:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2022 04:56:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624687577_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</link>
+            <guid>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</guid>
+            <pubDate>Sat, 03 Sep 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193067129_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (Clear colored)]]></title>
             <link>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923-1931</link>
             <guid>https://www.seoulvinyl.com/product/cc74bd56-f4fb-4698-abcd-6c1179e11630-1923-1931</guid>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 26 Jul 2022 08:11:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821836529_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Script 더 스크립트 - Tales from The Script: Greatest Hits [그린 컬러 2LP][게이트폴드][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</link>
-            <guid>https://www.seoulvinyl.com/product/665f3115-1361-4e10-a3b7-b5ef81014965</guid>
-            <pubDate>Sat, 03 Sep 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193067129_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Oasis - 3집 Be Here Now [실버 컬러 2LP 발매 25주년 기념반]]]></title>
