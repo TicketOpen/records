@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Sep 2022 13:44:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Sep 2022 14:24:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 08 Sep 2022 11:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662624844054_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
-            <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
-            <pubDate>Fri, 16 Sep 2022 11:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles 비틀즈 – The Beatles Play Chuck Berry (7인치 레드바이닐)]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 17 Sep 2022 08:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658821836529_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jason Mraz (제이슨 므라즈) - Mr. A-Z (Deluxe Edition) [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</link>
+            <guid>https://www.seoulvinyl.com/product/86d0135a-86d7-4484-9da2-1071ada1ad73</guid>
+            <pubDate>Fri, 16 Sep 2022 11:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1659091483019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이탈리아 칸초네 명곡 모음집 (Canzone Canzone vol.1)]]></title>
