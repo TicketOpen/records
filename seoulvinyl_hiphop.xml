@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187583</id>
-    <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
-    <updated>2022-11-16T16:16:52.072Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:14:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Majid Jordan 마지드 조단 - Wildest Dreams LP]]></title>
+            <link>https://www.seoulvinyl.com/product/3d9764ea-5515-41b2-b3ae-2d67fbfc9a7f</link>
+            <guid>https://www.seoulvinyl.com/product/3d9764ea-5515-41b2-b3ae-2d67fbfc9a7f</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667904313126_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Wonder 스티비 원더 - Talking Book [Gatefold LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bf5a124a-0ccf-4cfd-9b8f-a1edc4d2ecae</link>
+            <guid>https://www.seoulvinyl.com/product/bf5a124a-0ccf-4cfd-9b8f-a1edc4d2ecae</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667014011033_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Prince 프린스 - Hits 2 (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53</link>
+            <guid>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666066078114_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Prince 프린스 - Hits 1 (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/880e0994-dcf9-4268-baff-f5e1e38b2cf2</link>
+            <guid>https://www.seoulvinyl.com/product/880e0994-dcf9-4268-baff-f5e1e38b2cf2</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666065938443_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Lacy 스티브 레이시 - Gemini Rights]]></title>
+            <link>https://www.seoulvinyl.com/product/921f0c92-db07-4e59-ab92-9ea5ff09f2b0</link>
+            <guid>https://www.seoulvinyl.com/product/921f0c92-db07-4e59-ab92-9ea5ff09f2b0</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666001688405_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aaliyah 알리야 - Ultimate Aaliyah[3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9b5cf336-7032-4b40-8b50-730511f47919</link>
+            <guid>https://www.seoulvinyl.com/product/9b5cf336-7032-4b40-8b50-730511f47919</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664273835788_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 5집 Mr. Morale & The Big Steppers [2LP, Black vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</link>
+            <guid>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658819866644_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nelly 넬리 - 2집 Nellyville [2LP, 발매 20주년 기념반]]]></title>
+            <link>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</link>
+            <guid>https://www.seoulvinyl.com/product/bcde8781-9023-4c9f-8389-20a1043d90ff</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PJ Morton – Gospel According To PJ (From The Songbook Of PJ Morton)]]></title>
+            <link>https://www.seoulvinyl.com/product/4ab1da27-dd41-4d6a-b769-d585c7f995d3-1996</link>
+            <guid>https://www.seoulvinyl.com/product/4ab1da27-dd41-4d6a-b769-d585c7f995d3-1996</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657699408859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maxwell 맥스웰 - NOW [브라운 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/55a192dc-476d-4703-9ff0-d4df819a4f91</link>
+            <guid>https://www.seoulvinyl.com/product/55a192dc-476d-4703-9ff0-d4df819a4f91</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660906894582_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Charlie Puth 찰리 푸스 - CHARLIE [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</link>
+            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288-2102</link>
+            <guid>https://www.seoulvinyl.com/product/36dd70ee-2c93-4bce-a740-8cb3d94d2288-2102</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661569163441_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Mac Miller 맥 밀러 - Macadelic (silver colored 2LP, 10주년 기념 LTD)]]></title>
+            <link>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</link>
+            <guid>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드]]]></title>
+            <link>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</link>
+            <guid>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661156609772_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-563-1967</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-563-1967</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586956302005_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

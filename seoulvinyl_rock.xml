@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187586</id>
-    <title>서울바이닐 ─ ROCK &amp; POP</title>
-    <updated>2022-11-16T16:16:52.042Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ ROCK &amp; POP</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 16 Nov 2022 17:14:31 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[LANY 레이니 - 4집 gg bb xx [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</link>
+            <guid>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667903955762_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mac DeMarco (맥 드마르코) - 2 [발매 10주년 기념반 2LP, Bonus Track]]]></title>
+            <link>https://www.seoulvinyl.com/product/4bdbc86d-c158-4106-bb5e-1068bfc34022</link>
+            <guid>https://www.seoulvinyl.com/product/4bdbc86d-c158-4106-bb5e-1068bfc34022</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667550236007_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jordann 조르단 - 1집 Connecting Visitors to Fun LP (blue & tan colored 500장 넘버링 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/dfd4e4c5-fda4-4be7-8c39-32c5b8e76b3e-2123</link>
+            <guid>https://www.seoulvinyl.com/product/dfd4e4c5-fda4-4be7-8c39-32c5b8e76b3e-2123</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629281628816_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Khruangbin / Vieux Farka Toure 크루앙빈 / 뷰 파르카 투레 - Ali [Colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bbd50bc5-d749-4f3a-8f50-8341cd38cb7d</link>
+            <guid>https://www.seoulvinyl.com/product/bbd50bc5-d749-4f3a-8f50-8341cd38cb7d</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264949141_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Sunset Yellow LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/543989ca-a9d8-4d21-9df6-9bb509f0540b</link>
+            <guid>https://www.seoulvinyl.com/product/543989ca-a9d8-4d21-9df6-9bb509f0540b</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264768424_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Violet LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f5bad726-e54f-4c0a-8b52-da98aa815764</link>
+            <guid>https://www.seoulvinyl.com/product/f5bad726-e54f-4c0a-8b52-da98aa815764</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264432934_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Pink LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/e0f8a442-7bd8-401e-a0d2-c9ae86106aaf</link>
+            <guid>https://www.seoulvinyl.com/product/e0f8a442-7bd8-401e-a0d2-c9ae86106aaf</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264148182_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift 테일러 스위프트 - 정규 7집 Lover [Gatefold][Colored 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</link>
+            <guid>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joni Mitchell (조니 미첼) - Blue [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</link>
+            <guid>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153027371_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LAUV 라우브 - All 4 Nothing (Black LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</link>
+            <guid>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661156179989_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Cigarettes After Sex 시가렛 애프터 섹스 - 1집 LP (White colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</link>
+            <guid>https://www.seoulvinyl.com/product/f28fe7f4-4802-42f5-8906-8a51d4158d06</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657607812314_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists - Greatest Christmas Songs (Ltd)(180g)(Snow White Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e409124b-6626-4445-8afd-5526870e2c6d</link>
+            <guid>https://www.seoulvinyl.com/product/e409124b-6626-4445-8afd-5526870e2c6d</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665217311632_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Various Artists - Greatest Christmas Songs Of 21st Century (Ltd)(180g Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/1654d6bc-544a-4537-a84c-07946c491813</link>
+            <guid>https://www.seoulvinyl.com/product/1654d6bc-544a-4537-a84c-07946c491813</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665137691400_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamiroquai 자미로콰이 - 1집 Emergency on Planet Earth [투명 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/90c5ee4a-315a-4285-b48a-6e896fe58d2b</link>
+            <guid>https://www.seoulvinyl.com/product/90c5ee4a-315a-4285-b48a-6e896fe58d2b</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665136311653_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Jamiroquai 자미로콰이 - High Times: Singles 1992-2006 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b704010c-e100-4dcc-8bcf-e1619bfd6d0f</link>
+            <guid>https://www.seoulvinyl.com/product/b704010c-e100-4dcc-8bcf-e1619bfd6d0f</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665136552576_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Jamiroquai 자미로콰이 - High Times: Singles 1992-2006 [그린 마블 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/410e1878-8c36-41a0-aa83-a4a66676050b</link>
+            <guid>https://www.seoulvinyl.com/product/410e1878-8c36-41a0-aa83-a4a66676050b</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">89,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665136414338_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
