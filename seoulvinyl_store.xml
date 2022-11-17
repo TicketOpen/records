@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 03:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 04:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 강산에 - 3집 Vol. 2 삐따기 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ecf435f4-a4d0-4c7f-9fdc-8ec8a9fbc0c5</link>
+            <guid>https://www.seoulvinyl.com/product/ecf435f4-a4d0-4c7f-9fdc-8ec8a9fbc0c5</guid>
+            <pubDate>Thu, 17 Nov 2022 04:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668657489580_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 03 [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/4892b198-6447-458b-b931-71fdf0f2cc4c</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078564823_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Majid Jordan 마지드 조단 - Wildest Dreams LP]]></title>
-            <link>https://www.seoulvinyl.com/product/3d9764ea-5515-41b2-b3ae-2d67fbfc9a7f</link>
-            <guid>https://www.seoulvinyl.com/product/3d9764ea-5515-41b2-b3ae-2d67fbfc9a7f</guid>
-            <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667904313126_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
