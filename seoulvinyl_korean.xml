@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 02:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 03 [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4892b198-6447-458b-b931-71fdf0f2cc4c</link>
+            <guid>https://www.seoulvinyl.com/product/4892b198-6447-458b-b931-71fdf0f2cc4c</guid>
+            <pubDate>Thu, 17 Nov 2022 03:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668654273222_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 1집 [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/202ced08-7a8e-4baf-af65-1bddd0f0c9a6</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667545346006_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 - 16집 Eternally [실버 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/0d9eb603-15db-4758-a440-9abdc2dd3bb9</link>
-            <guid>https://www.seoulvinyl.com/product/0d9eb603-15db-4758-a440-9abdc2dd3bb9</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667545285157_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코브릿지 - COMPILATION [LP]]]></title>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Nov 2022 02:43:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Nov 2022 03:38:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 03 [180g LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/4892b198-6447-458b-b931-71fdf0f2cc4c</link>
+            <guid>https://www.seoulvinyl.com/product/4892b198-6447-458b-b931-71fdf0f2cc4c</guid>
+            <pubDate>Thu, 17 Nov 2022 03:36:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668654273222_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 1집 [180g LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/202ced08-7a8e-4baf-af65-1bddd0f0c9a6</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667904313126_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LANY 레이니 - 4집 gg bb xx [화이트 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</link>
-            <guid>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</guid>
-            <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667903955762_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -696,14 +696,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264432934_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Pink LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/e0f8a442-7bd8-401e-a0d2-c9ae86106aaf</link>
-            <guid>https://www.seoulvinyl.com/product/e0f8a442-7bd8-401e-a0d2-c9ae86106aaf</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264148182_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Taylor Swift 테일러 스위프트 - 정규 7집 Lover [Gatefold][Colored 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</link>
             <guid>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</guid>
@@ -760,6 +752,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665136311653_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Pink LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e0f8a442-7bd8-401e-a0d2-c9ae86106aaf</link>
+            <guid>https://www.seoulvinyl.com/product/e0f8a442-7bd8-401e-a0d2-c9ae86106aaf</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264148182_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Jamiroquai 자미로콰이 - High Times: Singles 1992-2006 [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/b704010c-e100-4dcc-8bcf-e1619bfd6d0f</link>
             <guid>https://www.seoulvinyl.com/product/b704010c-e100-4dcc-8bcf-e1619bfd6d0f</guid>
@@ -774,6 +774,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">89,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665136414338_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 03 [180g LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/4892b198-6447-458b-b931-71fdf0f2cc4c</link>
+            <guid>https://www.seoulvinyl.com/product/4892b198-6447-458b-b931-71fdf0f2cc4c</guid>
+            <pubDate>Thu, 17 Nov 2022 03:38:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668654273222_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 1집 [180g LP] (서울바이닐 ─ KOREAN)]]></title>
@@ -878,14 +886,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667545346006_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 - 16집 Eternally [실버 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/0d9eb603-15db-4758-a440-9abdc2dd3bb9</link>
-            <guid>https://www.seoulvinyl.com/product/0d9eb603-15db-4758-a440-9abdc2dd3bb9</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667545285157_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코브릿지 - COMPILATION [LP] (서울바이닐 ─ KOREAN)]]></title>
