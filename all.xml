@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Nov 2022 04:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Nov 2022 05:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,7 +280,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667014011033_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Prince 프린스 - Hits 2 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[Prince 프린스 - Hits 2 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53</link>
             <guid>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53</guid>
             <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
@@ -288,7 +288,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666066078114_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Prince 프린스 - Hits 1 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[Prince 프린스 - Hits 1 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/880e0994-dcf9-4268-baff-f5e1e38b2cf2</link>
             <guid>https://www.seoulvinyl.com/product/880e0994-dcf9-4268-baff-f5e1e38b2cf2</guid>
             <pubDate>Wed, 16 Nov 2022 17:13:11 GMT</pubDate>
@@ -472,14 +472,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[슬기로운 의사생활 시즌 1 드라마 음악 (Hospital OST) [2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/d9250010-9520-4da6-b63e-536c42e1222a</link>
-            <guid>https://www.seoulvinyl.com/product/d9250010-9520-4da6-b63e-536c42e1222a</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">87,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664512922014_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Matrix 매트릭스 영화음악 [투명 레드 & 블루 소용돌이 컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/483b132d-806f-44ac-97e3-65f12684b55c</link>
             <guid>https://www.seoulvinyl.com/product/483b132d-806f-44ac-97e3-65f12684b55c</guid>
@@ -518,6 +510,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650604634198_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬기로운 의사생활 시즌 1 드라마 음악 (Hospital OST) [2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/d9250010-9520-4da6-b63e-536c42e1222a</link>
+            <guid>https://www.seoulvinyl.com/product/d9250010-9520-4da6-b63e-536c42e1222a</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">87,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664512922014_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gerry Mulligan 게리 멀러건 - Night Lights (LP) (서울바이닐 ─ JAZZ)]]></title>
