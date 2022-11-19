@@ -4,9 +4,41 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 10:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Nov 2022 11:08:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이현도 - D.O FUNK Vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/fa3918c3-adab-4116-8638-f2446b3b0554</link>
+            <guid>https://www.seoulvinyl.com/product/fa3918c3-adab-4116-8638-f2446b3b0554</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668228560332_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[넥스트 (N.EX.T) - 5.5집 Regame? [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a3ee81be-2342-4f43-b867-3e4b629d3cf8-2165</link>
+            <guid>https://www.seoulvinyl.com/product/a3ee81be-2342-4f43-b867-3e4b629d3cf8-2165</guid>
+            <pubDate>Sat, 19 Nov 2022 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845384303_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - 베스트 앨범 (Best) [오렌지 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d</link>
+            <guid>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791569876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - 베스트 앨범 (Best) [블랙 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</link>
+            <guid>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791451389_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 강산에 - 3집 Vol. 2 삐따기 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/ecf435f4-a4d0-4c7f-9fdc-8ec8a9fbc0c5</link>
@@ -64,30 +96,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654844847836_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이현도 - D.O FUNK Vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/fa3918c3-adab-4116-8638-f2446b3b0554</link>
-            <guid>https://www.seoulvinyl.com/product/fa3918c3-adab-4116-8638-f2446b3b0554</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668228560332_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 베스트 앨범 (Best) [오렌지 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d</link>
-            <guid>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791569876_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 베스트 앨범 (Best) [블랙 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</link>
-            <guid>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791451389_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스텔라장 - Stairs [딥 스모키 브라운 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/14997bf9-b908-4299-979b-d2b7af36e3c4</link>
             <guid>https://www.seoulvinyl.com/product/14997bf9-b908-4299-979b-d2b7af36e3c4</guid>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637150582299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 - 18집 Over The Rainbow [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/6374197f-0385-4abf-bc10-17644448b8dc</link>
-            <guid>https://www.seoulvinyl.com/product/6374197f-0385-4abf-bc10-17644448b8dc</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667545387380_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코브릿지 - COMPILATION [LP]]]></title>
