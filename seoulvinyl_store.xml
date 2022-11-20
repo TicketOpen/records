@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Nov 2022 23:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Nov 2022 00:46:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668767078778_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift 테일러 스위프트 - Midnights [Jade Green Colored LP, Ltd]]]></title>
-            <link>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</link>
-            <guid>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</guid>
-            <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668768002515_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 강산에 - 3집 Vol. 2 삐따기 [LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1654844847836_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift 테일러 스위프트 - Midnights [Jade Green Colored LP, Ltd]]]></title>
+            <link>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</link>
+            <guid>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</guid>
+            <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668768002515_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
