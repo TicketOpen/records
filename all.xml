@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 21:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 22:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -528,14 +528,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667550645948_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Marie Laforet (마리 라포레) - Best Of The Best [500장 한전방, 투명 그린-청록 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/174719dc-32b6-4c87-9d0c-d828859432e1</link>
-            <guid>https://www.seoulvinyl.com/product/174719dc-32b6-4c87-9d0c-d828859432e1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667207342212_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] George Benson (조지 벤슨) - The Other Side Of Abbey Road [투명 화이트 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/1779a133-eb3d-4c7d-a3c4-a544d522bbf2</link>
             <guid>https://www.seoulvinyl.com/product/1779a133-eb3d-4c7d-a3c4-a544d522bbf2</guid>
@@ -630,6 +622,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664939340375_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Marie Laforet (마리 라포레) - Best Of The Best [500장 한전방, 투명 그린-청록 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/174719dc-32b6-4c87-9d0c-d828859432e1</link>
+            <guid>https://www.seoulvinyl.com/product/174719dc-32b6-4c87-9d0c-d828859432e1</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667207342212_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
