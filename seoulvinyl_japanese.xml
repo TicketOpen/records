@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Nov 2022 09:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Nov 2022 10:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] ICE 아이스 - WAKE UP EVERYBODY [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9e778a20-b573-47a8-bfa6-2e54a4c7464b</link>
+            <guid>https://www.seoulvinyl.com/product/9e778a20-b573-47a8-bfa6-2e54a4c7464b</guid>
+            <pubDate>Mon, 21 Nov 2022 10:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669025264998_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704671591_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Asagaya Romantics 阿佐ヶ谷ロマンティクス - Otona Genso]]></title>
-            <link>https://www.seoulvinyl.com/product/e92041ab-e2be-4625-b5e3-94f0f16a0add</link>
-            <guid>https://www.seoulvinyl.com/product/e92041ab-e2be-4625-b5e3-94f0f16a0add</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663928332365_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
