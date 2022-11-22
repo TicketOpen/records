@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 09:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 10:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 1st [THE ALBUM] (pink colored vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-844-2170</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-844-2170</guid>
-            <pubDate>Tue, 22 Nov 2022 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607764167766_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 2nd [BORN PINK] (Black vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/b371f078-82c0-4789-b330-d3ad749fd03b</link>
@@ -126,6 +118,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666154074355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 1st [THE ALBUM] (pink colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-844-2170</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-844-2170</guid>
+            <pubDate>Tue, 22 Nov 2022 09:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607764167766_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코브릿지 - COMPILATION [LP]]]></title>
