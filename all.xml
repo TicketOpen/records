@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 07:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 08:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665136552576_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 2nd [BORN PINK] (Black vinyl) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/b371f078-82c0-4789-b330-d3ad749fd03b</link>
+            <guid>https://www.seoulvinyl.com/product/b371f078-82c0-4789-b330-d3ad749fd03b</guid>
+            <pubDate>Tue, 22 Nov 2022 08:13:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669104716442_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] `신세계` OST [골드 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/11b6ab26-3049-4bc2-8408-cf5bfdd419b4</link>
             <guid>https://www.seoulvinyl.com/product/11b6ab26-3049-4bc2-8408-cf5bfdd419b4</guid>
@@ -886,14 +894,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660104438801_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임창정lp - 10집 BYE (140g 스카이 블루 컬러, 한정반) LP (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1081-1584-2130</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1081-1584-2130</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637150582299_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코브릿지 - COMPILATION [LP] (서울바이닐 ─ KOREAN)]]></title>
