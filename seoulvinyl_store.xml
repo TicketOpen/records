@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 08:13:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 09:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 1st [THE ALBUM] (pink colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-844-2170</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-844-2170</guid>
+            <pubDate>Tue, 22 Nov 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607764167766_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 2nd [BORN PINK] (Black vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/b371f078-82c0-4789-b330-d3ad749fd03b</link>
+            <guid>https://www.seoulvinyl.com/product/b371f078-82c0-4789-b330-d3ad749fd03b</guid>
+            <pubDate>Tue, 22 Nov 2022 09:09:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669104716442_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] ICE 아이스 - WAKE UP EVERYBODY [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9e778a20-b573-47a8-bfa6-2e54a4c7464b</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668582193027_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 요조 - 이름들(Names) [180g White LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d39e22cc-62ba-4687-86b7-5192978e0ab7</link>
-            <guid>https://www.seoulvinyl.com/product/d39e22cc-62ba-4687-86b7-5192978e0ab7</guid>
-            <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668581986943_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이문세 - 이영훈 [THE LEGACY 2022] (Gatefold, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b9b3a9cd-430d-4fa2-b14d-929f1b74ff4f</link>
-            <guid>https://www.seoulvinyl.com/product/b9b3a9cd-430d-4fa2-b14d-929f1b74ff4f</guid>
-            <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">95,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668050565799_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
