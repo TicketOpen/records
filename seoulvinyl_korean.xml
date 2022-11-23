@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Nov 2022 02:30:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 03:29:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791569876_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 베스트 앨범 (Best) [블랙 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</link>
-            <guid>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791451389_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 강산에 - 3집 Vol. 2 삐따기 [LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 22 Nov 2022 09:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607764167766_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - 베스트 앨범 (Best) [블랙 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</link>
+            <guid>https://www.seoulvinyl.com/product/d84ae885-5299-4b7f-83c1-eec917dea1b8</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791451389_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에코브릿지 - COMPILATION [LP]]]></title>
