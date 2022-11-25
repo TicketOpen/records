@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 06:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 07:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[7인치 싱글 4종 세트 [ 컬러 vinyl / 45 rpm / Big Hole]]]></title>
-            <link>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</link>
-            <guid>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</guid>
-            <pubDate>Thu, 24 Nov 2022 12:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669291582771_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[에일리 & 투엘슨 - I’m in Love [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
             <link>https://www.seoulvinyl.com/product/614e7cdd-f8b4-45ab-afbc-39813e09793e</link>
@@ -94,6 +86,14 @@
             <pubDate>Fri, 25 Nov 2022 06:11:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669351183492_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인치 싱글 4종 세트 [ 컬러 vinyl / 45 rpm / Big Hole]]]></title>
+            <link>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</link>
+            <guid>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</guid>
+            <pubDate>Thu, 24 Nov 2022 12:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669291582771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[긱스 & 소유 - Officially Missing You [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
