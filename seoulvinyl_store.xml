@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 04:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 05:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 24 Nov 2022 12:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669291582771_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긱스 & 소유 - Officially Missing You [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
-            <link>https://www.seoulvinyl.com/product/c4c6056c-426c-4823-9a4a-2fa267dc9376</link>
-            <guid>https://www.seoulvinyl.com/product/c4c6056c-426c-4823-9a4a-2fa267dc9376</guid>
-            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271484233_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[써니힐 & 데이브레이크 - 들었다 놨다 (Love Actually) [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668767078778_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[긱스 & 소유 - Officially Missing You [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
+            <link>https://www.seoulvinyl.com/product/c4c6056c-426c-4823-9a4a-2fa267dc9376</link>
+            <guid>https://www.seoulvinyl.com/product/c4c6056c-426c-4823-9a4a-2fa267dc9376</guid>
+            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271484233_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 1st [THE ALBUM] (pink colored vinyl)]]></title>
