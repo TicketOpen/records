@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Nov 2022 12:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Nov 2022 13:20:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] `신세계` OST [골드 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/11b6ab26-3049-4bc2-8408-cf5bfdd419b4</link>
+            <guid>https://www.seoulvinyl.com/product/11b6ab26-3049-4bc2-8408-cf5bfdd419b4</guid>
+            <pubDate>Mon, 21 Nov 2022 07:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669014097410_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라 - 하루키 소설 속 클래식 [180g 그린투명컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/5e1b8767-745d-4ebc-9503-2b7a159426f3</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648536605197_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] `신세계` OST [골드 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/11b6ab26-3049-4bc2-8408-cf5bfdd419b4</link>
-            <guid>https://www.seoulvinyl.com/product/11b6ab26-3049-4bc2-8408-cf5bfdd419b4</guid>
-            <pubDate>Mon, 21 Nov 2022 07:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669014097410_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
