@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 15:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 16:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (yellow vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
-            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
-            <pubDate>Sat, 26 Nov 2022 11:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[오렌지캬라멜 & 10cm - 안아줘요 [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/6d54ddf3-190f-4119-a2f2-674285bf2bd9</link>
@@ -70,6 +62,14 @@
             <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668228560332_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (yellow vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
+            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
+            <pubDate>Sat, 26 Nov 2022 11:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP] (서울바이닐 ─ 스토어)]]></title>
@@ -264,14 +264,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (yellow vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
-            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
-            <pubDate>Sat, 26 Nov 2022 11:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Chloe X Halle 클로이 앤 할리 - Ungodly Hour [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</link>
             <guid>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</guid>
@@ -350,6 +342,14 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657699408859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (yellow vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
+            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
+            <pubDate>Sat, 26 Nov 2022 11:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>

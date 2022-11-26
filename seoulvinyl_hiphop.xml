@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 15:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 16:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (yellow vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
-            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
-            <pubDate>Sat, 26 Nov 2022 11:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Chloe X Halle 클로이 앤 할리 - Ungodly Hour [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</link>
@@ -94,6 +86,14 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657699408859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (yellow vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
+            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
+            <pubDate>Sat, 26 Nov 2022 11:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Charlie Puth 찰리 푸스 - CHARLIE [LP]]]></title>
