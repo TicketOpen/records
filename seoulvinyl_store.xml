@@ -4,16 +4,16 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 10:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 11:07:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[7인치 싱글 4종 세트 [ 컬러 vinyl / 45 rpm / Big Hole]]]></title>
-            <link>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</link>
-            <guid>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</guid>
-            <pubDate>Thu, 24 Nov 2022 12:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669291582771_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (yellow vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
+            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
+            <pubDate>Sat, 26 Nov 2022 11:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[써니힐 & 데이브레이크 - 들었다 놨다 (Love Actually) [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
@@ -80,14 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668228560332_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[넥스트 (N.EX.T) - 5.5집 Regame? [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a3ee81be-2342-4f43-b867-3e4b629d3cf8-2165</link>
-            <guid>https://www.seoulvinyl.com/product/a3ee81be-2342-4f43-b867-3e4b629d3cf8-2165</guid>
-            <pubDate>Sat, 19 Nov 2022 11:06:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845384303_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP]]]></title>
             <link>https://www.seoulvinyl.com/product/8905fd53-6310-4bdb-b85c-4ea5df2bf2dd</link>
             <guid>https://www.seoulvinyl.com/product/8905fd53-6310-4bdb-b85c-4ea5df2bf2dd</guid>
@@ -118,6 +110,14 @@
             <pubDate>Fri, 25 Nov 2022 06:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669351183492_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인치 싱글 4종 세트 [ 컬러 vinyl / 45 rpm / Big Hole]]]></title>
+            <link>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</link>
+            <guid>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</guid>
+            <pubDate>Thu, 24 Nov 2022 12:15:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669291582771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[긱스 & 소유 - Officially Missing You [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
