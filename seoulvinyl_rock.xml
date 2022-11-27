@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Nov 2022 14:08:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Nov 2022 15:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264432934_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift 테일러 스위프트 - 정규 7집 Lover [Gatefold][Colored 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</link>
-            <guid>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Joni Mitchell (조니 미첼) - Blue [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</link>
             <guid>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</guid>
@@ -126,6 +118,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264148182_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift 테일러 스위프트 - 정규 7집 Lover [Gatefold][Colored 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</link>
+            <guid>https://www.seoulvinyl.com/product/32a50a08-27b1-4b1f-9025-7836890086f3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Jamiroquai 자미로콰이 - High Times: Singles 1992-2006 [2LP]]]></title>
