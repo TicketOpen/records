@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Nov 2022 11:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Nov 2022 12:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[Sauce, Kite, Lake 모호 프로젝트 정규 2집]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Nov 2022 12:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[17,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/67b397bd5a4260a3be5cef62f88cadd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김제형 정규 앨범 ‘띄 움’ CD/음반]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1957&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1957&amp;cate_no=60&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 30 Nov 2022 05:10:28 GMT</pubDate>
             <content:encoded><![CDATA[5,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201811/5977f840ccdaee0bf10dbe099358dc96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초현(Chohyun) 1st EP ‘Lost in a Dream’]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=957&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=957&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 30 Nov 2022 05:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[10,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201811/575304901a65fa37bdcda737e4abfb41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
