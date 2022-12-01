@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 05:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 06:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -656,6 +656,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668767078778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Taylor Swift 테일러 스위프트 - Midnights [Jade Green Colored LP, Ltd] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</link>
+            <guid>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</guid>
+            <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668768002515_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LANY 레이니 - 4집 gg bb xx [화이트 컬러 LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</link>
             <guid>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</guid>
@@ -742,14 +750,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665137691400_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift 테일러 스위프트 - Midnights [Jade Green Colored LP, Ltd] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</link>
-            <guid>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</guid>
-            <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668768002515_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Pink LP] (서울바이닐 ─ ROCK & POP)]]></title>
@@ -1512,6 +1512,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[출입 : Mandala 스쿼시바인즈 2집 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1967&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1967&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 06:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/269577c33b7122844ecfed7c3cf8b473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sauce, Kite, Lake 모호 프로젝트 정규 2집 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 24 Nov 2022 04:11:45 GMT</pubDate>
             <content:encoded><![CDATA[13,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/79d69c2ef331c8ed1435e22343ebfb0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[초현(Chohyun) single 카드앨범 ‘Last.Summer.’ (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=958&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=958&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 30 Nov 2022 05:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[5,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201811/5977f840ccdaee0bf10dbe099358dc96.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
