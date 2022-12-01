@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 03:33:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 04:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,14 +560,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1597487977472_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[냇 킹 콜 베스트 모음집 (Nat King Cole Greatest Hits) [블루 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</link>
-            <guid>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657276325542_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Howlin' Wolf - Moanin' In The Moonlight [180g 오디오파일 LP][레드 컬러 한정반] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</link>
             <guid>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</guid>
@@ -630,6 +622,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667207342212_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[냇 킹 콜 베스트 모음집 (Nat King Cole Greatest Hits) [블루 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</link>
+            <guid>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657276325542_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Donald Byrd (도날드 버드) - Places And Spaces [Blue Note 80주년 Lp] (서울바이닐 ─ JAZZ)]]></title>
