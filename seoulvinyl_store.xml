@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 07:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 08:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
+            <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
+            <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
+            <pubDate>Sat, 03 Dec 2022 08:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670053574748_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '설강화' O.S.T [화이트칼라 LP][한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/921c238a-4a5c-4e01-9334-ae359954cac4</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271335884_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리 & 투엘슨 - I’m in Love [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole]]]></title>
-            <link>https://www.seoulvinyl.com/product/614e7cdd-f8b4-45ab-afbc-39813e09793e</link>
-            <guid>https://www.seoulvinyl.com/product/614e7cdd-f8b4-45ab-afbc-39813e09793e</guid>
-            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271222160_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP]]]></title>

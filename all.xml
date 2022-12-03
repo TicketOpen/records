@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 07:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 08:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
+            <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
+            <pubDate>Sat, 03 Dec 2022 08:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670053574748_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[드라마 '설강화' O.S.T [화이트칼라 LP][한정반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/921c238a-4a5c-4e01-9334-ae359954cac4</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271335884_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리 & 투엘슨 - I’m in Love [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/614e7cdd-f8b4-45ab-afbc-39813e09793e</link>
-            <guid>https://www.seoulvinyl.com/product/614e7cdd-f8b4-45ab-afbc-39813e09793e</guid>
-            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271222160_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP] (서울바이닐 ─ 스토어)]]></title>
@@ -344,14 +344,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Mac Miller 맥 밀러 - Macadelic (silver colored 2LP, 10주년 기념 LTD) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</link>
-            <guid>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</guid>
-            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[PJ Morton – Gospel According To PJ (From The Songbook Of PJ Morton) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/4ab1da27-dd41-4d6a-b769-d585c7f995d3-1996</link>
             <guid>https://www.seoulvinyl.com/product/4ab1da27-dd41-4d6a-b769-d585c7f995d3-1996</guid>
@@ -384,12 +376,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Mac Miller 맥 밀러 - Macadelic (silver colored 2LP, 10주년 기념 LTD) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</link>
+            <guid>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</guid>
+            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</link>
             <guid>https://www.seoulvinyl.com/product/78616461-17a0-458a-8669-be639a271d5e</guid>
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661156609772_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
+            <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
+            <pubDate>Sat, 03 Dec 2022 08:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670053574748_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃보다 남자 드라마 OST Part. 1 [컬러 LP] (서울바이닐 ─ OST)]]></title>
@@ -486,14 +494,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664955990351_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사랑의 불시착 OST [투명 밀크 & 퍼플 컬러 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</link>
-            <guid>https://www.seoulvinyl.com/product/3234ef34-c923-4857-894d-0c1219776fe3</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648801738966_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP] (서울바이닐 ─ OST)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607764167766_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
+            <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
+            <pubDate>Sat, 03 Dec 2022 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670053574748_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] ICE 아이스 - WAKE UP EVERYBODY [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9e778a20-b573-47a8-bfa6-2e54a4c7464b</link>
             <guid>https://www.seoulvinyl.com/product/9e778a20-b573-47a8-bfa6-2e54a4c7464b</guid>
@@ -990,14 +998,6 @@
             <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664964226945_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Junko Yagami 준코 야가미 ‎- Communication (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/80b403d3-994c-47c4-8dd9-2e3fd5ba85be</link>
-            <guid>https://www.seoulvinyl.com/product/80b403d3-994c-47c4-8dd9-2e3fd5ba85be</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664964042026_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP] (서울바이닐 ─ JAPANESE)]]></title>

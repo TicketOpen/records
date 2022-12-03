@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 03 Dec 2022 07:08:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Dec 2022 08:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Mac Miller 맥 밀러 - Macadelic (silver colored 2LP, 10주년 기념 LTD)]]></title>
-            <link>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</link>
-            <guid>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</guid>
-            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[PJ Morton – Gospel According To PJ (From The Songbook Of PJ Morton)]]></title>
             <link>https://www.seoulvinyl.com/product/4ab1da27-dd41-4d6a-b769-d585c7f995d3-1996</link>
             <guid>https://www.seoulvinyl.com/product/4ab1da27-dd41-4d6a-b769-d585c7f995d3-1996</guid>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Mac Miller 맥 밀러 - Macadelic (silver colored 2LP, 10주년 기념 LTD)]]></title>
+            <link>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</link>
+            <guid>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</guid>
+            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kings Of Convenience 킹스 오브 컨비니언스 - 1집 Quiet Is The New Loud [180g LP 게이트폴드]]]></title>
