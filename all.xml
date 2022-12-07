@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 02:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 03:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664273835788_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</link>
+            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</guid>
+            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 5집 Mr. Morale & The Big Steppers [2LP, Black vinyl] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</link>
             <guid>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</guid>
@@ -350,14 +358,6 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657699408859_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</link>
-            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</guid>
-            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
