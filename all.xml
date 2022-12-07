@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 05:09:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 06:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-2190</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-2190</guid>
+            <pubDate>Wed, 07 Dec 2022 06:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-2189</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-2189</guid>
+            <pubDate>Wed, 07 Dec 2022 06:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</link>
@@ -56,14 +72,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845597502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
-            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
-            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sia 시아 - Everyday Is Christmas (White LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/727dd5fa-f30a-47cd-96dc-69747cbdab9d</link>
             <guid>https://www.seoulvinyl.com/product/727dd5fa-f30a-47cd-96dc-69747cbdab9d</guid>
@@ -80,12 +88,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[써니힐 & 데이브레이크 - 들었다 놨다 (Love Actually) [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/8fcb2e4f-8762-4678-8624-4f83c8d3520e</link>
-            <guid>https://www.seoulvinyl.com/product/8fcb2e4f-8762-4678-8624-4f83c8d3520e</guid>
-            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271411818_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
+            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
+            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP] (서울바이닐 ─ 스토어)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 24 Nov 2022 12:15:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669291582771_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긱스 & 소유 - Officially Missing You [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c4c6056c-426c-4823-9a4a-2fa267dc9376</link>
-            <guid>https://www.seoulvinyl.com/product/c4c6056c-426c-4823-9a4a-2fa267dc9376</guid>
-            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271484233_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - D.O FUNK Vinyl (서울바이닐 ─ 제작)]]></title>
@@ -520,14 +520,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666064462801_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
-            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
-            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Gerry Mulligan 게리 멀러건 - Night Lights (LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/dc651e67-9425-4bab-b2ed-3128e8c8ac3d</link>
             <guid>https://www.seoulvinyl.com/product/dc651e67-9425-4bab-b2ed-3128e8c8ac3d</guid>
@@ -614,6 +606,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633865775244_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
+            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
+            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Marie Laforet (마리 라포레) - Best Of The Best [500장 한전방, 투명 그린-청록 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-2190</link>
+            <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-2190</guid>
+            <pubDate>Wed, 07 Dec 2022 06:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자우림 - 10집 자우림 [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-2189</link>
+            <guid>https://www.seoulvinyl.com/product/19051ff0-e640-46a5-ba63-6de18eab0089-2189</guid>
+            <pubDate>Wed, 07 Dec 2022 06:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803048635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</link>
             <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</guid>
@@ -840,14 +856,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271222160_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 2nd [BORN PINK] (Black vinyl) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/b371f078-82c0-4789-b330-d3ad749fd03b</link>
-            <guid>https://www.seoulvinyl.com/product/b371f078-82c0-4789-b330-d3ad749fd03b</guid>
-            <pubDate>Tue, 22 Nov 2022 08:13:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669104716442_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/8905fd53-6310-4bdb-b85c-4ea5df2bf2dd</link>
             <guid>https://www.seoulvinyl.com/product/8905fd53-6310-4bdb-b85c-4ea5df2bf2dd</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271484233_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 블랙핑크 BLACKPINK - 1st [THE ALBUM] (pink colored vinyl) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-844-2170</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-844-2170</guid>
-            <pubDate>Tue, 22 Nov 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607764167766_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매) (서울바이닐 ─ JAPANESE)]]></title>
