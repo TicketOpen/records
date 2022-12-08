@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 03:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 04:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 마크툽 - SPACE OPERA (Red Moon Complete Edition)[180g 오렌지투명컬러 2LP][한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8</link>
+            <guid>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8</guid>
+            <pubDate>Thu, 08 Dec 2022 04:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471923649_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 영턱스 클럽 - 2집 타인 [180g 클리어 아이스 블루컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</link>
+            <guid>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</guid>
+            <pubDate>Thu, 08 Dec 2022 04:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471398483_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-2190</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 25 Nov 2022 06:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669351195328_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 백예린 - Every letter I sent you [Gatefold, Black 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d66c0ea3-8b9d-4f6d-bdbe-4bc81996f950</link>
-            <guid>https://www.seoulvinyl.com/product/d66c0ea3-8b9d-4f6d-bdbe-4bc81996f950</guid>
-            <pubDate>Fri, 25 Nov 2022 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669351183492_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[7인치 싱글 4종 세트 [ 컬러 vinyl / 45 rpm / Big Hole] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</link>
-            <guid>https://www.seoulvinyl.com/product/b2c78a24-c3f3-4675-ab93-c77bbc54cec7</guid>
-            <pubDate>Thu, 24 Nov 2022 12:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669291582771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - D.O FUNK Vinyl (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 마크툽 - SPACE OPERA (Red Moon Complete Edition)[180g 오렌지투명컬러 2LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8</link>
+            <guid>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8</guid>
+            <pubDate>Thu, 08 Dec 2022 04:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471923649_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 영턱스 클럽 - 2집 타인 [180g 클리어 아이스 블루컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</link>
+            <guid>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</guid>
+            <pubDate>Thu, 08 Dec 2022 04:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471398483_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-2190</link>
             <guid>https://www.seoulvinyl.com/product/2ffed8da-dc55-4057-8be5-a26753ccbca1-2190</guid>
@@ -838,22 +854,6 @@
             <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271411818_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오렌지캬라멜 & 10cm - 안아줘요 [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/6d54ddf3-190f-4119-a2f2-674285bf2bd9</link>
-            <guid>https://www.seoulvinyl.com/product/6d54ddf3-190f-4119-a2f2-674285bf2bd9</guid>
-            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271335884_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에일리 & 투엘슨 - I’m in Love [7인치 싱글 컬러 vinyl / 45 rpm / Big Hole] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/614e7cdd-f8b4-45ab-afbc-39813e09793e</link>
-            <guid>https://www.seoulvinyl.com/product/614e7cdd-f8b4-45ab-afbc-39813e09793e</guid>
-            <pubDate>Thu, 24 Nov 2022 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669271222160_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP] (서울바이닐 ─ KOREAN)]]></title>
