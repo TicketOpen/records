@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 04:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 05:09:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,14 +328,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664273835788_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</link>
-            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</guid>
-            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 5집 Mr. Morale & The Big Steppers [2LP, Black vinyl] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</link>
             <guid>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</guid>
@@ -358,6 +350,14 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657699408859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</link>
+            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</guid>
+            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 마크툽 - SPACE OPERA (Red Moon Complete Edition)[180g 오렌지투명컬러 2LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8</link>
             <guid>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8</guid>
-            <pubDate>Thu, 08 Dec 2022 04:10:44 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 04:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471923649_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 영턱스 클럽 - 2집 타인 [180g 클리어 아이스 블루컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</link>
             <guid>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</guid>
-            <pubDate>Thu, 08 Dec 2022 04:10:44 GMT</pubDate>
+            <pubDate>Thu, 08 Dec 2022 04:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471398483_1000.jpg" length="0" type="image/jpg"/>
         </item>
