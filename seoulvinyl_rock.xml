@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 09:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 10:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-922-2194</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-922-2194</guid>
+            <pubDate>Thu, 08 Dec 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610010375019_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sia 시아 - Everyday Is Christmas (White LP)]]></title>
             <link>https://www.seoulvinyl.com/product/727dd5fa-f30a-47cd-96dc-69747cbdab9d</link>
@@ -110,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665217311632_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists - Greatest Christmas Songs Of 21st Century (Ltd)(180g Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/1654d6bc-544a-4537-a84c-07946c491813</link>
-            <guid>https://www.seoulvinyl.com/product/1654d6bc-544a-4537-a84c-07946c491813</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665137691400_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Pink LP]]]></title>
