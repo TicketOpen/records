@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Dec 2022 00:37:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 02:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 영화 '타이타닉' O.S.T [7,500장 한정, 스모크 컬러반 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</link>
-            <guid>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666841062025_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해를 품은 달 드라마 OST [컬러 LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658919978891_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 영화 '타이타닉' O.S.T [7,500장 한정, 스모크 컬러반 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</link>
+            <guid>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666841062025_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 냉정과 열정 사이 OST [블루 컬러 LP, 국내개봉 20주년 기념 최초발매]]]></title>
