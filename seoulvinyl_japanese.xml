@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Dec 2022 10:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 11:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Mayumi Itsuwa 五輪真弓 - マユミティ うつろな愛]]></title>
+            <link>https://www.seoulvinyl.com/product/0f509fbd-27f6-4710-8cb1-9fa2d2e99bf0</link>
+            <guid>https://www.seoulvinyl.com/product/0f509fbd-27f6-4710-8cb1-9fa2d2e99bf0</guid>
+            <pubDate>Mon, 12 Dec 2022 11:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670840565914_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판패] AB'S - AB'S(LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e6fb4043-cf22-422d-ba50-255436f368b0</link>
+            <guid>https://www.seoulvinyl.com/product/e6fb4043-cf22-422d-ba50-255436f368b0</guid>
+            <pubDate>Mon, 12 Dec 2022 11:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670840048828_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
             <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737505654_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[八十八ヶ所巡礼 88Kasyo Junrei - 幻魔大祭]]></title>
-            <link>https://www.seoulvinyl.com/product/48c1bbbf-63eb-4e54-b9f2-0bd0cf0665ca</link>
-            <guid>https://www.seoulvinyl.com/product/48c1bbbf-63eb-4e54-b9f2-0bd0cf0665ca</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664964226945_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/8fc592c6-06ef-4a1a-8c93-e49451bebd43</link>
             <guid>https://www.seoulvinyl.com/product/8fc592c6-06ef-4a1a-8c93-e49451bebd43</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737743119_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sakamoto Ryuichi 사카모토 류이치 - Beauty (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/9094a46c-7d3b-4433-ac2e-5a6735d87d35</link>
-            <guid>https://www.seoulvinyl.com/product/9094a46c-7d3b-4433-ac2e-5a6735d87d35</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704671591_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
