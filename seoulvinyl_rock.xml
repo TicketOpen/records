@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 12:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 13:19:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Peder Elias 페더 엘리아스 - 1집 Love & Loneliness [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252</link>
-            <guid>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252</guid>
-            <pubDate>Tue, 13 Dec 2022 09:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-922-2194</link>
@@ -118,6 +110,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657607812314_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peder Elias 페더 엘리아스 - 1집 Love & Loneliness [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252</link>
+            <guid>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252</guid>
+            <pubDate>Tue, 13 Dec 2022 09:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Pink LP]]]></title>
