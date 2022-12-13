@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 11:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 12:15:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Thu, 08 Dec 2022 10:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665113399843_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</link>
-            <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</guid>
-            <pubDate>Mon, 05 Dec 2022 05:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670212869809_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ 스토어)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664265987001_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</link>
+            <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</guid>
+            <pubDate>Mon, 05 Dec 2022 05:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670212869809_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - D.O FUNK Vinyl (서울바이닐 ─ 제작)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[장필순 - BEST vinyl LP (blue smoking color) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-932-2200</link>
             <guid>https://www.seoulvinyl.com/product/untitled-932-2200</guid>
-            <pubDate>Tue, 13 Dec 2022 11:07:47 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 11:06:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194722692_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[장필순 - BEST vinyl LP (black) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-931-2199</link>
             <guid>https://www.seoulvinyl.com/product/untitled-931-2199</guid>
-            <pubDate>Tue, 13 Dec 2022 11:07:47 GMT</pubDate>
+            <pubDate>Tue, 13 Dec 2022 11:06:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194627400_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -806,14 +806,6 @@
             <pubDate>Thu, 08 Dec 2022 10:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665113399843_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</link>
-            <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</guid>
-            <pubDate>Mon, 05 Dec 2022 05:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670212869809_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자우림 - 9집 Goodbye, grief. [컬러 LP+7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
@@ -878,6 +870,14 @@
             <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845597502_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</link>
+            <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d</guid>
+            <pubDate>Mon, 05 Dec 2022 05:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670212869809_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP] (서울바이닐 ─ KOREAN)]]></title>
