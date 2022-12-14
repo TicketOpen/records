@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 05:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 06:12:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[장필순 - BEST vinyl LP (blue smoking color)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-932-2200</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-932-2200</guid>
-            <pubDate>Tue, 13 Dec 2022 11:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194722692_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[장필순 - BEST vinyl LP (black)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-931-2199</link>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 02 Dec 2022 11:05:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845597502_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장필순 - BEST vinyl LP (blue smoking color)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-932-2200</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-932-2200</guid>
+            <pubDate>Tue, 13 Dec 2022 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194722692_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP]]]></title>
