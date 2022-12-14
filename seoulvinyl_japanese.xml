@@ -4,25 +4,9 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Dec 2022 08:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Dec 2022 09:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Mayumi Itsuwa 五輪真弓 - マユミティ うつろな愛]]></title>
-            <link>https://www.seoulvinyl.com/product/0f509fbd-27f6-4710-8cb1-9fa2d2e99bf0</link>
-            <guid>https://www.seoulvinyl.com/product/0f509fbd-27f6-4710-8cb1-9fa2d2e99bf0</guid>
-            <pubDate>Mon, 12 Dec 2022 11:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670840565914_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판패] AB'S - AB'S(LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/e6fb4043-cf22-422d-ba50-255436f368b0</link>
-            <guid>https://www.seoulvinyl.com/product/e6fb4043-cf22-422d-ba50-255436f368b0</guid>
-            <pubDate>Mon, 12 Dec 2022 11:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670840048828_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
             <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
@@ -110,6 +94,22 @@
             <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737505654_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Mayumi Itsuwa 五輪真弓 - マユミティ うつろな愛]]></title>
+            <link>https://www.seoulvinyl.com/product/0f509fbd-27f6-4710-8cb1-9fa2d2e99bf0</link>
+            <guid>https://www.seoulvinyl.com/product/0f509fbd-27f6-4710-8cb1-9fa2d2e99bf0</guid>
+            <pubDate>Mon, 12 Dec 2022 11:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670840565914_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판패] AB'S - AB'S(LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e6fb4043-cf22-422d-ba50-255436f368b0</link>
+            <guid>https://www.seoulvinyl.com/product/e6fb4043-cf22-422d-ba50-255436f368b0</guid>
+            <pubDate>Mon, 12 Dec 2022 11:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670840048828_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
