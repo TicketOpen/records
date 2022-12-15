@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 08:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 09:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CHET BAKER 쳇 베이커 - AS TIME GOES BY (1,000장 한정 2LP Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</link>
+            <guid>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</guid>
+            <pubDate>Thu, 15 Dec 2022 09:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095001664_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] call me by your name 콜미 바이 유어 네임 OST (180g 투명 레드 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 08 Dec 2022 04:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471923649_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 영턱스 클럽 - 2집 타인 [180g 클리어 아이스 블루컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</link>
-            <guid>https://www.seoulvinyl.com/product/a15005e2-1f5f-4d4b-a999-07709af6a5f9</guid>
-            <pubDate>Thu, 08 Dec 2022 04:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471398483_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장필순 - BEST vinyl LP (black) (서울바이닐 ─ 스토어)]]></title>
@@ -448,6 +448,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[영화 '타이타닉' O.S.T [7,500장 한정, 스모크 컬러반 2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</link>
+            <guid>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666841062025_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해를 품은 달 드라마 OST [컬러 LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9-2122</link>
             <guid>https://www.seoulvinyl.com/product/1ae18539-00f2-484f-8402-d1c47c7423e9-2122</guid>
@@ -504,20 +512,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658919978891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 영화 '타이타닉' O.S.T [7,500장 한정, 스모크 컬러반 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</link>
-            <guid>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666841062025_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 냉정과 열정 사이 OST [블루 컬러 LP, 국내개봉 20주년 기념 최초발매] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/78dcc7f1-d5a4-43c1-87b9-4fdbc3f4ec57</link>
             <guid>https://www.seoulvinyl.com/product/78dcc7f1-d5a4-43c1-87b9-4fdbc3f4ec57</guid>
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666064462801_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHET BAKER 쳇 베이커 - AS TIME GOES BY (1,000장 한정 2LP Colored Vinyl) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</link>
+            <guid>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</guid>
+            <pubDate>Thu, 15 Dec 2022 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095001664_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gerry Mulligan 게리 멀러건 - Night Lights (LP) (서울바이닐 ─ JAZZ)]]></title>
@@ -638,14 +646,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1639562933870_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Haden 찰리 헤이든 - Nocturne Lp (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/e266b3a9-f364-4866-bb3c-844d4e6483a7</link>
-            <guid>https://www.seoulvinyl.com/product/e266b3a9-f364-4866-bb3c-844d4e6483a7</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633861441917_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP (서울바이닐 ─ ROCK & POP)]]></title>
