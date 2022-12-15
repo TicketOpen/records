@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 12:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 13:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
-            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
-            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Chet Baker 쳇베이커 - sings (yellow colored) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</link>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 07 Dec 2022 06:11:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
+            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
+            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장필순 - BEST vinyl LP (black) (서울바이닐 ─ 스토어)]]></title>
@@ -264,14 +264,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
-            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
-            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Chloe X Halle 클로이 앤 할리 - Ungodly Hour [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</link>
             <guid>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</guid>
@@ -350,6 +342,14 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
+            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
+            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
