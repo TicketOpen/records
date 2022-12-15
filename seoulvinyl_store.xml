@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 19:07:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 20:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 15 Dec 2022 09:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095001664_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] call me by your name 콜미 바이 유어 네임 OST (180g 투명 레드 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</link>
-            <guid>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</guid>
-            <pubDate>Wed, 14 Dec 2022 09:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671008449173_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김현식 - 골든 베스트 [그레이 컬러 LP]]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 07 Dec 2022 06:11:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648803121471_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] call me by your name 콜미 바이 유어 네임 OST (180g 투명 레드 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</link>
+            <guid>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</guid>
+            <pubDate>Wed, 14 Dec 2022 09:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671008449173_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장필순 - BEST vinyl LP (black)]]></title>
