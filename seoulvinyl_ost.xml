@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 02:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 03:15:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] call me by your name 콜미 바이 유어 네임 OST (180g 투명 레드 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</link>
+            <guid>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</guid>
+            <pubDate>Wed, 14 Dec 2022 09:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671008449173_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
             <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650604634198_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] call me by your name 콜미 바이 유어 네임 OST (180g 투명 레드 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</link>
-            <guid>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d</guid>
-            <pubDate>Wed, 14 Dec 2022 09:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671008449173_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 아르츠 심포니 오케스트라 - 하루키 소설 속 클래식 [180g 그린투명컬러 LP]]]></title>
