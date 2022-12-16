@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 14:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 15:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,14 +312,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666065938443_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Steve Lacy 스티브 레이시 - Gemini Rights (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/921f0c92-db07-4e59-ab92-9ea5ff09f2b0</link>
-            <guid>https://www.seoulvinyl.com/product/921f0c92-db07-4e59-ab92-9ea5ff09f2b0</guid>
-            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666001688405_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Aaliyah 알리야 - Ultimate Aaliyah[3LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/9b5cf336-7032-4b40-8b50-730511f47919</link>
             <guid>https://www.seoulvinyl.com/product/9b5cf336-7032-4b40-8b50-730511f47919</guid>
@@ -358,6 +350,14 @@
             <pubDate>Sat, 26 Nov 2022 11:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Steve Lacy 스티브 레이시 - Gemini Rights (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/921f0c92-db07-4e59-ab92-9ea5ff09f2b0</link>
+            <guid>https://www.seoulvinyl.com/product/921f0c92-db07-4e59-ab92-9ea5ff09f2b0</guid>
+            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666001688405_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
