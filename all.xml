@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 05:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 06:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
             <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
             <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
@@ -264,7 +264,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
             <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
             <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
@@ -544,6 +544,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095001664_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
+            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
+            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gerry Mulligan 게리 멀러건 - Night Lights (LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/dc651e67-9425-4bab-b2ed-3128e8c8ac3d</link>
             <guid>https://www.seoulvinyl.com/product/dc651e67-9425-4bab-b2ed-3128e8c8ac3d</guid>
@@ -614,14 +622,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633866067653_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
-            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
-            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Marie Laforet (마리 라포레) - Best Of The Best [500장 한전방, 투명 그린-청록 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
