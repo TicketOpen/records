@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 08:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 09:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] eldon 엘던 - Do monsters love too? [블랙 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/58f67e84-3918-43f9-9ce9-fc4657820f24</link>
+            <guid>https://www.seoulvinyl.com/product/58f67e84-3918-43f9-9ce9-fc4657820f24</guid>
+            <pubDate>Fri, 16 Dec 2022 09:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671181394707_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 김현식 - 골든 베스트 [그레이 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c467123e-1423-448f-b9f1-59201d728074</link>
             <guid>https://www.seoulvinyl.com/product/c467123e-1423-448f-b9f1-59201d728074</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664265987001_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 백예린 - 선물 Love, Yerin [Black 1LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/8905fd53-6310-4bdb-b85c-4ea5df2bf2dd</link>
-            <guid>https://www.seoulvinyl.com/product/8905fd53-6310-4bdb-b85c-4ea5df2bf2dd</guid>
-            <pubDate>Fri, 25 Nov 2022 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669351211212_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매) (서울바이닐 ─ JAPANESE)]]></title>
