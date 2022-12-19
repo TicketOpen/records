@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 06:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 07:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -656,14 +656,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610010375019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sia 시아 - Everyday Is Christmas (Black LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/630e8489-6b54-4a6f-8531-681d306ddd59</link>
-            <guid>https://www.seoulvinyl.com/product/630e8489-6b54-4a6f-8531-681d306ddd59</guid>
-            <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668767078778_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Taylor Swift 테일러 스위프트 - Midnights [Jade Green Colored LP, Ltd] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</link>
             <guid>https://www.seoulvinyl.com/product/d0e93f75-5fbd-4cae-88fe-c283f879a3bd</guid>
@@ -758,6 +750,14 @@
             <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669975768026_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sia 시아 - Everyday Is Christmas (Black LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/630e8489-6b54-4a6f-8531-681d306ddd59</link>
+            <guid>https://www.seoulvinyl.com/product/630e8489-6b54-4a6f-8531-681d306ddd59</guid>
+            <pubDate>Fri, 18 Nov 2022 11:07:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668767078778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Easy Life 이지 라이프 - Maybe In Another Life... [Ltd, Pink LP] (서울바이닐 ─ ROCK & POP)]]></title>
