@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Dec 2022 07:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2022 08:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 16 Dec 2022 10:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671181394707_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
-            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
-            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Chet Baker 쳇베이커 - sings (yellow colored)]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Thu, 08 Dec 2022 10:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665113399843_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
+            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
+            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] call me by your name 콜미 바이 유어 네임 OST (180g 투명 레드 컬러 2LP]]]></title>
