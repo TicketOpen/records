@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 05:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 06:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -712,14 +712,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264432934_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Joni Mitchell (조니 미첼) - Blue [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</link>
-            <guid>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153027371_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing (Black LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</link>
             <guid>https://www.seoulvinyl.com/product/c260b94a-d352-4380-86d1-9ff0b6782898</guid>
@@ -776,10 +768,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Joni Mitchell (조니 미첼) - Blue [LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</link>
+            <guid>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153027371_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 아우릴고트 - 죽을힘을 다하여 (Red transparent Colored, 500장 한정반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/8bb5c548-517c-4fa8-b27c-a3e141f4785a</link>
             <guid>https://www.seoulvinyl.com/product/8bb5c548-517c-4fa8-b27c-a3e141f4785a</guid>
-            <pubDate>Tue, 20 Dec 2022 05:09:02 GMT</pubDate>
+            <pubDate>Tue, 20 Dec 2022 05:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671507698122_1000.jpg" length="0" type="image/jpg"/>
         </item>
