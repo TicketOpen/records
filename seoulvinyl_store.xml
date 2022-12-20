@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Dec 2022 04:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 05:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 아우릴고트 - 죽을힘을 다하여 (Red transparent Colored, 500장 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/8bb5c548-517c-4fa8-b27c-a3e141f4785a</link>
+            <guid>https://www.seoulvinyl.com/product/8bb5c548-517c-4fa8-b27c-a3e141f4785a</guid>
+            <pubDate>Tue, 20 Dec 2022 05:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671507698122_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 양방언 - 25주년 기념 바이닐 [180g 3LP+7인치 LP 1,500장 넘버링 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/698977a8-cadc-40b8-a17c-a9aaa3a2a9c9</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 12 Dec 2022 07:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670825876197_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방탄소년단 - LOVE YOURSELF 承 'Her' [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f3147cba-2244-4029-8893-cc1300fb27a1</link>
-            <guid>https://www.seoulvinyl.com/product/f3147cba-2244-4029-8893-cc1300fb27a1</guid>
-            <pubDate>Thu, 08 Dec 2022 10:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665113399843_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP)]]></title>
