@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Dec 2022 09:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Dec 2022 10:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Mieko Hirota 弘田三枝子 - In My Feeling]]></title>
-            <link>https://www.seoulvinyl.com/product/0da34e13-0361-4e26-9c9a-884d787750a7</link>
-            <guid>https://www.seoulvinyl.com/product/0da34e13-0361-4e26-9c9a-884d787750a7</guid>
-            <pubDate>Tue, 20 Dec 2022 11:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671533677481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
             <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660737677878_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Mieko Hirota 弘田三枝子 - In My Feeling]]></title>
+            <link>https://www.seoulvinyl.com/product/0da34e13-0361-4e26-9c9a-884d787750a7</link>
+            <guid>https://www.seoulvinyl.com/product/0da34e13-0361-4e26-9c9a-884d787750a7</guid>
+            <pubDate>Tue, 20 Dec 2022 11:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671533677481_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Mayumi Itsuwa 五輪真弓 - マユミティ うつろな愛]]></title>
