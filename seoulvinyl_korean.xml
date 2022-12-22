@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 07:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 08:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 산울림 - 4,5,6집 세트 [2,500장 한정반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d9ca7cb6-a14f-47fa-85de-fff02734c8f4</link>
-            <guid>https://www.seoulvinyl.com/product/d9ca7cb6-a14f-47fa-85de-fff02734c8f4</guid>
-            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">127,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684269014_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
             <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc-2217</link>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 22 Dec 2022 06:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 - 4,5,6집 세트 [2,500장 한정반 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d9ca7cb6-a14f-47fa-85de-fff02734c8f4</link>
+            <guid>https://www.seoulvinyl.com/product/d9ca7cb6-a14f-47fa-85de-fff02734c8f4</guid>
+            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">127,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684269014_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 산울림 - 6집 조금만 기다려요 [2,500장 한정반 LP]]]></title>
