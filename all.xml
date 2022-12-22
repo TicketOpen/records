@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 05:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 06:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671181394707_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
+            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
+            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Chet Baker 쳇베이커 - sings (yellow colored) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</link>
             <guid>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 20 Dec 2022 11:07:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671533677481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
-            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
-            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - D.O FUNK Vinyl (서울바이닐 ─ 제작)]]></title>
@@ -272,6 +272,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1604129106507_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
+            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
+            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chloe X Halle 클로이 앤 할리 - Ungodly Hour [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</link>
             <guid>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
-            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
-            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 산울림 - 4,5,6집 세트 [2,500장 한정반 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d9ca7cb6-a14f-47fa-85de-fff02734c8f4</link>
             <guid>https://www.seoulvinyl.com/product/d9ca7cb6-a14f-47fa-85de-fff02734c8f4</guid>
-            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
+            <pubDate>Thu, 22 Dec 2022 05:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">127,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684269014_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -864,18 +864,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670825876197_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탄소년단 - LOVE YOURSELF 承 'Her' [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/f3147cba-2244-4029-8893-cc1300fb27a1</link>
-            <guid>https://www.seoulvinyl.com/product/f3147cba-2244-4029-8893-cc1300fb27a1</guid>
-            <pubDate>Thu, 08 Dec 2022 10:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665113399843_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] CHEEZE 치즈 - Blank (White Colored LP) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
+            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
+            <pubDate>Thu, 22 Dec 2022 06:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 산울림 - 6집 조금만 기다려요 [2,500장 한정반 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/e8ea8f1c-fe7d-4e2e-a68b-460bb734f33e</link>
             <guid>https://www.seoulvinyl.com/product/e8ea8f1c-fe7d-4e2e-a68b-460bb734f33e</guid>
-            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
+            <pubDate>Thu, 22 Dec 2022 05:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684209938_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -883,7 +883,7 @@
             <title><![CDATA[[예약판매] 산울림 - 5집 한낮의 모래시계 [2,500장 한정반 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/26624b3b-1142-425f-b29d-72d31d20f179</link>
             <guid>https://www.seoulvinyl.com/product/26624b3b-1142-425f-b29d-72d31d20f179</guid>
-            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
+            <pubDate>Thu, 22 Dec 2022 05:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684199759_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -891,7 +891,7 @@
             <title><![CDATA[[예약판매] 산울림 - 4집 특급열차 [2,500장 한정반 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/dcb3eb06-801e-439e-8ab1-876a45655f9f</link>
             <guid>https://www.seoulvinyl.com/product/dcb3eb06-801e-439e-8ab1-876a45655f9f</guid>
-            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
+            <pubDate>Thu, 22 Dec 2022 05:07:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684190534_1000.jpg" length="0" type="image/jpg"/>
         </item>
