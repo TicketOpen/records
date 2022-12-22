@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Dec 2022 06:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Dec 2022 07:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Chet Baker 쳇베이커 - sings (yellow colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</link>
-            <guid>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</guid>
-            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">23,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671096191208_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] CHEEZE 치즈 - Blank (White Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
+            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
+            <pubDate>Thu, 22 Dec 2022 07:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 산울림 - 6집 조금만 기다려요 [2,500장 한정반 LP]]]></title>
