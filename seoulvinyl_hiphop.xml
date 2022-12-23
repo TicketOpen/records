@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 09:09:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 10:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 21 Dec 2022 12:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1604129106507_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
+            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
+            <pubDate>Sat, 26 Nov 2022 11:06:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chloe X Halle 클로이 앤 할리 - Ungodly Hour [LP]]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 15 Dec 2022 10:09:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars 브루노 마스 lp - Doo-Wops & Hooligans (colored vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</link>
-            <guid>https://www.seoulvinyl.com/product/c892fd9f-73f6-4590-829d-b3fc2ffe8342</guid>
-            <pubDate>Sat, 26 Nov 2022 11:06:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored)]]></title>
