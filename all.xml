@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Dec 2022 10:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 11:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412-2226</link>
+            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412-2226</guid>
+            <pubDate>Fri, 23 Dec 2022 11:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81-2225</link>
+            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81-2225</guid>
+            <pubDate>Fri, 23 Dec 2022 11:06:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anzenchitai 安全地帶 안전지대 - 13집 安全地帯 XIII JUNK [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0c1a6d55-1093-4817-a099-0b324384ebcd-2224</link>
+            <guid>https://www.seoulvinyl.com/product/0c1a6d55-1093-4817-a099-0b324384ebcd-2224</guid>
+            <pubDate>Fri, 23 Dec 2022 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660041270417_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크툽 - SPACE OPERA (Red Moon Complete Edition)[180g 오렌지투명컬러 2LP][한정반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8-2223</link>
@@ -62,30 +86,6 @@
             <pubDate>Wed, 21 Dec 2022 10:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616779355_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 아우릴고트 - 죽을힘을 다하여 (Red transparent Colored, 500장 한정반) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/8bb5c548-517c-4fa8-b27c-a3e141f4785a</link>
-            <guid>https://www.seoulvinyl.com/product/8bb5c548-517c-4fa8-b27c-a3e141f4785a</guid>
-            <pubDate>Tue, 20 Dec 2022 05:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671507698122_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 양방언 - 25주년 기념 바이닐 [180g 3LP+7인치 LP 1,500장 넘버링 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/698977a8-cadc-40b8-a17c-a9aaa3a2a9c9</link>
-            <guid>https://www.seoulvinyl.com/product/698977a8-cadc-40b8-a17c-a9aaa3a2a9c9</guid>
-            <pubDate>Fri, 16 Dec 2022 10:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671181872625_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] eldon 엘던 - Do monsters love too? [블랙 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/58f67e84-3918-43f9-9ce9-fc4657820f24</link>
-            <guid>https://www.seoulvinyl.com/product/58f67e84-3918-43f9-9ce9-fc4657820f24</guid>
-            <pubDate>Fri, 16 Dec 2022 09:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671181394707_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] CHEEZE 치즈 - Blank (White Colored LP) (서울바이닐 ─ 스토어)]]></title>
@@ -264,6 +264,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412-2226</link>
+            <guid>https://www.seoulvinyl.com/product/bd900650-c5c3-47f1-bb05-139d56a71412-2226</guid>
+            <pubDate>Fri, 23 Dec 2022 11:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81-2225</link>
+            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81-2225</guid>
+            <pubDate>Fri, 23 Dec 2022 11:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[stevie wonder 스티비 원더 - original musiquarium vinyl LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/aqua-2214</link>
             <guid>https://www.seoulvinyl.com/product/aqua-2214</guid>
@@ -336,14 +352,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664273835788_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</link>
-            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81</guid>
-            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 5집 Mr. Morale & The Big Steppers [2LP, Black vinyl] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</link>
             <guid>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed</guid>
@@ -358,14 +366,6 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Mac Miller 맥 밀러 - Macadelic (silver colored 2LP, 10주년 기념 LTD) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</link>
-            <guid>https://www.seoulvinyl.com/product/ac5a19db-2b8a-4bce-b343-169056c88b5d</guid>
-            <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661597673004_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (45RPM, 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[마크툽 - SPACE OPERA (Red Moon Complete Edition)[180g 오렌지투명컬러 2LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8-2223</link>
             <guid>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8-2223</guid>
-            <pubDate>Fri, 23 Dec 2022 10:09:00 GMT</pubDate>
+            <pubDate>Fri, 23 Dec 2022 10:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471923649_1000.jpg" length="0" type="image/jpg"/>
         </item>
