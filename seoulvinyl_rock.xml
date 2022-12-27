@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Dec 2022 05:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 06:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (red color) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-855-1562-2227</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-855-1562-2227</guid>
+            <pubDate>Tue, 27 Dec 2022 06:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608115762216_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The 1975 - 3집 A Brief Inquiry Into Online Relationships [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/72208f39-ed8a-4a65-8ff1-7e7868b9178e</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153281757_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joni Mitchell (조니 미첼) - Blue [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</link>
-            <guid>https://www.seoulvinyl.com/product/24c12818-fabe-4780-8b0f-e07f7dec7dee</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666153027371_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
