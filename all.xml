@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Dec 2022 07:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Dec 2022 08:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</link>
+            <guid>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</guid>
+            <pubDate>Wed, 28 Dec 2022 08:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672214072850_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (red color) LP (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-855-1562-2227</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 21 Dec 2022 10:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616866444_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 1975 - 1집 The 1975 [Clear Colored 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/39a05b0a-3f07-48de-8b62-b64cef7967ad</link>
-            <guid>https://www.seoulvinyl.com/product/39a05b0a-3f07-48de-8b62-b64cef7967ad</guid>
-            <pubDate>Wed, 21 Dec 2022 10:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616779355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] CHEEZE 치즈 - Blank (White Colored LP) (서울바이닐 ─ 스토어)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</link>
+            <guid>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</guid>
+            <pubDate>Wed, 28 Dec 2022 08:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672214072850_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
             <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
@@ -478,14 +486,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665553267806_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아르츠 심포니 오케스트라 - 엔니오 모리꼬네 BEST OST (Symphony Live) [180g 블루 LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a-2075</link>
-            <guid>https://www.seoulvinyl.com/product/74d5d0c9-8550-40d9-8a80-6c20c3fbf68a-2075</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650604634198_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] call me by your name 콜미 바이 유어 네임 OST (180g 투명 레드 컬러 2LP] (서울바이닐 ─ OST)]]></title>
@@ -680,14 +680,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610010375019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sia 시아 - Everyday Is Christmas (White LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/727dd5fa-f30a-47cd-96dc-69747cbdab9d</link>
-            <guid>https://www.seoulvinyl.com/product/727dd5fa-f30a-47cd-96dc-69747cbdab9d</guid>
-            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669975768026_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sia 시아 - Everyday Is Christmas (Black LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/630e8489-6b54-4a6f-8531-681d306ddd59</link>
             <guid>https://www.seoulvinyl.com/product/630e8489-6b54-4a6f-8531-681d306ddd59</guid>
@@ -750,6 +742,14 @@
             <pubDate>Tue, 13 Dec 2022 09:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sia 시아 - Everyday Is Christmas (White LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/727dd5fa-f30a-47cd-96dc-69747cbdab9d</link>
+            <guid>https://www.seoulvinyl.com/product/727dd5fa-f30a-47cd-96dc-69747cbdab9d</guid>
+            <pubDate>Fri, 02 Dec 2022 11:04:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669975768026_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Taylor Swift 테일러 스위프트 - Midnights [Jade Green Colored LP, Ltd] (서울바이닐 ─ ROCK & POP)]]></title>
