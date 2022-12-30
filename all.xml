@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Dec 2022 11:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Dec 2022 12:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
             <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
-            <pubDate>Fri, 30 Dec 2022 11:06:31 GMT</pubDate>
+            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
             <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
-            <pubDate>Fri, 30 Dec 2022 11:07:19 GMT</pubDate>
+            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
