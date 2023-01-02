@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 03:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 04:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 31 Dec 2022 10:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663925833803_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
+            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
+            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Remy Shand - Way I Feel (10inch Vinyl) (서울바이닐 ─ 스토어)]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 31 Dec 2022 09:07:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
-            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
-            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1661569163441_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
+            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
+            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
             <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
@@ -470,14 +478,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104933222_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
-            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
-            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ OST)]]></title>
