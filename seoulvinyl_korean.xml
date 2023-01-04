@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 07:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 08:11:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 김광석 - 4집 네번째 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a17238d7-7d4a-43b7-acbc-3a885175b197</link>
+            <guid>https://www.seoulvinyl.com/product/a17238d7-7d4a-43b7-acbc-3a885175b197</guid>
+            <pubDate>Wed, 04 Jan 2023 08:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672816243608_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김광석 - 3집 3번째 노래 모음 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9986b809-1d6b-49d1-9186-b8487e3d6068</link>
+            <guid>https://www.seoulvinyl.com/product/9986b809-1d6b-49d1-9186-b8487e3d6068</guid>
+            <pubDate>Wed, 04 Jan 2023 08:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672816077004_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[마크툽 - SPACE OPERA (Red Moon Complete Edition)[180g 오렌지투명컬러 2LP][한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/26eec882-cdf1-4ba2-886b-478c8ded78e8-2223</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 14 Dec 2022 08:11:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671004473791_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현식 - 골든 베스트 [블랙 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/5f79b2ab-4f0b-4ce3-8094-b678658de91e</link>
-            <guid>https://www.seoulvinyl.com/product/5f79b2ab-4f0b-4ce3-8094-b678658de91e</guid>
-            <pubDate>Wed, 14 Dec 2022 08:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671004407156_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[장필순 - BEST vinyl LP (blue smoking color)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-932-2200</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-932-2200</guid>
-            <pubDate>Tue, 13 Dec 2022 11:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610194722692_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP]]]></title>
