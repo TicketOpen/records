@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 08:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 09:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 15 Dec 2022 10:09:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Remy Shand - Way I Feel (10inch Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/40f5c671-1502-41c5-ac35-87020e69b854</link>
-            <guid>https://www.seoulvinyl.com/product/40f5c671-1502-41c5-ac35-87020e69b854</guid>
-            <pubDate>Thu, 29 Dec 2022 08:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672299294704_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Notorious B.I.G. 노토리어스 비아이지 - Ready To Die]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 25 Nov 2022 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662193455372_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Remy Shand - Way I Feel (10inch Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/40f5c671-1502-41c5-ac35-87020e69b854</link>
+            <guid>https://www.seoulvinyl.com/product/40f5c671-1502-41c5-ac35-87020e69b854</guid>
+            <pubDate>Thu, 29 Dec 2022 08:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672299294704_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LAUV 라우브 - All 4 Nothing LP (Blue Marble colored)]]></title>
