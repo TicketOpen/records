@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 13:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 14:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,20 +104,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663925833803_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
-            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
-            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f-2231</link>
             <guid>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f-2231</guid>
             <pubDate>Sat, 31 Dec 2022 09:07:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
+            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
+            <pubDate>Fri, 30 Dec 2022 11:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Remy Shand - Way I Feel (10inch Vinyl)]]></title>

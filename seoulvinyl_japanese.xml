@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 13:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 14:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 31 Dec 2022 10:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663925833803_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
-            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
-            <pubDate>Fri, 30 Dec 2022 11:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Anzenchitai 安全地帶 안전지대 - 13집 安全地帯 XIII JUNK [2LP]]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 16 Nov 2022 17:14:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738388367_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</link>
+            <guid>https://www.seoulvinyl.com/product/339ca7bb-d0ba-4fea-ac4f-c161743874ee</guid>
+            <pubDate>Fri, 30 Dec 2022 11:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672396290342_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Mieko Hirota 弘田三枝子 - In My Feeling]]></title>
