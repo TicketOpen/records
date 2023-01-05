@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 05:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 06:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,22 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[붉은 눈 문소문 정규 1집 CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 05 Jan 2023 06:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[22,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/16418a694f44988bf219439243947d10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도마 도마 정규 2집 CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1986&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1986&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 05 Jan 2023 06:11:04 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/8777d92e5e659726938571dd75643ca7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[hi love 웨스턴 카잇 EP]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</guid>
@@ -374,22 +390,6 @@
             <pubDate>Thu, 01 Dec 2022 06:12:49 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/269577c33b7122844ecfed7c3cf8b473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sauce, Kite, Lake 모호 프로젝트 정규 2집]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 30 Nov 2022 12:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[17,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/67b397bd5a4260a3be5cef62f88cadd0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김제형 정규 앨범 ‘띄 움’ CD/음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1957&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1957&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[19,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/17605194ca13f83b71aec321b960bb41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
