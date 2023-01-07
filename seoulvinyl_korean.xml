@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 10:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 11:06:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[에픽하이 - Sleepless In __________ [White colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/faff40fc-822a-45e8-af85-f237353f298c-2243</link>
+            <guid>https://www.seoulvinyl.com/product/faff40fc-822a-45e8-af85-f237353f298c-2243</guid>
+            <pubDate>Sat, 07 Jan 2023 11:05:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662447018543_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 BLACKPINK - 1st [THE ALBUM] (pink colored vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-844-2170</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 23 Dec 2022 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471923649_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제이홉 (j-hope) - Jack In The Box [LP](Limited Edition)]]></title>
-            <link>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc-2217</link>
-            <guid>https://www.seoulvinyl.com/product/a5cbfd67-35f2-4264-959d-81665f5fe9cc-2217</guid>
-            <pubDate>Wed, 21 Dec 2022 12:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671624800188_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP]]]></title>
