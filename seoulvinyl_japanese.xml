@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 09:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 10:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Masahito Arai 新井正人마사히토 아라이 - Masahito Arai]]></title>
-            <link>https://www.seoulvinyl.com/product/145478f1-ca7c-426c-93bf-7441382fe5c1-2234</link>
-            <guid>https://www.seoulvinyl.com/product/145478f1-ca7c-426c-93bf-7441382fe5c1-2234</guid>
-            <pubDate>Sat, 31 Dec 2022 10:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663927938267_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Sakamoto Ryuichi 사카모토 류이치 - Beauty (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/9094a46c-7d3b-4433-ac2e-5a6735d87d35-2233</link>
@@ -22,6 +14,14 @@
             <pubDate>Sat, 31 Dec 2022 10:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657704671591_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masahito Arai 新井正人마사히토 아라이 - Masahito Arai]]></title>
+            <link>https://www.seoulvinyl.com/product/145478f1-ca7c-426c-93bf-7441382fe5c1-2234</link>
+            <guid>https://www.seoulvinyl.com/product/145478f1-ca7c-426c-93bf-7441382fe5c1-2234</guid>
+            <pubDate>Sat, 31 Dec 2022 10:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663927938267_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Onuki Taeko 오누키 타에코 - Sunshower]]></title>
