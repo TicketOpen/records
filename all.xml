@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Jan 2023 02:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 03:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[임재범 - 5집 [블루 반투명 칼라반 LP][한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</link>
+            <guid>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</guid>
+            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905459803_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[임재범 - 3집 [레드 반투명 칼라반 컬러 LP][한정반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2478f820-3128-4d0e-a431-60274c6de311</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 31 Dec 2022 10:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663925833803_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임재범 - 5집 [블루 반투명 칼라반 LP][한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</link>
-            <guid>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</guid>
-            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905459803_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666264148182_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[임재범 - 5집 [블루 반투명 칼라반 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</link>
+            <guid>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</guid>
+            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905459803_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[임재범 - 3집 [레드 반투명 칼라반 컬러 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2478f820-3128-4d0e-a431-60274c6de311</link>
             <guid>https://www.seoulvinyl.com/product/2478f820-3128-4d0e-a431-60274c6de311</guid>
@@ -846,14 +854,6 @@
             <pubDate>Wed, 21 Dec 2022 12:12:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1655369053429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임재범 - 5집 [블루 반투명 칼라반 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</link>
-            <guid>https://www.seoulvinyl.com/product/a33f30e4-db9c-4c5b-b33c-33f16e75806d</guid>
-            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905459803_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
