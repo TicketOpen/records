@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 07:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 08:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</link>
+            <guid>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</guid>
+            <pubDate>Wed, 28 Dec 2022 08:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672214072850_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
             <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104933222_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</link>
-            <guid>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</guid>
-            <pubDate>Wed, 28 Dec 2022 08:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672214072850_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP)]]></title>
