@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 03:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 04:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
+            <guid>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</guid>
+            <pubDate>Mon, 09 Jan 2023 04:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽하이 - Sleepless In __________ [White colored LP]]]></title>
             <link>https://www.seoulvinyl.com/product/faff40fc-822a-45e8-af85-f237353f298c-2243</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 31 Dec 2022 10:07:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663925833803_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f-2231</link>
-            <guid>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f-2231</guid>
-            <pubDate>Sat, 31 Dec 2022 09:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
