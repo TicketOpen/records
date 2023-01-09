@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Jan 2023 04:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Jan 2023 05:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -528,14 +528,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chet Baker 쳇베이커 - sings (yellow colored) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</link>
-            <guid>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</guid>
-            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">24,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671096191208_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Chet Baker 쳇 베이커 - Chet Baker Sings (RSD Exclusive)(Limited Deluxe Box Set)(180g LP+CD) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</link>
             <guid>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</guid>
@@ -614,6 +606,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633866067653_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker 쳇베이커 - sings (yellow colored) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</link>
+            <guid>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</guid>
+            <pubDate>Thu, 15 Dec 2022 10:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">24,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671096191208_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Chet Baker 쳇 베이커 - As Time Goes By (1,000장 한정 Crystal Colored, 2LP) (서울바이닐 ─ JAZZ)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
             <guid>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</guid>
-            <pubDate>Mon, 09 Jan 2023 04:10:26 GMT</pubDate>
+            <pubDate>Mon, 09 Jan 2023 04:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
         </item>
