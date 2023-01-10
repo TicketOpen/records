@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 03:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 04:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
+            <guid>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</guid>
+            <pubDate>Mon, 09 Jan 2023 04:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[에픽하이 - Sleepless In __________ [White colored LP]]]></title>
             <link>https://www.seoulvinyl.com/product/faff40fc-822a-45e8-af85-f237353f298c-2243</link>
@@ -86,14 +94,6 @@
             <pubDate>Fri, 23 Dec 2022 10:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670471923649_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
-            <guid>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</guid>
-            <pubDate>Mon, 09 Jan 2023 04:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP]]]></title>
