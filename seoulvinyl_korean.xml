@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 10:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 11:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</guid>
+            <pubDate>Wed, 11 Jan 2023 11:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Black 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</guid>
+            <pubDate>Wed, 11 Jan 2023 11:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">127,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684269014_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 산울림 - 6집 조금만 기다려요 [2,500장 한정반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e8ea8f1c-fe7d-4e2e-a68b-460bb734f33e</link>
-            <guid>https://www.seoulvinyl.com/product/e8ea8f1c-fe7d-4e2e-a68b-460bb734f33e</guid>
-            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684209938_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 산울림 - 5집 한낮의 모래시계 [2,500장 한정반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/26624b3b-1142-425f-b29d-72d31d20f179</link>
-            <guid>https://www.seoulvinyl.com/product/26624b3b-1142-425f-b29d-72d31d20f179</guid>
-            <pubDate>Thu, 22 Dec 2022 05:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671684199759_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

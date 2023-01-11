@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Jan 2023 10:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 11:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</guid>
+            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Black 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</guid>
+            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</link>
+            <guid>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</guid>
+            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673431848453_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905459803_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임재범 - 3집 [레드 반투명 칼라반 컬러 LP][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/2478f820-3128-4d0e-a431-60274c6de311</link>
-            <guid>https://www.seoulvinyl.com/product/2478f820-3128-4d0e-a431-60274c6de311</guid>
-            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905346693_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 뎁트 - Goodbye 2022 [핑크 컬러 LP][B Type][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/08d0fb53-9e88-423a-ad8c-350e2a840d0e-2240</link>
-            <guid>https://www.seoulvinyl.com/product/08d0fb53-9e88-423a-ad8c-350e2a840d0e-2240</guid>
-            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672904603290_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 뎁트 - Goodbye 2022 [핑크 컬러 LP][A Type][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/08d0fb53-9e88-423a-ad8c-350e2a840d0e</link>
-            <guid>https://www.seoulvinyl.com/product/08d0fb53-9e88-423a-ad8c-350e2a840d0e</guid>
-            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672904555341_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
