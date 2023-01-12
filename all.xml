@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 09:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 10:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[양다일 - 2집 our joys and sadnesses [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</link>
-            <guid>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</guid>
-            <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</link>
@@ -110,6 +102,14 @@
             <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513078521_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양다일 - 2집 our joys and sadnesses [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</link>
+            <guid>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</guid>
+            <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ 스토어)]]></title>
@@ -776,14 +776,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668768002515_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양다일 - 2집 our joys and sadnesses [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</link>
-            <guid>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</guid>
-            <pubDate>Thu, 12 Jan 2023 09:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
             <guid>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</guid>
@@ -875,9 +867,17 @@
             <title><![CDATA[양다일 - 1집 inside [불투명 화이트 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</link>
             <guid>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</guid>
-            <pubDate>Thu, 12 Jan 2023 09:10:42 GMT</pubDate>
+            <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513078521_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[양다일 - 2집 our joys and sadnesses [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</link>
+            <guid>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</guid>
+            <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ KOREAN)]]></title>
