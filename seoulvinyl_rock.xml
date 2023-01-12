@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 02:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 03:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616779355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-922-2194</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-922-2194</guid>
+            <pubDate>Thu, 08 Dec 2022 10:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610010375019_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[LANY 레이니 - 4집 gg bb xx [화이트 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</link>
             <guid>https://www.seoulvinyl.com/product/db10684e-ba07-4711-a5f1-172c6b5203dd</guid>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 13 Dec 2022 09:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-922-2194</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-922-2194</guid>
-            <pubDate>Thu, 08 Dec 2022 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610010375019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sia 시아 - Everyday Is Christmas (White LP)]]></title>
