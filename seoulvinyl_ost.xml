@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 07:12:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 08:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666064462801_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</link>
-            <guid>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</guid>
-            <pubDate>Wed, 28 Dec 2022 08:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672214072850_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[꽃보다 남자 드라마 OST Part. 1 [컬러 LP]]]></title>
@@ -94,6 +86,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648104933222_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</link>
+            <guid>https://www.seoulvinyl.com/product/a424c17a-20bd-4635-9315-8ed216c33a8c</guid>
+            <pubDate>Wed, 28 Dec 2022 08:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672214072850_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모여봐요 동물의 숲 : Totakeke Music Instrumental Selection (LP)]]></title>
