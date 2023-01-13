@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Jan 2023 12:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Jan 2023 13:18:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
             <content:encoded><![CDATA[22,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202107/22ff2a1364c828c27d9bd7f53876e6df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다정 Dajung 1집 Jay Knife CD/음반 (일렉트릭 뮤즈)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1772&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1772&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[16,300 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/6ca41437d9e6ea4ac984953bbfe11acb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로우 행잉 프루츠 Low Hanging Fruits EP I Just Wanna Be Better CD음반]]></title>
@@ -390,6 +382,14 @@
             <pubDate>Thu, 01 Dec 2022 07:09:49 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/5f5fc15c7f8c008e57de44e45f467e2f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[출입 : Mandala 스쿼시바인즈 2집]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1967&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1967&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Jan 2023 13:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/269577c33b7122844ecfed7c3cf8b473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
