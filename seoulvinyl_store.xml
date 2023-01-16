@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 09:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 10:11:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Nujabes 누자베스 - Hydeout Productions 2nd Collection (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/db309091-1859-4f87-b9b1-43171470d051</link>
+            <guid>https://www.seoulvinyl.com/product/db309091-1859-4f87-b9b1-43171470d051</guid>
+            <pubDate>Mon, 16 Jan 2023 10:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673863102819_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Hitomi Tohyama - IMAGINATION (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a6099bf0-b747-4afb-8597-2ddf064cab95</link>
+            <guid>https://www.seoulvinyl.com/product/a6099bf0-b747-4afb-8597-2ddf064cab95</guid>
+            <pubDate>Mon, 16 Jan 2023 10:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673862805232_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Hitomi Tohyama - Sexy Robot (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/76e0bf2f-77b7-4b61-9cd3-9a349aa3de25</link>
+            <guid>https://www.seoulvinyl.com/product/76e0bf2f-77b7-4b61-9cd3-9a349aa3de25</guid>
+            <pubDate>Mon, 16 Jan 2023 10:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673862685257_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건모 - 1집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/14e30be1-b80a-428c-a699-9a445e271597-2264</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513078521_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양다일 - 2집 our joys and sadnesses [투명 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</link>
-            <guid>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</guid>
-            <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</link>
-            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</guid>
-            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Black 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</link>
-            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</guid>
-            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
