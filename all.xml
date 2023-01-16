@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 07:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 08:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -840,7 +840,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672904555341_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 드라마 '이리와 안아줘' O.S.T [180g LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[드라마 '이리와 안아줘' O.S.T [180g LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/052ad609-6e79-4aa8-9bea-9da3c30965ff</link>
             <guid>https://www.seoulvinyl.com/product/052ad609-6e79-4aa8-9bea-9da3c30965ff</guid>
             <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
