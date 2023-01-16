@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 11:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 12:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -931,7 +931,7 @@
             <title><![CDATA[[예약판매] Minako Yoshida (吉田美奈子) - Gazer (2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/c0ddbc91-ed42-4050-8673-bad71cf0eed3</link>
             <guid>https://www.seoulvinyl.com/product/c0ddbc91-ed42-4050-8673-bad71cf0eed3</guid>
-            <pubDate>Mon, 16 Jan 2023 11:08:10 GMT</pubDate>
+            <pubDate>Mon, 16 Jan 2023 11:06:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673864144083_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -939,7 +939,7 @@
             <title><![CDATA[[예약판매] Minako Yoshida (吉田美奈子) - Dark Crystal (2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/dee1c7df-dfe2-4c6c-8c15-8dd50b25dc41</link>
             <guid>https://www.seoulvinyl.com/product/dee1c7df-dfe2-4c6c-8c15-8dd50b25dc41</guid>
-            <pubDate>Mon, 16 Jan 2023 11:08:10 GMT</pubDate>
+            <pubDate>Mon, 16 Jan 2023 11:06:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673864069136_1000.jpg" length="0" type="image/jpg"/>
         </item>
