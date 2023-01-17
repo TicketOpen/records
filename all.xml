@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 09:09:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 11:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
+            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
+            <pubDate>Tue, 17 Jan 2023 11:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673949011078_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Nujabes 누자베스 - Hydeout Productions 2nd Collection (2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/db309091-1859-4f87-b9b1-43171470d051</link>
@@ -120,20 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[양다일 - 1집 inside [불투명 화이트 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</link>
-            <guid>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</guid>
-            <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513078521_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양다일 - 2집 our joys and sadnesses [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</link>
-            <guid>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</guid>
-            <pubDate>Thu, 12 Jan 2023 09:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] 뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</link>
+            <guid>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</guid>
+            <pubDate>Tue, 17 Jan 2023 11:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673948419338_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - D.O FUNK Vinyl (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
+            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
+            <pubDate>Tue, 17 Jan 2023 11:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673949011078_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prince 프린스 - Hits 2 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53-2263</link>
             <guid>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53-2263</guid>
@@ -374,14 +382,6 @@
             <pubDate>Sat, 26 Nov 2022 11:05:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chloe X Halle 클로이 앤 할리 - Ungodly Hour [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</link>
-            <guid>https://www.seoulvinyl.com/product/da3ffa9a-13ab-446c-a005-5131297c1493</guid>
-            <pubDate>Mon, 21 Nov 2022 10:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669024451086_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Remy Shand - Way I Feel (10inch Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -784,14 +784,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664868537763_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</link>
-            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</guid>
-            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
             <guid>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</guid>
@@ -872,6 +864,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672816077004_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</link>
+            <guid>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</guid>
+            <pubDate>Tue, 17 Jan 2023 11:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673948419338_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[양다일 - 1집 inside [불투명 화이트 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</link>
             <guid>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</guid>
@@ -888,20 +888,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Brown, Green Colored 2LP)(500장 한정반) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</link>
+            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-2250</guid>
+            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Black 2LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</link>
             <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</guid>
             <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴킴 (Paul Kim) - pkalbum [다크 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f-2231</link>
-            <guid>https://www.seoulvinyl.com/product/49ee6b05-f87e-407a-95f9-6a63f923c39f-2231</guid>
-            <pubDate>Sat, 31 Dec 2022 09:07:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1652336995239_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nujabes 누자베스 - Hydeout Productions 2nd Collection (2LP) (서울바이닐 ─ JAPANESE)]]></title>
