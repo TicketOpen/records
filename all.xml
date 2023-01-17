@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 13:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 14:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,14 +424,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649845597502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아르츠 심포니 오케스트라 - 하루키 소설 속 클래식 [180g 그린투명컬러 LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/5e1b8767-745d-4ebc-9503-2b7a159426f3</link>
-            <guid>https://www.seoulvinyl.com/product/5e1b8767-745d-4ebc-9503-2b7a159426f3</guid>
-            <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668582193027_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기묘한 이야기 시즌 4 드라마음악 (Stranger Things Season 4 OST) [Transparent Red Colored, Ltd, 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/7f6fa7d8-1628-48a0-855a-9c801ec4e6d6</link>
             <guid>https://www.seoulvinyl.com/product/7f6fa7d8-1628-48a0-855a-9c801ec4e6d6</guid>
@@ -510,6 +502,14 @@
             <pubDate>Mon, 21 Nov 2022 07:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669014097410_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르츠 심포니 오케스트라 - 하루키 소설 속 클래식 [180g 그린투명컬러 LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/5e1b8767-745d-4ebc-9503-2b7a159426f3</link>
+            <guid>https://www.seoulvinyl.com/product/5e1b8767-745d-4ebc-9503-2b7a159426f3</guid>
+            <pubDate>Wed, 16 Nov 2022 17:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668582193027_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP] (서울바이닐 ─ OST)]]></title>
