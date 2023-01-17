@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 06:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 07:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,28 +112,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584792318_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] AVENGED SEVENFOLD 어벤지드 세븐폴드 - City of Evil (Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d86ec9cf-fb51-4d45-95b9-7c5c88134962</link>
-            <guid>https://www.seoulvinyl.com/product/d86ec9cf-fb51-4d45-95b9-7c5c88134962</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673585540987_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] U2 유투 - Songs of Surrender (4LP Box Collector's Limited Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</link>
+            <guid>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</guid>
+            <pubDate>Tue, 17 Jan 2023 07:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">133,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] AVENGED SEVENFOLD 어벤지드 세븐폴드 - Nightmare (Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/f1c69781-d95d-4a23-b6d9-c7d08a9fc622</link>
-            <guid>https://www.seoulvinyl.com/product/f1c69781-d95d-4a23-b6d9-c7d08a9fc622</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673585448457_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[양다일 - 1집 inside [불투명 화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</link>
+            <guid>https://www.seoulvinyl.com/product/49c41132-ee7d-4248-b104-51872a276a33</guid>
+            <pubDate>Tue, 17 Jan 2023 07:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513078521_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] AVENGED SEVENFOLD 어벤지드 세븐폴드 - Avenged Sevenfold (Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/95f6bb87-d879-4011-b1c7-0caae1918f32</link>
-            <guid>https://www.seoulvinyl.com/product/95f6bb87-d879-4011-b1c7-0caae1918f32</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:52 GMT</pubDate>
+            <title><![CDATA[양다일 - 2집 our joys and sadnesses [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</link>
+            <guid>https://www.seoulvinyl.com/product/f6e46274-f8d6-4ab6-b88d-c154ce7d710a</guid>
+            <pubDate>Tue, 17 Jan 2023 07:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673585291049_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673513187826_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
