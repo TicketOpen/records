@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 03:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 04:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660041270417_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
+            <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
+            <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
+            <pubDate>Sat, 03 Dec 2022 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670053574748_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] ICE 아이스 - WAKE UP EVERYBODY [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9e778a20-b573-47a8-bfa6-2e54a4c7464b</link>
             <guid>https://www.seoulvinyl.com/product/9e778a20-b573-47a8-bfa6-2e54a4c7464b</guid>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 12 Dec 2022 11:08:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670840048828_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' OST (LP 최초발매)]]></title>
-            <link>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</link>
-            <guid>https://www.seoulvinyl.com/product/515fc650-28a5-4b02-86ad-cf61d1df4991</guid>
-            <pubDate>Sat, 03 Dec 2022 08:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670053574748_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP]]]></title>
