@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 11:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 12:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -523,7 +523,7 @@
             <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-875-1364-2274</link>
             <guid>https://www.seoulvinyl.com/product/untitled-875-1364-2274</guid>
-            <pubDate>Wed, 18 Jan 2023 11:07:53 GMT</pubDate>
+            <pubDate>Wed, 18 Jan 2023 11:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637588232815_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-875-1364-2274</link>
             <guid>https://www.seoulvinyl.com/product/untitled-875-1364-2274</guid>
-            <pubDate>Wed, 18 Jan 2023 11:08:28 GMT</pubDate>
+            <pubDate>Wed, 18 Jan 2023 11:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637588232815_1000.jpg" length="0" type="image/jpg"/>
         </item>
