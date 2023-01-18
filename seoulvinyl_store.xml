@@ -4,16 +4,24 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Jan 2023 10:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Jan 2023 11:08:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-875-1364-2274</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-875-1364-2274</guid>
+            <pubDate>Wed, 18 Jan 2023 11:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637588232815_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
             <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
             <pubDate>Tue, 17 Jan 2023 11:07:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673949011078_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674036970780_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nujabes 누자베스 - Hydeout Productions 2nd Collection (2LP)]]></title>
@@ -38,22 +46,6 @@
             <pubDate>Mon, 16 Jan 2023 10:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673862805232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Minako Yoshida (吉田美奈子) - Gazer (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c0ddbc91-ed42-4050-8673-bad71cf0eed3</link>
-            <guid>https://www.seoulvinyl.com/product/c0ddbc91-ed42-4050-8673-bad71cf0eed3</guid>
-            <pubDate>Mon, 16 Jan 2023 11:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673864144083_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Minako Yoshida (吉田美奈子) - Dark Crystal (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/dee1c7df-dfe2-4c6c-8c15-8dd50b25dc41</link>
-            <guid>https://www.seoulvinyl.com/product/dee1c7df-dfe2-4c6c-8c15-8dd50b25dc41</guid>
-            <pubDate>Mon, 16 Jan 2023 11:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673864069136_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김건모 - 1집 [LP]]]></title>
@@ -120,20 +112,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584792318_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] U2 유투 - Songs of Surrender (4LP Box Collector's Limited Edition)]]></title>
-            <link>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</link>
-            <guid>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</guid>
-            <pubDate>Tue, 17 Jan 2023 07:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">133,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</link>
             <guid>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</guid>
             <pubDate>Tue, 17 Jan 2023 11:07:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673948419338_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Minako Yoshida (吉田美奈子) - Gazer (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c0ddbc91-ed42-4050-8673-bad71cf0eed3</link>
+            <guid>https://www.seoulvinyl.com/product/c0ddbc91-ed42-4050-8673-bad71cf0eed3</guid>
+            <pubDate>Mon, 16 Jan 2023 11:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673864144083_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Minako Yoshida (吉田美奈子) - Dark Crystal (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/dee1c7df-dfe2-4c6c-8c15-8dd50b25dc41</link>
+            <guid>https://www.seoulvinyl.com/product/dee1c7df-dfe2-4c6c-8c15-8dd50b25dc41</guid>
+            <pubDate>Mon, 16 Jan 2023 11:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673864069136_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
