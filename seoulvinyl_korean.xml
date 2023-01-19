@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Jan 2023 08:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Jan 2023 09:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 넬 (NELL) - 7집 C [핑크 & 퍼플 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f2be1a5c-cacb-45c6-83a7-921c2f1834ce</link>
+            <guid>https://www.seoulvinyl.com/product/f2be1a5c-cacb-45c6-83a7-921c2f1834ce</guid>
+            <pubDate>Thu, 19 Jan 2023 09:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674118974200_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김건모 - 1집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/14e30be1-b80a-428c-a699-9a445e271597-2264</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 04 Jan 2023 08:11:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672816243608_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김광석 - 3집 3번째 노래 모음 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9986b809-1d6b-49d1-9186-b8487e3d6068</link>
-            <guid>https://www.seoulvinyl.com/product/9986b809-1d6b-49d1-9186-b8487e3d6068</guid>
-            <pubDate>Wed, 04 Jan 2023 08:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672816077004_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP]]]></title>
