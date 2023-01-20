@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 10:12:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 11:08:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 02 Dec 2022 11:05:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Chet Baker 쳇 베이커 - Chet Baker Sings (RSD Exclusive)(Limited Deluxe Box Set)(180g LP+CD)]]></title>
+            <link>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</link>
+            <guid>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</guid>
+            <pubDate>Thu, 15 Dec 2022 10:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095683497_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gerry Mulligan 게리 멀러건 - Night Lights (LP)]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 15 Dec 2022 10:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">24,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671096191208_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Chet Baker 쳇 베이커 - Chet Baker Sings (RSD Exclusive)(Limited Deluxe Box Set)(180g LP+CD)]]></title>
-            <link>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</link>
-            <guid>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</guid>
-            <pubDate>Thu, 15 Dec 2022 10:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095683497_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Chet Baker 쳇 베이커 - As Time Goes By (1,000장 한정 Crystal Colored, 2LP)]]></title>
