@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 05:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 06:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 16 Jan 2023 10:10:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673862685257_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Hitomi Tohyama - IMAGINATION (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/a6099bf0-b747-4afb-8597-2ddf064cab95</link>
-            <guid>https://www.seoulvinyl.com/product/a6099bf0-b747-4afb-8597-2ddf064cab95</guid>
-            <pubDate>Mon, 16 Jan 2023 10:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673862805232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sakamoto Ryuichi 사카모토 류이치 - Beauty (2LP)]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Mon, 21 Nov 2022 10:10:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669025264998_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Hitomi Tohyama - IMAGINATION (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a6099bf0-b747-4afb-8597-2ddf064cab95</link>
+            <guid>https://www.seoulvinyl.com/product/a6099bf0-b747-4afb-8597-2ddf064cab95</guid>
+            <pubDate>Mon, 16 Jan 2023 10:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673862805232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Minako Yoshida (吉田美奈子) - Gazer (2LP)]]></title>
