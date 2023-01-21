@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Jan 2023 15:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Jan 2023 16:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -656,14 +656,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625232080_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] U2 유투 - Songs of Surrender (4LP Box Collector's Limited Edition) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</link>
-            <guid>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</guid>
-            <pubDate>Thu, 12 Jan 2023 12:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">133,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[troye sivan 트로이시반 lp - bloom vinyl (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-854-2248</link>
             <guid>https://www.seoulvinyl.com/product/untitled-854-2248</guid>
@@ -742,6 +734,14 @@
             <pubDate>Tue, 17 Jan 2023 07:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629281628816_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] U2 유투 - Songs of Surrender (4LP Box Collector's Limited Edition) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</link>
+            <guid>https://www.seoulvinyl.com/product/a87d6bcd-98e0-4cf7-b8f3-6a33ed2b3588</guid>
+            <pubDate>Thu, 12 Jan 2023 12:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">133,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peder Elias 페더 엘리아스 - 1집 Love & Loneliness [화이트 컬러 LP] (서울바이닐 ─ ROCK & POP)]]></title>
