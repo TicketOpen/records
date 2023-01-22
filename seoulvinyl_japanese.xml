@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 22 Jan 2023 11:08:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 12:13:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 18 Jan 2023 11:08:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637588232815_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Nujabes 누자베스 - Hydeout Productions 2nd Collection (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/db309091-1859-4f87-b9b1-43171470d051</link>
-            <guid>https://www.seoulvinyl.com/product/db309091-1859-4f87-b9b1-43171470d051</guid>
-            <pubDate>Mon, 16 Jan 2023 10:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673863102819_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Hitomi Tohyama - Sexy Robot (LP)]]></title>
@@ -70,6 +62,14 @@
             <pubDate>Fri, 23 Dec 2022 10:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660041270417_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Nujabes 누자베스 - Hydeout Productions 2nd Collection (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/db309091-1859-4f87-b9b1-43171470d051</link>
+            <guid>https://www.seoulvinyl.com/product/db309091-1859-4f87-b9b1-43171470d051</guid>
+            <pubDate>Mon, 16 Jan 2023 10:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673863102819_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Hitomi Tohyama - IMAGINATION (LP)]]></title>
