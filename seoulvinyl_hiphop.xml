@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 03:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 04:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
+            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
+            <pubDate>Tue, 17 Jan 2023 11:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674036970780_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Prince 프린스 - Hits 2 (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53-2263</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 26 Nov 2022 11:06:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
-            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
-            <pubDate>Tue, 17 Jan 2023 11:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674036970780_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl)]]></title>
