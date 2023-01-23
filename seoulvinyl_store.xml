@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Jan 2023 04:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jan 2023 05:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 6th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Mon, 23 Jan 2023 05:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Hiromasa Suzuki - Skip Step Colgen [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/081b239a-45c4-4f46-9da3-0c9f50b2406a</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 13 Jan 2023 12:16:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584684118_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Black Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13</link>
-            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584609260_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP]]]></title>
