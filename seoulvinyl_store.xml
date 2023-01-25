@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 10:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 11:08:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
-            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
-            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 16 Jan 2023 10:09:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673862685257_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
+            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
+            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP]]]></title>
