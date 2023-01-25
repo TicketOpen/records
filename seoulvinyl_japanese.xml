@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 21:07:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 22:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 25 Jan 2023 06:11:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606796801709_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Spirited Away 센과 치히로의 행방불명 SOUND TRACK LP (Ltd, Colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-830-2280</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-830-2280</guid>
-            <pubDate>Wed, 25 Jan 2023 06:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Matsubara Miki 마츠바라 미키 - 한밤중의 도어 ~Stay With Me (45RPM LP)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 23 Dec 2022 10:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660041270417_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Spirited Away 센과 치히로의 행방불명 SOUND TRACK LP (Ltd, Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-830-2280</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-830-2280</guid>
+            <pubDate>Wed, 25 Jan 2023 06:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Hitomi Tohyama - IMAGINATION (LP)]]></title>
