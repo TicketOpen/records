@@ -4,25 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
-            <guid>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</guid>
-            <pubDate>Thu, 26 Jan 2023 05:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674626383976_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
-            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
-            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278</link>
@@ -38,6 +22,22 @@
             <pubDate>Wed, 25 Jan 2023 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
+            <guid>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</guid>
+            <pubDate>Thu, 26 Jan 2023 05:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674626383976_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
+            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
+            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Matsubara Miki 마츠바라 미키 - 한밤중의 도어 ~Stay With Me (45RPM LP) (서울바이닐 ─ 스토어)]]></title>
@@ -288,14 +288,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666065938443_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Ltd, Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</link>
-            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584684118_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Black Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13</link>
             <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13</guid>
@@ -376,6 +368,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Ltd, Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</link>
+            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</guid>
+            <pubDate>Fri, 13 Jan 2023 12:16:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584684118_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</link>
             <guid>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</guid>
@@ -392,14 +392,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672299294704_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
-            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
-            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278</link>
             <guid>https://www.seoulvinyl.com/product/untitled-831-2278</guid>
@@ -414,6 +406,14 @@
             <pubDate>Wed, 25 Jan 2023 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
+            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
+            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 냉정과 열정 사이 OST [블루 컬러 LP, 국내개봉 20주년 기념 최초발매] (서울바이닐 ─ OST)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
             <guid>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</guid>
-            <pubDate>Thu, 26 Jan 2023 05:09:33 GMT</pubDate>
+            <pubDate>Thu, 26 Jan 2023 05:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674626383976_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -904,14 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
-            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
-            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278</link>
             <guid>https://www.seoulvinyl.com/product/untitled-831-2278</guid>
@@ -926,6 +918,14 @@
             <pubDate>Wed, 25 Jan 2023 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
+            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
+            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Matsubara Miki 마츠바라 미키 - 한밤중의 도어 ~Stay With Me (45RPM LP) (서울바이닐 ─ JAPANESE)]]></title>

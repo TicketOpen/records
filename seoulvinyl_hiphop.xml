@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 14 Jan 2023 11:06:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666065938443_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Ltd, Colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</link>
-            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</guid>
-            <pubDate>Fri, 13 Jan 2023 12:17:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584684118_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Black Vinyl)]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Sat, 26 Nov 2022 11:06:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669457074737_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Ltd, Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</link>
+            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</guid>
+            <pubDate>Fri, 13 Jan 2023 12:17:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584684118_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl)]]></title>

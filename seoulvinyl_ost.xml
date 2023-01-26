@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Jan 2023 05:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Jan 2023 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
-            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
-            <pubDate>Wed, 25 Jan 2023 10:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278</link>
@@ -30,6 +22,14 @@
             <pubDate>Wed, 25 Jan 2023 06:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 지브리 OST 12종 Set (Ltd, Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</link>
+            <guid>https://www.seoulvinyl.com/product/3e39fc3b-2bc8-44da-bb19-61a557ef00e2</guid>
+            <pubDate>Wed, 25 Jan 2023 10:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">660,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674638389537_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 냉정과 열정 사이 OST [블루 컬러 LP, 국내개봉 20주년 기념 최초발매]]]></title>
