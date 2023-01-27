@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 Jan 2023 06:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jan 2023 07:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매]V.A - '90s Movie Hits Collected (Colored 2LP, 2,000장 넘버링 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ea760a4-e3a4-47db-b87d-faf09a65eeb9</link>
+            <guid>https://www.seoulvinyl.com/product/2ea760a4-e3a4-47db-b87d-faf09a65eeb9</guid>
+            <pubDate>Fri, 27 Jan 2023 07:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674803031430_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[L'imperatrice 랭페라트리스 - Tako Tsubo (Gatefold 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/2bfb6a95-d64c-45ce-8364-d9dbf2aa9d2b-2265</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 17 Jan 2023 07:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667550236007_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jordann 조르단 - 1집 Connecting Visitors to Fun LP (blue & tan colored 500장 넘버링 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/dfd4e4c5-fda4-4be7-8c39-32c5b8e76b3e-2123</link>
-            <guid>https://www.seoulvinyl.com/product/dfd4e4c5-fda4-4be7-8c39-32c5b8e76b3e-2123</guid>
-            <pubDate>Tue, 17 Jan 2023 07:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629281628816_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] U2 유투 - Songs of Surrender (4LP Box Collector's Limited Edition)]]></title>
