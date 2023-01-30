@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 10:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 11:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[검은잎들 - 책이여, 안녕! [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/05193ea4-2b4f-4773-abf3-02381cacf5ed</link>
+            <guid>https://www.seoulvinyl.com/product/05193ea4-2b4f-4773-abf3-02381cacf5ed</guid>
+            <pubDate>Mon, 30 Jan 2023 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675075836827_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 - 12 [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</link>
@@ -48,36 +56,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805074175_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Maneskin 모네스킨 - RUSH! (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/3f57109d-65e9-4574-b902-eb6b655ce36b-2302</link>
-            <guid>https://www.seoulvinyl.com/product/3f57109d-65e9-4574-b902-eb6b655ce36b-2302</guid>
-            <pubDate>Fri, 27 Jan 2023 08:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805808781_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Maneskin 모네스킨 - CHOSEN (LP)]]></title>
             <link>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263</link>
             <guid>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263</guid>
             <pubDate>Fri, 27 Jan 2023 08:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805355346_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Maneskin 모네스킨 - TEATRO D'IRA - VOL. I (Colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/76e8203d-ac23-45ae-996a-2fed30799443</link>
-            <guid>https://www.seoulvinyl.com/product/76e8203d-ac23-45ae-996a-2fed30799443</guid>
-            <pubDate>Fri, 27 Jan 2023 08:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805508065_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Maneskin 모네스킨 - IL BALLO DELLA VITA (Colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/8eacd887-7567-4e0e-bbd5-ad45e8435f3d</link>
-            <guid>https://www.seoulvinyl.com/product/8eacd887-7567-4e0e-bbd5-ad45e8435f3d</guid>
-            <pubDate>Fri, 27 Jan 2023 08:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805653384_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매]V.A - '90s Movie Hits Collected (Colored 2LP, 2,000장 넘버링 한정반)]]></title>
@@ -134,6 +118,22 @@
             <pubDate>Thu, 26 Jan 2023 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717088382_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 반딧불이의 묘 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION]]]></title>
+            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2292</link>
+            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2292</guid>
+            <pubDate>Mon, 30 Jan 2023 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715552192_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 가구야 공주 이야기 사운드트랙 [LIMITED COLOR 2LP EDITION]]]></title>
+            <link>https://www.seoulvinyl.com/product/CC1QWEQFQF-229115323125</link>
+            <guid>https://www.seoulvinyl.com/product/CC1QWEQFQF-229115323125</guid>
+            <pubDate>Mon, 30 Jan 2023 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715424411_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
