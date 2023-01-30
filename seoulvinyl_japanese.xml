@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 08:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 09:10:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 - 12 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</link>
+            <guid>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</guid>
+            <pubDate>Mon, 30 Jan 2023 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675068695059_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - OCEAN SIDE (Transparent Pink Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2296</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Jan 2023 06:11:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606796801709_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Spirited Away 센과 치히로의 행방불명 SOUND TRACK LP (Ltd, Colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-830-2280</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-830-2280</guid>
-            <pubDate>Wed, 25 Jan 2023 06:11:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
