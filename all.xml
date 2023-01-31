@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 03:13:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 04:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 판듀 베스트컬렉션 Part.1 [와인 로즈 클리어 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740</link>
+            <guid>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740</guid>
+            <pubDate>Tue, 31 Jan 2023 04:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675134415503_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[검은잎들 - 책이여, 안녕! [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/05193ea4-2b4f-4773-abf3-02381cacf5ed</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715552192_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 가구야 공주 이야기 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/CC1QWEQFQF-229115323125</link>
-            <guid>https://www.seoulvinyl.com/product/CC1QWEQFQF-229115323125</guid>
-            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715424411_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Maneskin 모네스킨 - RUSH! (Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668767078778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 판듀 베스트컬렉션 Part.1 [와인 로즈 클리어 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740</link>
+            <guid>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740</guid>
+            <pubDate>Tue, 31 Jan 2023 04:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675134415503_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[검은잎들 - 책이여, 안녕! [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/05193ea4-2b4f-4773-abf3-02381cacf5ed</link>
             <guid>https://www.seoulvinyl.com/product/05193ea4-2b4f-4773-abf3-02381cacf5ed</guid>
@@ -854,14 +862,6 @@
             <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905459803_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임재범 - 3집 [레드 반투명 칼라반 컬러 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2478f820-3128-4d0e-a431-60274c6de311</link>
-            <guid>https://www.seoulvinyl.com/product/2478f820-3128-4d0e-a431-60274c6de311</guid>
-            <pubDate>Thu, 05 Jan 2023 09:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672905346693_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP) (서울바이닐 ─ KOREAN)]]></title>
