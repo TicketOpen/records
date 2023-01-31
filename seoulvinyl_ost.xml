@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 10:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 12:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION]]]></title>
-            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</link>
-            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</guid>
-            <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714896299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예야판매] 붉은 돼지 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION]]]></title>
             <link>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</link>
             <guid>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</guid>
@@ -110,6 +102,14 @@
             <pubDate>Wed, 25 Jan 2023 06:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION]]]></title>
+            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</link>
+            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</guid>
+            <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714896299_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 천공의 성 라퓨타 사운드트랙 [LIMITED COLOR LP EDITION]]]></title>

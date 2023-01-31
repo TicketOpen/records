@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 10:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 12:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675069725222_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
-            <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
-            <pubDate>Tue, 31 Jan 2023 08:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 일본 애니메이션 'BLUE GIANT' OST (2LP) (서울바이닐 ─ 스토어)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 27 Jan 2023 07:07:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674803031430_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
+            <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
+            <pubDate>Tue, 31 Jan 2023 08:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Maneskin 모네스킨 - RUSH! (Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
@@ -448,14 +448,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</link>
-            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</guid>
-            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714896299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예야판매] 붉은 돼지 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</link>
             <guid>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</guid>
@@ -494,6 +486,14 @@
             <pubDate>Wed, 25 Jan 2023 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</link>
+            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</guid>
+            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714896299_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 천공의 성 라퓨타 사운드트랙 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
@@ -803,7 +803,7 @@
             <title><![CDATA[이찬혁 - LEE CHANHYUK 1st SOLO LP [ERROR] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/0cab6fc1-bff7-4856-87c2-3f2f06a3b794</link>
             <guid>https://www.seoulvinyl.com/product/0cab6fc1-bff7-4856-87c2-3f2f06a3b794</guid>
-            <pubDate>Tue, 31 Jan 2023 10:09:23 GMT</pubDate>
+            <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675069725222_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -830,14 +830,6 @@
             <pubDate>Mon, 23 Jan 2023 05:07:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
-            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
-            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 넬 (NELL) - 7집 C [핑크 & 퍼플 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
@@ -870,6 +862,14 @@
             <pubDate>Mon, 09 Jan 2023 04:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
+            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
+            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양다일 - 1집 inside [불투명 화이트 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
@@ -907,17 +907,9 @@
             <title><![CDATA[Presents 프레젠트 - FEELING LIKE A CHILD (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/1c50f875-3fd0-443f-b39c-e020a6c2ee26</link>
             <guid>https://www.seoulvinyl.com/product/1c50f875-3fd0-443f-b39c-e020a6c2ee26</guid>
-            <pubDate>Tue, 31 Jan 2023 10:09:35 GMT</pubDate>
+            <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738388367_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
-            <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
-            <pubDate>Tue, 31 Jan 2023 08:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 - 12 [2LP] (서울바이닐 ─ JAPANESE)]]></title>
@@ -992,14 +984,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</link>
-            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</guid>
-            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714896299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예야판매] 붉은 돼지 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</link>
             <guid>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</guid>
@@ -1022,6 +1006,22 @@
             <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714505633_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
+            <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
+            <pubDate>Tue, 31 Jan 2023 08:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</link>
+            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288</guid>
+            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714896299_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 천공의 성 라퓨타 사운드트랙 [LIMITED COLOR LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>

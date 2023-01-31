@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 10:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 12:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675069725222_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
-            <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
-            <pubDate>Tue, 31 Jan 2023 08:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 일본 애니메이션 'BLUE GIANT' OST (2LP)]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Fri, 27 Jan 2023 07:07:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674803031430_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
+            <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
+            <pubDate>Tue, 31 Jan 2023 08:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Maneskin 모네스킨 - RUSH! (Colored Vinyl)]]></title>
