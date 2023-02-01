@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 04:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 05:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -576,14 +576,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666939535064_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스탄게츠 Stan Getz & Joao Gilberto - Getz / Gilberto (Verve) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-693-2048</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-693-2048</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1597487977472_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Howlin' Wolf - Moanin' In The Moonlight [180g 오디오파일 LP][레드 컬러 한정반] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</link>
             <guid>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</guid>
@@ -638,6 +630,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667207074192_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스탄게츠 Stan Getz & Joao Gilberto - Getz / Gilberto (Verve) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-693-2048</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-693-2048</guid>
+            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1597487977472_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[냇 킹 콜 베스트 모음집 (Nat King Cole Greatest Hits) [블루 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
