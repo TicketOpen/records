@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 02:28:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 03:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 이상한 변호사 우영우 OST [2LP 스카이블루/화이트]]]></title>
+            <link>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</link>
+            <guid>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</guid>
+            <pubDate>Wed, 01 Feb 2023 03:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675220423854_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP)]]></title>
             <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
@@ -72,6 +80,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674118974200_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</link>
+            <guid>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</guid>
+            <pubDate>Tue, 17 Jan 2023 11:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673948419338_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김건모 - 1집 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/14e30be1-b80a-428c-a699-9a445e271597-2264</link>
             <guid>https://www.seoulvinyl.com/product/14e30be1-b80a-428c-a699-9a445e271597-2264</guid>
@@ -80,28 +96,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664868537763_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] RM (방탄소년단) - 'Indigo' [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</link>
-            <guid>https://www.seoulvinyl.com/product/d465f59f-4b6c-472c-b6a9-466d0accca0b</guid>
-            <pubDate>Mon, 09 Jan 2023 04:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
             <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
             <pubDate>Wed, 25 Jan 2023 10:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</link>
-            <guid>https://www.seoulvinyl.com/product/001cebf2-b0be-4c9e-8a7b-26f101d46aca</guid>
-            <pubDate>Tue, 17 Jan 2023 11:09:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673948419338_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양다일 - 1집 inside [불투명 화이트 컬러 LP]]]></title>
