@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 26 Jan 2023 08:11:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717312977_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ADVENTURE (Transparent Pink Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</link>
-            <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</guid>
-            <pubDate>Thu, 26 Jan 2023 08:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717209881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ESCAPE FROM DIMENSION (Transparent Pink Colored LP)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 31 Jan 2023 08:11:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ADVENTURE (Transparent Pink Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</link>
+            <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</guid>
+            <pubDate>Thu, 26 Jan 2023 08:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717209881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION]]]></title>

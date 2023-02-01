@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 05:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 06:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -936,14 +936,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717312977_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ADVENTURE (Transparent Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</link>
-            <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</guid>
-            <pubDate>Thu, 26 Jan 2023 08:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717209881_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ESCAPE FROM DIMENSION (Transparent Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45</link>
             <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45</guid>
@@ -1006,6 +998,14 @@
             <pubDate>Tue, 31 Jan 2023 08:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ADVENTURE (Transparent Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</link>
+            <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</guid>
+            <pubDate>Thu, 26 Jan 2023 08:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717209881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
@@ -1206,14 +1206,6 @@
             <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
             <content:encoded><![CDATA[25,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/2c771328bb4769ca613e4a1ff8feb206.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웨스턴 카잇 Western Kite 정규 ‘ultraviolet!’ CD음반+카달로그 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1843&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1843&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[23,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202201/1f58decdeccdd3f929ace8d8843577a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[온더달 ONTHEDAL EP ‘℃ dal’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
@@ -1542,6 +1534,14 @@
             <pubDate>Fri, 13 Jan 2023 13:18:50 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/269577c33b7122844ecfed7c3cf8b473.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sauce, Kite, Lake 모호 프로젝트 정규 2집 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Feb 2023 06:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[17,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/67b397bd5a4260a3be5cef62f88cadd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
