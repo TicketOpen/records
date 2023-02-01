@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Feb 2023 09:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Feb 2023 10:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -720,6 +720,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616866444_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The 1975 - 1집 The 1975 [Clear Colored 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/39a05b0a-3f07-48de-8b62-b64cef7967ad</link>
+            <guid>https://www.seoulvinyl.com/product/39a05b0a-3f07-48de-8b62-b64cef7967ad</guid>
+            <pubDate>Wed, 21 Dec 2022 10:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616779355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-922-2194</link>
             <guid>https://www.seoulvinyl.com/product/untitled-922-2194</guid>
@@ -742,14 +750,6 @@
             <pubDate>Thu, 12 Jan 2023 12:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">133,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 1975 - 1집 The 1975 [Clear Colored 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/39a05b0a-3f07-48de-8b62-b64cef7967ad</link>
-            <guid>https://www.seoulvinyl.com/product/39a05b0a-3f07-48de-8b62-b64cef7967ad</guid>
-            <pubDate>Wed, 21 Dec 2022 10:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616779355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peder Elias 페더 엘리아스 - 1집 Love & Loneliness [화이트 컬러 LP] (서울바이닐 ─ ROCK & POP)]]></title>
