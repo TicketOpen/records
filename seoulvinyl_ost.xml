@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 17:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 18:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714505633_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 천공의 성 라퓨타 사운드트랙 [LIMITED COLOR LP EDITION]]]></title>
-            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037</link>
-            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037</guid>
-            <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714254608_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278</link>
             <guid>https://www.seoulvinyl.com/product/untitled-831-2278</guid>
@@ -126,6 +118,14 @@
             <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 천공의 성 라퓨타 사운드트랙 [LIMITED COLOR LP EDITION]]]></title>
+            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037</link>
+            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037</guid>
+            <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714254608_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예야판매] 바람 계곡의 나우시카 사운드트랙 [LIMITED COLOR LP EDITION]]]></title>
