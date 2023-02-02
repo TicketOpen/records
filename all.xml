@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 03:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 04:11:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -728,14 +728,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671616779355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-922-2194</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-922-2194</guid>
-            <pubDate>Mon, 30 Jan 2023 11:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610010375019_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Maneskin 모네스킨 - RUSH! (Colored Vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/3f57109d-65e9-4574-b902-eb6b655ce36b</link>
             <guid>https://www.seoulvinyl.com/product/3f57109d-65e9-4574-b902-eb6b655ce36b</guid>
@@ -758,6 +750,14 @@
             <pubDate>Tue, 13 Dec 2022 09:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sia 시아 - 1000 Forms of Fear vinyl LP (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-922-2194</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-922-2194</guid>
+            <pubDate>Mon, 30 Jan 2023 11:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610010375019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sia 시아 - Everyday Is Christmas (White LP) (서울바이닐 ─ ROCK & POP)]]></title>
