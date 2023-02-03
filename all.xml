@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 03:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 04:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[[예약판매] 슬램덩크 O.S.T [넘버링 한정반][180g 레드 컬러 LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/0012df73-3463-4d51-83a3-d5e24951bf74</link>
             <guid>https://www.seoulvinyl.com/product/0012df73-3463-4d51-83a3-d5e24951bf74</guid>
-            <pubDate>Fri, 03 Feb 2023 03:14:00 GMT</pubDate>
+            <pubDate>Fri, 03 Feb 2023 03:13:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675393905721_1000.jpg" length="0" type="image/jpg"/>
         </item>
