@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Feb 2023 02:19:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Feb 2023 03:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 슬램덩크 O.S.T [넘버링 한정반][180g 레드 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/0012df73-3463-4d51-83a3-d5e24951bf74</link>
+            <guid>https://www.seoulvinyl.com/product/0012df73-3463-4d51-83a3-d5e24951bf74</guid>
+            <pubDate>Fri, 03 Feb 2023 03:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675393905721_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 이상한 변호사 우영우 OST [2LP 스카이블루/화이트]]]></title>
             <link>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</link>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 27 Jan 2023 10:08:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674812548931_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Maneskin 모네스킨 - CHOSEN (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263</link>
-            <guid>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263</guid>
-            <pubDate>Fri, 27 Jan 2023 08:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805355346_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP)]]></title>
