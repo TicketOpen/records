@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 05:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 06:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</link>
+            <guid>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</guid>
+            <pubDate>Mon, 06 Feb 2023 06:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675662703966_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Miley Cyrus 마일리 사이러스 - Endless Summer Vacation (Gatefold LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 31 Jan 2023 04:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675134415503_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[검은잎들 - 책이여, 안녕! [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/05193ea4-2b4f-4773-abf3-02381cacf5ed</link>
-            <guid>https://www.seoulvinyl.com/product/05193ea4-2b4f-4773-abf3-02381cacf5ed</guid>
-            <pubDate>Mon, 30 Jan 2023 11:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675075836827_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP) (서울바이닐 ─ 스토어)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[예약판매] Miley Cyrus 마일리 사이러스 - Endless Summer Vacation (Gatefold LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</link>
             <guid>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</guid>
-            <pubDate>Mon, 06 Feb 2023 05:08:39 GMT</pubDate>
+            <pubDate>Mon, 06 Feb 2023 05:07:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675658757277_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</link>
+            <guid>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</guid>
+            <pubDate>Mon, 06 Feb 2023 06:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675662703966_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 이상한 변호사 우영우 OST [2LP 스카이블루/화이트] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</link>
             <guid>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</guid>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658218712619_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (180g. Black 2LP) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</link>
-            <guid>https://www.seoulvinyl.com/product/74ee95ee-c2d1-4b88-a89a-8d3dac787499-1932-2251</guid>
-            <pubDate>Wed, 11 Jan 2023 11:07:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658721680213_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Presents 프레젠트 - FEELING LIKE A CHILD (서울바이닐 ─ JAPANESE)]]></title>
