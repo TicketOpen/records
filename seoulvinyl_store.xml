@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 04:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 05:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Miley Cyrus 마일리 사이러스 - Endless Summer Vacation (Gatefold LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</link>
+            <guid>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</guid>
+            <pubDate>Mon, 06 Feb 2023 05:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675658757277_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Wonder 스티비 원더 - Fulfillingness' First Finale [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 Jan 2023 11:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675075836827_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 - 12 [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</link>
-            <guid>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</guid>
-            <pubDate>Mon, 06 Feb 2023 04:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675068695059_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP)]]></title>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Feb 2023 04:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Feb 2023 05:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Miley Cyrus 마일리 사이러스 - Endless Summer Vacation (Gatefold LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</link>
+            <guid>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</guid>
+            <pubDate>Mon, 06 Feb 2023 05:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675658757277_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Wonder 스티비 원더 - Fulfillingness' First Finale [180g LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</link>
@@ -118,14 +126,6 @@
             <pubDate>Mon, 30 Jan 2023 11:07:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675075836827_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 - 12 [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</link>
-            <guid>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</guid>
-            <pubDate>Mon, 30 Jan 2023 09:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675068695059_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP) (서울바이닐 ─ 스토어)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Miley Cyrus 마일리 사이러스 - Endless Summer Vacation (Gatefold LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</link>
+            <guid>https://www.seoulvinyl.com/product/121fb368-6db1-4019-bf11-4cedf4926b71</guid>
+            <pubDate>Mon, 06 Feb 2023 05:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675658757277_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alan Parsons 알란 파슨스 - The Very Best of Live [블루 컬러 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/eb8c7a91-94b3-4cf8-97f0-e990157f21fc</link>
             <guid>https://www.seoulvinyl.com/product/eb8c7a91-94b3-4cf8-97f0-e990157f21fc</guid>
@@ -768,14 +776,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Peder Elias 페더 엘리아스 - 1집 Love & Loneliness [화이트 컬러 LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252</link>
-            <guid>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252</guid>
-            <pubDate>Tue, 13 Dec 2022 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 이상한 변호사 우영우 OST [2LP 스카이블루/화이트] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</link>
             <guid>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</guid>
@@ -840,14 +840,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 넬 (NELL) - 7집 C [핑크 & 퍼플 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/f2be1a5c-cacb-45c6-83a7-921c2f1834ce</link>
-            <guid>https://www.seoulvinyl.com/product/f2be1a5c-cacb-45c6-83a7-921c2f1834ce</guid>
-            <pubDate>Thu, 19 Jan 2023 09:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674118974200_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[김건모 - 1집 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/14e30be1-b80a-428c-a699-9a445e271597-2264</link>
             <guid>https://www.seoulvinyl.com/product/14e30be1-b80a-428c-a699-9a445e271597-2264</guid>
@@ -862,6 +854,14 @@
             <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 넬 (NELL) - 7집 C [핑크 & 퍼플 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/f2be1a5c-cacb-45c6-83a7-921c2f1834ce</link>
+            <guid>https://www.seoulvinyl.com/product/f2be1a5c-cacb-45c6-83a7-921c2f1834ce</guid>
+            <pubDate>Thu, 19 Jan 2023 09:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674118974200_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[뷰티인사이드 OST [투명 핑크 + 불투명 퍼플 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
