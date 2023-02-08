@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 04:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 06:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예야판매] 이웃의 토토로 사운드트랙 [LIMITED COLOR LP EDITION]]]></title>
-            <link>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285</link>
-            <guid>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285</guid>
-            <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714505633_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278</link>
             <guid>https://www.seoulvinyl.com/product/untitled-831-2278</guid>
@@ -118,6 +110,14 @@
             <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예야판매] 이웃의 토토로 사운드트랙 [LIMITED COLOR LP EDITION]]]></title>
+            <link>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285</link>
+            <guid>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285</guid>
+            <pubDate>Thu, 26 Jan 2023 07:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714505633_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 천공의 성 라퓨타 사운드트랙 [LIMITED COLOR LP EDITION]]]></title>
