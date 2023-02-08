@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Feb 2023 17:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Feb 2023 18:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675411030360_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TITANIC 타이타닉 O.S.T LP]]></title>
-            <link>https://www.seoulvinyl.com/product/2b56647b-f1bc-43b1-bf12-92da516903ad-2315</link>
-            <guid>https://www.seoulvinyl.com/product/2b56647b-f1bc-43b1-bf12-92da516903ad-2315</guid>
-            <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851332045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Alan Parsons 알란 파슨스 - The Very Best of Live [블루 컬러 2LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Mon, 06 Feb 2023 06:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675662703966_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TITANIC 타이타닉 O.S.T LP]]></title>
+            <link>https://www.seoulvinyl.com/product/2b56647b-f1bc-43b1-bf12-92da516903ad-2315</link>
+            <guid>https://www.seoulvinyl.com/product/2b56647b-f1bc-43b1-bf12-92da516903ad-2315</guid>
+            <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851332045_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP)]]></title>
