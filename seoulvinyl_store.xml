@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 11:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 12:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Avril Lavigne 에이브릴 라빈 - The Best Damn Thing [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/52d988e4-dccd-4bb8-a77a-488201d3c424</link>
+            <guid>https://www.seoulvinyl.com/product/52d988e4-dccd-4bb8-a77a-488201d3c424</guid>
+            <pubDate>Thu, 09 Feb 2023 12:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941727142_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 빛과 소금 - 2집 [180g LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
+            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
+            <pubDate>Thu, 09 Feb 2023 12:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</link>
@@ -102,22 +118,6 @@
             <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629889949745_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jason Mraz 제이슨 므라즈 - We Sing. We Dance. We Steal Things [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9ad8d78b-a693-4a27-8915-c05844090e7f</link>
-            <guid>https://www.seoulvinyl.com/product/9ad8d78b-a693-4a27-8915-c05844090e7f</guid>
-            <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675410273176_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 이상한 변호사 우영우 OST [2LP 스카이블루/화이트]]]></title>
-            <link>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</link>
-            <guid>https://www.seoulvinyl.com/product/d10eb14a-bbac-4dba-b391-2660da4960b0</guid>
-            <pubDate>Wed, 01 Feb 2023 03:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675220423854_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP]]]></title>
