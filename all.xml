@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 05:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 06:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[판듀 베스트컬렉션 Part.1 [와인 로즈 클리어 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740-2330</link>
+            <guid>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740-2330</guid>
+            <pubDate>Thu, 09 Feb 2023 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675134415503_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강승원 - 일집 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2d2f9caf-c46a-448c-9bde-b551d816d02f</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738388367_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이찬혁 - LEE CHANHYUK 1st SOLO LP [ERROR] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0cab6fc1-bff7-4856-87c2-3f2f06a3b794</link>
-            <guid>https://www.seoulvinyl.com/product/0cab6fc1-bff7-4856-87c2-3f2f06a3b794</guid>
-            <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675069725222_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP] (서울바이닐 ─ 스토어)]]></title>
@@ -680,7 +680,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674812548931_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Maneskin 모네스킨 - CHOSEN (LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <title><![CDATA[Maneskin 모네스킨 - CHOSEN (LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263</link>
             <guid>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263</guid>
             <pubDate>Fri, 27 Jan 2023 08:10:14 GMT</pubDate>
@@ -776,10 +776,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[판듀 베스트컬렉션 Part.1 [와인 로즈 클리어 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740-2330</link>
+            <guid>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740-2330</guid>
+            <pubDate>Thu, 09 Feb 2023 06:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675134415503_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[강승원 - 일집 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2d2f9caf-c46a-448c-9bde-b551d816d02f</link>
             <guid>https://www.seoulvinyl.com/product/2d2f9caf-c46a-448c-9bde-b551d816d02f</guid>
-            <pubDate>Thu, 09 Feb 2023 05:09:25 GMT</pubDate>
+            <pubDate>Thu, 09 Feb 2023 05:08:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675917838382_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -846,14 +854,6 @@
             <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675069725222_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 판듀 베스트컬렉션 Part.1 [와인 로즈 클리어 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740</link>
-            <guid>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740</guid>
-            <pubDate>Tue, 31 Jan 2023 04:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675134415503_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[검은잎들 - 책이여, 안녕! [LP] (서울바이닐 ─ KOREAN)]]></title>
