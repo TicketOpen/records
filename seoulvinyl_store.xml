@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 09:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 10:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nujabes 누자베스 - Hydeout Productions: First Collection (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1085-2331</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1085-2331</guid>
+            <pubDate>Thu, 09 Feb 2023 10:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1618225633127_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[판듀 베스트컬렉션 Part.1 [와인 로즈 클리어 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/fa24cbdc-cebf-4811-b4c4-b4cb35e78740-2330</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607764167766_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Presents 프레젠트 - FEELING LIKE A CHILD]]></title>
-            <link>https://www.seoulvinyl.com/product/1c50f875-3fd0-443f-b39c-e020a6c2ee26</link>
-            <guid>https://www.seoulvinyl.com/product/1c50f875-3fd0-443f-b39c-e020a6c2ee26</guid>
-            <pubDate>Tue, 31 Jan 2023 10:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738388367_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP]]]></title>
