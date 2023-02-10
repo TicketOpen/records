@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 16:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 17:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,14 +448,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715271997_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 벼랑 위의 포뇨 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</link>
-            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</guid>
-            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac</link>
             <guid>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac</guid>
@@ -486,6 +478,14 @@
             <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851332045_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 벼랑 위의 포뇨 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</link>
+            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</guid>
+            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ OST)]]></title>
@@ -992,14 +992,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715271997_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 벼랑 위의 포뇨 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</link>
-            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</guid>
-            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983 (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</link>
             <guid>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</guid>
@@ -1022,6 +1014,14 @@
             <pubDate>Thu, 26 Jan 2023 08:10:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717209881_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 벼랑 위의 포뇨 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</link>
+            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2289</guid>
+            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 원령공주 사운드트랙 [LIMITED COLOR 2LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
