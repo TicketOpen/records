@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 05:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 06:12:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -456,6 +456,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac</link>
+            <guid>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac</guid>
+            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예야판매] 바람 계곡의 나우시카 사운드트랙 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a</link>
             <guid>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a</guid>
@@ -494,14 +502,6 @@
             <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714758860_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac</link>
-            <guid>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac</guid>
-            <pubDate>Thu, 26 Jan 2023 07:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예야판매] 이웃의 토토로 사운드트랙 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
