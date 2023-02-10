@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 02:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 03:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Childish Gambino 차일디시 감비노 - Kauai (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/51e06ab6-55b3-466c-8b27-0404f4eb0b2a</link>
+            <guid>https://www.seoulvinyl.com/product/51e06ab6-55b3-466c-8b27-0404f4eb0b2a</guid>
+            <pubDate>Fri, 10 Feb 2023 03:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675998621474_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Avril Lavigne 에이브릴 라빈 - The Best Damn Thing [180g LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/52d988e4-dccd-4bb8-a77a-488201d3c424</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675410573941_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DUA LIPA 두아 리파 - FUTURE NOSTALGIA LP (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6c19db40-caee-482d-951d-5fc22fdf4fb6-2313</link>
-            <guid>https://www.seoulvinyl.com/product/6c19db40-caee-482d-951d-5fc22fdf4fb6-2313</guid>
-            <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629889949745_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP] (서울바이닐 ─ 스토어)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Childish Gambino 차일디시 감비노 - Kauai (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/51e06ab6-55b3-466c-8b27-0404f4eb0b2a</link>
+            <guid>https://www.seoulvinyl.com/product/51e06ab6-55b3-466c-8b27-0404f4eb0b2a</guid>
+            <pubDate>Fri, 10 Feb 2023 03:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675998621474_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nujabes 누자베스 - Hydeout Productions: First Collection (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1085-2331</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1085-2331</guid>
@@ -366,14 +374,6 @@
             <pubDate>Fri, 23 Dec 2022 11:06:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637064229760_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Puth 찰리 푸스 - CHARLIE [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81-2225</link>
-            <guid>https://www.seoulvinyl.com/product/9e9747c4-54cd-4b2a-ad60-380305fa8b81-2225</guid>
-            <pubDate>Fri, 23 Dec 2022 11:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1665221110756_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
