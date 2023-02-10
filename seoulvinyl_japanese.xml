@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 09:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 10:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 09 Feb 2023 11:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938825786_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983]]></title>
-            <link>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</link>
-            <guid>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</guid>
-            <pubDate>Thu, 09 Feb 2023 11:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nujabes 누자베스 - Hydeout Productions: First Collection (2LP)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Thu, 26 Jan 2023 07:09:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983]]></title>
+            <link>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</link>
+            <guid>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</guid>
+            <pubDate>Thu, 09 Feb 2023 11:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP)]]></title>

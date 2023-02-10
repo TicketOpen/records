@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 09:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 10:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -920,14 +920,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938825786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983 (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</link>
-            <guid>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</guid>
-            <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Nujabes 누자베스 - Hydeout Productions: First Collection (2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1085-2331</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1085-2331</guid>
@@ -1008,6 +1000,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983 (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</link>
+            <guid>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</guid>
+            <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
             <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
@@ -1035,7 +1035,7 @@
             <title><![CDATA[[오토폰] CONCORDE MK2 CLUB TWIN (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327-2328</link>
             <guid>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327-2328</guid>
-            <pubDate>Fri, 10 Feb 2023 09:10:30 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">450,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675853566195_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1043,7 +1043,7 @@
             <title><![CDATA[[오토폰] CONCORDE MK2 DJ TWIN (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327</link>
             <guid>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327</guid>
-            <pubDate>Fri, 10 Feb 2023 09:10:30 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">330,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675853521923_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1051,7 +1051,7 @@
             <title><![CDATA[[오토폰] CONCORDE MK2 MIX TWIN (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668</link>
             <guid>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668</guid>
-            <pubDate>Fri, 10 Feb 2023 09:10:30 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">260,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675853447296_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1059,7 +1059,7 @@
             <title><![CDATA[[Technics 테크닉스] SL-1200 M7L 턴테이블 (50주년 한정반 화이트) (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324-2325</link>
             <guid>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324-2325</guid>
-            <pubDate>Fri, 10 Feb 2023 09:10:30 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">1,899,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852693040_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1067,7 +1067,7 @@
             <title><![CDATA[[Technics 테크닉스] SL-1200 MK7 턴테이블 (실버) (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324</link>
             <guid>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324</guid>
-            <pubDate>Fri, 10 Feb 2023 09:10:30 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">1,699,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852452876_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1075,7 +1075,7 @@
             <title><![CDATA[[Technics 테크닉스] SL-1210 MK7 턴테이블 (블랙) (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760</link>
             <guid>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760</guid>
-            <pubDate>Fri, 10 Feb 2023 09:10:30 GMT</pubDate>
+            <pubDate>Fri, 10 Feb 2023 09:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">1,699,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852068547_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1086,14 +1086,6 @@
             <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938825786_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983 (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</link>
-            <guid>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</guid>
-            <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레코드 겉비닐 2LP 사이즈 (서울바이닐 ─ etc)]]></title>
@@ -1126,6 +1118,14 @@
             <pubDate>Wed, 16 Nov 2022 17:13:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666602861604_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983 (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</link>
+            <guid>https://www.seoulvinyl.com/product/86a12647-ddd1-46bb-89cb-e9c3bf29bf6e</guid>
+            <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[CD] Kanye West 카니예 웨스트 - Donda (서울바이닐 ─ etc)]]></title>
