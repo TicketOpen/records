@@ -4,9 +4,49 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 03:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 04:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Fri, 10 Feb 2023 04:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 차붐 - Original (Transparent red Colored, 500장 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</link>
+            <guid>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</guid>
+            <pubDate>Wed, 08 Feb 2023 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747589202_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 한영애 - 2집 바라본다 [옐로우 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/cf100563-ddf4-4a91-942d-4aff5dca5b91</link>
+            <guid>https://www.seoulvinyl.com/product/cf100563-ddf4-4a91-942d-4aff5dca5b91</guid>
+            <pubDate>Tue, 07 Feb 2023 06:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747912395_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 장필순 - 베스트 [180g 클리어 라이트그린 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/79116f01-4506-4c66-a593-80ba85d5e8df</link>
+            <guid>https://www.seoulvinyl.com/product/79116f01-4506-4c66-a593-80ba85d5e8df</guid>
+            <pubDate>Tue, 07 Feb 2023 06:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675748347414_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Like a Ship...(Without a Sail) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/e733e97a-8908-4072-b725-3bb68774ccf7</link>
+            <guid>https://www.seoulvinyl.com/product/e733e97a-8908-4072-b725-3bb68774ccf7</guid>
+            <pubDate>Fri, 10 Feb 2023 04:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675999034739_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Childish Gambino 차일디시 감비노 - Kauai (LP)]]></title>
             <link>https://www.seoulvinyl.com/product/51e06ab6-55b3-466c-8b27-0404f4eb0b2a</link>
@@ -80,30 +120,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675917838382_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 차붐 - Original (Transparent red Colored, 500장 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</link>
-            <guid>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</guid>
-            <pubDate>Wed, 08 Feb 2023 06:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747589202_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 장필순 - 베스트 [180g 클리어 라이트그린 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/79116f01-4506-4c66-a593-80ba85d5e8df</link>
-            <guid>https://www.seoulvinyl.com/product/79116f01-4506-4c66-a593-80ba85d5e8df</guid>
-            <pubDate>Tue, 07 Feb 2023 06:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675748347414_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 한영애 - 2집 바라본다 [옐로우 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/cf100563-ddf4-4a91-942d-4aff5dca5b91</link>
-            <guid>https://www.seoulvinyl.com/product/cf100563-ddf4-4a91-942d-4aff5dca5b91</guid>
-            <pubDate>Tue, 07 Feb 2023 06:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747912395_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Stevie Wonder 스티비 원더 - Fulfillingness' First Finale [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</link>
             <guid>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</guid>
@@ -112,28 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675411030360_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Alan Parsons 알란 파슨스 - The Very Best of Live [블루 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/eb8c7a91-94b3-4cf8-97f0-e990157f21fc</link>
-            <guid>https://www.seoulvinyl.com/product/eb8c7a91-94b3-4cf8-97f0-e990157f21fc</guid>
-            <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675410573941_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</link>
             <guid>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</guid>
             <pubDate>Mon, 06 Feb 2023 06:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675662703966_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TITANIC 타이타닉 O.S.T LP]]></title>
-            <link>https://www.seoulvinyl.com/product/2b56647b-f1bc-43b1-bf12-92da516903ad-2315</link>
-            <guid>https://www.seoulvinyl.com/product/2b56647b-f1bc-43b1-bf12-92da516903ad-2315</guid>
-            <pubDate>Sat, 04 Feb 2023 08:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1633851332045_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
