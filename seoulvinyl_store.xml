@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 05:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 06:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941727142_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[빛과 소금 - 2집 [180g LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
+            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
+            <pubDate>Thu, 09 Feb 2023 12:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</link>
             <guid>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</guid>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938825786_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 빛과 소금 - 2집 [180g LP][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
-            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
-            <pubDate>Thu, 09 Feb 2023 12:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
