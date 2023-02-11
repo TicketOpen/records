@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Feb 2023 00:35:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Feb 2023 02:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 07 Feb 2023 06:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675748347414_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 빛과 소금 - 2집 [180g LP][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
-            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
-            <pubDate>Thu, 09 Feb 2023 12:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[판듀 베스트컬렉션 Part.1 [와인 로즈 클리어 컬러 LP]]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Mon, 30 Jan 2023 11:08:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675075836827_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 빛과 소금 - 2집 [180g LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
+            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
+            <pubDate>Thu, 09 Feb 2023 12:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP]]]></title>
