@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 10:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 11:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나미 - 7집 Chameleon [45RPM, 블랙 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</link>
+            <guid>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</guid>
+            <pubDate>Mon, 13 Feb 2023 11:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[오토폰] CONCORDE MK2 CLUB TWIN]]></title>
             <link>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327-2328</link>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938949802_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Book] Yutaka Kimura - JAPANESE CITY POP Disc Collection Revised]]></title>
-            <link>https://www.seoulvinyl.com/product/60bfc4a6-cc35-4685-9416-8335fe3f781b</link>
-            <guid>https://www.seoulvinyl.com/product/60bfc4a6-cc35-4685-9416-8335fe3f781b</guid>
-            <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938825786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오토폰] CONCORDE MK2 DJ TWIN]]></title>

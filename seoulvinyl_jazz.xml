@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Feb 2023 10:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 11:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Thu, 15 Dec 2022 10:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095683497_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker 쳇 베이커 - As Time Goes By (1,000장 한정 Crystal Colored, 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</link>
+            <guid>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</guid>
+            <pubDate>Thu, 15 Dec 2022 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095001664_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Gerry Mulligan 게리 멀러건 - Night Lights (LP)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 15 Dec 2022 10:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">24,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671096191208_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker 쳇 베이커 - As Time Goes By (1,000장 한정 Crystal Colored, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</link>
-            <guid>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</guid>
-            <pubDate>Thu, 15 Dec 2022 09:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095001664_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Marie Laforet (마리 라포레) - Best Of The Best [500장 한전방, 투명 그린-청록 컬러 LP]]]></title>
