@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 05:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 06:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Chet Baker Trio 쳇 베이커 트리오 - MR. B [Red Colored LP, 1,000장 넘버링 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</link>
+            <guid>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</guid>
+            <pubDate>Tue, 14 Feb 2023 06:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676354875557_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 스트릿 맨 파이터 : 스맨파 (SMF) [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</link>
+            <guid>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</guid>
+            <pubDate>Tue, 14 Feb 2023 06:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나미 - 7집 Chameleon [45RPM, 블랙 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 09 Feb 2023 12:14:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941727142_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금 - 2집 [180g LP][한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
-            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
-            <pubDate>Thu, 09 Feb 2023 12:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</link>
-            <guid>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</guid>
-            <pubDate>Thu, 09 Feb 2023 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938949802_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오토폰] CONCORDE MK2 DJ TWIN (서울바이닐 ─ 스토어)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714254608_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Chet Baker Trio 쳇 베이커 트리오 - MR. B [Red Colored LP, 1,000장 넘버링 한정반] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</link>
+            <guid>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</guid>
+            <pubDate>Tue, 14 Feb 2023 06:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676354875557_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] FRANK SINATRA 프랭크 시나트라 – COLLECTED (2LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/ff2d23fe-95d6-4d4b-8592-d8ff86d64695</link>
             <guid>https://www.seoulvinyl.com/product/ff2d23fe-95d6-4d4b-8592-d8ff86d64695</guid>
@@ -638,14 +646,6 @@
             <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657276325542_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jazz Brazil [180g LP] [게이트폴드 슬리브] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</link>
-            <guid>https://www.seoulvinyl.com/product/64304816-2691-4708-a44f-fc0dc6869ec6</guid>
-            <pubDate>Wed, 16 Nov 2022 17:13:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1648288730355_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Avril Lavigne 에이브릴 라빈 - The Best Damn Thing [180g LP] (서울바이닐 ─ ROCK & POP)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673522517778_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 스트릿 맨 파이터 : 스맨파 (SMF) [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</link>
+            <guid>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</guid>
+            <pubDate>Tue, 14 Feb 2023 06:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[나미 - 7집 Chameleon [45RPM, 블랙 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</link>
             <guid>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</guid>
@@ -894,14 +902,6 @@
             <pubDate>Mon, 06 Feb 2023 06:12:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675662703966_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
-            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
-            <pubDate>Wed, 25 Jan 2023 10:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ JAPANESE)]]></title>

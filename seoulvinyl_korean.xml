@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Feb 2023 05:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Feb 2023 06:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 스트릿 맨 파이터 : 스맨파 (SMF) [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</link>
+            <guid>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</guid>
+            <pubDate>Tue, 14 Feb 2023 06:12:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[나미 - 7집 Chameleon [45RPM, 블랙 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 06 Feb 2023 06:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675662703966_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CHEEZE 치즈 - Blank (White Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</link>
-            <guid>https://www.seoulvinyl.com/product/4d189a58-57cb-470a-be1a-d308c15bf151</guid>
-            <pubDate>Wed, 25 Jan 2023 10:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671687815891_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
