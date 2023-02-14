@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187583</id>
-    <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
-    <updated>2023-02-14T19:07:51.205Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 Feb 2023 20:10:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Like a Ship...(Without a Sail) LP]]></title>
+            <link>https://www.seoulvinyl.com/product/e733e97a-8908-4072-b725-3bb68774ccf7</link>
+            <guid>https://www.seoulvinyl.com/product/e733e97a-8908-4072-b725-3bb68774ccf7</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675999034739_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Childish Gambino 차일디시 감비노 - Kauai (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/51e06ab6-55b3-466c-8b27-0404f4eb0b2a</link>
+            <guid>https://www.seoulvinyl.com/product/51e06ab6-55b3-466c-8b27-0404f4eb0b2a</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675998621474_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nujabes 누자베스 - Hydeout Productions: First Collection (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1085-2331</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1085-2331</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1618225633127_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Wonder 스티비 원더 - Fulfillingness' First Finale [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</link>
+            <guid>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675411030360_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
+            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676283976450_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince 프린스 - Hits 2 (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53-2263</link>
+            <guid>https://www.seoulvinyl.com/product/c2b51252-f839-4fc8-ac88-6abf9449be53-2263</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666066078114_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince 프린스 - Hits 1 (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/880e0994-dcf9-4268-baff-f5e1e38b2cf2-2262</link>
+            <guid>https://www.seoulvinyl.com/product/880e0994-dcf9-4268-baff-f5e1e38b2cf2-2262</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666065938443_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Ltd, Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</link>
+            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584684118_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney Houston (Black Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13</link>
+            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584609260_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney (Ltd, Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/2a836c7e-eef9-4726-b4c9-2d6b2d18a899-2258</link>
+            <guid>https://www.seoulvinyl.com/product/2a836c7e-eef9-4726-b4c9-2d6b2d18a899-2258</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584856891_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Whitney Houston 휘트니 휴스턴 - Whitney (Black Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/2a836c7e-eef9-4726-b4c9-2d6b2d18a899</link>
+            <guid>https://www.seoulvinyl.com/product/2a836c7e-eef9-4726-b4c9-2d6b2d18a899</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584792318_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 5집 Mr. Morale & The Big Steppers [2LP, Black vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed-2247</link>
+            <guid>https://www.seoulvinyl.com/product/cd0d0548-7ae2-4536-9f7c-be5c6a6668ed-2247</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658819866644_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kanye West 카니예 웨스트 lp - 808s & Heartbreak deluxe collectors set vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-323-1870-2246</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-323-1870-2246</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
+            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</link>
+            <guid>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673431848453_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Remy Shand - Way I Feel (10inch Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/40f5c671-1502-41c5-ac35-87020e69b854</link>
+            <guid>https://www.seoulvinyl.com/product/40f5c671-1502-41c5-ac35-87020e69b854</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1672299294704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

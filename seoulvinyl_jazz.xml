@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187585</id>
-    <title>서울바이닐 ─ JAZZ</title>
-    <updated>2023-02-14T19:07:51.207Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ JAZZ</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 14 Feb 2023 20:10:52 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Chet Baker Trio 쳇 베이커 트리오 - MR. B [Red Colored LP, 1,000장 넘버링 한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</link>
+            <guid>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676354875557_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] FRANK SINATRA 프랭크 시나트라 – COLLECTED (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/ff2d23fe-95d6-4d4b-8592-d8ff86d64695</link>
+            <guid>https://www.seoulvinyl.com/product/ff2d23fe-95d6-4d4b-8592-d8ff86d64695</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674886746504_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-875-1364-2274</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-875-1364-2274</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637588232815_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
+            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker 쳇 베이커 - Chet Baker Sings (RSD Exclusive)(Limited Deluxe Box Set)(180g LP+CD)]]></title>
+            <link>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</link>
+            <guid>https://www.seoulvinyl.com/product/f9c09331-99d3-4f41-9981-3393890137b7</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095683497_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker 쳇 베이커 - As Time Goes By (1,000장 한정 Crystal Colored, 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</link>
+            <guid>https://www.seoulvinyl.com/product/8dd97a9d-e571-4ccd-8bdd-86b492c124db</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671095001664_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Gerry Mulligan 게리 멀러건 - Night Lights (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/dc651e67-9425-4bab-b2ed-3128e8c8ac3d</link>
+            <guid>https://www.seoulvinyl.com/product/dc651e67-9425-4bab-b2ed-3128e8c8ac3d</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667550645948_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CHET BAKER 쳇베이커 - Sings Again (Aquamarine Colored LP, Ltd)]]></title>
+            <link>https://www.seoulvinyl.com/product/c8e80dea-4017-4bf7-b2ef-c6861a60f5e1</link>
+            <guid>https://www.seoulvinyl.com/product/c8e80dea-4017-4bf7-b2ef-c6861a60f5e1</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666001533237_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Norah Jones 노라 존스 - 크리스마스 앨범: I Dream of Christmas (Deluxe Edition 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b52459a3-55df-4ffb-b9dd-f806923801f3</link>
+            <guid>https://www.seoulvinyl.com/product/b52459a3-55df-4ffb-b9dd-f806923801f3</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666939535064_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스탄게츠 Stan Getz & Joao Gilberto - Getz / Gilberto (Verve)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-693-2048</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-693-2048</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1597487977472_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Howlin' Wolf - Moanin' In The Moonlight [180g 오디오파일 LP][레드 컬러 한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</link>
+            <guid>https://www.seoulvinyl.com/product/7caed040-29e2-4ded-abc2-90680c5cbad0</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649402912704_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</link>
+            <guid>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237618963_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker 쳇베이커 - sings (yellow colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</link>
+            <guid>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">24,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671096191208_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Marie Laforet (마리 라포레) - Best Of The Best [500장 한전방, 투명 그린-청록 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/174719dc-32b6-4c87-9d0c-d828859432e1</link>
+            <guid>https://www.seoulvinyl.com/product/174719dc-32b6-4c87-9d0c-d828859432e1</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667207342212_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] George Benson (조지 벤슨) - The Other Side Of Abbey Road [투명 화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1779a133-eb3d-4c7d-a3c4-a544d522bbf2</link>
+            <guid>https://www.seoulvinyl.com/product/1779a133-eb3d-4c7d-a3c4-a544d522bbf2</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667207074192_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[냇 킹 콜 베스트 모음집 (Nat King Cole Greatest Hits) [블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</link>
+            <guid>https://www.seoulvinyl.com/product/6a63eb8a-709d-4fec-920e-075cba84e160</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657276325542_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
