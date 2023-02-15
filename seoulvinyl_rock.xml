@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Feb 2023 02:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Feb 2023 03:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Charlie Puth (찰리 푸스) - 2집 Voicenotes [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-743-2350</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-743-2350</guid>
+            <pubDate>Wed, 15 Feb 2023 03:15:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1601285879115_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Britney Spears 브리트니 스피어스 - In The Zone (Colored LP, 5월 초 발매)]]></title>
             <link>https://www.seoulvinyl.com/product/84f142c0-8831-4ab6-90a8-be65d3195805</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676015672929_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[L'imperatrice 랭페라트리스 - Tako Tsubo (Gatefold 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/2bfb6a95-d64c-45ce-8364-d9dbf2aa9d2b-2265</link>
-            <guid>https://www.seoulvinyl.com/product/2bfb6a95-d64c-45ce-8364-d9dbf2aa9d2b-2265</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1662625232080_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Maneskin 모네스킨 - RUSH! (Colored Vinyl)]]></title>
