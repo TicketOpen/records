@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 03:14:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 04:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 김건모 - 6집 Growing [180g 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9c6ff465-6d72-4681-8eb3-10dfd3f45094</link>
+            <guid>https://www.seoulvinyl.com/product/9c6ff465-6d72-4681-8eb3-10dfd3f45094</guid>
+            <pubDate>Thu, 16 Feb 2023 04:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518162606_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김건모 - 7집 #007 AnotherDays… [180g 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/62a03961-e544-4cc0-a2d1-435524d3f0ca</link>
+            <guid>https://www.seoulvinyl.com/product/62a03961-e544-4cc0-a2d1-435524d3f0ca</guid>
+            <pubDate>Thu, 16 Feb 2023 04:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518310376_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김건모 - 8집 Hestory [180g 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ac9de4fb-ec09-4f71-a1d5-03b351330e37</link>
+            <guid>https://www.seoulvinyl.com/product/ac9de4fb-ec09-4f71-a1d5-03b351330e37</guid>
+            <pubDate>Thu, 16 Feb 2023 04:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518379476_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈디시티 (Windy city) - Countryman’s Vibration [브라운 & 오렌지 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f573792b-e830-429f-80f0-1aa4442e31b6</link>
@@ -102,30 +126,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">450,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675853566195_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[오토폰] CONCORDE MK2 MIX TWIN]]></title>
-            <link>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668</link>
-            <guid>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">260,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675853447296_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Technics 테크닉스] SL-1200 M7L 턴테이블 (50주년 한정반 화이트)]]></title>
-            <link>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324-2325</link>
-            <guid>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324-2325</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">1,899,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852693040_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Technics 테크닉스] SL-1200 MK7 턴테이블 (실버)]]></title>
-            <link>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324</link>
-            <guid>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760-2324</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">1,699,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852452876_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[오토폰] CONCORDE MK2 DJ TWIN]]></title>
