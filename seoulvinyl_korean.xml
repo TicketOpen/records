@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 12:16:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 13:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안녕바다 - 701 [180g LP 투명 컬러] [게이트폴드 커버]]]></title>
+            <link>https://www.seoulvinyl.com/product/ab70e18e-f2e4-4b8b-884d-028f15cdb335</link>
+            <guid>https://www.seoulvinyl.com/product/ab70e18e-f2e4-4b8b-884d-028f15cdb335</guid>
+            <pubDate>Thu, 16 Feb 2023 13:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676549952756_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛과 소금 - 4집 [180 LP][한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</link>
@@ -110,14 +118,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675220423854_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
-            <guid>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</guid>
-            <pubDate>Thu, 16 Feb 2023 10:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674626383976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 차붐 - Original (Transparent red Colored, 500장 한정반)]]></title>
