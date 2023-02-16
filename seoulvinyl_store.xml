@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 08:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Thu, 16 Feb 2023 04:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518379476_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈디시티 (Windy city) - Countryman’s Vibration [브라운 & 오렌지 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f573792b-e830-429f-80f0-1aa4442e31b6</link>
-            <guid>https://www.seoulvinyl.com/product/f573792b-e830-429f-80f0-1aa4442e31b6</guid>
-            <pubDate>Wed, 15 Feb 2023 09:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676445155585_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Charlie Puth (찰리 푸스) - 2집 Voicenotes [LP]]]></title>
@@ -128,12 +120,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[나미 - 7집 Chameleon [45RPM, 블랙 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</link>
-            <guid>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] honne 혼네 lp - love me love me not (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/loveme-2359</link>
+            <guid>https://www.seoulvinyl.com/product/loveme-2359</guid>
+            <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] honne 혼네 - warm on a cold night (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/warm-2358</link>
+            <guid>https://www.seoulvinyl.com/product/warm-2358</guid>
+            <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

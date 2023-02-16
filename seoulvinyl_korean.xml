@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 08:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 10:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Thu, 16 Feb 2023 04:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518379476_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈디시티 (Windy city) - Countryman’s Vibration [브라운 & 오렌지 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f573792b-e830-429f-80f0-1aa4442e31b6</link>
-            <guid>https://www.seoulvinyl.com/product/f573792b-e830-429f-80f0-1aa4442e31b6</guid>
-            <pubDate>Wed, 15 Feb 2023 09:10:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676445155585_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 스트릿 맨 파이터 : 스맨파 (SMF) [투명 컬러 LP]]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675220423854_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
+            <guid>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</guid>
+            <pubDate>Thu, 16 Feb 2023 10:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674626383976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 차붐 - Original (Transparent red Colored, 500장 한정반)]]></title>
