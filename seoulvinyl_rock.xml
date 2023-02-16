@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Feb 2023 07:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Feb 2023 08:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Pink Floyd 핑크 플로이드 - Dark Side of the Moon: Live At Wembley 1974 (Gatefold LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</link>
+            <guid>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</guid>
+            <pubDate>Thu, 16 Feb 2023 08:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676533577763_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Charlie Puth (찰리 푸스) - 2집 Voicenotes [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-743-2350</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674803031430_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Kylie Minogue 카일리 미노그 - Fever [180g 화이트 컬러 LP][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/9837b920-571b-48f1-b7f9-4acf328bf68e</link>
-            <guid>https://www.seoulvinyl.com/product/9837b920-571b-48f1-b7f9-4acf328bf68e</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676015672929_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Maneskin 모네스킨 - RUSH! (Colored Vinyl)]]></title>
