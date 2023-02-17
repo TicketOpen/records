@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 08:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 09:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차붐 - Original (Transparent red Colored, 500장 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</link>
+            <guid>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</guid>
+            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747589202_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 한영애 - 2집 바라본다 [옐로우 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/cf100563-ddf4-4a91-942d-4aff5dca5b91</link>
             <guid>https://www.seoulvinyl.com/product/cf100563-ddf4-4a91-942d-4aff5dca5b91</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675220423854_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 차붐 - Original (Transparent red Colored, 500장 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</link>
-            <guid>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747589202_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP]]]></title>
