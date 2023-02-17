@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 03:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 04:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675220423854_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 일본 애니메이션 'BLUE GIANT' OST (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/88ef22ba-ffb8-4d2f-84ca-2e73082e99d9</link>
-            <guid>https://www.seoulvinyl.com/product/88ef22ba-ffb8-4d2f-84ca-2e73082e99d9</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675149782374_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[냉정과 열정 사이 OST [블루 컬러 LP, 국내개봉 20주년 기념 최초발매]]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674713961570_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 일본 애니메이션 'BLUE GIANT' OST (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/88ef22ba-ffb8-4d2f-84ca-2e73082e99d9</link>
+            <guid>https://www.seoulvinyl.com/product/88ef22ba-ffb8-4d2f-84ca-2e73082e99d9</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676604935475_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 바람이 분다 사운드트랙 [LIMITED COLOR 2LP EDITION]]]></title>
