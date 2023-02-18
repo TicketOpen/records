@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 17:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 18:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -827,7 +827,7 @@
             <title><![CDATA[[예약판매] 김건모 - 9집 Kimgunmo. 9 [180g 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b43fe0cc-3804-4d21-984d-b54f91fd7c22</link>
             <guid>https://www.seoulvinyl.com/product/b43fe0cc-3804-4d21-984d-b54f91fd7c22</guid>
-            <pubDate>Sat, 18 Feb 2023 17:11:23 GMT</pubDate>
+            <pubDate>Sat, 18 Feb 2023 17:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518453834_1000.jpg" length="0" type="image/jpg"/>
         </item>
