@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 16:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 17:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,12 +112,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518379476_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charlie Puth (찰리 푸스) - 2집 Voicenotes [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-743-2350</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-743-2350</guid>
-            <pubDate>Wed, 15 Feb 2023 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1601285879115_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] 김건모 - 9집 Kimgunmo. 9 [180g 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b43fe0cc-3804-4d21-984d-b54f91fd7c22</link>
+            <guid>https://www.seoulvinyl.com/product/b43fe0cc-3804-4d21-984d-b54f91fd7c22</guid>
+            <pubDate>Sat, 18 Feb 2023 17:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518453834_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] honne 혼네 lp - love me love me not (LP) (서울바이닐 ─ 스토어)]]></title>
@@ -824,6 +824,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518379476_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 김건모 - 9집 Kimgunmo. 9 [180g 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/b43fe0cc-3804-4d21-984d-b54f91fd7c22</link>
+            <guid>https://www.seoulvinyl.com/product/b43fe0cc-3804-4d21-984d-b54f91fd7c22</guid>
+            <pubDate>Sat, 18 Feb 2023 17:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518453834_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 스트릿 맨 파이터 : 스맨파 (SMF) [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</link>
             <guid>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 17 Feb 2023 10:09:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676623292815_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리쌍 - 정규 2집 재, 계발 (再啓發) [180g LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</link>
-            <guid>https://www.seoulvinyl.com/product/e5a4faf4-8527-42a5-815e-c9e945ff605e</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675662703966_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ JAPANESE)]]></title>
