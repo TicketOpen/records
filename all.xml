@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 03:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 04:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,6 +72,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676627639038_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] honne 혼네 - warm on a cold night (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/warm-2358</link>
+            <guid>https://www.seoulvinyl.com/product/warm-2358</guid>
+            <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빛과 소금 - 4집 [180 LP][한정반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</link>
             <guid>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</guid>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] honne 혼네 - warm on a cold night (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/warm-2358</link>
-            <guid>https://www.seoulvinyl.com/product/warm-2358</guid>
-            <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657276325542_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] honne 혼네 - warm on a cold night (LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/warm-2358</link>
+            <guid>https://www.seoulvinyl.com/product/warm-2358</guid>
+            <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Pink Floyd 핑크 플로이드 - Dark Side of the Moon: Live At Wembley 1974 (Gatefold LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</link>
             <guid>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</guid>
@@ -750,14 +758,6 @@
             <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] honne 혼네 - warm on a cold night (LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/warm-2358</link>
-            <guid>https://www.seoulvinyl.com/product/warm-2358</guid>
-            <pubDate>Thu, 16 Feb 2023 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Avril Lavigne 에이브릴 라빈 - Let Go (20th Anniversary Edition)(2LP) (서울바이닐 ─ ROCK & POP)]]></title>
