@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Feb 2023 17:08:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Feb 2023 18:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -936,14 +936,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738388367_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 - 12 [2LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</link>
-            <guid>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675068695059_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - OCEAN SIDE (Transparent Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2296</link>
             <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2296</guid>
@@ -1006,6 +998,14 @@
             <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 - 12 [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</link>
+            <guid>https://www.seoulvinyl.com/product/6fefe9fd-b23b-4f69-8f54-cd4bda9dd9b1</guid>
+            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675068695059_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ADVENTURE (Transparent Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
