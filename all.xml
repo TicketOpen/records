@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 13:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 14:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668228560332_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 데이식스 (DAY6) 1집 - Sunrise (Green Colored) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/627295c7-d06b-4f29-9cf4-502d81f582f2</link>
+            <guid>https://www.seoulvinyl.com/product/627295c7-d06b-4f29-9cf4-502d81f582f2</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748858537_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 데이식스 (DAY6) 1집 - Sunrise (Orange Colored) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/59d02128-9a4d-488f-8f36-2443ec1a1fcb</link>
             <guid>https://www.seoulvinyl.com/product/59d02128-9a4d-488f-8f36-2443ec1a1fcb</guid>
@@ -214,14 +222,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1641201323694_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 데이식스 (DAY6) 1집 - Sunrise (Green Colored) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/627295c7-d06b-4f29-9cf4-502d81f582f2</link>
-            <guid>https://www.seoulvinyl.com/product/627295c7-d06b-4f29-9cf4-502d81f582f2</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748858537_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
