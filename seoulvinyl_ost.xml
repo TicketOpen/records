@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Feb 2023 03:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Feb 2023 04:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 영화 '타이타닉' O.S.T [Silver & Black Marbled Colored 2LP 10,000장 한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530-2361</link>
+            <guid>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530-2361</guid>
+            <pubDate>Fri, 17 Feb 2023 06:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676627639038_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[TITANIC 타이타닉 O.S.T LP]]></title>
             <link>https://www.seoulvinyl.com/product/2b56647b-f1bc-43b1-bf12-92da516903ad-2315</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674713961570_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 영화 '타이타닉' O.S.T [Silver & Black Marbled Colored 2LP 10,000장 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530-2361</link>
-            <guid>https://www.seoulvinyl.com/product/4a14c335-871e-45f0-b064-14162e999530-2361</guid>
-            <pubDate>Fri, 17 Feb 2023 06:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676627639038_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 일본 애니메이션 'BLUE GIANT' OST (2LP)]]></title>
