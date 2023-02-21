@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ etc</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Feb 2023 10:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Feb 2023 11:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666602861604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[중고 / 비디오 테이프] Ray 레이 (상/하)]]></title>
+            <link>https://www.seoulvinyl.com/product/11199dd7-198b-4a61-adfd-8d25753c675a</link>
+            <guid>https://www.seoulvinyl.com/product/11199dd7-198b-4a61-adfd-8d25753c675a</guid>
+            <pubDate>Tue, 21 Feb 2023 11:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636443096219_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[오토폰] CONCORDE MK2 DJ TWIN]]></title>
             <link>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327</link>
             <guid>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327</guid>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[CD] Kanye West 카니예 웨스트 - Donda]]></title>
-            <link>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</link>
-            <guid>https://www.seoulvinyl.com/product/62701217-94e4-4209-ab81-362e65a2a5c1</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645243761702_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용)]]></title>
