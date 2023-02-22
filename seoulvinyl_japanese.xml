@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Feb 2023 08:13:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Feb 2023 09:10:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Nulbarich - MAGIC WAYS(7")]]></title>
+            <link>https://www.seoulvinyl.com/product/fbc41e56-8c87-46a0-b3ec-341b322c2719</link>
+            <guid>https://www.seoulvinyl.com/product/fbc41e56-8c87-46a0-b3ec-341b322c2719</guid>
+            <pubDate>Wed, 22 Feb 2023 09:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677054773826_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[추가 예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278-2372</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717088382_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 반딧불이의 묘 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION]]]></title>
-            <link>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2292</link>
-            <guid>https://www.seoulvinyl.com/product/542818b4-d630-4585-8490-e9d11368d037-2288-2292</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715552192_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] Toshikazu kanazawa & Naoki Fukuda - AOR Light Mellow Premium 02 Golden Era 1976-1983]]></title>
