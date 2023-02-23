@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Feb 2023 10:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Feb 2023 11:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 소금 - 4집 [180 LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</link>
+            <guid>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</guid>
+            <pubDate>Thu, 16 Feb 2023 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676533773330_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 04 [180g 베이지 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/0731c6ee-b163-4925-832c-a8aff5a64ee5</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 16 Feb 2023 13:19:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676549952756_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빛과 소금 - 4집 [180 LP][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</link>
-            <guid>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</guid>
-            <pubDate>Thu, 16 Feb 2023 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676533773330_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김건모 - 6집 Growing [180g 컬러 2LP]]]></title>
@@ -132,7 +132,7 @@
             <link>https://www.seoulvinyl.com/product/33854af2-5d45-4b55-9fa7-0b507b6d0e76</link>
             <guid>https://www.seoulvinyl.com/product/33854af2-5d45-4b55-9fa7-0b507b6d0e76</guid>
             <pubDate>Fri, 17 Feb 2023 10:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676623292815_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
