@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Feb 2023 02:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Feb 2023 03:15:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Wed, 22 Feb 2023 08:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
-            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
-            <pubDate>Wed, 22 Feb 2023 08:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[추가 예약판매] 일본 애니메이션 'BLUE GIANT' OST (2LP)]]></title>
@@ -110,6 +102,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
+            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
+            <pubDate>Wed, 22 Feb 2023 08:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 바람이 분다 사운드트랙 [LIMITED COLOR 2LP EDITION]]]></title>
