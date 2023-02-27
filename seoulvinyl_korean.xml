@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Feb 2023 18:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Feb 2023 19:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675748347414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[빛과 소금 - 2집 [180g LP][한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
-            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 나얼 - Soul Pop City [180g 45RPM LP][Limited Edition]]]></title>
             <link>https://www.seoulvinyl.com/product/33854af2-5d45-4b55-9fa7-0b507b6d0e76</link>
             <guid>https://www.seoulvinyl.com/product/33854af2-5d45-4b55-9fa7-0b507b6d0e76</guid>
             <pubDate>Fri, 17 Feb 2023 10:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676623292815_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[빛과 소금 - 2집 [180g LP][한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</link>
+            <guid>https://www.seoulvinyl.com/product/e81bca04-f89b-4a80-bedc-28a30c13b91b</guid>
+            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941427678_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
