@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 02:18:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 03:15:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -272,14 +272,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
-            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676283976450_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - Whitney Houston (Ltd, PEACH COLOR LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</link>
             <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</guid>
@@ -310,6 +302,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584792318_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[자켓터짐 할인] Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP)의 사본 (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073-2377</link>
+            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073-2377</guid>
+            <pubDate>Tue, 28 Feb 2023 03:14:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676283976450_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Like a Ship...(Without a Sail) LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -376,12 +376,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1583760044959_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Calvin Harris 켈빈 해리스 - Funk Wav Bounces Vol.1 (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</link>
-            <guid>https://www.seoulvinyl.com/product/249f090b-ae4c-4271-b553-d2fd071f9344</guid>
+            <title><![CDATA[Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</link>
+            <guid>https://www.seoulvinyl.com/product/709bac7b-4024-4079-8608-cdf9887dd073</guid>
             <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671097329045_1000.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676283976450_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
