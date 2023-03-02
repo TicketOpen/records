@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 04:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 05:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 김광석 - 다시부르기1 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/87c6e962-21e8-4724-93a3-76383c4b0344</link>
+            <guid>https://www.seoulvinyl.com/product/87c6e962-21e8-4724-93a3-76383c4b0344</guid>
+            <pubDate>Thu, 02 Mar 2023 05:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677733629381_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Green Colored Cassette Tape)]]></title>
             <link>https://www.seoulvinyl.com/product/627295c7-d06b-4f29-9cf4-502d81f582f2-2378</link>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
-            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
-            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[추가 예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION]]]></title>
