@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 10:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 11:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
+            <guid>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</guid>
+            <pubDate>Thu, 02 Mar 2023 11:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 다시부르기1 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/87c6e962-21e8-4724-93a3-76383c4b0344</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추가 예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</link>
-            <guid>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</guid>
-            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657276325542_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
+            <guid>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</guid>
+            <pubDate>Thu, 02 Mar 2023 11:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Random Access Memories (10th Anniversary Edition) [3LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</link>
             <guid>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</guid>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[honne 혼네 lp - love me love me not (LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/loveme-2359-2366</link>
-            <guid>https://www.seoulvinyl.com/product/loveme-2359-2366</guid>
-            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ ROCK & POP)]]></title>
@@ -768,12 +768,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675410573941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DUA LIPA 두아 리파 - FUTURE NOSTALGIA LP (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/6c19db40-caee-482d-951d-5fc22fdf4fb6-2313</link>
-            <guid>https://www.seoulvinyl.com/product/6c19db40-caee-482d-951d-5fc22fdf4fb6-2313</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629889949745_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[honne 혼네 lp - love me love me not (LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/loveme-2359-2366</link>
+            <guid>https://www.seoulvinyl.com/product/loveme-2359-2366</guid>
+            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 다시부르기1 [LP] (서울바이닐 ─ KOREAN)]]></title>
@@ -845,7 +845,7 @@
             <guid>https://www.seoulvinyl.com/product/b43fe0cc-3804-4d21-984d-b54f91fd7c22</guid>
             <pubDate>Sat, 18 Feb 2023 17:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676518453834_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677754172069_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스트릿 맨 파이터 : 스맨파 (SMF) [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>

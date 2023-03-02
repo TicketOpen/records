@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 10:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 11:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
+            <guid>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</guid>
+            <pubDate>Thu, 02 Mar 2023 11:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Random Access Memories (10th Anniversary Edition) [3LP]]]></title>
             <link>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</link>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 20 Feb 2023 09:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[honne 혼네 lp - love me love me not (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/loveme-2359-2366</link>
-            <guid>https://www.seoulvinyl.com/product/loveme-2359-2366</guid>
-            <pubDate>Mon, 20 Feb 2023 09:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color)]]></title>
@@ -128,12 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675410573941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DUA LIPA 두아 리파 - FUTURE NOSTALGIA LP]]></title>
-            <link>https://www.seoulvinyl.com/product/6c19db40-caee-482d-951d-5fc22fdf4fb6-2313</link>
-            <guid>https://www.seoulvinyl.com/product/6c19db40-caee-482d-951d-5fc22fdf4fb6-2313</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629889949745_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[honne 혼네 lp - love me love me not (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/loveme-2359-2366</link>
+            <guid>https://www.seoulvinyl.com/product/loveme-2359-2366</guid>
+            <pubDate>Mon, 20 Feb 2023 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
