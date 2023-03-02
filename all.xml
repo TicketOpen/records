@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Mar 2023 11:09:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Mar 2023 12:16:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,14 +408,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
-            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
-            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[추가 예약판매] 일본 애니메이션 'BLUE GIANT' OST (2LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/88ef22ba-ffb8-4d2f-84ca-2e73082e99d9-2368</link>
             <guid>https://www.seoulvinyl.com/product/88ef22ba-ffb8-4d2f-84ca-2e73082e99d9-2368</guid>
@@ -486,6 +478,14 @@
             <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
+            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
+            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 반딧불이의 묘 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[예약판매] Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
             <guid>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</guid>
-            <pubDate>Thu, 02 Mar 2023 11:08:56 GMT</pubDate>
+            <pubDate>Thu, 02 Mar 2023 11:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
         </item>
@@ -936,14 +936,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
-            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
-            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</link>
             <guid>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</guid>
@@ -990,6 +982,14 @@
             <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
+            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
+            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] Yutaka Kimura - JAPANESE CITY POP Disc Collection Revised (서울바이닐 ─ JAPANESE)]]></title>
