@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 11:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 12:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (5LP, 4CD, 3DVD Super Deluxe Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</link>
+            <guid>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</guid>
+            <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">220,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842523267_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (4LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</link>
+            <guid>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</guid>
+            <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Yurie Kokubu - Relief 72 Hours (Clear neon pink vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/853e4a91-00d9-4f33-88f2-6530a488b8fc</link>
@@ -110,22 +126,6 @@
             <pubDate>Thu, 23 Feb 2023 11:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1601285879115_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 04 [180g 베이지 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/0731c6ee-b163-4925-832c-a8aff5a64ee5</link>
-            <guid>https://www.seoulvinyl.com/product/0731c6ee-b163-4925-832c-a8aff5a64ee5</guid>
-            <pubDate>Thu, 23 Feb 2023 05:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677127752455_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Nulbarich - MAGIC WAYS(7inch)]]></title>
-            <link>https://www.seoulvinyl.com/product/fbc41e56-8c87-46a0-b3ec-341b322c2719</link>
-            <guid>https://www.seoulvinyl.com/product/fbc41e56-8c87-46a0-b3ec-341b322c2719</guid>
-            <pubDate>Wed, 22 Feb 2023 09:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677054773826_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Green Colored Cassette Tape)]]></title>

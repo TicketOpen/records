@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 11:08:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 12:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (5LP, 4CD, 3DVD Super Deluxe Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</link>
+            <guid>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</guid>
+            <pubDate>Fri, 03 Mar 2023 12:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">220,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842523267_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (4LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</link>
+            <guid>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</guid>
+            <pubDate>Fri, 03 Mar 2023 12:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
@@ -110,22 +126,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676355025204_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Avril Lavigne 에이브릴 라빈 - The Best Damn Thing [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/52d988e4-dccd-4bb8-a77a-488201d3c424</link>
-            <guid>https://www.seoulvinyl.com/product/52d988e4-dccd-4bb8-a77a-488201d3c424</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675941727142_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alan Parsons 알란 파슨스 - The Very Best of Live [블루 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/eb8c7a91-94b3-4cf8-97f0-e990157f21fc</link>
-            <guid>https://www.seoulvinyl.com/product/eb8c7a91-94b3-4cf8-97f0-e990157f21fc</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675410573941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[honne 혼네 lp - love me love me not (LP)]]></title>
