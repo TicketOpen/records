@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 12:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 13:18:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,7 +651,7 @@
             <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (5LP, 4CD, 3DVD Super Deluxe Edition) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</link>
             <guid>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</guid>
-            <pubDate>Fri, 03 Mar 2023 12:15:09 GMT</pubDate>
+            <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">220,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842523267_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -659,7 +659,7 @@
             <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (4LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</link>
             <guid>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</guid>
-            <pubDate>Fri, 03 Mar 2023 12:15:09 GMT</pubDate>
+            <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
         </item>
