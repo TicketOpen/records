@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 19:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 20:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,14 +216,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200626/dc6258765054928ba58d4652f44b6a3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Feeling of You 그립톡 싱어송라이터 윤새 (Yunsae) 싱글앨범 발매 기념 굿즈]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1433&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1433&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[8,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/20200527/fff98e19df095644e65e1d732c830120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ohelen&Choisol 오헬렌&최솔 EP ’Oh’]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1381&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1381&amp;cate_no=60&amp;display_group=1</guid>
@@ -390,6 +382,14 @@
             <pubDate>Fri, 03 Mar 2023 19:08:57 GMT</pubDate>
             <content:encoded><![CDATA[17,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/67b397bd5a4260a3be5cef62f88cadd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[{ 재입고 } 김제형 정규 앨범 ‘띄 움’ CD/음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1957&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1957&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Fri, 03 Mar 2023 20:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[19,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/17605194ca13f83b71aec321b960bb41.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
