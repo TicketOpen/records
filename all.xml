@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Mar 2023 10:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Mar 2023 11:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Yurie Kokubu - Relief 72 Hours (Clear neon pink vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/853e4a91-00d9-4f33-88f2-6530a488b8fc</link>
+            <guid>https://www.seoulvinyl.com/product/853e4a91-00d9-4f33-88f2-6530a488b8fc</guid>
+            <pubDate>Fri, 03 Mar 2023 11:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677839532010_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Keisuke Kuwata 쿠와타 케이스케 - itumo dokokade (4LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a6dff5c4-56ac-456e-b79a-fc65f3a45423</link>
+            <guid>https://www.seoulvinyl.com/product/a6dff5c4-56ac-456e-b79a-fc65f3a45423</guid>
+            <pubDate>Fri, 03 Mar 2023 11:06:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677838899535_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
@@ -110,22 +126,6 @@
             <pubDate>Wed, 22 Feb 2023 09:09:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677054773826_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추가 예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-831-2278-2372</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-831-2278-2372</guid>
-            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606796801709_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추가 예약판매] Hisaishi Joe 히사이시 조 - Spirited Away 센과 치히로의 행방불명 SOUND TRACK LP (Ltd, Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-830-2280-2371</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-830-2280-2371</guid>
-            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Green Colored Cassette Tape) (서울바이닐 ─ 스토어)]]></title>
@@ -904,6 +904,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676623292815_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Yurie Kokubu - Relief 72 Hours (Clear neon pink vinyl) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/853e4a91-00d9-4f33-88f2-6530a488b8fc</link>
+            <guid>https://www.seoulvinyl.com/product/853e4a91-00d9-4f33-88f2-6530a488b8fc</guid>
+            <pubDate>Fri, 03 Mar 2023 11:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677839532010_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Keisuke Kuwata 쿠와타 케이스케 - itumo dokokade (4LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/a6dff5c4-56ac-456e-b79a-fc65f3a45423</link>
+            <guid>https://www.seoulvinyl.com/product/a6dff5c4-56ac-456e-b79a-fc65f3a45423</guid>
+            <pubDate>Fri, 03 Mar 2023 11:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677838899535_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Matsubara Miki 마츠바라 미키 松原みき* – Paradise Beach (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</link>
             <guid>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018</guid>
@@ -968,14 +984,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717337880_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - TROPIC of CAPRICORN (Transparent Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294-2295</link>
-            <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294-2295</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717312977_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[추가 예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</link>
             <guid>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675068695059_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Kikuchi Momoko 菊池桃子 - ADVENTURE (Transparent Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</link>
-            <guid>https://www.seoulvinyl.com/product/ba0d7ccb-74ce-435c-8fbc-3324396d0d45-2294</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674717209881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ etc)]]></title>
