@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 11:08:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 12:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] [Book] WA-MONO A-TO-Z DISC GUIDE (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</link>
-            <guid>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</guid>
-            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927449309_1000.png" length="0" type="image/png"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] [Book] 70'S CLASSIC HARD ROCK DISC GUIDE (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2fee39f5-3fad-40be-85e5-fa920799bd08</link>
@@ -46,6 +38,14 @@
             <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927691526_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] [Book] WA-MONO A-TO-Z DISC GUIDE (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</link>
+            <guid>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</guid>
+            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927449309_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Notting Hill(노팅힐) O.S.T 블랙반 Lp (서울바이닐 ─ 스토어)]]></title>
@@ -1035,7 +1035,7 @@
             <title><![CDATA[[예약판매] [Book] 70'S CLASSIC HARD ROCK DISC GUIDE (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/2fee39f5-3fad-40be-85e5-fa920799bd08</link>
             <guid>https://www.seoulvinyl.com/product/2fee39f5-3fad-40be-85e5-fa920799bd08</guid>
-            <pubDate>Sat, 04 Mar 2023 11:07:51 GMT</pubDate>
+            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927521274_1000.png" length="0" type="image/png"/>
         </item>
@@ -1043,7 +1043,7 @@
             <title><![CDATA[[예약판매] [Book] 80'S HEAVY METAL / GARD ROCK DISC GUIDE (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/de847643-6bd5-42be-b75c-69948be77bf3</link>
             <guid>https://www.seoulvinyl.com/product/de847643-6bd5-42be-b75c-69948be77bf3</guid>
-            <pubDate>Sat, 04 Mar 2023 11:07:51 GMT</pubDate>
+            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927577393_1000.png" length="0" type="image/png"/>
         </item>
@@ -1051,7 +1051,7 @@
             <title><![CDATA[[예약판매] [Book] 90'S HEAVY METAL / HARD ROCK DISC GUIDE (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/d3bbe9fa-dd19-4157-94ba-4564c1666f05</link>
             <guid>https://www.seoulvinyl.com/product/d3bbe9fa-dd19-4157-94ba-4564c1666f05</guid>
-            <pubDate>Sat, 04 Mar 2023 11:07:51 GMT</pubDate>
+            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927632567_1000.png" length="0" type="image/png"/>
         </item>
@@ -1059,7 +1059,7 @@
             <title><![CDATA[[예약판매] [Book] POST-ROCK DISC GUIDE (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/0b2cbca6-44c7-4e89-b9d2-de793026f6b2</link>
             <guid>https://www.seoulvinyl.com/product/0b2cbca6-44c7-4e89-b9d2-de793026f6b2</guid>
-            <pubDate>Sat, 04 Mar 2023 11:07:51 GMT</pubDate>
+            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927691526_1000.png" length="0" type="image/png"/>
         </item>
@@ -1067,7 +1067,7 @@
             <title><![CDATA[[예약판매] [Book] WA-MONO A-TO-Z DISC GUIDE (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</link>
             <guid>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</guid>
-            <pubDate>Sat, 04 Mar 2023 11:07:51 GMT</pubDate>
+            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927449309_1000.png" length="0" type="image/png"/>
         </item>
