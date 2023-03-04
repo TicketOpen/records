@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 07:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 08:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Notting Hill(노팅힐) O.S.T 블랙반 Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/NottingHill2312</link>
+            <guid>https://www.seoulvinyl.com/product/NottingHill2312</guid>
+            <pubDate>Sat, 04 Mar 2023 08:10:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638272425117_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[추가 예약판매] Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-831-2278-2372</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714896299_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예야판매] 붉은 돼지 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION]]]></title>
-            <link>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</link>
-            <guid>https://www.seoulvinyl.com/product/5232e157-d0f2-4e7b-94b9-96115936278a-2285-2287</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714758860_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
