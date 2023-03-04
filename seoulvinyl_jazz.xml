@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Mar 2023 08:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 09:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Herb Ellis / Remo Palmier - Windflower [에메랄드 그린 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/0773cfd3-af76-4aee-b091-4161a2ac99f8</link>
+            <guid>https://www.seoulvinyl.com/product/0773cfd3-af76-4aee-b091-4161a2ac99f8</guid>
+            <pubDate>Sat, 04 Mar 2023 09:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677919824599_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Chet Baker Trio 쳇 베이커 트리오 - MR. B [Red Colored LP, 1,000장 넘버링 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</link>
@@ -102,14 +110,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649402912704_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis 마일즈 데이비스 - Bitches Brew [180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</link>
-            <guid>https://www.seoulvinyl.com/product/d6dbc21a-b00b-4238-b3e8-f70aedcf0a86</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649237618963_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chet Baker 쳇베이커 - sings (yellow colored)]]></title>
