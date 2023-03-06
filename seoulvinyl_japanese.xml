@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 02:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 03:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
+            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
+            <pubDate>Wed, 22 Feb 2023 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</link>
             <guid>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</guid>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 22 Feb 2023 08:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</link>
-            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369</guid>
-            <pubDate>Wed, 22 Feb 2023 08:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] Yutaka Kimura - JAPANESE CITY POP Disc Collection Revised]]></title>
