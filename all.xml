@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 10:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 11:09:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] PUFFY 퍼피 - amiyumi(LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/7e3c1413-5a38-4678-a1d8-862f46a016ac</link>
             <guid>https://www.seoulvinyl.com/product/7e3c1413-5a38-4678-a1d8-862f46a016ac</guid>
-            <pubDate>Mon, 06 Mar 2023 10:10:35 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 10:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678095607361_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -915,7 +915,7 @@
             <title><![CDATA[[예약판매] PUFFY 퍼피 - JET LP(2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/c00a70c6-5312-4d86-8bf1-2e7178f69a55</link>
             <guid>https://www.seoulvinyl.com/product/c00a70c6-5312-4d86-8bf1-2e7178f69a55</guid>
-            <pubDate>Mon, 06 Mar 2023 10:10:35 GMT</pubDate>
+            <pubDate>Mon, 06 Mar 2023 10:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678095758739_1000.jpg" length="0" type="image/jpg"/>
         </item>
