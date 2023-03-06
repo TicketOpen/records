@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 10:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] PUFFY 퍼피 - amiyumi(LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/7e3c1413-5a38-4678-a1d8-862f46a016ac</link>
+            <guid>https://www.seoulvinyl.com/product/7e3c1413-5a38-4678-a1d8-862f46a016ac</guid>
+            <pubDate>Mon, 06 Mar 2023 10:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678095607361_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] PUFFY 퍼피 - JET LP(2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c00a70c6-5312-4d86-8bf1-2e7178f69a55</link>
+            <guid>https://www.seoulvinyl.com/product/c00a70c6-5312-4d86-8bf1-2e7178f69a55</guid>
+            <pubDate>Mon, 06 Mar 2023 10:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678095758739_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 지수 JISOO - FIRST SINGLE VINYL LP -LIMITED EDITION- [투명 퍼플 컬러]]]></title>
             <link>https://www.seoulvinyl.com/product/72aaa2e7-7949-409a-bf2b-7370811ea6d4</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 03 Mar 2023 11:06:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677838899535_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
-            <guid>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</guid>
-            <pubDate>Thu, 02 Mar 2023 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김광석 - 다시부르기1 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/87c6e962-21e8-4724-93a3-76383c4b0344</link>
-            <guid>https://www.seoulvinyl.com/product/87c6e962-21e8-4724-93a3-76383c4b0344</guid>
-            <pubDate>Thu, 02 Mar 2023 05:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677733629381_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
