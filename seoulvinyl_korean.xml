@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 10:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Thu, 02 Mar 2023 05:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677733629381_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프)]]></title>
+            <link>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</link>
+            <guid>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</guid>
+            <pubDate>Tue, 07 Mar 2023 10:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빛과 소금 - 4집 [180 LP][한정반]]]></title>
@@ -112,20 +120,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
-            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차붐 - Original (Transparent red Colored, 500장 한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</link>
-            <guid>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747589202_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Green colored Cassette Tape 카세트테이프)]]></title>
+            <link>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</link>
+            <guid>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</guid>
+            <pubDate>Tue, 07 Mar 2023 10:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나얼 - Soul Pop City [180g 45RPM LP][Limited Edition]]]></title>

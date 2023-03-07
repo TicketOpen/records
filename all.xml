@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 09:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 10:11:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,6 +168,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748607868_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</link>
+            <guid>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</guid>
+            <pubDate>Tue, 07 Mar 2023 10:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Green colored Cassette Tape 카세트테이프) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</link>
+            <guid>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</guid>
+            <pubDate>Tue, 07 Mar 2023 10:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862-2382</link>
             <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862-2382</guid>
@@ -182,6 +198,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
+            <guid>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</guid>
+            <pubDate>Tue, 07 Mar 2023 10:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674626383976_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - D.O FUNK Vinyl (서울바이닐 ─ 제작)]]></title>
@@ -238,30 +262,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430</link>
-            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type B (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756</link>
-            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type C (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756-1757</link>
-            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-1756-1757</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Anderson Paak 앤더슨 팍 - Malibu (RSD Exclusive, Orange White Splatter Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -800,6 +800,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677733629381_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</link>
+            <guid>https://www.seoulvinyl.com/product/1e4b85ae-0d31-4a13-a988-d37bf2abe1a7</guid>
+            <pubDate>Tue, 07 Mar 2023 10:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빛과 소금 - 4집 [180 LP][한정반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</link>
             <guid>https://www.seoulvinyl.com/product/d26787ec-2740-413c-b88a-724122ce4e1b</guid>
@@ -880,20 +888,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
-            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차붐 - Original (Transparent red Colored, 500장 한정반) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</link>
-            <guid>https://www.seoulvinyl.com/product/ec67b74f-d05d-440d-888b-3b30e3f8bec8</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675747589202_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[P-TYPE 피타입 2nd ALBUM "THE VINTAGE" (Green colored Cassette Tape 카세트테이프) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</link>
+            <guid>https://www.seoulvinyl.com/product/65abb557-014c-4d62-bf2f-4919229a7be2</guid>
+            <pubDate>Tue, 07 Mar 2023 10:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631248412657_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나얼 - Soul Pop City [180g 45RPM LP][Limited Edition] (서울바이닐 ─ KOREAN)]]></title>
@@ -1072,14 +1072,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927449309_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862-2382</link>
-            <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862-2382</guid>
-            <pubDate>Wed, 01 Mar 2023 11:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[오토폰] CONCORDE MK2 CLUB TWIN (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327-2328</link>
             <guid>https://www.seoulvinyl.com/product/9c6a3da4-4cef-481e-b28e-9262a286e668-2327-2328</guid>
@@ -1118,6 +1110,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">1,699,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852068547_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카세트 테이프 액자 (7인치 VINYL 겸용) (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862-2382</link>
+            <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c-1862-2382</guid>
+            <pubDate>Wed, 01 Mar 2023 11:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레코드 겉비닐 2LP 사이즈 (서울바이닐 ─ etc)]]></title>
