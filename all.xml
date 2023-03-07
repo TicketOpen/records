@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 05:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 06:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,6 +152,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748765955_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Clear Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/077e821d-db74-47a8-a1b4-88b59f8649f4-2380</link>
+            <guid>https://www.seoulvinyl.com/product/077e821d-db74-47a8-a1b4-88b59f8649f4-2380</guid>
+            <pubDate>Wed, 01 Mar 2023 10:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748698581_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Yellow Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/6db43695-068d-4e2c-8888-5af56fdec838-2381</link>
             <guid>https://www.seoulvinyl.com/product/6db43695-068d-4e2c-8888-5af56fdec838-2381</guid>
@@ -214,14 +222,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Clear Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/077e821d-db74-47a8-a1b4-88b59f8649f4-2380</link>
-            <guid>https://www.seoulvinyl.com/product/077e821d-db74-47a8-a1b4-88b59f8649f4-2380</guid>
-            <pubDate>Wed, 01 Mar 2023 10:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748698581_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
