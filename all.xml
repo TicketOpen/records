@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 03:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 04:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,14 +688,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1601285879115_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[honne 혼네 - warm on a cold night (LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/warm-2358-2367</link>
-            <guid>https://www.seoulvinyl.com/product/warm-2358-2367</guid>
-            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</link>
             <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</guid>
@@ -766,6 +758,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676355025204_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[honne 혼네 - warm on a cold night (LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/warm-2358-2367</link>
+            <guid>https://www.seoulvinyl.com/product/warm-2358-2367</guid>
+            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[honne 혼네 lp - love me love me not (LP) (서울바이닐 ─ ROCK & POP)]]></title>
