@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 07:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 08:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
+            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
+            <pubDate>Wed, 08 Mar 2023 08:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Radwimps 래드 윔프스 - FOREVER DAZE (Blue Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/52f70dc4-31d6-49b3-b50e-ca14f194e1a3</link>
+            <guid>https://www.seoulvinyl.com/product/52f70dc4-31d6-49b3-b50e-ca14f194e1a3</guid>
+            <pubDate>Wed, 08 Mar 2023 08:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678259863611_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Yurie Kokubu - Relief 72 Hours (Clear neon pink vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/853e4a91-00d9-4f33-88f2-6530a488b8fc</link>
@@ -72,14 +88,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1618225633127_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Presents 프레젠트 - FEELING LIKE A CHILD]]></title>
-            <link>https://www.seoulvinyl.com/product/1c50f875-3fd0-443f-b39c-e020a6c2ee26</link>
-            <guid>https://www.seoulvinyl.com/product/1c50f875-3fd0-443f-b39c-e020a6c2ee26</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1660738388367_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] PUFFY 퍼피 - amiyumi(LP)]]></title>
             <link>https://www.seoulvinyl.com/product/7e3c1413-5a38-4678-a1d8-862f46a016ac</link>
             <guid>https://www.seoulvinyl.com/product/7e3c1413-5a38-4678-a1d8-862f46a016ac</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938584708_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Harada Tomoyo 하라다 토모요 - Tomoyo Covers (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</link>
-            <guid>https://www.seoulvinyl.com/product/b96d817f-490e-4444-bccf-61ccb4a46681</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675150361715_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
