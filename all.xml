@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Mar 2023 16:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Mar 2023 17:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 08 Mar 2023 11:07:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678272145736_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
-            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
-            <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Radwimps 래드 윔프스 - FOREVER DAZE (Blue Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
@@ -118,6 +110,14 @@
             <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">220,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842523267_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
+            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
+            <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] PUFFY 퍼피 - amiyumi(LP) (서울바이닐 ─ 스토어)]]></title>
@@ -392,14 +392,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676283976450_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
-            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
-            <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Notting Hill(노팅힐) O.S.T 블랙반 Lp (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/NottingHill2312</link>
             <guid>https://www.seoulvinyl.com/product/NottingHill2312</guid>
@@ -494,6 +486,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674715130404_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
+            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
+            <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[추가 예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION] (서울바이닐 ─ OST)]]></title>
@@ -904,14 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676623292815_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
-            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
-            <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Radwimps 래드 윔프스 - FOREVER DAZE (Blue Colored 2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/52f70dc4-31d6-49b3-b50e-ca14f194e1a3</link>
             <guid>https://www.seoulvinyl.com/product/52f70dc4-31d6-49b3-b50e-ca14f194e1a3</guid>
@@ -982,6 +974,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1618225633127_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
+            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
+            <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] PUFFY 퍼피 - amiyumi(LP) (서울바이닐 ─ JAPANESE)]]></title>
