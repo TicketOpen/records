@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 07:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</link>
+            <guid>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</guid>
+            <pubDate>Thu, 09 Mar 2023 08:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678346084921_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하비누아주 - 청춘 [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</link>
@@ -110,14 +118,6 @@
             <pubDate>Sat, 04 Mar 2023 07:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677912820407_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (5LP, 4CD, 3DVD Super Deluxe Edition) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</link>
-            <guid>https://www.seoulvinyl.com/product/aa06b8a8-1d54-46e3-9034-17b0fb7c12ed</guid>
-            <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">220,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842523267_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] PUFFY 퍼피 - amiyumi(LP) (서울바이닐 ─ 스토어)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</link>
+            <guid>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</guid>
+            <pubDate>Thu, 09 Mar 2023 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678346084921_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하비누아주 - 청춘 [2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</link>
             <guid>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</guid>
@@ -886,14 +894,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나미 - 7집 Chameleon [45RPM, 블랙 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</link>
-            <guid>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나얼 - Soul Pop City [180g 45RPM LP][Limited Edition] (서울바이닐 ─ KOREAN)]]></title>

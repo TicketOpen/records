@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 07:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 08:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반)]]></title>
+            <link>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</link>
+            <guid>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</guid>
+            <pubDate>Thu, 09 Mar 2023 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678346084921_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하비누아주 - 청춘 [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</link>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나미 - 7집 Chameleon [45RPM, 블랙 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</link>
-            <guid>https://www.seoulvinyl.com/product/2f94f5a1-aaf6-42b4-bfdf-7c041378fab1-2341</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646467226786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나얼 - Soul Pop City [180g 45RPM LP][Limited Edition]]]></title>
