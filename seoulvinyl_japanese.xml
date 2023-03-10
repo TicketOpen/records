@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Mar 2023 07:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 09:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 22 Feb 2023 08:12:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606730497046_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[추가 예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION]]]></title>
+            <link>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</link>
+            <guid>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</guid>
+            <pubDate>Wed, 22 Feb 2023 08:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[추가 예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Thu, 23 Feb 2023 11:08:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675930688095_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[추가 예약판매] 마녀 배달부 키키 사운드트랙 컬렉션 [LIMITED COLOR LP EDITION]]]></title>
-            <link>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</link>
-            <guid>https://www.seoulvinyl.com/product/fb937dc1-b5e8-480f-9ddf-7ba2c8067eac-2370</guid>
-            <pubDate>Wed, 22 Feb 2023 08:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674714615282_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] Yutaka Kimura - JAPANESE CITY POP Disc Collection Revised]]></title>
