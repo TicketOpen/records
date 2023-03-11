@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 07:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 08:11:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 20 Feb 2023 09:10:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color)]]></title>
-            <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</link>
-            <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</guid>
-            <pubDate>Mon, 20 Feb 2023 09:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] HONNE 혼네 lp - no song without you (black vinyl)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Fri, 03 Mar 2023 12:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color)]]></title>
+            <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</link>
+            <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</guid>
+            <pubDate>Mon, 20 Feb 2023 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

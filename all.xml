@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Mar 2023 07:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Mar 2023 08:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,14 +688,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</link>
-            <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</guid>
-            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] HONNE 혼네 lp - no song without you (black vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1102-1507-2363</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1102-1507-2363</guid>
@@ -774,6 +766,14 @@
             <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</link>
+            <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</guid>
+            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ KOREAN)]]></title>
