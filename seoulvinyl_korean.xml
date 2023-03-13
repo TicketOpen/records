@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 12:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 13:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 06 Mar 2023 08:12:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678089114224_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 리소 - 정규 2집 pat pat [180g 레드컬러 LP+CD]]]></title>
-            <link>https://www.seoulvinyl.com/product/ae9057d2-4278-4fad-a20c-2255c77ffed4</link>
-            <guid>https://www.seoulvinyl.com/product/ae9057d2-4278-4fad-a20c-2255c77ffed4</guid>
-            <pubDate>Mon, 06 Mar 2023 05:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678077989097_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김광석 - 다시부르기1 [LP]]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Tue, 14 Feb 2023 20:10:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 리소 - 정규 2집 pat pat [180g 레드컬러 LP+CD]]]></title>
+            <link>https://www.seoulvinyl.com/product/ae9057d2-4278-4fad-a20c-2255c77ffed4</link>
+            <guid>https://www.seoulvinyl.com/product/ae9057d2-4278-4fad-a20c-2255c77ffed4</guid>
+            <pubDate>Mon, 06 Mar 2023 05:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678077989097_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 나얼 - Soul Pop City [180g 45RPM LP][Limited Edition]]]></title>
