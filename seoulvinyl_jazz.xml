@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Mar 2023 03:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Mar 2023 04:11:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666001533237_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Norah Jones 노라 존스 - 크리스마스 앨범: I Dream of Christmas (Deluxe Edition 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b52459a3-55df-4ffb-b9dd-f806923801f3</link>
+            <guid>https://www.seoulvinyl.com/product/b52459a3-55df-4ffb-b9dd-f806923801f3</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666939535064_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스탄게츠 Stan Getz & Joao Gilberto - Getz / Gilberto (Verve)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-693-2048</link>
             <guid>https://www.seoulvinyl.com/product/untitled-693-2048</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667207342212_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norah Jones 노라 존스 - 크리스마스 앨범: I Dream of Christmas (Deluxe Edition 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b52459a3-55df-4ffb-b9dd-f806923801f3</link>
-            <guid>https://www.seoulvinyl.com/product/b52459a3-55df-4ffb-b9dd-f806923801f3</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666939535064_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[냇 킹 콜 베스트 모음집 (Nat King Cole Greatest Hits) [블루 컬러 LP]]]></title>
