@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 05:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 06:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -536,7 +536,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674886746504_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl (서울바이닐 ─ JAZZ)]]></title>
+            <title><![CDATA[Fukui Ryo 후쿠이 료 - Scenery Vinyl (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-875-1364-2274</link>
             <guid>https://www.seoulvinyl.com/product/untitled-875-1364-2274</guid>
             <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
