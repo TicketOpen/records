@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 10:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 11:15:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -680,6 +680,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[honne 혼네 lp - love me love me not (LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/loveme-2359-2366</link>
+            <guid>https://www.seoulvinyl.com/product/loveme-2359-2366</guid>
+            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] HONNE 혼네 lp - no song without you (black vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1102-1507-2363</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1102-1507-2363</guid>
@@ -750,14 +758,6 @@
             <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[honne 혼네 lp - love me love me not (LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/loveme-2359-2366</link>
-            <guid>https://www.seoulvinyl.com/product/loveme-2359-2366</guid>
-            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color) (서울바이닐 ─ ROCK & POP)]]></title>
