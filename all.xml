@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 04:11:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 05:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -688,14 +688,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1619860032476_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Pink Floyd 핑크 플로이드 - Dark Side of the Moon: Live At Wembley 1974 (Gatefold LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</link>
-            <guid>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</guid>
-            <pubDate>Thu, 16 Feb 2023 08:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676533577763_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Britney Spears 브리트니 스피어스 - In The Zone (Colored LP, 5월 초 발매) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/84f142c0-8831-4ab6-90a8-be65d3195805</link>
             <guid>https://www.seoulvinyl.com/product/84f142c0-8831-4ab6-90a8-be65d3195805</guid>
@@ -774,6 +766,14 @@
             <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Pink Floyd 핑크 플로이드 - Dark Side of the Moon: Live At Wembley 1974 (Gatefold LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</link>
+            <guid>https://www.seoulvinyl.com/product/37029c3d-e373-478a-baa6-5054aa6a72c0</guid>
+            <pubDate>Thu, 16 Feb 2023 08:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676533577763_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ KOREAN)]]></title>
