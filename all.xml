@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Mar 2023 05:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Mar 2023 06:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -976,14 +976,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</link>
-            <guid>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</guid>
-            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938949802_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Nujabes 누자베스 - Hydeout Productions: First Collection (2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1085-2331</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1085-2331</guid>
@@ -1014,6 +1006,14 @@
             <pubDate>Thu, 23 Feb 2023 11:07:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675930688095_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</link>
+            <guid>https://www.seoulvinyl.com/product/bec579e6-9c31-4161-b558-dc08544cc7bb</guid>
+            <pubDate>Tue, 14 Feb 2023 20:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675938949802_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] Yutaka Kimura - JAPANESE CITY POP Disc Collection Revised (서울바이닐 ─ JAPANESE)]]></title>
