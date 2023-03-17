@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 10:10:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 11:09:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (Atlantic 75주년 LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</guid>
+            <pubDate>Fri, 24 Feb 2023 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Raye 레이 - My 21st Century Blues (LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/011a4ef7-624a-4e99-b5c3-c735883ba1d7</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927449309_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Notting Hill(노팅힐) O.S.T 블랙반 Lp (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/NottingHill2312</link>
-            <guid>https://www.seoulvinyl.com/product/NottingHill2312</guid>
-            <pubDate>Sat, 04 Mar 2023 08:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638272425117_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (Atlantic 75주년 LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</link>
+            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</guid>
+            <pubDate>Fri, 24 Feb 2023 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Anderson Paak 앤더슨 팍 - Malibu (RSD Exclusive, Orange White Splatter Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/5918908f-ef0a-4656-bac1-1ec700ed9dbb</link>
             <guid>https://www.seoulvinyl.com/product/5918908f-ef0a-4656-bac1-1ec700ed9dbb</guid>
@@ -280,12 +288,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677912820407_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (Atlantic 75주년 LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</link>
-            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</guid>
-            <pubDate>Fri, 24 Feb 2023 11:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</link>
+            <guid>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673431848453_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Post Malone 포스트 말론 - Twelve Carat Toothache (Black and Translucent Ruby Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666065938443_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[En Vogue 엔 보그 - Funky Divas (1,500장 한정 Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</link>
-            <guid>https://www.seoulvinyl.com/product/009f2390-77b5-4805-a09f-d2af3114d245</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673431848453_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ OST)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[Raye 레이 - My 21st Century Blues (LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/011a4ef7-624a-4e99-b5c3-c735883ba1d7</link>
             <guid>https://www.seoulvinyl.com/product/011a4ef7-624a-4e99-b5c3-c735883ba1d7</guid>
-            <pubDate>Fri, 17 Mar 2023 10:09:37 GMT</pubDate>
+            <pubDate>Fri, 17 Mar 2023 10:08:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679045567227_1000.jpg" length="0" type="image/jpg"/>
         </item>
