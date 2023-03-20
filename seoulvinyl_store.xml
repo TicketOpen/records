@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 07:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 08:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Mon, 20 Mar 2023 08:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927521274_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] [Book] 80'S HEAVY METAL / GARD ROCK DISC GUIDE]]></title>
-            <link>https://www.seoulvinyl.com/product/de847643-6bd5-42be-b75c-69948be77bf3</link>
-            <guid>https://www.seoulvinyl.com/product/de847643-6bd5-42be-b75c-69948be77bf3</guid>
-            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927577393_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 07:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 08:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Sat, 18 Mar 2023 07:07:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Tue, 14 Mar 2023 15:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Green Colored Cassette Tape)]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Tue, 14 Mar 2023 15:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
-            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
-            <pubDate>Tue, 14 Mar 2023 15:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP)]]></title>

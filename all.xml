@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 07:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 08:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 08 Mar 2023 08:17:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ 스토어)]]></title>
@@ -128,14 +136,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927521274_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] [Book] 80'S HEAVY METAL / GARD ROCK DISC GUIDE (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/de847643-6bd5-42be-b75c-69948be77bf3</link>
-            <guid>https://www.seoulvinyl.com/product/de847643-6bd5-42be-b75c-69948be77bf3</guid>
-            <pubDate>Sat, 04 Mar 2023 11:06:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927577393_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-2407</link>
             <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-2407</guid>
@@ -158,6 +158,14 @@
             <pubDate>Sat, 18 Mar 2023 07:07:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
@@ -214,14 +222,6 @@
             <pubDate>Wed, 01 Mar 2023 11:07:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
-            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676355202354_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</link>
             <guid>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 17 Feb 2023 10:09:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676623292815_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스트릿 맨 파이터 : 스맨파 (SMF) [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</link>
-            <guid>https://www.seoulvinyl.com/product/a384f9c9-e49d-4bc4-bf42-1979eb032fbc</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676353488405_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP] (서울바이닐 ─ JAPANESE)]]></title>
