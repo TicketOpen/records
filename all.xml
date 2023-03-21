@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 05:09:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 06:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 크림빌라 - FURY (100장 넘버링 한정반 LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</link>
             <guid>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</guid>
-            <pubDate>Tue, 21 Mar 2023 05:08:55 GMT</pubDate>
+            <pubDate>Tue, 21 Mar 2023 05:07:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679374422283_1000.jpg" length="0" type="image/jpg"/>
         </item>
