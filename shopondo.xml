@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 06:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 07:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,6 +336,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[사람들은 모두 다른 향기 지나오킹 카세트 테이프 음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2024&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2024&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202303/cd91adc89edf1bbc3dae99356d75b19a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[행복회로 부수는중 나노말 정규 1집]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2020&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2020&amp;cate_no=60&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 22 Feb 2023 17:09:38 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/269577c33b7122844ecfed7c3cf8b473.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sauce, Kite, Lake 모호 프로젝트 정규 2집]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1965&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Mar 2023 19:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202211/67b397bd5a4260a3be5cef62f88cadd0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
