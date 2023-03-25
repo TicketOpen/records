@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Mar 2023 09:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Mar 2023 10:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 20 Mar 2023 08:12:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 크림빌라 - FURY (100장 넘버링 한정반 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</link>
-            <guid>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</guid>
-            <pubDate>Tue, 21 Mar 2023 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679374422283_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반)]]></title>
@@ -46,6 +38,14 @@
             <pubDate>Mon, 06 Mar 2023 08:12:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678089114224_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 크림빌라 - FURY (100장 넘버링 한정반 LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</link>
+            <guid>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</guid>
+            <pubDate>Tue, 21 Mar 2023 05:08:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679374422283_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 리소 - 정규 2집 pat pat [180g 레드컬러 LP+CD]]]></title>
