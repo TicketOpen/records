@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Apr 2023 07:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 08:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 07 Apr 2023 04:09:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1680767767671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나상현씨밴드 - 정규 2집 2021 [투명 클리어 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/22baca96-b029-4d78-bba0-612337adb0d0</link>
-            <guid>https://www.seoulvinyl.com/product/22baca96-b029-4d78-bba0-612337adb0d0</guid>
-            <pubDate>Sat, 25 Mar 2023 11:06:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679738685910_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
@@ -78,6 +70,14 @@
             <pubDate>Thu, 02 Mar 2023 05:09:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677733629381_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나상현씨밴드 - 정규 2집 2021 [투명 클리어 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/22baca96-b029-4d78-bba0-612337adb0d0</link>
+            <guid>https://www.seoulvinyl.com/product/22baca96-b029-4d78-bba0-612337adb0d0</guid>
+            <pubDate>Sat, 25 Mar 2023 11:06:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679738685910_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 1st ALBUM "HEAVY BASS" (Clear colored Cassette Tape 카세트테이프)]]></title>
