@@ -4,25 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 10:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 11:07:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 전람회 - 1집 Exhibition [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</link>
-            <guid>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</guid>
-            <pubDate>Fri, 14 Apr 2023 10:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681464401401_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 위아더나잇 (WE ARE THE NIGHT) - BLUE AND SOME BLACK [1,000장 한정 블루 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/265eebf2-bb78-4f8d-b8a8-e8463ccb5a7a</link>
-            <guid>https://www.seoulvinyl.com/product/265eebf2-bb78-4f8d-b8a8-e8463ccb5a7a</guid>
-            <pubDate>Fri, 14 Apr 2023 05:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681448452331_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Hot Pink Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2418</link>
@@ -54,6 +38,22 @@
             <pubDate>Fri, 07 Apr 2023 09:08:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998083681_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 전람회 - 1집 Exhibition [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</link>
+            <guid>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</guid>
+            <pubDate>Fri, 14 Apr 2023 10:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681464401401_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 위아더나잇 (WE ARE THE NIGHT) - BLUE AND SOME BLACK [1,000장 한정 블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/265eebf2-bb78-4f8d-b8a8-e8463ccb5a7a</link>
+            <guid>https://www.seoulvinyl.com/product/265eebf2-bb78-4f8d-b8a8-e8463ccb5a7a</guid>
+            <pubDate>Fri, 14 Apr 2023 05:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681448452331_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP)]]></title>
