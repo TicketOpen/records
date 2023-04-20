@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 10:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 11:08:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] SZA 시저 - Sos (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d2af12bb-5859-430c-be1d-1ec4e766a44e</link>
+            <guid>https://www.seoulvinyl.com/product/d2af12bb-5859-430c-be1d-1ec4e766a44e</guid>
+            <pubDate>Thu, 20 Apr 2023 11:06:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681987209597_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 토이스토리 OST - Toy Story Favorites (Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/5b0c19e9-32fe-4044-9082-a5f2cc66d75e</link>
+            <guid>https://www.seoulvinyl.com/product/5b0c19e9-32fe-4044-9082-a5f2cc66d75e</guid>
+            <pubDate>Thu, 20 Apr 2023 11:06:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681986942167_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판메] 판듀 베스트컬렉션 Part.2 [투명 클리어 컬러 바이닐 / 500장 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/4a9aa41a-888e-4124-97ad-99b0cd45fad1</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 13 Apr 2023 06:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357772960_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Go Ahead! [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b47b9783-877e-4dd8-974f-69d5caba4b84</link>
-            <guid>https://www.seoulvinyl.com/product/b47b9783-877e-4dd8-974f-69d5caba4b84</guid>
-            <pubDate>Thu, 13 Apr 2023 06:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357730845_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Spacy [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3</link>
-            <guid>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3</guid>
-            <pubDate>Thu, 13 Apr 2023 06:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357674972_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
