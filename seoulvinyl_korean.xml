@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Apr 2023 06:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 07:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] So!YoON! 황소윤 - 2집 [Episode1 : Love] (LP, 45rpm)]]></title>
+            <link>https://www.seoulvinyl.com/product/bf295b7f-3f6b-4f45-8257-ede634129111</link>
+            <guid>https://www.seoulvinyl.com/product/bf295b7f-3f6b-4f45-8257-ede634129111</guid>
+            <pubDate>Fri, 21 Apr 2023 07:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682060274483_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 적재 - 정규 2집 THE LIGHTS [실버 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/37c5b6ca-a97d-4be3-917d-c9f64fb05d1c</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 06 Mar 2023 08:12:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678089114224_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크림빌라 - FURY (100장 넘버링 한정반 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</link>
-            <guid>https://www.seoulvinyl.com/product/f1651753-98ce-4d0d-92ac-e2ef62cec2b2</guid>
-            <pubDate>Tue, 21 Mar 2023 05:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679374422283_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
