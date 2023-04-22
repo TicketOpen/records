@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Apr 2023 10:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Apr 2023 11:06:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전람회 - 1집 Exhibition [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</link>
+            <guid>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</guid>
+            <pubDate>Fri, 14 Apr 2023 10:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681464401401_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] So!YoON! 황소윤 - 2집 [Episode1 : Love] (LP, 45rpm)]]></title>
             <link>https://www.seoulvinyl.com/product/bf295b7f-3f6b-4f45-8257-ede634129111</link>
@@ -102,14 +110,6 @@
             <pubDate>Fri, 07 Apr 2023 09:07:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998083681_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 전람회 - 1집 Exhibition [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</link>
-            <guid>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</guid>
-            <pubDate>Fri, 14 Apr 2023 10:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681464401401_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] A Symphonic Celebration - Music From The Studio Ghibli Films Of Hayao Miyazaki (2LP)]]></title>
