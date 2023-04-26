@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Apr 2023 03:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Apr 2023 04:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,28 +112,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681986942167_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판메] 판듀 베스트컬렉션 Part.2 [투명 클리어 컬러 바이닐 / 500장 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/4a9aa41a-888e-4124-97ad-99b0cd45fad1</link>
-            <guid>https://www.seoulvinyl.com/product/4a9aa41a-888e-4124-97ad-99b0cd45fad1</guid>
+            <title><![CDATA[판듀 베스트컬렉션 4LP 박스세트 [300세트 리미티드 에디션] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b25df1ad-b6fb-462e-a6f0-ee317770f2c5</link>
+            <guid>https://www.seoulvinyl.com/product/b25df1ad-b6fb-462e-a6f0-ee317770f2c5</guid>
             <pubDate>Mon, 17 Apr 2023 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681727109512_1000.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[<span class="productPriceSpan">145,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681725890770_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 판듀 베스트컬렉션 Part.3 [투명 클리어 컬러 바이닐 / 500장 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a56036ec-06de-4c93-b43a-2c353f40636c</link>
-            <guid>https://www.seoulvinyl.com/product/a56036ec-06de-4c93-b43a-2c353f40636c</guid>
-            <pubDate>Mon, 17 Apr 2023 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681727121473_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Hot Pink Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2418</link>
+            <guid>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2418</guid>
+            <pubDate>Fri, 07 Apr 2023 09:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998477628_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 판듀 베스트컬렉션 Part.4 [투명 클리어 컬러 바이닐 / 500장 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/573cd58b-1ded-4460-bb4d-008e68d751b7</link>
-            <guid>https://www.seoulvinyl.com/product/573cd58b-1ded-4460-bb4d-008e68d751b7</guid>
-            <pubDate>Mon, 17 Apr 2023 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681727134172_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Pink Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef</link>
+            <guid>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef</guid>
+            <pubDate>Fri, 07 Apr 2023 09:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998377679_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -832,30 +832,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682056070522_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판메] 판듀 베스트컬렉션 Part.2 [투명 클리어 컬러 바이닐 / 500장 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/4a9aa41a-888e-4124-97ad-99b0cd45fad1</link>
-            <guid>https://www.seoulvinyl.com/product/4a9aa41a-888e-4124-97ad-99b0cd45fad1</guid>
-            <pubDate>Mon, 17 Apr 2023 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681727109512_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 판듀 베스트컬렉션 Part.3 [투명 클리어 컬러 바이닐 / 500장 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a56036ec-06de-4c93-b43a-2c353f40636c</link>
-            <guid>https://www.seoulvinyl.com/product/a56036ec-06de-4c93-b43a-2c353f40636c</guid>
-            <pubDate>Mon, 17 Apr 2023 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681727121473_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 판듀 베스트컬렉션 Part.4 [투명 클리어 컬러 바이닐 / 500장 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/573cd58b-1ded-4460-bb4d-008e68d751b7</link>
-            <guid>https://www.seoulvinyl.com/product/573cd58b-1ded-4460-bb4d-008e68d751b7</guid>
-            <pubDate>Mon, 17 Apr 2023 11:06:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681727134172_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[판듀 베스트컬렉션 4LP 박스세트 [300세트 리미티드 에디션] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b25df1ad-b6fb-462e-a6f0-ee317770f2c5</link>
             <guid>https://www.seoulvinyl.com/product/b25df1ad-b6fb-462e-a6f0-ee317770f2c5</guid>
@@ -902,6 +878,30 @@
             <pubDate>Fri, 14 Apr 2023 05:07:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681448452331_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
+            <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</link>
+            <guid>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</guid>
+            <pubDate>Wed, 26 Apr 2023 04:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678346084921_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하비누아주 - 청춘 [2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</link>
+            <guid>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</guid>
+            <pubDate>Wed, 26 Apr 2023 04:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678272145736_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Anri 안리 - Timely!! (LP) (서울바이닐 ─ JAPANESE)]]></title>
