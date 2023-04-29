@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 07:07:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 08:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rihanna 리한나 - Good Girl Gone Bad (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/0cee5058-e820-495e-9715-b8972215e5c7</link>
+            <guid>https://www.seoulvinyl.com/product/0cee5058-e820-495e-9715-b8972215e5c7</guid>
+            <pubDate>Sat, 29 Apr 2023 08:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682752855815_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists - Motown Collected (White Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/25009241-2f72-41fa-a367-9a4fc9eb0310</link>
+            <guid>https://www.seoulvinyl.com/product/25009241-2f72-41fa-a367-9a4fc9eb0310</guid>
+            <pubDate>Sat, 29 Apr 2023 08:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682752246156_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] SZA 시저 - Sos (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/d2af12bb-5859-430c-be1d-1ec4e766a44e</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1618225633127_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder (스티비 원더) - Innervisions [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</link>
-            <guid>https://www.seoulvinyl.com/product/f935c9a2-8eda-4b8d-b72c-e1af9856e7fa</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675411030360_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston 휘트니 휴스턴 - Whitney (Ltd, SKY BLUE COLOR LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/2a836c7e-eef9-4726-b4c9-2d6b2d18a899-2258</link>
-            <guid>https://www.seoulvinyl.com/product/2a836c7e-eef9-4726-b4c9-2d6b2d18a899-2258</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584856891_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
