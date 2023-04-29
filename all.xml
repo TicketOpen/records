@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Apr 2023 11:06:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Apr 2023 12:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,7 +139,7 @@
             <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-2407-2459</link>
             <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-2407-2459</guid>
-            <pubDate>Sat, 29 Apr 2023 11:05:04 GMT</pubDate>
+            <pubDate>Sat, 29 Apr 2023 11:04:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -147,7 +147,7 @@
             <title><![CDATA[[USED] Type B (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/59ed698e-</link>
             <guid>https://www.seoulvinyl.com/product/59ed698e-</guid>
-            <pubDate>Sat, 29 Apr 2023 11:05:04 GMT</pubDate>
+            <pubDate>Sat, 29 Apr 2023 11:04:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -155,7 +155,7 @@
             <title><![CDATA[[USED] Type C (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/756-1757-24092341-2461</link>
             <guid>https://www.seoulvinyl.com/product/756-1757-24092341-2461</guid>
-            <pubDate>Sat, 29 Apr 2023 11:05:04 GMT</pubDate>
+            <pubDate>Sat, 29 Apr 2023 11:04:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
