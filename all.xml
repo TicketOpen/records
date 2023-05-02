@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 May 2023 09:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 May 2023 10:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] CHS 씨에이치에스 - Home / Highway [7인치 Single 45rpm Vinyl] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f331f864-e15d-49c8-b409-618183497c62</link>
+            <guid>https://www.seoulvinyl.com/product/f331f864-e15d-49c8-b409-618183497c62</guid>
+            <pubDate>Tue, 02 May 2023 10:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683020503594_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 안치환 - 3집 Confession [클리어 아이스 블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0a49aa82-cfb0-49dc-a74a-00b152416147</link>
+            <guid>https://www.seoulvinyl.com/product/0a49aa82-cfb0-49dc-a74a-00b152416147</guid>
+            <pubDate>Tue, 02 May 2023 10:07:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683020632745_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[USED] Type A (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-2407-2459</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 22 Apr 2023 12:11:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682160863932_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코드 쿤스트 (Code Kunst) - 4집 PEOPLE [컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/330eaab1-cdfb-4a64-8848-4548f6c36ce3</link>
-            <guid>https://www.seoulvinyl.com/product/330eaab1-cdfb-4a64-8848-4548f6c36ce3</guid>
-            <pubDate>Sat, 22 Apr 2023 12:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682160688443_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전람회 - 1집 Exhibition [화이트 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</link>
-            <guid>https://www.seoulvinyl.com/product/3792d571-49ae-4f2d-a351-c5d1596c640c</guid>
-            <pubDate>Fri, 14 Apr 2023 10:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681464401401_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676355674620_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] CHS 씨에이치에스 - Home / Highway [7인치 Single 45rpm Vinyl] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/f331f864-e15d-49c8-b409-618183497c62</link>
+            <guid>https://www.seoulvinyl.com/product/f331f864-e15d-49c8-b409-618183497c62</guid>
+            <pubDate>Tue, 02 May 2023 10:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683020503594_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 안치환 - 3집 Confession [클리어 아이스 블루 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/0a49aa82-cfb0-49dc-a74a-00b152416147</link>
+            <guid>https://www.seoulvinyl.com/product/0a49aa82-cfb0-49dc-a74a-00b152416147</guid>
+            <pubDate>Tue, 02 May 2023 10:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683020632745_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Blase 블라세 - MultrillVerse (500장 한정, 투명 블루 컬러) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/f045825c-9ee3-494c-8232-1f3bcc54f08b</link>
             <guid>https://www.seoulvinyl.com/product/f045825c-9ee3-494c-8232-1f3bcc54f08b</guid>
@@ -886,22 +902,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674207009722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자전거 탄 풍경 - 3집 [YESTERMORROW] [LP] (180g, 투명 컬러반) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</link>
-            <guid>https://www.seoulvinyl.com/product/31c35486-674e-436f-a6da-8aaf3af22f81</guid>
-            <pubDate>Wed, 26 Apr 2023 04:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678346084921_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하비누아주 - 청춘 [2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</link>
-            <guid>https://www.seoulvinyl.com/product/b9d1689c-86fa-48f8-981a-45b84e5dbeaf</guid>
-            <pubDate>Wed, 26 Apr 2023 04:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678272145736_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Takako Mamiya 타카코 마미야 – Love Trip (Pink Color Vinyl) (서울바이닐 ─ JAPANESE)]]></title>
