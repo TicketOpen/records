@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 May 2023 11:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 12:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker 쳇 베이커 - Chet Baker Sings & Plays [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bc4b62ad-fbb8-4d06-add9-d976b5808d36</link>
+            <guid>https://www.seoulvinyl.com/product/bc4b62ad-fbb8-4d06-add9-d976b5808d36</guid>
+            <pubDate>Wed, 03 May 2023 12:13:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683113160873_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Nina Simone 니나 시몬 - Baltimore (Gatefold, Translucent Red Vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/3c3791d9-4a93-46b4-8c3b-d0913790102a</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666939535064_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스탄게츠 Stan Getz & Joao Gilberto - Getz / Gilberto (Verve)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-693-2048</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-693-2048</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1597487977472_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
