@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 May 2023 08:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 May 2023 09:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,30 +136,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683020632745_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-2407-2459</link>
-            <guid>https://www.seoulvinyl.com/product/59ed698e-e5ba-4684-b16e-35bdd14c9430-2407-2459</guid>
-            <pubDate>Sat, 29 Apr 2023 11:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type B (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ed698e-</link>
-            <guid>https://www.seoulvinyl.com/product/59ed698e-</guid>
-            <pubDate>Sat, 29 Apr 2023 11:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type C (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/756-1757-24092341-2461</link>
-            <guid>https://www.seoulvinyl.com/product/756-1757-24092341-2461</guid>
-            <pubDate>Sat, 29 Apr 2023 11:04:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
             <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
@@ -262,6 +238,30 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">5,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</link>
+            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</guid>
+            <pubDate>Thu, 11 May 2023 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</link>
+            <guid>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</guid>
+            <pubDate>Thu, 11 May 2023 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Black Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba-1829</link>
+            <guid>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba-1829</guid>
+            <pubDate>Thu, 11 May 2023 09:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jay-Z 제이지 - The Black Album [2 LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -768,7 +768,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676533577763_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Britney Spears 브리트니 스피어스 - In The Zone (Colored LP, 5월 초 발매) (서울바이닐 ─ ROCK & POP)]]></title>
+            <title><![CDATA[Britney Spears 브리트니 스피어스 - In The Zone (Colored LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/84f142c0-8831-4ab6-90a8-be65d3195805</link>
             <guid>https://www.seoulvinyl.com/product/84f142c0-8831-4ab6-90a8-be65d3195805</guid>
             <pubDate>Tue, 14 Feb 2023 20:09:05 GMT</pubDate>
