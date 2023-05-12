@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 May 2023 07:08:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 May 2023 08:11:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -712,11 +712,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Random Access Memories (10th Anniversary Edition) [3LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <title><![CDATA[Daft Punk 다프트 펑크 - Random Access Memories (10th Anniversary Edition) [3LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</link>
             <guid>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</guid>
             <pubDate>Fri, 24 Feb 2023 09:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677229274232_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
