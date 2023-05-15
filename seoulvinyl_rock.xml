@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 May 2023 10:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 May 2023 11:08:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Daft Punk 다프트 펑크 - Random Access Memories (10th Anniversary Edition) [3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</link>
+            <guid>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</guid>
+            <pubDate>Wed, 05 Apr 2023 18:11:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677229274232_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peder Elias 페더 엘리아스 - 1집 Love & Loneliness [화이트 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252-2483</link>
+            <guid>https://www.seoulvinyl.com/product/c171001c-572f-4bac-af9d-5bcd92216252-2483</guid>
+            <pubDate>Mon, 15 May 2023 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Porter Robinson 포터 로빈슨 - Nurture (Clear Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/69374c6e-04c3-4716-acd1-dd1513926b6f</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Daft Punk 다프트 펑크 - Random Access Memories (10th Anniversary Edition) [3LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</link>
-            <guid>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</guid>
-            <pubDate>Wed, 05 Apr 2023 18:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677229274232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Charlie Puth (찰리 푸스) - 2집 Voicenotes [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-743-2350</link>
             <guid>https://www.seoulvinyl.com/product/untitled-743-2350</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Apr 2023 18:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HONNE 혼네 lp - Let`s Just Say The World Ended A Week From Now What Would You Do? (Crystal Clear Color)]]></title>
-            <link>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</link>
-            <guid>https://www.seoulvinyl.com/product/e0ad9ab9-08a2-475d-a44e-2f6143374247-2364-1</guid>
-            <pubDate>Wed, 05 Apr 2023 18:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1637841647749_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
