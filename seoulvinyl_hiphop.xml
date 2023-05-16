@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 11:08:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 13:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Internet 디 인터넷 lp - Ego Death vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-554-2489</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-554-2489</guid>
+            <pubDate>Tue, 16 May 2023 13:12:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586946669241_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Daniel Caesar 다니엘 시저 - Never Enough (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/fbc8002e-84a5-43d2-9b98-7b91e5302b18</link>
+            <guid>https://www.seoulvinyl.com/product/fbc8002e-84a5-43d2-9b98-7b91e5302b18</guid>
+            <pubDate>Sat, 04 Mar 2023 07:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683085679502_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sofiane Pamart & Dabeull 소피아네 파마트 & 다블 lp – Loving Life (Clear Colored Vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/7c64aa74-e8ce-4559-8f39-b767fc7fdb23</link>
@@ -96,14 +112,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Daniel Caesar 다니엘 시저 - Never Enough (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/fbc8002e-84a5-43d2-9b98-7b91e5302b18</link>
-            <guid>https://www.seoulvinyl.com/product/fbc8002e-84a5-43d2-9b98-7b91e5302b18</guid>
-            <pubDate>Sat, 04 Mar 2023 07:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683085679502_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Anderson Paak 앤더슨 팍 - Malibu (RSD Exclusive, Orange White Splatter Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/5918908f-ef0a-4656-bac1-1ec700ed9dbb</link>
             <guid>https://www.seoulvinyl.com/product/5918908f-ef0a-4656-bac1-1ec700ed9dbb</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676283976450_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston 휘트니 휴스턴 - Whitney Houston (Ltd, PEACH COLOR LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</link>
-            <guid>https://www.seoulvinyl.com/product/55f4c7bf-cb5e-4878-8516-a1bd149c1a13-2256</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673584684118_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
