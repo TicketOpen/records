@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 May 2023 10:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 May 2023 11:08:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,46 @@
             <pubDate>Thu, 11 May 2023 03:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683772699139_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica 메탈리카 - 72 Seasons (Indie Retail Midnight Violet Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78-2487</link>
+            <guid>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78-2487</guid>
+            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221765079_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica 메탈리카 - 72 Seasons [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78</link>
+            <guid>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78</guid>
+            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221639463_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Direction 원 디렉션 - Four (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</link>
+            <guid>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</guid>
+            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684222124153_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Direction 원 디렉션 - MADE IN THE A.M. (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/60abff83-0355-43b7-8d28-0a70ad5d4c16</link>
+            <guid>https://www.seoulvinyl.com/product/60abff83-0355-43b7-8d28-0a70ad5d4c16</guid>
+            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221870708_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joji 조지 - Smithereens (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</link>
+            <guid>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</guid>
+            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684220716565_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sofiane Pamart & Dabeull 소피아네 파마트 & 다블 lp – Loving Life (Clear Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
@@ -94,46 +134,6 @@
             <pubDate>Wed, 10 May 2023 11:05:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683713858628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Lamar 켄드릭 라마 lp - Good Kid, m.A.A.d City (10th Anniversary Edition, Milky Clear Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2bb1c0c5-24ac-4a24-9e52-a2a667667e2d</link>
-            <guid>https://www.seoulvinyl.com/product/2bb1c0c5-24ac-4a24-9e52-a2a667667e2d</guid>
-            <pubDate>Wed, 10 May 2023 11:05:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683713693774_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX 듀스 - 1st DEUX LP (Clear Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</link>
-            <guid>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</guid>
-            <pubDate>Mon, 08 May 2023 03:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683352638858_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rihanna 리한나 - A N T I [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/91cf2356-e323-4089-934e-07900ac9f980</link>
-            <guid>https://www.seoulvinyl.com/product/91cf2356-e323-4089-934e-07900ac9f980</guid>
-            <pubDate>Thu, 04 May 2023 09:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683189606620_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metro Boomin 메트로 부민 - 2집 Heroes & Villains [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/23c8c2b3-68b5-4502-8259-035182903a91</link>
-            <guid>https://www.seoulvinyl.com/product/23c8c2b3-68b5-4502-8259-035182903a91</guid>
-            <pubDate>Wed, 03 May 2023 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683113391152_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker 쳇 베이커 - Chet Baker Sings & Plays [180g LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/bc4b62ad-fbb8-4d06-add9-d976b5808d36</link>
-            <guid>https://www.seoulvinyl.com/product/bc4b62ad-fbb8-4d06-add9-d976b5808d36</guid>
-            <pubDate>Wed, 03 May 2023 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683113160873_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -356,7 +356,7 @@
             <link>https://www.seoulvinyl.com/product/fbc8002e-84a5-43d2-9b98-7b91e5302b18</link>
             <guid>https://www.seoulvinyl.com/product/fbc8002e-84a5-43d2-9b98-7b91e5302b18</guid>
             <pubDate>Sat, 04 Mar 2023 07:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683085679502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -648,6 +648,38 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666001533237_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Metallica 메탈리카 - 72 Seasons (Indie Retail Midnight Violet Colored 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78-2487</link>
+            <guid>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78-2487</guid>
+            <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221765079_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Metallica 메탈리카 - 72 Seasons [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78</link>
+            <guid>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78</guid>
+            <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221639463_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Direction 원 디렉션 - Four (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</link>
+            <guid>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</guid>
+            <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684222124153_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[One Direction 원 디렉션 - MADE IN THE A.M. (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/60abff83-0355-43b7-8d28-0a70ad5d4c16</link>
+            <guid>https://www.seoulvinyl.com/product/60abff83-0355-43b7-8d28-0a70ad5d4c16</guid>
+            <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221870708_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Daft Punk 다프트 펑크 - Random Access Memories (10th Anniversary Edition) [3LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</link>
             <guid>https://www.seoulvinyl.com/product/a897a877-05d8-4b8f-b1dc-36f5167c1464</guid>
@@ -742,38 +774,6 @@
             <pubDate>Fri, 03 Mar 2023 12:14:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ed Sheeran 에드 시런 lp - [ - ] Subtract (Ltd, Yellow Vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</link>
-            <guid>https://www.seoulvinyl.com/product/85244877-78ff-4ce8-a3b0-7968e986bdef</guid>
-            <pubDate>Thu, 02 Mar 2023 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677753317179_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Puth (찰리 푸스) - 2집 Voicenotes [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-743-2350</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-743-2350</guid>
-            <pubDate>Wed, 15 Feb 2023 03:14:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1601285879115_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[honne 혼네 - warm on a cold night (LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/warm-2358-2367</link>
-            <guid>https://www.seoulvinyl.com/product/warm-2358-2367</guid>
-            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578996076671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[honne 혼네 lp - love me love me not (LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/loveme-2359-2366</link>
-            <guid>https://www.seoulvinyl.com/product/loveme-2359-2366</guid>
-            <pubDate>Mon, 20 Feb 2023 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1578995889309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - Go Easy (2023 Remastering, Pink Colored 2LP) (서울바이닐 ─ KOREAN)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681725890770_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Joji 조지 - Smithereens (2LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</link>
+            <guid>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</guid>
+            <pubDate>Tue, 16 May 2023 11:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684220716565_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[류이치 사카모토 영화음악 세계 (Ryuichi Sakamoto - Music For Film) [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-697-2478</link>
             <guid>https://www.seoulvinyl.com/product/untitled-697-2478</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 13 Apr 2023 06:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357597110_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Greatest Hits! Of Tatsuro Yamashita [LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66</link>
-            <guid>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66</guid>
-            <pubDate>Thu, 13 Apr 2023 06:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357538422_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] 70'S CLASSIC HARD ROCK DISC GUIDE (서울바이닐 ─ etc)]]></title>
