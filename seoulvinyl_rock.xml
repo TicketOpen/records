@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 10:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 11:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V.A - '90s Movie Hits Collected (Colored 2LP, 2,000장 넘버링 한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ea760a4-e3a4-47db-b87d-faf09a65eeb9-2493</link>
+            <guid>https://www.seoulvinyl.com/product/2ea760a4-e3a4-47db-b87d-faf09a65eeb9-2493</guid>
+            <pubDate>Thu, 18 May 2023 11:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674803031430_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Metallica 메탈리카 - 72 Seasons (Indie Retail Midnight Violet Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78-2487</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Apr 2023 18:11:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">240,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842523267_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] LINKIN PARK 린킨 파크 - Meteora (4LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</link>
-            <guid>https://www.seoulvinyl.com/product/e8d2c5ae-db91-459f-a5c8-2e0c0b993ea0</guid>
-            <pubDate>Wed, 05 Apr 2023 18:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842236859_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

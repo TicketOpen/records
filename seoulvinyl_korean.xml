@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 May 2023 10:09:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 May 2023 11:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 아이브 - 정규 1집 I've IVE [180g White Color LP][초판 한정]]]></title>
-            <link>https://www.seoulvinyl.com/product/ec5226d0-9aee-4140-ad09-101db826fcea</link>
-            <guid>https://www.seoulvinyl.com/product/ec5226d0-9aee-4140-ad09-101db826fcea</guid>
-            <pubDate>Wed, 17 May 2023 08:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684309822445_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - Go Easy (2023 Remastering, Pink Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 11 May 2023 03:09:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683772699139_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 아이브 - 정규 1집 I've IVE [180g White Color LP][초판 한정]]]></title>
+            <link>https://www.seoulvinyl.com/product/ec5226d0-9aee-4140-ad09-101db826fcea</link>
+            <guid>https://www.seoulvinyl.com/product/ec5226d0-9aee-4140-ad09-101db826fcea</guid>
+            <pubDate>Wed, 17 May 2023 08:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684309822445_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DEUX 듀스 - 1st DEUX LP (Clear Colored Vinyl)]]></title>
