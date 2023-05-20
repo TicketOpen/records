@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 10:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 11:07:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,6 +200,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1645506416359_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레코드 겉비닐 2LP 사이즈 (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1068</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1068</guid>
+            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">11,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617095014736_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이현도 - The New Classik Instrumentals 2LP (Colored 1LP + 7inch 1LP) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</link>
             <guid>https://www.seoulvinyl.com/product/658113e6-15c2-413e-aac8-afdb371cdc05</guid>
@@ -214,14 +222,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668228560332_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레코드 겉비닐 2LP 사이즈 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1068</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1068</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">11,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617095014736_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레코드 겉비닐 1LP 사이즈 (서울바이닐 ─ 제작)]]></title>
@@ -240,6 +240,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[7인치 VINYL 액자 (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</link>
+            <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</guid>
+            <pubDate>Sat, 20 May 2023 11:05:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666602861604_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</link>
             <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</guid>
@@ -251,14 +259,6 @@
             <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</link>
             <guid>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</guid>
-            <pubDate>Thu, 11 May 2023 09:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Black Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba-1829</link>
-            <guid>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba-1829</guid>
             <pubDate>Thu, 11 May 2023 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
