@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 May 2023 04:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 May 2023 05:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 죠지 - 1집 FRR (LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c78ca90c-f931-46a5-b800-826f2df5ac93</link>
             <guid>https://www.seoulvinyl.com/product/c78ca90c-f931-46a5-b800-826f2df5ac93</guid>
-            <pubDate>Tue, 30 May 2023 04:12:28 GMT</pubDate>
+            <pubDate>Tue, 30 May 2023 04:11:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685418746385_1000.jpg" length="0" type="image/jpg"/>
         </item>
