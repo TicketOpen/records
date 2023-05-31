@@ -4,25 +4,9 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 05:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 06:12:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] 죠지 - 1집 FRR (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c78ca90c-f931-46a5-b800-826f2df5ac93</link>
-            <guid>https://www.seoulvinyl.com/product/c78ca90c-f931-46a5-b800-826f2df5ac93</guid>
-            <pubDate>Tue, 30 May 2023 04:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685418746385_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 윤지영 - EP앨범 Blue bird [Clear LP Gatefold]]]></title>
-            <link>https://www.seoulvinyl.com/product/f2e1311e-38b7-4b9e-b4f1-0e18f69f1e2b</link>
-            <guid>https://www.seoulvinyl.com/product/f2e1311e-38b7-4b9e-b4f1-0e18f69f1e2b</guid>
-            <pubDate>Wed, 24 May 2023 04:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684839471721_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] 웨이브 투어스 - 정규 1집 0.1 flaws and all. [Limited][12인치 마블 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/0ac09d4d-e038-4045-a38f-6755935726a0</link>
@@ -30,6 +14,22 @@
             <pubDate>Mon, 22 May 2023 07:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684736368096_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - Go Easy (2023 Remastering, Pink Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9</link>
+            <guid>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9</guid>
+            <pubDate>Wed, 31 May 2023 06:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683772699139_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슬기로운 의사생활 시즌 2 드라마 음악 (Hospital OST 2)[솔리드 화이트 & 블루 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3f440441-91d6-49a0-9e37-cdd77cb83213-2511</link>
+            <guid>https://www.seoulvinyl.com/product/3f440441-91d6-49a0-9e37-cdd77cb83213-2511</guid>
+            <pubDate>Wed, 31 May 2023 06:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">71,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1646192063021_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[DEUX 듀스 - 2nd DEUXISM LP (Clear Blue Colored Vinyl)]]></title>
