@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 May 2023 12:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 13:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -118,14 +118,6 @@
             <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
             <content:encoded><![CDATA[22,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202107/22ff2a1364c828c27d9bd7f53876e6df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로우 행잉 프루츠 Low Hanging Fruits EP I Just Wanna Be Better CD음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1756&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1756&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202105/124303bafb53a56d69cd5282b36c52dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[{ 5차 재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ (CD + POSTER 합본)]]></title>
@@ -390,6 +382,14 @@
             <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
             <content:encoded><![CDATA[19,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/33f4194c0f314c3605e9a69a687ba543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붉은 눈 문소문 정규 1집 CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 31 May 2023 13:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[22,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/16418a694f44988bf219439243947d10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
