@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Jun 2023 06:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Jun 2023 07:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e</link>
+            <guid>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e</guid>
+            <pubDate>Thu, 08 Jun 2023 07:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686205004653_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Speed 스피드 - Starting Over (Ltd, 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/369a7658-4da9-444c-87b6-4ebb34e93a13</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 Apr 2023 11:07:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682505365547_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Anri 안리 - Timely!! (Clear Skyblue colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</link>
-            <guid>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</guid>
-            <pubDate>Mon, 24 Apr 2023 08:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682323300420_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
