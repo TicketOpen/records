@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Jun 2023 08:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Jun 2023 09:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 또 오해영 OST [크림 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/53821449-0fb4-46e8-9195-b6d48a42ef23</link>
+            <guid>https://www.seoulvinyl.com/product/53821449-0fb4-46e8-9195-b6d48a42ef23</guid>
+            <pubDate>Fri, 09 Jun 2023 09:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686299951355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 19 May 2023 09:07:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684485475529_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] BARBER IN THE LIVINGROOM - BARBER IN THE LIVINGROOM (Ltd, LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6cdee5e6-8ba5-470a-b3e5-cb01c945f852</link>
-            <guid>https://www.seoulvinyl.com/product/6cdee5e6-8ba5-470a-b3e5-cb01c945f852</guid>
-            <pubDate>Fri, 19 May 2023 09:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684485257193_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677842523267_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 또 오해영 OST [크림 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/53821449-0fb4-46e8-9195-b6d48a42ef23</link>
+            <guid>https://www.seoulvinyl.com/product/53821449-0fb4-46e8-9195-b6d48a42ef23</guid>
+            <pubDate>Fri, 09 Jun 2023 09:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686299951355_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 케이윌 - 정규 2집 그립고 그립고 그립다 [180g 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/3e72718b-e20f-44c8-9198-51ed05df82fc</link>
             <guid>https://www.seoulvinyl.com/product/3e72718b-e20f-44c8-9198-51ed05df82fc</guid>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 03 May 2023 06:09:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683091919216_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 산울림 - 9집 웃는 모습으로 간직하고 싶어 [2,500장 한정반 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/b4c3a442-ddc5-4c58-8d62-c09facfdf1e5</link>
-            <guid>https://www.seoulvinyl.com/product/b4c3a442-ddc5-4c58-8d62-c09facfdf1e5</guid>
-            <pubDate>Wed, 03 May 2023 06:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683092043643_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl) (서울바이닐 ─ JAPANESE)]]></title>
