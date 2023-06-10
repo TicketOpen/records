@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 10 Jun 2023 09:08:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Jun 2023 10:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 선우정아 - Masstige [Limited Black LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c9acb8ce-224d-41d2-b27b-0df312958388</link>
+            <guid>https://www.seoulvinyl.com/product/c9acb8ce-224d-41d2-b27b-0df312958388</guid>
+            <pubDate>Sat, 10 Jun 2023 10:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686389413872_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 나미 - The Greatest [Limited Clear Orange Color LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bb035f39-ea28-4850-a0e1-1a8ad86f524b</link>
+            <guid>https://www.seoulvinyl.com/product/bb035f39-ea28-4850-a0e1-1a8ad86f524b</guid>
+            <pubDate>Sat, 10 Jun 2023 10:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686389296809_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 나미 - The Greatest [Black LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d722fa43-601b-4025-92e1-17a4fc5979e6</link>
+            <guid>https://www.seoulvinyl.com/product/d722fa43-601b-4025-92e1-17a4fc5979e6</guid>
+            <pubDate>Sat, 10 Jun 2023 10:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686389205273_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Rad Museum (라드 뮤지엄) - RAD [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/62d1b112-546f-42b5-b6c4-70b160ad5445</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 24 May 2023 04:09:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684839471721_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX 듀스 - 1st DEUX LP (Clear Colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</link>
-            <guid>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</guid>
-            <pubDate>Mon, 08 May 2023 03:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683352638858_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 산울림 - 7,8,9집 세트 [2,500장 한정반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d0bd13b4-8e6a-4e69-ba65-b876919adca5</link>
-            <guid>https://www.seoulvinyl.com/product/d0bd13b4-8e6a-4e69-ba65-b876919adca5</guid>
-            <pubDate>Wed, 03 May 2023 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">130,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683092263206_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 산울림 - 7집 가지마오 [2,500장 한정반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/575ef5c3-ccdb-497e-9f3f-b2c77a055d9e</link>
-            <guid>https://www.seoulvinyl.com/product/575ef5c3-ccdb-497e-9f3f-b2c77a055d9e</guid>
-            <pubDate>Wed, 03 May 2023 06:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683091668025_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
