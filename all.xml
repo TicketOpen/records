@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 04:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 05:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,6 +312,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683085679502_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Joji 조지 - Smithereens (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</link>
+            <guid>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</guid>
+            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684220716565_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sofiane Pamart & Dabeull 소피아네 파마트 & 다블 lp – Loving Life (Clear Colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/7c64aa74-e8ce-4559-8f39-b767fc7fdb23</link>
             <guid>https://www.seoulvinyl.com/product/7c64aa74-e8ce-4559-8f39-b767fc7fdb23</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 03 Apr 2023 07:07:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1680502558486_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (Atlantic 75주년 LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</link>
-            <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376</guid>
-            <pubDate>Fri, 24 Feb 2023 11:07:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슬기로운 의사생활 시즌 2 드라마 음악 (Hospital OST 2)[솔리드 화이트 & 블루 컬러 2LP] (서울바이닐 ─ OST)]]></title>
@@ -1000,14 +1000,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684484593842_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Joji 조지 - Smithereens (2LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</link>
-            <guid>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</guid>
-            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684220716565_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[류이치 사카모토 영화음악 세계 (Ryuichi Sakamoto - Music For Film) [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-697-2478</link>
             <guid>https://www.seoulvinyl.com/product/untitled-697-2478</guid>
@@ -1030,6 +1022,14 @@
             <pubDate>Wed, 26 Apr 2023 11:05:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682505365547_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Anri 안리 - Timely!! (Clear Skyblue colored LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</link>
+            <guid>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</guid>
+            <pubDate>Tue, 13 Jun 2023 05:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682323300420_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] 70'S CLASSIC HARD ROCK DISC GUIDE (서울바이닐 ─ etc)]]></title>

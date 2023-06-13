@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Jun 2023 04:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jun 2023 05:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684484593842_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Joji 조지 - Smithereens (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</link>
-            <guid>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</guid>
-            <pubDate>Tue, 16 May 2023 11:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684220716565_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[류이치 사카모토 영화음악 세계 (Ryuichi Sakamoto - Music For Film) [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-697-2478</link>
             <guid>https://www.seoulvinyl.com/product/untitled-697-2478</guid>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 26 Apr 2023 11:07:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682505365547_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Anri 안리 - Timely!! (Clear Skyblue colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</link>
+            <guid>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</guid>
+            <pubDate>Tue, 13 Jun 2023 05:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682323300420_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
