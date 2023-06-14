@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 14 Jun 2023 06:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Jun 2023 07:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,7 +651,7 @@
             <title><![CDATA[[예약판매] PHUM VIPHURIT - THE GRENG JAI PIECE (Colored Vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/a477ded6-7f82-44ec-b2f5-62dd5a592502</link>
             <guid>https://www.seoulvinyl.com/product/a477ded6-7f82-44ec-b2f5-62dd5a592502</guid>
-            <pubDate>Wed, 14 Jun 2023 06:10:55 GMT</pubDate>
+            <pubDate>Wed, 14 Jun 2023 06:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686721164157_1000.jpg" length="0" type="image/jpg"/>
         </item>
