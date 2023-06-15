@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 00:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 02:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [블루 마블 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</link>
+            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</guid>
+            <pubDate>Thu, 15 Jun 2023 02:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [그린 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</link>
+            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</guid>
+            <pubDate>Thu, 15 Jun 2023 02:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527-2528</link>
+            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527-2528</guid>
+            <pubDate>Thu, 15 Jun 2023 02:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] PHUM VIPHURIT - THE GRENG JAI PIECE (Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/a477ded6-7f82-44ec-b2f5-62dd5a592502</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 01 Jun 2023 12:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685617603285_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 웨이브 투어스 - 정규 1집 0.1 flaws and all. [Limited][12인치 마블 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0ac09d4d-e038-4045-a38f-6755935726a0</link>
-            <guid>https://www.seoulvinyl.com/product/0ac09d4d-e038-4045-a38f-6755935726a0</guid>
-            <pubDate>Mon, 22 May 2023 07:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684736368096_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - Go Easy (2023 Remastering, Pink Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9</link>
-            <guid>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9</guid>
-            <pubDate>Thu, 11 May 2023 03:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683772699139_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HYBS - Making Steak (Yellow Colored Vinyl, 45rpm) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c58d13b6-ec1b-4bc5-ad37-eb155614c585</link>
-            <guid>https://www.seoulvinyl.com/product/c58d13b6-ec1b-4bc5-ad37-eb155614c585</guid>
-            <pubDate>Thu, 06 Apr 2023 08:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1680768024301_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,30 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679045567227_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [블루 마블 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</link>
+            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</guid>
+            <pubDate>Thu, 15 Jun 2023 02:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</link>
+            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</guid>
+            <pubDate>Thu, 15 Jun 2023 02:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527-2528</link>
+            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527-2528</guid>
+            <pubDate>Thu, 15 Jun 2023 02:09:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 윤지영 - 정규 1집 나의 정원에서 [투명반 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/a9a2d6a2-0c3f-412d-b241-e1b950c8b920</link>
             <guid>https://www.seoulvinyl.com/product/a9a2d6a2-0c3f-412d-b241-e1b950c8b920</guid>
@@ -878,30 +902,6 @@
             <pubDate>Sat, 20 May 2023 03:07:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684488005425_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[9와 숫자들 - 정규 1집 9와 숫자들 [투명 옐로우 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a5d570aa-3015-43e0-a504-164cd5508600</link>
-            <guid>https://www.seoulvinyl.com/product/a5d570aa-3015-43e0-a504-164cd5508600</guid>
-            <pubDate>Fri, 19 May 2023 04:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684469284809_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 아이브 - 정규 1집 I've IVE [180g White Color LP][초판 한정] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec5226d0-9aee-4140-ad09-101db826fcea</link>
-            <guid>https://www.seoulvinyl.com/product/ec5226d0-9aee-4140-ad09-101db826fcea</guid>
-            <pubDate>Wed, 17 May 2023 08:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684309822445_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 죠지 - 1집 FRR (LP) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/c78ca90c-f931-46a5-b800-826f2df5ac93</link>
-            <guid>https://www.seoulvinyl.com/product/c78ca90c-f931-46a5-b800-826f2df5ac93</guid>
-            <pubDate>Tue, 30 May 2023 04:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685418746385_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl) (서울바이닐 ─ JAPANESE)]]></title>
