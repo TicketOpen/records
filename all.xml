@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 07:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 08:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,7 +80,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686389205273_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Rad Museum (라드 뮤지엄) - RAD [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[Rad Museum (라드 뮤지엄) - RAD [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/62d1b112-546f-42b5-b6c4-70b160ad5445</link>
             <guid>https://www.seoulvinyl.com/product/62d1b112-546f-42b5-b6c4-70b160ad5445</guid>
             <pubDate>Fri, 09 Jun 2023 11:05:40 GMT</pubDate>
@@ -840,7 +840,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686389205273_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Rad Museum (라드 뮤지엄) - RAD [2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[Rad Museum (라드 뮤지엄) - RAD [2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/62d1b112-546f-42b5-b6c4-70b160ad5445</link>
             <guid>https://www.seoulvinyl.com/product/62d1b112-546f-42b5-b6c4-70b160ad5445</guid>
             <pubDate>Fri, 09 Jun 2023 11:05:40 GMT</pubDate>
