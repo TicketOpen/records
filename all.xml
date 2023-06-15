@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 03:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 04:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miso 미소 - Raw Gems Vol.1 [140g 실버 그레이 불투명 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b3f73a53-241d-4678-9f59-3a7931830a77</link>
+            <guid>https://www.seoulvinyl.com/product/b3f73a53-241d-4678-9f59-3a7931830a77</guid>
+            <pubDate>Thu, 15 Jun 2023 04:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686801892085_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [블루 마블 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 05 Jun 2023 08:10:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685949261516_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Kehlani 켈라니 - Cloud 19 (Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/72a1b974-2105-4764-8cf7-7c296ec485ff</link>
-            <guid>https://www.seoulvinyl.com/product/72a1b974-2105-4764-8cf7-7c296ec485ff</guid>
-            <pubDate>Thu, 01 Jun 2023 12:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685617603285_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679045567227_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Miso 미소 - Raw Gems Vol.1 [140g 실버 그레이 불투명 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/b3f73a53-241d-4678-9f59-3a7931830a77</link>
+            <guid>https://www.seoulvinyl.com/product/b3f73a53-241d-4678-9f59-3a7931830a77</guid>
+            <pubDate>Thu, 15 Jun 2023 04:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686801892085_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 [블루 마블 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</link>
             <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</guid>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 07 Jun 2023 03:13:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX 듀스 - 2nd DEUXISM LP (Clear Blue Colored Vinyl) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</link>
-            <guid>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</guid>
-            <pubDate>Sat, 20 May 2023 03:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684488005425_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl) (서울바이닐 ─ JAPANESE)]]></title>
