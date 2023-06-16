@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 10:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 11:07:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Nulbarich - MAGIC WAYS(7inch)]]></title>
+            <link>https://www.seoulvinyl.com/product/fbc41e56-8c87-46a0-b3ec-341b322c2719</link>
+            <guid>https://www.seoulvinyl.com/product/fbc41e56-8c87-46a0-b3ec-341b322c2719</guid>
+            <pubDate>Fri, 16 Jun 2023 11:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677054773826_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 26 Apr 2023 11:07:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682505365547_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Anri 안리 - Timely!! (Clear Skyblue colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</link>
-            <guid>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327</guid>
-            <pubDate>Tue, 13 Jun 2023 05:09:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682323300420_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
