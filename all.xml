@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 04:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 05:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[디즈니 애니메이션 히트곡 모음집 (The Essential Disney Collection) [오렌지 컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</link>
             <guid>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</guid>
-            <pubDate>Wed, 21 Jun 2023 04:09:46 GMT</pubDate>
+            <pubDate>Wed, 21 Jun 2023 04:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687317941447_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -1472,6 +1472,14 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[The Whistle  미역수염 EP (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2062&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2062&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 21 Jun 2023 05:10:19 GMT</pubDate>
+            <content:encoded><![CDATA[8,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202306/fc927a539b668bc6131da2979cab5fce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봉오리 시절 허정혁 정규 1집 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2053&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2053&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Wed, 14 Jun 2023 21:07:25 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/8777d92e5e659726938571dd75643ca7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[{ 재입고 } hi love 웨스턴 카잇 EP (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Jun 2023 15:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/5f5fc15c7f8c008e57de44e45f467e2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
