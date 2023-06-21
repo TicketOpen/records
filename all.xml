@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Jun 2023 06:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Jun 2023 07:09:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -523,7 +523,7 @@
             <title><![CDATA[[예약판매] Chet Baker 쳇 베이커 - Live In Rosenheim (Colore LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/2bfccfe9-b0ec-4b36-9d52-a8872aeb5a81</link>
             <guid>https://www.seoulvinyl.com/product/2bfccfe9-b0ec-4b36-9d52-a8872aeb5a81</guid>
-            <pubDate>Wed, 21 Jun 2023 06:10:41 GMT</pubDate>
+            <pubDate>Wed, 21 Jun 2023 06:09:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687324165599_1000.jpg" length="0" type="image/jpg"/>
         </item>
