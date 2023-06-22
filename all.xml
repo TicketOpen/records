@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Jun 2023 16:21:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Jun 2023 17:07:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1328,14 +1328,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202011/0c797286f685d3d077698b4fa493ae8c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[{ 재입고 } 공중그늘 정규 1집 CD음반‘연가’ (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1545&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1545&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Feb 2023 08:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202302/eedccd11c199f4be517adc328553858b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[초현(Chohyun) 싱글2집 ‘Song from the moon’ 앨범 + 그립톡 한정판 패키지 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1532&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1532&amp;cate_no=60&amp;display_group=1</guid>
@@ -1542,6 +1534,14 @@
             <pubDate>Wed, 14 Jun 2023 21:07:25 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/8777d92e5e659726938571dd75643ca7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[{ 재입고 } hi love 웨스턴 카잇 EP (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Thu, 22 Jun 2023 17:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/5f5fc15c7f8c008e57de44e45f467e2f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
