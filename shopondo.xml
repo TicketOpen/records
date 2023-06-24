@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 23:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jun 2023 00:45:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,12 +384,12 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/8777d92e5e659726938571dd75643ca7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[{ 재입고 } hi love 웨스턴 카잇 EP]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1968&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Jun 2023 17:07:38 GMT</pubDate>
+            <title><![CDATA[출입 : Mandala 스쿼시바인즈 2집]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1967&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1967&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sat, 24 Jun 2023 00:45:28 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/5f5fc15c7f8c008e57de44e45f467e2f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202212/269577c33b7122844ecfed7c3cf8b473.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
