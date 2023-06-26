@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Jun 2023 07:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Jun 2023 08:18:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Anri 안리 - Summer Edition (45rpm, LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9</link>
+            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9</guid>
+            <pubDate>Mon, 26 Jun 2023 08:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Post Malone 포스트 말론 - Austin (Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/6104d317-8bfb-48b5-9749-d3ebe5984b49</link>
@@ -128,22 +136,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686907547626_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[J Dilla 제이 딜라 - Donuts (2LP, Smile Cover) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6f12ce1a-a9b1-454e-bcf9-a755a0ad617d</link>
-            <guid>https://www.seoulvinyl.com/product/6f12ce1a-a9b1-454e-bcf9-a755a0ad617d</guid>
-            <pubDate>Fri, 16 Jun 2023 10:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686907132575_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[결제 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/aa77e822-411b-4170-a36a-103f0f9a54cd</link>
-            <guid>https://www.seoulvinyl.com/product/aa77e822-411b-4170-a36a-103f0f9a54cd</guid>
-            <pubDate>Mon, 26 Jun 2023 07:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
-            <enclosure url="https://static.sixshop.com/resources/images/product/thumbnail_default.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
             <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
@@ -262,6 +254,14 @@
             <pubDate>Thu, 11 May 2023 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</link>
+            <guid>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</guid>
+            <pubDate>Mon, 26 Jun 2023 08:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Post Malone 포스트 말론 - Austin (Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1673234387598_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Anri 안리 - Summer Edition (45rpm, LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9</link>
+            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9</guid>
+            <pubDate>Mon, 26 Jun 2023 08:18:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[INOKASIRA RANGERS - AUTOBAHN (7인치 싱글) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/4fa23fb9-1816-40b8-84e7-7542e5cac7af-2541</link>
             <guid>https://www.seoulvinyl.com/product/4fa23fb9-1816-40b8-84e7-7542e5cac7af-2541</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 19 May 2023 09:07:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684484724122_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Kingo Hamada 킹고 하마다 - Midnight Cruisin' (Ltd, Red Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/58eedc4f-bde0-4611-b280-5ce202eb0e4d</link>
-            <guid>https://www.seoulvinyl.com/product/58eedc4f-bde0-4611-b280-5ce202eb0e4d</guid>
-            <pubDate>Fri, 19 May 2023 09:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684484593842_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Book] 70'S CLASSIC HARD ROCK DISC GUIDE (서울바이닐 ─ etc)]]></title>
