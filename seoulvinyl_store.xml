@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Jun 2023 07:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jun 2023 08:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans 빌 에반스 - You Must Believe In Spring [180g 2LP, 45RPM]]]></title>
+            <link>https://www.seoulvinyl.com/product/adaf9a24-ac36-4b57-90eb-7799958689f6</link>
+            <guid>https://www.seoulvinyl.com/product/adaf9a24-ac36-4b57-90eb-7799958689f6</guid>
+            <pubDate>Tue, 27 Jun 2023 08:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687851546630_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가디언즈 오브 더 갤럭시 3 O.S.T [Gatefold][2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/55721216-e94a-4db5-828e-bcbf46bd79ed</link>
+            <guid>https://www.seoulvinyl.com/product/55721216-e94a-4db5-828e-bcbf46bd79ed</guid>
+            <pubDate>Tue, 27 Jun 2023 08:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687850082402_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Anri 안리 - Summer Edition (45rpm, LP)]]></title>
             <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 16 Jun 2023 11:05:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677054773826_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Bill Evans Trio 빌 에반스 트리오 - Waltz For Debby [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/aab1db5f-9649-4592-9820-72c7b18b28bd</link>
-            <guid>https://www.seoulvinyl.com/product/aab1db5f-9649-4592-9820-72c7b18b28bd</guid>
-            <pubDate>Fri, 16 Jun 2023 10:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686908333003_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Extreme 익스트림 - Iii Sides To Every Story (180G, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/82b50350-a628-4306-ae45-e6a72c066d3f</link>
-            <guid>https://www.seoulvinyl.com/product/82b50350-a628-4306-ae45-e6a72c066d3f</guid>
-            <pubDate>Fri, 16 Jun 2023 10:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686907547626_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
