@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 10:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 11:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 27 Jun 2023 10:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687857108959_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 - Speak Now (Taylor's Version)[Colored 3LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</link>
-            <guid>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</guid>
-            <pubDate>Wed, 21 Jun 2023 11:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687341944181_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Taylor Swift 테일러 스위프트 LP - Speak Now (2LP)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Sat, 13 May 2023 09:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683965962315_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cuco 쿠코 - Fantasy Gateway [Sea Blue LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8df0b9cf-c8c3-49a3-a3d5-3d2b6e64fb28</link>
+            <guid>https://www.seoulvinyl.com/product/8df0b9cf-c8c3-49a3-a3d5-3d2b6e64fb28</guid>
+            <pubDate>Wed, 28 Jun 2023 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682753700994_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
