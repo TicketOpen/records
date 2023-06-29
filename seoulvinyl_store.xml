@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Jun 2023 10:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Jun 2023 11:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Antonio Carlos Jobim 안토니오 카를로스 조빔 - The Composer of Desafinado, Plays [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/0350d449-da84-4665-86d8-103cdd6a03ed</link>
+            <guid>https://www.seoulvinyl.com/product/0350d449-da84-4665-86d8-103cdd6a03ed</guid>
+            <pubDate>Thu, 29 Jun 2023 11:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688036278226_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Extreme (익스트림) - Six [투명 레드 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d72d0ef2-b978-4b86-b9e3-5dbb25c02fdf</link>
+            <guid>https://www.seoulvinyl.com/product/d72d0ef2-b978-4b86-b9e3-5dbb25c02fdf</guid>
+            <pubDate>Thu, 29 Jun 2023 11:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688035807989_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[티셔츠] CITY POP on VINYL2023 Official T shirts]]></title>
             <link>https://www.seoulvinyl.com/product/6dcb28c9-a0fd-4e42-8978-89063b572e17</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 21 Jun 2023 06:09:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687324165599_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 애니메이션 히트곡 모음집 (The Essential Disney Collection) [오렌지 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</link>
-            <guid>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</guid>
-            <pubDate>Wed, 21 Jun 2023 04:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687317941447_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 05 [180g 흰색 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e9cf5956-7a0d-47aa-9e8b-3464b7691dfd</link>
-            <guid>https://www.seoulvinyl.com/product/e9cf5956-7a0d-47aa-9e8b-3464b7691dfd</guid>
-            <pubDate>Wed, 28 Jun 2023 11:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687166471516_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
