@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 30 Jun 2023 09:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Jun 2023 10:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[로이킴 - 그리고 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b9fbabce-9c21-40c4-82c3-647106284086</link>
             <guid>https://www.seoulvinyl.com/product/b9fbabce-9c21-40c4-82c3-647106284086</guid>
-            <pubDate>Fri, 30 Jun 2023 09:09:34 GMT</pubDate>
+            <pubDate>Fri, 30 Jun 2023 09:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688114311870_1000.jpg" length="0" type="image/jpg"/>
         </item>
