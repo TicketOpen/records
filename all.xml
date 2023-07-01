@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jul 2023 22:09:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jul 2023 23:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1232,14 +1232,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/013f7cfb89b7d34fcca379cbe144f273.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[{ 재입고 } 다린 Darin 3rd EP ‘갈래’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1815&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Mar 2023 17:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202111/7ad984731967a183940544c125bcbb89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[십개월의 미래 Ten Months 모임 별 Byul.org , 남궁선 시나리오집 + CD 결합 음반 / 한정반 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1810&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1810&amp;cate_no=60&amp;display_group=1</guid>
@@ -1286,14 +1278,6 @@
             <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/67399f7696f9b2ada8cd67020ca8f806.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[{ 6차재입고 } 안다영 Dayoung Ahn 정규 1집 ‘ANTIHERO’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1714&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Apr 2023 13:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/da99811b02cdb86baa9ce3ca2da07bfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드린지 오 Dringe Augh 3집 Black Hyll Side CD/음반 (일렉트릭 뮤즈) (공상온도 스토어 ─ 음반)]]></title>
@@ -1542,6 +1526,22 @@
             <pubDate>Wed, 11 Jan 2023 12:16:03 GMT</pubDate>
             <content:encoded><![CDATA[19,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/33f4194c0f314c3605e9a69a687ba543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붉은 눈 문소문 정규 1집 CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sat, 01 Jul 2023 23:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[22,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/16418a694f44988bf219439243947d10.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도마 도마 정규 2집 CD음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1986&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1986&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sat, 01 Jul 2023 23:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/8777d92e5e659726938571dd75643ca7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
