@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jul 2023 04:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 05:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,30 +54,6 @@
             <pubDate>Wed, 28 Jun 2023 10:08:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687946188858_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type A (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/5</link>
-            <guid>https://www.seoulvinyl.com/product/5</guid>
-            <pubDate>Tue, 27 Jun 2023 11:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type B (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ed698e--2552</link>
-            <guid>https://www.seoulvinyl.com/product/59ed698e--2552</guid>
-            <pubDate>Tue, 27 Jun 2023 11:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[USED] Type C (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/756-1757-24092341-2461-2551</link>
-            <guid>https://www.seoulvinyl.com/product/756-1757-24092341-2461-2551</guid>
-            <pubDate>Tue, 27 Jun 2023 11:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miles Davis Quintet 마일스데이비스 lp - Workin' With The Miles Davis Quintet (서울바이닐 ─ 스토어)]]></title>
@@ -136,28 +112,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687341944181_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/5</link>
-            <guid>https://www.seoulvinyl.com/product/5</guid>
-            <pubDate>Tue, 27 Jun 2023 11:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[INOKASIRA RANGERS - AUTOBAHN (7인치 싱글) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/4fa23fb9-1816-40b8-84e7-7542e5cac7af-2541</link>
+            <guid>https://www.seoulvinyl.com/product/4fa23fb9-1816-40b8-84e7-7542e5cac7af-2541</guid>
+            <pubDate>Wed, 21 Jun 2023 08:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650532011349_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[USED] Type B (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ed698e--2552</link>
-            <guid>https://www.seoulvinyl.com/product/59ed698e--2552</guid>
-            <pubDate>Tue, 27 Jun 2023 11:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[INOKASHIRA RANGERS - Smells Like Teen Spirit / Summer Madness (7인치) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/5feee634-b0c3-4fd5-943d-3b9df63130a2-2540</link>
+            <guid>https://www.seoulvinyl.com/product/5feee634-b0c3-4fd5-943d-3b9df63130a2-2540</guid>
+            <pubDate>Wed, 21 Jun 2023 08:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663322867634_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[USED] Type C (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/756-1757-24092341-2461-2551</link>
-            <guid>https://www.seoulvinyl.com/product/756-1757-24092341-2461-2551</guid>
-            <pubDate>Tue, 27 Jun 2023 11:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Sokabe Keiichi And Inokasira Rangers - Sex Machine (7인치) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/35d380f1-5ce3-423e-a96e-5b7300122cc4-2539</link>
+            <guid>https://www.seoulvinyl.com/product/35d380f1-5ce3-423e-a96e-5b7300122cc4-2539</guid>
+            <pubDate>Wed, 21 Jun 2023 08:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663322545867_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -262,6 +238,30 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">5,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[7인치 VINYL 액자 (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</link>
+            <guid>https://www.seoulvinyl.com/product/16b44506-9bd3-4f91-a69a-6dd234d0ef1c</guid>
+            <pubDate>Tue, 04 Jul 2023 05:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666602861604_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2PM - 7집 MUST [컬러 LP] (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</link>
+            <guid>https://www.seoulvinyl.com/product/fa09f365-cb3e-40ee-8790-1a9f5789d7df-1830</guid>
+            <pubDate>Tue, 04 Jul 2023 05:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</link>
+            <guid>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</guid>
+            <pubDate>Tue, 04 Jul 2023 05:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SZA 시저 - Sos (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -667,7 +667,7 @@
             <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 - Speak Now (Taylor's Version)[Colored 3LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</link>
             <guid>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</guid>
-            <pubDate>Tue, 04 Jul 2023 04:10:52 GMT</pubDate>
+            <pubDate>Tue, 04 Jul 2023 04:10:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687341944181_1000.jpg" length="0" type="image/jpg"/>
         </item>
