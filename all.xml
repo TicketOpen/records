@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 07:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 08:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MAALIB&WRKMS - SUSTAIN 그린투명반 [100장 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2e8b5500-7bd7-4989-83e0-262de63b6240</link>
+            <guid>https://www.seoulvinyl.com/product/2e8b5500-7bd7-4989-83e0-262de63b6240</guid>
+            <pubDate>Mon, 10 Jul 2023 08:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688972841003_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로이킴 - 그리고 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b9fbabce-9c21-40c4-82c3-647106284086</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 21 Jun 2023 08:09:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663322867634_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sokabe Keiichi And Inokasira Rangers - Sex Machine (7인치) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/35d380f1-5ce3-423e-a96e-5b7300122cc4-2539</link>
-            <guid>https://www.seoulvinyl.com/product/35d380f1-5ce3-423e-a96e-5b7300122cc4-2539</guid>
-            <pubDate>Wed, 21 Jun 2023 08:09:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663322545867_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683966492565_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MAALIB&WRKMS - SUSTAIN 그린투명반 [100장 한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2e8b5500-7bd7-4989-83e0-262de63b6240</link>
+            <guid>https://www.seoulvinyl.com/product/2e8b5500-7bd7-4989-83e0-262de63b6240</guid>
+            <pubDate>Mon, 10 Jul 2023 08:12:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688972841003_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로이킴 - 그리고 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b9fbabce-9c21-40c4-82c3-647106284086</link>
             <guid>https://www.seoulvinyl.com/product/b9fbabce-9c21-40c4-82c3-647106284086</guid>
@@ -894,14 +902,6 @@
             <pubDate>Mon, 22 May 2023 07:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684736368096_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - Go Easy (2023 Remastering, Pink Colored 2LP) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9</link>
-            <guid>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9</guid>
-            <pubDate>Thu, 11 May 2023 03:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683772699139_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Anri 안리 - Summer Edition (45rpm, LP) (서울바이닐 ─ JAPANESE)]]></title>
