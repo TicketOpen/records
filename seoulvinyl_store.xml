@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 09:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 10:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 호소다 마모루 - Mirai 미래의 미라이 OST (Colored 1LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</link>
+            <guid>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</guid>
+            <pubDate>Mon, 10 Jul 2023 10:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688981883200_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[MAALIB&WRKMS - SUSTAIN 그린투명반 [100장 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/2e8b5500-7bd7-4989-83e0-262de63b6240</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 04 Jul 2023 05:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650532011349_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[INOKASHIRA RANGERS - Smells Like Teen Spirit / Summer Madness (7인치)]]></title>
-            <link>https://www.seoulvinyl.com/product/5feee634-b0c3-4fd5-943d-3b9df63130a2-2540</link>
-            <guid>https://www.seoulvinyl.com/product/5feee634-b0c3-4fd5-943d-3b9df63130a2-2540</guid>
-            <pubDate>Tue, 04 Jul 2023 05:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663322867634_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
