@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 11:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 12:15:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Limp Bizkit 림프 비즈킷 - Significant Other (Gatefold Cover)[2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/41598e25-02ac-44b3-ada8-3e8a879c3947</link>
+            <guid>https://www.seoulvinyl.com/product/41598e25-02ac-44b3-ada8-3e8a879c3947</guid>
+            <pubDate>Tue, 18 Jul 2023 12:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689679356823_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Extreme (익스트림) - Six [투명 레드 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d72d0ef2-b978-4b86-b9e3-5dbb25c02fdf</link>
@@ -24,7 +32,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687857108959_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 - Speak Now (Taylor's Version)[Colored 3LP]]]></title>
+            <title><![CDATA[Taylor Swift 테일러 스위프트 - Speak Now (Taylor's Version)[Colored 3LP]]]></title>
             <link>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</link>
             <guid>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</guid>
             <pubDate>Tue, 04 Jul 2023 04:10:52 GMT</pubDate>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 13 May 2023 09:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683966857573_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[M83 (엠83) lp - Fantasy (Ltd, Blue Marble Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c9e55a71-4737-4fed-b439-2354c2eb7c27</link>
-            <guid>https://www.seoulvinyl.com/product/c9e55a71-4737-4fed-b439-2354c2eb7c27</guid>
-            <pubDate>Sat, 13 May 2023 09:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683966492565_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
