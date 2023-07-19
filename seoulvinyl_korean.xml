@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 10:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 11:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 실리카겔 - 1집 실리카겔 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</link>
+            <guid>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</guid>
+            <pubDate>Wed, 19 Jul 2023 11:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689762702410_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - 10년동안의 오독 [컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/868eb02c-2418-46a9-a3ed-5a7dd838582c</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 07 Jun 2023 03:14:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686107092113_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 선우정아 - 2집 It's Okay, Dear [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/ebd9e8e4-3400-4892-bd0e-fda8a1e6720d</link>
-            <guid>https://www.seoulvinyl.com/product/ebd9e8e4-3400-4892-bd0e-fda8a1e6720d</guid>
-            <pubDate>Mon, 05 Jun 2023 08:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685949261516_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

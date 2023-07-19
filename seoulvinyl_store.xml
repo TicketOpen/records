@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 10:10:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 11:08:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 실리카겔 - 1집 실리카겔 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</link>
+            <guid>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</guid>
+            <pubDate>Wed, 19 Jul 2023 11:06:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689762702410_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Camp Lo 캠프 로 - Uptown Saturday Night (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/8eb10123-fb44-4f4a-80a2-1d4a3b40c4c0</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Jun 2023 11:06:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688036278226_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Extreme (익스트림) - Six [투명 레드 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d72d0ef2-b978-4b86-b9e3-5dbb25c02fdf</link>
-            <guid>https://www.seoulvinyl.com/product/d72d0ef2-b978-4b86-b9e3-5dbb25c02fdf</guid>
-            <pubDate>Thu, 29 Jun 2023 11:06:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688035807989_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
