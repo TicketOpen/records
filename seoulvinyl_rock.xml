@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jul 2023 11:08:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 12:16:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Olivia Rodrigo 올리비아 로드리고 - Guts 2집 [Lavender Colored Vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/955fdba1-a6c4-4ddd-93f9-08e73fa45965</link>
+            <guid>https://www.seoulvinyl.com/product/955fdba1-a6c4-4ddd-93f9-08e73fa45965</guid>
+            <pubDate>Thu, 20 Jul 2023 12:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689852348426_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Limp Bizkit 림프 비즈킷 - Significant Other (Gatefold Cover)[2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/41598e25-02ac-44b3-ada8-3e8a879c3947</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 15 May 2023 11:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670921112637_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Porter Robinson 포터 로빈슨 - Nurture (Clear Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/69374c6e-04c3-4716-acd1-dd1513926b6f</link>
-            <guid>https://www.seoulvinyl.com/product/69374c6e-04c3-4716-acd1-dd1513926b6f</guid>
-            <pubDate>Sat, 13 May 2023 09:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683966857573_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
