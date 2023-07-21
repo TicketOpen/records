@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 07:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 08:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker 쳇 베이커– Chet (Riverside) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d6d709ba-ba01-445b-8e84-c44952d06dac</link>
+            <guid>https://www.seoulvinyl.com/product/d6d709ba-ba01-445b-8e84-c44952d06dac</guid>
+            <pubDate>Fri, 21 Jul 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689926662055_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pink Sweat$ 핑크 스웨츠 - PINK PLANET [LP] Black vinyl (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d140d93-0df2-4449-afaa-bfdba0fec551</link>
+            <guid>https://www.seoulvinyl.com/product/4d140d93-0df2-4449-afaa-bfdba0fec551</guid>
+            <pubDate>Fri, 21 Jul 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689926305124_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pachinko 파친코 OST (Apple + Original Series)(Ltd)(Colored LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c7e79d9a-3246-4426-b491-82c04d787f02</link>
+            <guid>https://www.seoulvinyl.com/product/c7e79d9a-3246-4426-b491-82c04d787f02</guid>
+            <pubDate>Fri, 21 Jul 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689925943903_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pat Metheny 팻 매시니- Dream Box [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/da28d84b-f22d-446f-b3b4-86991c463255</link>
+            <guid>https://www.seoulvinyl.com/product/da28d84b-f22d-446f-b3b4-86991c463255</guid>
+            <pubDate>Fri, 21 Jul 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689925900405_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Olivia Rodrigo 올리비아 로드리고 - Guts 2집 [Lavender Colored Vinyl] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/955fdba1-a6c4-4ddd-93f9-08e73fa45965</link>
@@ -102,38 +134,6 @@
             <pubDate>Fri, 14 Jul 2023 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689331030552_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - 10년동안의 오독 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/868eb02c-2418-46a9-a3ed-5a7dd838582c</link>
-            <guid>https://www.seoulvinyl.com/product/868eb02c-2418-46a9-a3ed-5a7dd838582c</guid>
-            <pubDate>Thu, 13 Jul 2023 05:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689221305057_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 호소다 마모루 - Mirai 미래의 미라이 OST (Colored 1LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</link>
-            <guid>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</guid>
-            <pubDate>Mon, 10 Jul 2023 10:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688981883200_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MAALIB&WRKMS - SUSTAIN 그린투명반 [100장 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2e8b5500-7bd7-4989-83e0-262de63b6240</link>
-            <guid>https://www.seoulvinyl.com/product/2e8b5500-7bd7-4989-83e0-262de63b6240</guid>
-            <pubDate>Mon, 10 Jul 2023 08:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688972841003_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로이킴 - 그리고 [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b9fbabce-9c21-40c4-82c3-647106284086</link>
-            <guid>https://www.seoulvinyl.com/product/b9fbabce-9c21-40c4-82c3-647106284086</guid>
-            <pubDate>Fri, 30 Jun 2023 09:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688114311870_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pink Sweat$ 핑크 스웨츠 - PINK PLANET [LP] Black vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/4d140d93-0df2-4449-afaa-bfdba0fec551</link>
+            <guid>https://www.seoulvinyl.com/product/4d140d93-0df2-4449-afaa-bfdba0fec551</guid>
+            <pubDate>Fri, 21 Jul 2023 08:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689926305124_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Camp Lo 캠프 로 - Uptown Saturday Night (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/8eb10123-fb44-4f4a-80a2-1d4a3b40c4c0</link>
             <guid>https://www.seoulvinyl.com/product/8eb10123-fb44-4f4a-80a2-1d4a3b40c4c0</guid>
@@ -384,12 +392,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683189606620_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Metro Boomin 메트로 부민 - 2집 Heroes & Villains [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/23c8c2b3-68b5-4502-8259-035182903a91</link>
-            <guid>https://www.seoulvinyl.com/product/23c8c2b3-68b5-4502-8259-035182903a91</guid>
-            <pubDate>Wed, 03 May 2023 12:12:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683113391152_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Pachinko 파친코 OST (Apple + Original Series)(Ltd)(Colored LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/c7e79d9a-3246-4426-b491-82c04d787f02</link>
+            <guid>https://www.seoulvinyl.com/product/c7e79d9a-3246-4426-b491-82c04d787f02</guid>
+            <pubDate>Fri, 21 Jul 2023 08:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689925943903_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Neon Genesis Evangelion 에반게리온 OST [Deep Blue & Black Marbled, 2LP] (서울바이닐 ─ OST)]]></title>
@@ -512,12 +520,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hisaishi Joe 히사이시 조 - Howl's Moving Castle 하울의 움직이는 성 Sound Track vinyl (Ltd, Colored 2LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-831-2278-2372</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-831-2278-2372</guid>
-            <pubDate>Wed, 22 Feb 2023 08:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606796801709_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Chet Baker 쳇 베이커– Chet (Riverside) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/d6d709ba-ba01-445b-8e84-c44952d06dac</link>
+            <guid>https://www.seoulvinyl.com/product/d6d709ba-ba01-445b-8e84-c44952d06dac</guid>
+            <pubDate>Fri, 21 Jul 2023 08:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689926662055_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pat Metheny 팻 매시니- Dream Box [2LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/da28d84b-f22d-446f-b3b4-86991c463255</link>
+            <guid>https://www.seoulvinyl.com/product/da28d84b-f22d-446f-b3b4-86991c463255</guid>
+            <pubDate>Fri, 21 Jul 2023 08:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689925900405_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antonio Carlos Jobim 안토니오 카를로스 조빔 - The Composer of Desafinado, Plays [180g LP] (서울바이닐 ─ JAZZ)]]></title>
@@ -630,22 +646,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678787071189_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charlie Haden & Pat Metheny 찰리 헤이든 & 팻 메스니 - Beyond The Missouri Sky (Short Stories) (2LP) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</link>
-            <guid>https://www.seoulvinyl.com/product/f3b08238-7fba-471a-ac2c-6eb665a2602d</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1669976541928_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker 쳇베이커 - sings (yellow colored) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</link>
-            <guid>https://www.seoulvinyl.com/product/64885f1b-23e6-464f-9a5f-52cb9f7af18d</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1671096191208_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Olivia Rodrigo 올리비아 로드리고 - Guts 2집 [Lavender Colored Vinyl] (서울바이닐 ─ ROCK & POP)]]></title>
