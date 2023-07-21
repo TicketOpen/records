@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jul 2023 08:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jul 2023 09:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Aladdin : The Songs 알라딘 O.S.T [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/17b8cdb8-6f68-4bb8-ae56-83e6efd32b0e</link>
+            <guid>https://www.seoulvinyl.com/product/17b8cdb8-6f68-4bb8-ae56-83e6efd32b0e</guid>
+            <pubDate>Fri, 21 Jul 2023 09:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689927434470_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pachinko 파친코 OST (Apple + Original Series)(Ltd)(Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/c7e79d9a-3246-4426-b491-82c04d787f02</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Apr 2023 18:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1638272425117_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 애니메이션 '스즈메의 문단속' O.S.T [180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</link>
-            <guid>https://www.seoulvinyl.com/product/4d8a4d72-ea97-4e46-9e32-08afb3d09e53</guid>
-            <pubDate>Wed, 05 Apr 2023 18:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">71,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678260742979_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
