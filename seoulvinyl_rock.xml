@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 05:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 06:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Harry Styles 해리 스타일스 - Harry’s House (Ltd) (Translucent Yellow Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/6c659aa2-9d79-4314-8453-1b3ed18282b1</link>
+            <guid>https://www.seoulvinyl.com/product/6c659aa2-9d79-4314-8453-1b3ed18282b1</guid>
+            <pubDate>Sat, 22 Jul 2023 06:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690005288372_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Linkin Park 린킨 파크 - 1집 Hybrid Theory [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9</link>
+            <guid>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9</guid>
+            <pubDate>Sat, 22 Jul 2023 06:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690003602524_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rage Against The Machine 레이지 어게인스트 더 머신 - Evil Empire [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 18 May 2023 11:06:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674803031430_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica 메탈리카 - 72 Seasons (Indie Retail Midnight Violet Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78-2487</link>
-            <guid>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78-2487</guid>
-            <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">67,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221765079_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica 메탈리카 - 72 Seasons [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78</link>
-            <guid>https://www.seoulvinyl.com/product/59bbafa3-af35-4613-9414-7d97af9fca78</guid>
-            <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221639463_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
