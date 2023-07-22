@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 04:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 05:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rage Against The Machine 레이지 어게인스트 더 머신 - Evil Empire [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</link>
+            <guid>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</guid>
+            <pubDate>Sat, 22 Jul 2023 05:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690001762512_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Keane 킨 - Hopes And Fears (Gatefold)[LP]]]></title>
             <link>https://www.seoulvinyl.com/product/0cab70db-a9d9-43a7-aa6d-49f41968a0a0</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221639463_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One Direction 원 디렉션 - Four (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</link>
-            <guid>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</guid>
-            <pubDate>Tue, 16 May 2023 11:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684222124153_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

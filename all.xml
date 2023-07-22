@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 04:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 05:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rage Against The Machine 레이지 어게인스트 더 머신 - Evil Empire [180g LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</link>
+            <guid>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</guid>
+            <pubDate>Sat, 22 Jul 2023 05:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690001762512_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marvin Gaye 마빈 게이 - Midnight Love [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/16d6fd4f-ddcb-4790-a915-10c47dd0097d</link>
+            <guid>https://www.seoulvinyl.com/product/16d6fd4f-ddcb-4790-a915-10c47dd0097d</guid>
+            <pubDate>Sat, 22 Jul 2023 05:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689998861698_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Internet 디 인터넷- Hive Mind [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/35888e1d-36ef-436f-a379-d2d865c1c80b</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 20 Jul 2023 12:14:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689852348426_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Neon Genesis Evangelion 에반게리온 OST [Deep Blue & Black Marbled, 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/1983c107-bf54-44da-a39a-2bc075648ea5</link>
-            <guid>https://www.seoulvinyl.com/product/1983c107-bf54-44da-a39a-2bc075648ea5</guid>
-            <pubDate>Thu, 20 Jul 2023 12:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689851390530_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' Original Soundtrack 컬러반 (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f2dad6ad-1ba0-48ef-83b3-888a5a3d327b</link>
-            <guid>https://www.seoulvinyl.com/product/f2dad6ad-1ba0-48ef-83b3-888a5a3d327b</guid>
-            <pubDate>Thu, 20 Jul 2023 11:06:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689850715376_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Marvin Gaye 마빈 게이 - Midnight Love [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/16d6fd4f-ddcb-4790-a915-10c47dd0097d</link>
+            <guid>https://www.seoulvinyl.com/product/16d6fd4f-ddcb-4790-a915-10c47dd0097d</guid>
+            <pubDate>Sat, 22 Jul 2023 05:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689998861698_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Internet 디 인터넷- Hive Mind [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/35888e1d-36ef-436f-a379-d2d865c1c80b</link>
             <guid>https://www.seoulvinyl.com/product/35888e1d-36ef-436f-a379-d2d865c1c80b</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 04 Mar 2023 07:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683085679502_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joji 조지 - Smithereens (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</link>
-            <guid>https://www.seoulvinyl.com/product/b8c0d355-6434-4c43-a2ee-5a33fed204c7</guid>
-            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684220716565_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Black vinyl) (서울바이닐 ─ OST)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678787071189_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rage Against The Machine 레이지 어게인스트 더 머신 - Evil Empire [180g LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</link>
+            <guid>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</guid>
+            <pubDate>Sat, 22 Jul 2023 05:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690001762512_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Keane 킨 - Hopes And Fears (Gatefold)[LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/0cab70db-a9d9-43a7-aa6d-49f41968a0a0</link>
             <guid>https://www.seoulvinyl.com/product/0cab70db-a9d9-43a7-aa6d-49f41968a0a0</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684221639463_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[One Direction 원 디렉션 - Four (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</link>
-            <guid>https://www.seoulvinyl.com/product/16f50106-8560-4c7b-83a4-b5fc9806e31c</guid>
-            <pubDate>Tue, 16 May 2023 11:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684222124153_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 실리카겔 - 1집 실리카겔 [2LP] (서울바이닐 ─ KOREAN)]]></title>
