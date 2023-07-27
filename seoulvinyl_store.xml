@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jul 2023 10:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jul 2023 11:07:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[나얼 - 1집 Principle Of My Soul [Black LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/175d09a9-cc6f-4075-ba18-c2547dbeaa10-2600-1</link>
+            <guid>https://www.seoulvinyl.com/product/175d09a9-cc6f-4075-ba18-c2547dbeaa10-2600-1</guid>
+            <pubDate>Thu, 27 Jul 2023 11:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666158561317_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실리카겔 - 1집 실리카겔 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</link>
+            <guid>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</guid>
+            <pubDate>Thu, 27 Jul 2023 11:05:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689762702410_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Utada Hikaru (우타다 히카루) - First Love [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/b595656f-d012-476f-b134-acd7960b6178-1906-2599</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 21 Jul 2023 11:04:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690362409250_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Black vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/170c5d75-0e60-4df0-8b0f-b497e88b15f0</link>
-            <guid>https://www.seoulvinyl.com/product/170c5d75-0e60-4df0-8b0f-b497e88b15f0</guid>
-            <pubDate>Fri, 21 Jul 2023 11:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689934128122_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keane 킨 - Hopes And Fears (Gatefold)[LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/0cab70db-a9d9-43a7-aa6d-49f41968a0a0</link>
-            <guid>https://www.seoulvinyl.com/product/0cab70db-a9d9-43a7-aa6d-49f41968a0a0</guid>
-            <pubDate>Fri, 21 Jul 2023 09:07:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689930310411_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
