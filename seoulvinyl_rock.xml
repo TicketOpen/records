@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 07:09:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 08:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Coldplay 콜드플레이 - Ghost Stories [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/e32b0451-23f2-4a8b-9cc3-00bc77ed856b</link>
+            <guid>https://www.seoulvinyl.com/product/e32b0451-23f2-4a8b-9cc3-00bc77ed856b</guid>
+            <pubDate>Fri, 28 Jul 2023 08:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690259913317_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Coldplay 콜드플레이 - Christmas Lights [7인치 싱글 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/8aae079c-c872-4c63-b4a3-a061ca733279</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 Jun 2023 11:06:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686912390641_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Extreme 익스트림 - Iii Sides To Every Story (180G, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/82b50350-a628-4306-ae45-e6a72c066d3f</link>
-            <guid>https://www.seoulvinyl.com/product/82b50350-a628-4306-ae45-e6a72c066d3f</guid>
-            <pubDate>Fri, 16 Jun 2023 10:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686907547626_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
