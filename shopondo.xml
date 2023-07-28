@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 14:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 15:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,14 +304,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매/선주문] 동심원 티셔츠 전기뱀장어 3집 [동심원] 공식 굿즈]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2081&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2081&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 21 Jul 2023 11:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[39,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202307/d7af6198ae2141485eeef84b7290479f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[광원 공중그늘 EP]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2080&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2080&amp;cate_no=60&amp;display_group=1</guid>
@@ -390,6 +382,14 @@
             <pubDate>Sat, 22 Jul 2023 00:42:06 GMT</pubDate>
             <content:encoded><![CDATA[19,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/33f4194c0f314c3605e9a69a687ba543.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[붉은 눈 문소문 정규 1집 CD음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1987&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 15:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[22,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/16418a694f44988bf219439243947d10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
