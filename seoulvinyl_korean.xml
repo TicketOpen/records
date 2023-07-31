@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jul 2023 07:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 08:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 27 Jul 2023 11:06:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666158561317_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리카겔 - 1집 실리카겔 [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</link>
-            <guid>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</guid>
-            <pubDate>Thu, 20 Jul 2023 22:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689762702410_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 버벌진트 (Verbal Jint) - 10년동안의 오독 [컬러 LP]]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Thu, 20 Jul 2023 22:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686308078746_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 또 오해영 OST [크림 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/53821449-0fb4-46e8-9195-b6d48a42ef23</link>
+            <guid>https://www.seoulvinyl.com/product/53821449-0fb4-46e8-9195-b6d48a42ef23</guid>
+            <pubDate>Mon, 31 Jul 2023 08:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686299951355_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
