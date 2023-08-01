@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 10:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 11:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift 테일러 스위프트 - Speak Now (Taylor's Version)[Colored 3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f-2607</link>
+            <guid>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f-2607</guid>
+            <pubDate>Tue, 01 Aug 2023 11:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687341944181_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radiohead 라디오헤드 - OK computer vinyl lp]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-952-2606</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-952-2606</guid>
+            <pubDate>Tue, 01 Aug 2023 11:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1610798832656_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Coldplay 콜드플레이 - Ghost Stories [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e32b0451-23f2-4a8b-9cc3-00bc77ed856b</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 27 Jun 2023 10:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687857108959_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift 테일러 스위프트 - Speak Now (Taylor's Version)[Colored 3LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</link>
-            <guid>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f</guid>
-            <pubDate>Tue, 04 Jul 2023 04:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687341944181_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift 테일러 스위프트 LP - Speak Now (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/5e0150bb-a1e4-41f7-9057-95f4d77fe07f</link>
-            <guid>https://www.seoulvinyl.com/product/5e0150bb-a1e4-41f7-9057-95f4d77fe07f</guid>
-            <pubDate>Fri, 16 Jun 2023 11:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686912390641_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
