@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Aug 2023 05:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 06:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 실리카겔 - 1집 실리카겔 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</link>
+            <guid>https://www.seoulvinyl.com/product/2d3f117b-417b-4221-b2ec-16bb27227527</guid>
+            <pubDate>Tue, 01 Aug 2023 06:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689762702410_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[THAMA 따마 - DON'T DIE COLORS [180g Opaque Marron LP]]]></title>
             <link>https://www.seoulvinyl.com/product/480344e5-dc90-450b-bbb9-7399361154e4</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 22 Jul 2023 06:08:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690005288372_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Linkin Park 린킨 파크 - 1집 Hybrid Theory [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9</link>
-            <guid>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9</guid>
-            <pubDate>Sat, 22 Jul 2023 06:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690003602524_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
