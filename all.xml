@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Aug 2023 06:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Aug 2023 07:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] Kuonechan 구원찬 - Object LP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/58e106da-6940-4f89-a906-7703180491bb</link>
             <guid>https://www.seoulvinyl.com/product/58e106da-6940-4f89-a906-7703180491bb</guid>
-            <pubDate>Wed, 02 Aug 2023 06:10:39 GMT</pubDate>
+            <pubDate>Wed, 02 Aug 2023 06:09:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690955818926_1000.jpg" length="0" type="image/jpg"/>
         </item>
