@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 10:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 11:07:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Linkin Park 린킨 파크 LP – Meteora]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1287-2613</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1287-2613</guid>
+            <pubDate>Thu, 03 Aug 2023 11:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627032894153_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Linkin Park 린킨 파크 - 1집 Hybrid Theory [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9-2609-3</link>
+            <guid>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9-2609-3</guid>
+            <pubDate>Thu, 03 Aug 2023 11:07:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690003602524_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift 테일러 스위프트 - Speak Now (Taylor's Version)[Colored 3LP]]]></title>
             <link>https://www.seoulvinyl.com/product/dba994ab-6908-4484-869a-45543f3b525f-2607</link>
@@ -64,14 +80,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690005288372_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Linkin Park 린킨 파크 - 1집 Hybrid Theory [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9</link>
-            <guid>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9</guid>
-            <pubDate>Sat, 22 Jul 2023 06:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690003602524_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Rage Against The Machine 레이지 어게인스트 더 머신 - Evil Empire [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</link>
             <guid>https://www.seoulvinyl.com/product/70d177b7-ee3e-43b0-bb2c-6c70390fa798</guid>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 29 Jun 2023 11:07:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688035807989_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fun 펀 - Some Nights [Silver Color Limited LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/698c67e1-c998-4853-9202-3d7ad61fa2d4</link>
-            <guid>https://www.seoulvinyl.com/product/698c67e1-c998-4853-9202-3d7ad61fa2d4</guid>
-            <pubDate>Tue, 27 Jun 2023 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687857108959_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
