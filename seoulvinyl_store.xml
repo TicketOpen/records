@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Aug 2023 09:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Aug 2023 10:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[USED] Type A]]></title>
+            <link>https://www.seoulvinyl.com/product/5-2616</link>
+            <guid>https://www.seoulvinyl.com/product/5-2616</guid>
+            <pubDate>Fri, 04 Aug 2023 10:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">16,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[USED] Type B]]></title>
+            <link>https://www.seoulvinyl.com/product/59ed698e--2552-2615</link>
+            <guid>https://www.seoulvinyl.com/product/59ed698e--2552-2615</guid>
+            <pubDate>Fri, 04 Aug 2023 10:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[USED] Type C]]></title>
+            <link>https://www.seoulvinyl.com/product/756-1757-24092341-2461-2551-2614</link>
+            <guid>https://www.seoulvinyl.com/product/756-1757-24092341-2461-2551-2614</guid>
+            <pubDate>Fri, 04 Aug 2023 10:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">22,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650363157673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Linkin Park 린킨 파크 LP – Meteora]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1287-2613</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 24 Jul 2023 11:06:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matsubara Miki 마츠바라 미키 松原みき* – Paradise Beach (클리어 퍼플 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018-2595</link>
-            <guid>https://www.seoulvinyl.com/product/0390db56-51b4-4a24-af2d-ce1af85a0255-2018-2595</guid>
-            <pubDate>Mon, 24 Jul 2023 11:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675930688095_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay 콜드플레이 - Ghost Stories [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e32b0451-23f2-4a8b-9cc3-00bc77ed856b</link>
-            <guid>https://www.seoulvinyl.com/product/e32b0451-23f2-4a8b-9cc3-00bc77ed856b</guid>
-            <pubDate>Fri, 28 Jul 2023 08:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690259913317_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay 콜드플레이 - Christmas Lights [7인치 싱글 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8aae079c-c872-4c63-b4a3-a061ca733279</link>
-            <guid>https://www.seoulvinyl.com/product/8aae079c-c872-4c63-b4a3-a061ca733279</guid>
-            <pubDate>Tue, 25 Jul 2023 05:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">24,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690259489884_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
