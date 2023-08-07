@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 10:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 11:07:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[설 (SURL) - 1집 of us [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ec773bda-16a2-4046-8af0-29417aa363d3</link>
+            <guid>https://www.seoulvinyl.com/product/ec773bda-16a2-4046-8af0-29417aa363d3</guid>
+            <pubDate>Mon, 07 Aug 2023 11:05:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1691405715961_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[USED] Type A]]></title>
             <link>https://www.seoulvinyl.com/product/5-2616</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 25 Jul 2023 11:06:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1649073582232_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takeuchi Mariya 타케우치 마리아 - Plastic Love (12인치 싱글)]]></title>
-            <link>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583-2594</link>
-            <guid>https://www.seoulvinyl.com/product/101e84b7-6dcb-4e03-a531-8d21f28c3457-1583-2594</guid>
-            <pubDate>Mon, 24 Jul 2023 11:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1636618206265_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
