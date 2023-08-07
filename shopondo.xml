@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 15:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 16:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202210/3defb6ae2ea10628487718e6933a12d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해파 Haepa 정규 1집 '죽은 척하기' CD/음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1929&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1929&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[18,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202208/895388cf0593545865cc21b3d57a56a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김시호 김시호 1st EP '18평방자’ CD음반]]></title>
@@ -390,6 +382,14 @@
             <pubDate>Fri, 04 Aug 2023 05:09:25 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202302/9150a45efd8f7b1be60b06fddb9af885.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dive into the MOMENT 양빛나라 정규 음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1993&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1993&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Aug 2023 16:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[19,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202301/33f4194c0f314c3605e9a69a687ba543.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
