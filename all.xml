@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Aug 2023 11:07:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Aug 2023 12:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[설 (SURL) - 1집 of us [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/ec773bda-16a2-4046-8af0-29417aa363d3</link>
             <guid>https://www.seoulvinyl.com/product/ec773bda-16a2-4046-8af0-29417aa363d3</guid>
-            <pubDate>Mon, 07 Aug 2023 11:06:27 GMT</pubDate>
+            <pubDate>Mon, 07 Aug 2023 11:05:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1691405715961_1000.jpg" length="0" type="image/jpg"/>
         </item>
