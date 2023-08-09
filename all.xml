@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Aug 2023 09:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 10:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Withers 빌 위더스 - Greatest Hits [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/8fef6308-8bed-4993-9e78-afdcdb79fb44-2622</link>
+            <guid>https://www.seoulvinyl.com/product/8fef6308-8bed-4993-9e78-afdcdb79fb44-2622</guid>
+            <pubDate>Wed, 09 Aug 2023 10:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690362409250_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brian McKnight 브라이언 맥나잇 - Greatest Hits (Limited edition) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/97ded03a-ceb7-4bd9-b14b-ca35c41fc6c8-2621</link>
+            <guid>https://www.seoulvinyl.com/product/97ded03a-ceb7-4bd9-b14b-ca35c41fc6c8-2621</guid>
+            <pubDate>Wed, 09 Aug 2023 10:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663918075664_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] AEROSMITH 에어로스미스 – The Greatest Hits (1LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/fa2e96f3-f3cd-41f4-9205-d50c9a4431e1</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 01 Aug 2023 06:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689762702410_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[THAMA 따마 - DON'T DIE COLORS [180g Opaque Marron LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/480344e5-dc90-450b-bbb9-7399361154e4</link>
-            <guid>https://www.seoulvinyl.com/product/480344e5-dc90-450b-bbb9-7399361154e4</guid>
-            <pubDate>Tue, 01 Aug 2023 05:07:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690789771833_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Call Me By Your Name 콜미 바이 유어 네임 OST [180g 벨벳핑크 컬러반 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d-2603</link>
-            <guid>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d-2603</guid>
-            <pubDate>Fri, 28 Jul 2023 11:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690542093188_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bill Withers 빌 위더스 - Greatest Hits [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/8fef6308-8bed-4993-9e78-afdcdb79fb44-2622</link>
+            <guid>https://www.seoulvinyl.com/product/8fef6308-8bed-4993-9e78-afdcdb79fb44-2622</guid>
+            <pubDate>Wed, 09 Aug 2023 10:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690362409250_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brian McKnight 브라이언 맥나잇 - Greatest Hits (Limited edition) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/97ded03a-ceb7-4bd9-b14b-ca35c41fc6c8-2621</link>
+            <guid>https://www.seoulvinyl.com/product/97ded03a-ceb7-4bd9-b14b-ca35c41fc6c8-2621</guid>
+            <pubDate>Wed, 09 Aug 2023 10:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1663918075664_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[88rising 88라이징 - Head In The Clouds (Bone White vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/7e5eba62-a82d-408f-9fc6-7bd293c54557</link>
             <guid>https://www.seoulvinyl.com/product/7e5eba62-a82d-408f-9fc6-7bd293c54557</guid>
@@ -286,14 +302,6 @@
             <pubDate>Fri, 21 Jul 2023 12:15:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689937501740_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Withers 빌 위더스 - Greatest Hits [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/8fef6308-8bed-4993-9e78-afdcdb79fb44</link>
-            <guid>https://www.seoulvinyl.com/product/8fef6308-8bed-4993-9e78-afdcdb79fb44</guid>
-            <pubDate>Fri, 21 Jul 2023 11:04:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690362409250_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kanye West 카니예 웨스트 - Ye [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 18 May 2023 11:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683713858628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Internet 디 인터넷 lp - Ego Death vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-554-2489</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-554-2489</guid>
-            <pubDate>Tue, 16 May 2023 13:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586946669241_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Call Me By Your Name 콜미 바이 유어 네임 OST [180g 벨벳핑크 컬러반 2LP] (서울바이닐 ─ OST)]]></title>
