@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Aug 2023 05:08:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Aug 2023 06:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] HIPHOP ANTHEM 2023 LP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/f6abcec1-d8ac-4ae5-9d78-c6755fac86f8</link>
             <guid>https://www.seoulvinyl.com/product/f6abcec1-d8ac-4ae5-9d78-c6755fac86f8</guid>
-            <pubDate>Fri, 11 Aug 2023 05:08:14 GMT</pubDate>
+            <pubDate>Fri, 11 Aug 2023 05:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1691730085053_1000.jpg" length="0" type="image/jpg"/>
         </item>
