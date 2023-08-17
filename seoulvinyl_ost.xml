@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 04:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 05:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Radwimps 래드윔프스 – 스즈메의 문단속 OST [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a606d05d-028e-40be-b887-08624313a69d</link>
+            <guid>https://www.seoulvinyl.com/product/a606d05d-028e-40be-b887-08624313a69d</guid>
+            <pubDate>Thu, 17 Aug 2023 05:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248466074_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radwimps 래드윔프스 - 너의 이름은 OST [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</link>
+            <guid>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</guid>
+            <pubDate>Thu, 17 Aug 2023 05:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692247932294_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Call Me By Your Name 콜미 바이 유어 네임 OST [180g 벨벳핑크 컬러반 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d-2603</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 08 Apr 2023 08:09:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1680939041419_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[류이치 사카모토 영화음악 세계 (Ryuichi Sakamoto - Music For Film) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-697-2478</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-697-2478</guid>
-            <pubDate>Sat, 13 May 2023 08:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1597747049231_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 히사이시 조 A Symphonic Celebration - Music From The Studio Ghibli Films Of Hayao Miyazaki (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/fbc4361f-364f-47fe-97a5-10be582d1f9b</link>
-            <guid>https://www.seoulvinyl.com/product/fbc4361f-364f-47fe-97a5-10be582d1f9b</guid>
-            <pubDate>Fri, 14 Apr 2023 09:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681461836652_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
