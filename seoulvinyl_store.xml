@@ -4,16 +4,24 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 05:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 06:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[MILLIC 밀릭 - VIDA [오렌지 컬러 LP]]]></title>
+            <title><![CDATA[[예약판매] MILLIC 밀릭 - VIDA (오렌지 컬러 LP)]]></title>
             <link>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753</link>
             <guid>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753</guid>
             <pubDate>Thu, 17 Aug 2023 05:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Radwimps 래드윔프스 - 너의 이름은 OST [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</link>
+            <guid>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</guid>
+            <pubDate>Thu, 17 Aug 2023 05:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692247932294_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Radwimps 래드윔프스 – 스즈메의 문단속 OST [2LP]]]></title>
@@ -24,12 +32,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248466074_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Radwimps 래드윔프스 - 너의 이름은 OST [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</link>
-            <guid>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</guid>
-            <pubDate>Thu, 17 Aug 2023 05:08:30 GMT</pubDate>
+            <title><![CDATA[Radwimps 래드윔프스 – 날씨의 아이 OST [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d7d72a34-26fc-4389-ae86-312ba5285263</link>
+            <guid>https://www.seoulvinyl.com/product/d7d72a34-26fc-4389-ae86-312ba5285263</guid>
+            <pubDate>Thu, 17 Aug 2023 06:08:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692247932294_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248884420_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] HIPHOP ANTHEM 2023 LP]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 03 Aug 2023 11:05:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627032894153_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Linkin Park 린킨 파크 - 1집 Hybrid Theory [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9-2609-3</link>
-            <guid>https://www.seoulvinyl.com/product/a96904d8-9620-4d66-8fff-e8b7366b37c9-2609-3</guid>
-            <pubDate>Thu, 03 Aug 2023 11:05:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690003602524_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
