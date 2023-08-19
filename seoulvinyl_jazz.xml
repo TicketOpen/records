@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Aug 2023 11:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Aug 2023 12:12:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 杉本喜代志 Kiyoshi Sugimoto - OUR TIME (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/23b5be9d-66e9-4894-9aa8-f9f6c91dcd55</link>
+            <guid>https://www.seoulvinyl.com/product/23b5be9d-66e9-4894-9aa8-f9f6c91dcd55</guid>
+            <pubDate>Sat, 19 Aug 2023 12:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442933541_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 八木正生 Yagi Masao - Inga (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/630b9bd4-2956-4fc7-8692-b777a341c7a0</link>
+            <guid>https://www.seoulvinyl.com/product/630b9bd4-2956-4fc7-8692-b777a341c7a0</guid>
+            <pubDate>Sat, 19 Aug 2023 12:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442764540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans and Jim Hall 빌에반스 짐홀 - Undercurrent [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9cf038f3-88cb-482c-9d1e-5a4d0992f213</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 04 Mar 2023 09:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677919824599_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker Trio 쳇 베이커 트리오 - MR. B [Red Colored LP, 1,000장 넘버링 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</link>
-            <guid>https://www.seoulvinyl.com/product/34d0e9e5-c430-40f9-9848-d48b82360fdc</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1676354875557_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FRANK SINATRA 프랭크 시나트라 – COLLECTED (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ff2d23fe-95d6-4d4b-8592-d8ff86d64695</link>
-            <guid>https://www.seoulvinyl.com/product/ff2d23fe-95d6-4d4b-8592-d8ff86d64695</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674886746504_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
