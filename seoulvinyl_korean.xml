@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 09:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 10:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘칩]]></title>
+            <link>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</link>
+            <guid>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</guid>
+            <pubDate>Mon, 21 Aug 2023 10:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692611627599_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] MILLIC 밀릭 - VIDA (오렌지 컬러 LP)]]></title>
             <link>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753</link>
@@ -123,14 +131,6 @@
             <title><![CDATA[유재하 - 사랑하기 때문에 [블루 마블 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</link>
             <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</guid>
-            <pubDate>Thu, 20 Jul 2023 22:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 [그린 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</link>
-            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</guid>
             <pubDate>Thu, 20 Jul 2023 22:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>

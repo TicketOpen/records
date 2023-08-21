@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Aug 2023 09:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Aug 2023 10:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[콘칩 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</link>
+            <guid>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</guid>
+            <pubDate>Mon, 21 Aug 2023 10:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692611627599_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Bobby Caldwell 바비 콜드웰 - HEART OF MINE (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/025a9fc5-399f-4a73-83d0-4aac1d0042cf</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1691730085053_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA["NIGHTOFF 나이트오프 - 그러나 우리가 사랑으로” 7인치 바이닐 (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f937c8e1-e405-41a6-bf1d-424b5f322f0a</link>
-            <guid>https://www.seoulvinyl.com/product/f937c8e1-e405-41a6-bf1d-424b5f322f0a</guid>
-            <pubDate>Thu, 10 Aug 2023 11:06:46 GMT</pubDate>
+            <title><![CDATA[콘칩 (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</link>
+            <guid>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</guid>
+            <pubDate>Mon, 21 Aug 2023 10:08:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1691663343958_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692611627599_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">8,250원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092814365_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레코드 이너 슬리브 (속지) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1067</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1067</guid>
-            <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">5,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Withers 빌 위더스 - Greatest Hits [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689929901344_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[콘칩 (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</link>
+            <guid>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</guid>
+            <pubDate>Mon, 21 Aug 2023 10:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692611627599_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] MILLIC 밀릭 - VIDA (오렌지 컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753</link>
             <guid>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753</guid>
@@ -891,14 +899,6 @@
             <title><![CDATA[유재하 - 사랑하기 때문에 [블루 마블 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</link>
             <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893</guid>
-            <pubDate>Thu, 20 Jul 2023 22:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 [그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</link>
-            <guid>https://www.seoulvinyl.com/product/11ca6d04-af41-4004-9211-25515cd00893-2527</guid>
             <pubDate>Thu, 20 Jul 2023 22:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686740571021_1000.jpg" length="0" type="image/jpg"/>
