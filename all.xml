@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 05:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 06:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Mon, 21 Aug 2023 12:14:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692613191513_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콘칩 (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</link>
-            <guid>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</guid>
-            <pubDate>Mon, 21 Aug 2023 10:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692611627599_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Bobby Caldwell 바비 콜드웰 - HEART OF MINE (서울바이닐 ─ 스토어)]]></title>
@@ -136,12 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콘칩 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</link>
-            <guid>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</guid>
-            <pubDate>Mon, 21 Aug 2023 10:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692611627599_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Radwimps 래드윔프스 - 너의 이름은 OST [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</link>
+            <guid>https://www.seoulvinyl.com/product/efc0fe58-0dff-46a1-bb6e-73e2c17804a9</guid>
+            <pubDate>Thu, 17 Aug 2023 05:08:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692247932294_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[USED] Type A (서울바이닐 ─ 제작)]]></title>
@@ -262,6 +254,14 @@
             <pubDate>Tue, 14 Feb 2023 20:09:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">8,250원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092814365_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레코드 이너 슬리브 (속지) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1067</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1067</guid>
+            <pubDate>Tue, 22 Aug 2023 06:09:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">5,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617092994665_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Withers 빌 위더스 - Greatest Hits [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -792,14 +792,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685949261516_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[콘칩 (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</link>
-            <guid>https://www.seoulvinyl.com/product/d68ad9d9-933d-4eec-b142-221ee9e4de48</guid>
-            <pubDate>Mon, 21 Aug 2023 10:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692611627599_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] MILLIC 밀릭 - VIDA (오렌지 컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753</link>
             <guid>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753</guid>
@@ -902,6 +894,14 @@
             <pubDate>Thu, 20 Jul 2023 22:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686130417002_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 소울바이서울 - SOULBYSEL Compilation 05 [180g 흰색 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e9cf5956-7a0d-47aa-9e8b-3464b7691dfd</link>
+            <guid>https://www.seoulvinyl.com/product/e9cf5956-7a0d-47aa-9e8b-3464b7691dfd</guid>
+            <pubDate>Tue, 22 Aug 2023 06:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687166471516_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (Pink Color Vinyl) (서울바이닐 ─ JAPANESE)]]></title>
