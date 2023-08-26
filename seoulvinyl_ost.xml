@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 12:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 13:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 26 Aug 2023 11:05:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047409786_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 귀멸의 칼날 나타구모산편 O.S.T (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</link>
+            <guid>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</guid>
+            <pubDate>Sat, 26 Aug 2023 13:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047336067_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] '드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 27 Jun 2023 08:17:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687850082402_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 애니메이션 히트곡 모음집 (The Essential Disney Collection) [오렌지 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</link>
-            <guid>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</guid>
-            <pubDate>Wed, 21 Jun 2023 04:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687317941447_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

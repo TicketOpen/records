@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 12:15:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 13:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 26 Aug 2023 11:04:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047409786_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 귀멸의 칼날 나타구모산편 O.S.T (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</link>
+            <guid>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</guid>
+            <pubDate>Sat, 26 Aug 2023 13:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047336067_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA["NIGHTOFF 나이트오프 - 그러나 우리가 사랑으로” 7인치 바이닐 (서울바이닐 ─ 스토어)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 19 Aug 2023 12:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442764540_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] '드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d32741c6-8ba8-4975-ac83-d2487d4ea674</link>
-            <guid>https://www.seoulvinyl.com/product/d32741c6-8ba8-4975-ac83-d2487d4ea674</guid>
-            <pubDate>Sat, 19 Aug 2023 12:10:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442027488_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -408,6 +408,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047409786_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 귀멸의 칼날 나타구모산편 O.S.T (LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</link>
+            <guid>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</guid>
+            <pubDate>Sat, 26 Aug 2023 13:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047336067_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] '드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/d32741c6-8ba8-4975-ac83-d2487d4ea674</link>
             <guid>https://www.seoulvinyl.com/product/d32741c6-8ba8-4975-ac83-d2487d4ea674</guid>
@@ -510,14 +518,6 @@
             <pubDate>Tue, 27 Jun 2023 08:16:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687850082402_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디즈니 애니메이션 히트곡 모음집 (The Essential Disney Collection) [오렌지 컬러 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</link>
-            <guid>https://www.seoulvinyl.com/product/439c84ac-befe-4ee2-b204-3dbd625288f5</guid>
-            <pubDate>Wed, 21 Jun 2023 04:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687317941447_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 杉本喜代志 Kiyoshi Sugimoto - OUR TIME (LP) (서울바이닐 ─ JAZZ)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689221305057_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 귀멸의 칼날 나타구모산편 O.S.T (LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</link>
+            <guid>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</guid>
+            <pubDate>Sat, 26 Aug 2023 13:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047336067_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Takako Mamiya 타카코 마미야 – Love Trip (Pink Color Vinyl) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034-2452-2644</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1117-1496-1807-2034-2452-2644</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Mon, 17 Jul 2023 12:15:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1682323300420_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 호소다 마모루 - Mirai 미래의 미라이 OST (Colored 1LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</link>
-            <guid>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</guid>
-            <pubDate>Mon, 10 Jul 2023 10:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688981883200_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Kanye West (카니예 웨스트) - 10집 Donda [CD] (서울바이닐 ─ etc)]]></title>
