@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Aug 2023 13:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Aug 2023 14:06:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -411,7 +411,7 @@
             <title><![CDATA[[예약판매] 귀멸의 칼날 나타구모산편 O.S.T (LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</link>
             <guid>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</guid>
-            <pubDate>Sat, 26 Aug 2023 13:08:42 GMT</pubDate>
+            <pubDate>Sat, 26 Aug 2023 13:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047336067_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] 귀멸의 칼날 나타구모산편 O.S.T (LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</link>
             <guid>https://www.seoulvinyl.com/product/6854ac92-8f1b-4bb0-b719-d62f521f66ff</guid>
-            <pubDate>Sat, 26 Aug 2023 13:09:27 GMT</pubDate>
+            <pubDate>Sat, 26 Aug 2023 13:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047336067_1000.jpg" length="0" type="image/jpg"/>
         </item>
