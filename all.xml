@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Aug 2023 11:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Aug 2023 12:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[[예약판매] 원피스 Movies Best Selection OST (블루&레드 컬러 한정반) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/e0286b45-6930-4ebe-a83b-455b16b19e94</link>
             <guid>https://www.seoulvinyl.com/product/e0286b45-6930-4ebe-a83b-455b16b19e94</guid>
-            <pubDate>Mon, 28 Aug 2023 11:06:10 GMT</pubDate>
+            <pubDate>Mon, 28 Aug 2023 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693217660904_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] 원피스 Movies Best Selection OST (블루&레드 컬러 한정반) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/e0286b45-6930-4ebe-a83b-455b16b19e94</link>
             <guid>https://www.seoulvinyl.com/product/e0286b45-6930-4ebe-a83b-455b16b19e94</guid>
-            <pubDate>Mon, 28 Aug 2023 11:07:02 GMT</pubDate>
+            <pubDate>Mon, 28 Aug 2023 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693217660904_1000.jpg" length="0" type="image/jpg"/>
         </item>
