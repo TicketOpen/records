@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Aug 2023 06:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Aug 2023 07:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 28 Aug 2023 04:08:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693193573096_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DEUX 듀스 – 2.5집 RHYTHM LIGHT BEAT BLACK (Lime Yellow) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</link>
+            <guid>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</guid>
+            <pubDate>Mon, 28 Aug 2023 04:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693193759071_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Neon Genesis Evangelion 에반게리온 OST [Deep Blue & Black Marbled, 2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -86,14 +94,6 @@
             <pubDate>Mon, 28 Aug 2023 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693217660904_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] DEUX 듀스 – 2.5집 RHYTHM LIGHT BEAT BLACK (Lime Yellow) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</link>
-            <guid>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</guid>
-            <pubDate>Mon, 28 Aug 2023 04:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693193759071_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 가디언즈 오브 갤럭시 Awesome Mix Vol.1 O.S.T (LP) (서울바이닐 ─ 스토어)]]></title>
@@ -784,7 +784,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693193573096_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] DEUX 듀스 – 2.5집 RHYTHM LIGHT BEAT BLACK (Lime Yellow) (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[DEUX 듀스 – 2.5집 RHYTHM LIGHT BEAT BLACK (Lime Yellow) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</link>
             <guid>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</guid>
             <pubDate>Mon, 28 Aug 2023 04:08:49 GMT</pubDate>
