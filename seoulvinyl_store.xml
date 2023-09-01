@@ -4,33 +4,9 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 10:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 11:07:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold)]]></title>
-            <link>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b</link>
-            <guid>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b</guid>
-            <pubDate>Thu, 31 Aug 2023 10:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392072894_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] HYBS 하입스 – Tiptoe (스플래터 7인치)]]></title>
-            <link>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192</link>
-            <guid>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192</guid>
-            <pubDate>Wed, 30 Aug 2023 11:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392408281_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maneskin 모네스킨 - CHOSEN (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263-2663</link>
-            <guid>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263-2663</guid>
-            <pubDate>Wed, 30 Aug 2023 11:04:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805355346_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[DEUX 듀스 – 2.5집 RHYTHM LIGHT BEAT BLACK (Blue Clear)]]></title>
             <link>https://www.seoulvinyl.com/product/ef2498dd-9c51-4f10-89d9-3f92209ca07b</link>
@@ -54,6 +30,30 @@
             <pubDate>Wed, 30 Aug 2023 10:08:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689851390530_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold)]]></title>
+            <link>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b</link>
+            <guid>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b</guid>
+            <pubDate>Thu, 31 Aug 2023 10:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392072894_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] HYBS 하입스 – Tiptoe (스플래터 7인치)]]></title>
+            <link>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192</link>
+            <guid>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192</guid>
+            <pubDate>Wed, 30 Aug 2023 11:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392408281_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maneskin 모네스킨 - CHOSEN (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263-2663</link>
+            <guid>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263-2663</guid>
+            <pubDate>Wed, 30 Aug 2023 11:04:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1674805355346_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Spacy [LP]]]></title>
