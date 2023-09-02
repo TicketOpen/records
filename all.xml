@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 08:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 09:07:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -496,14 +496,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689925943903_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Neon Genesis Evangelion 에반게리온 OST [Deep Blue & Black Marbled, 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/1983c107-bf54-44da-a39a-2bc075648ea5</link>
-            <guid>https://www.seoulvinyl.com/product/1983c107-bf54-44da-a39a-2bc075648ea5</guid>
-            <pubDate>Thu, 20 Jul 2023 12:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689851390530_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 일본 드라마 'Long Vacation' Original Soundtrack 컬러반 (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/f2dad6ad-1ba0-48ef-83b3-888a5a3d327b</link>
             <guid>https://www.seoulvinyl.com/product/f2dad6ad-1ba0-48ef-83b3-888a5a3d327b</guid>
@@ -518,6 +510,14 @@
             <pubDate>Tue, 18 Jul 2023 12:14:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689679570490_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호소다 마모루 - Mirai 미래의 미라이 OST (Colored 1LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</link>
+            <guid>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</guid>
+            <pubDate>Sat, 02 Sep 2023 09:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688981883200_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold) (서울바이닐 ─ JAZZ)]]></title>
