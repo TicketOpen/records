@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Sep 2023 07:08:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Sep 2023 08:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yuki Okazaki 유키 오카자키 - So Many Friends (Ltd, Yellow Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d813d2f6-08bf-4575-8ee2-a7f25d20b651-2671</link>
+            <guid>https://www.seoulvinyl.com/product/d813d2f6-08bf-4575-8ee2-a7f25d20b651-2671</guid>
+            <pubDate>Thu, 07 Sep 2023 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684484724122_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</link>
+            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</guid>
+            <pubDate>Thu, 07 Sep 2023 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 후지이 카제 1집 - Help Ever Hurt Never 3LP (클리어 2LP+ 클리어 7인치 Vinyl, Limited Edition)]]></title>
             <link>https://www.seoulvinyl.com/product/3a8db4db-f9ea-4101-b937-e4807a17c2e0</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 17 Aug 2023 12:13:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684484593842_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Speed 스피드 - Rise (Ltd, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/6dac29ac-0261-4336-8df6-b1372891220c-2631</link>
-            <guid>https://www.seoulvinyl.com/product/6dac29ac-0261-4336-8df6-b1372891220c-2631</guid>
-            <pubDate>Thu, 17 Aug 2023 12:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684485739635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Speed 스피드 - Starting Over (Ltd, 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/369a7658-4da9-444c-87b6-4ebb34e93a13-2630</link>
-            <guid>https://www.seoulvinyl.com/product/369a7658-4da9-444c-87b6-4ebb34e93a13-2630</guid>
-            <pubDate>Thu, 17 Aug 2023 12:13:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684485821421_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
