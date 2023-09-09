@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 10:07:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 11:06:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</link>
-            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</guid>
-            <pubDate>Thu, 07 Sep 2023 08:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Utada Hikaru 우타다 히카루 - First Love [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/b1e08be6-9fda-4e6d-9412-59d4067811f1</link>
@@ -62,6 +54,14 @@
             <pubDate>Thu, 07 Sep 2023 10:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694080580737_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</link>
+            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</guid>
+            <pubDate>Thu, 07 Sep 2023 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 후지이 카제 1집 - Help Ever Hurt Never 3LP (클리어 2LP+ 클리어 7인치 Vinyl, Limited Edition)]]></title>
