@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 10:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 11:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] GIRLZ ‘N BOYZ COLLECTED (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</link>
+            <guid>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</guid>
+            <pubDate>Tue, 12 Sep 2023 11:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694514755415_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] LEGEND OF 1900 피아니스트의 전설 OST (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b39c995d-c7b7-4bce-b66b-5b07296053b3</link>
+            <guid>https://www.seoulvinyl.com/product/b39c995d-c7b7-4bce-b66b-5b07296053b3</guid>
+            <pubDate>Tue, 12 Sep 2023 11:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694513201527_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Neon Genesis Evangelion 에반게리온 OST [Deep Blue & Black Marbled, 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/1983c107-bf54-44da-a39a-2bc075648ea5-2662</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 20 Jul 2023 11:07:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689850715376_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코요테 어글리 OST [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1abf76a4-0562-49f3-b8b8-3b2b6955dbc9</link>
-            <guid>https://www.seoulvinyl.com/product/1abf76a4-0562-49f3-b8b8-3b2b6955dbc9</guid>
-            <pubDate>Tue, 18 Jul 2023 12:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689679570490_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[호소다 마모루 - Mirai 미래의 미라이 OST (Colored 1LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</link>
-            <guid>https://www.seoulvinyl.com/product/37d9cf36-75a9-4e70-af02-5cf1189cdd08</guid>
-            <pubDate>Sat, 02 Sep 2023 09:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688981883200_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
