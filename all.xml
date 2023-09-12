@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 07:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 08:12:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Niteflyte 나이트플라이트 - Niteflyte LP (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0fb4b7e0-5a89-4b27-a85a-8555e2d92afc</link>
+            <guid>https://www.seoulvinyl.com/product/0fb4b7e0-5a89-4b27-a85a-8555e2d92afc</guid>
+            <pubDate>Tue, 12 Sep 2023 08:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694505044975_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 화지 – ZISSOU LP (불투명 레드 바이닐) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/ba8997be-d2a5-4036-906d-5b49722bcc3e</link>
@@ -86,14 +94,6 @@
             <pubDate>Thu, 07 Sep 2023 10:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694080580737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</link>
-            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</guid>
-            <pubDate>Thu, 07 Sep 2023 08:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PJ Morton 피제이 몰튼 - Watch The Sun (Yellow Colored) (서울바이닐 ─ 스토어)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690955818926_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670-2683</link>
+            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670-2683</guid>
+            <pubDate>Tue, 12 Sep 2023 08:12:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Utada Hikaru 우타다 히카루 - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/b1e08be6-9fda-4e6d-9412-59d4067811f1</link>
             <guid>https://www.seoulvinyl.com/product/b1e08be6-9fda-4e6d-9412-59d4067811f1</guid>
@@ -950,14 +958,6 @@
             <pubDate>Thu, 07 Sep 2023 10:07:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694080580737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</link>
-            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670</guid>
-            <pubDate>Thu, 07 Sep 2023 08:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 후지이 카제 1집 - Help Ever Hurt Never 3LP (클리어 2LP+ 클리어 7인치 Vinyl, Limited Edition) (서울바이닐 ─ JAPANESE)]]></title>
