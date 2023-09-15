@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 11:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 12:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] SONGS FOR THE COSMIC SOFA COWBOY BEBOP 카우보이 비밥 OST (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a6f1ab4c-1369-4acf-a9a3-bd5a8b109d52</link>
+            <guid>https://www.seoulvinyl.com/product/a6f1ab4c-1369-4acf-a9a3-bd5a8b109d52</guid>
+            <pubDate>Fri, 15 Sep 2023 12:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://static.sixshop.com/resources/images/product/thumbnail_default.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] THE REAL FOLK BLUES LEGENDS COWBOY BEBOP 카우보이 비밥 OST (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/fa1e7185-c154-4c99-893f-d0322d4ddd78</link>
+            <guid>https://www.seoulvinyl.com/product/fa1e7185-c154-4c99-893f-d0322d4ddd78</guid>
+            <pubDate>Fri, 15 Sep 2023 12:14:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694776517806_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Tank! Gold COWBOY BEBOP 카우보이 비밥 OST (LP)]]></title>
             <link>https://www.seoulvinyl.com/product/763eee7e-f0ef-4161-99bb-2d6c2f55e989</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 17 Aug 2023 06:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248884420_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Call Me By Your Name 콜미 바이 유어 네임 OST [180g 벨벳핑크 컬러반 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d-2603</link>
-            <guid>https://www.seoulvinyl.com/product/d8d369b2-b098-4474-a5bb-061970f7856d-2603</guid>
-            <pubDate>Fri, 28 Jul 2023 11:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690542093188_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Black vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/170c5d75-0e60-4df0-8b0f-b497e88b15f0</link>
-            <guid>https://www.seoulvinyl.com/product/170c5d75-0e60-4df0-8b0f-b497e88b15f0</guid>
-            <pubDate>Fri, 21 Jul 2023 11:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689934128122_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
