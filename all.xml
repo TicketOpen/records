@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Sep 2023 12:15:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Sep 2023 13:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,7 +651,7 @@
             <title><![CDATA[90s Alternative Collected (Ltd Magenta 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/0b68ed24-3a83-4f4b-8220-6807120a70ac</link>
             <guid>https://www.seoulvinyl.com/product/0b68ed24-3a83-4f4b-8220-6807120a70ac</guid>
-            <pubDate>Mon, 18 Sep 2023 12:14:11 GMT</pubDate>
+            <pubDate>Mon, 18 Sep 2023 12:13:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695035155038_1000.jpg" length="0" type="image/jpg"/>
         </item>
