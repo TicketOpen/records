@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 08:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 09:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</link>
+            <guid>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</guid>
+            <pubDate>Wed, 20 Sep 2023 09:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695192442265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[90s Alternative Collected (Ltd Magenta 2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/0b68ed24-3a83-4f4b-8220-6807120a70ac</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 12 Sep 2023 11:05:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694505044975_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] GIRLZ ‘N BOYZ COLLECTED (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</link>
-            <guid>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</guid>
-            <pubDate>Tue, 12 Sep 2023 11:05:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694514755415_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690259489884_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</link>
+            <guid>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</guid>
+            <pubDate>Wed, 20 Sep 2023 09:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695192442265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 화지 – ZISSOU LP (불투명 레드 바이닐) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/ba8997be-d2a5-4036-906d-5b49722bcc3e</link>
             <guid>https://www.seoulvinyl.com/product/ba8997be-d2a5-4036-906d-5b49722bcc3e</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 17 Aug 2023 05:08:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] HIPHOP ANTHEM 2023 LP (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/f6abcec1-d8ac-4ae5-9d78-c6755fac86f8</link>
-            <guid>https://www.seoulvinyl.com/product/f6abcec1-d8ac-4ae5-9d78-c6755fac86f8</guid>
-            <pubDate>Fri, 11 Aug 2023 05:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1691730085053_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl) (서울바이닐 ─ JAPANESE)]]></title>
