@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Sep 2023 09:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 10:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</link>
             <guid>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</guid>
-            <pubDate>Wed, 20 Sep 2023 09:09:03 GMT</pubDate>
+            <pubDate>Wed, 20 Sep 2023 09:07:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695192442265_1000.jpg" length="0" type="image/jpg"/>
         </item>
