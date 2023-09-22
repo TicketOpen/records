@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 10:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 11:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈스 과랄디 - A Charlie Brown Christmas (Green Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/fe66a3dc-3860-4b4d-9e32-db7f2077d392</link>
+            <guid>https://www.seoulvinyl.com/product/fe66a3dc-3860-4b4d-9e32-db7f2077d392</guid>
+            <pubDate>Fri, 22 Sep 2023 11:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695379266097_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오아시스 Oasis - (What's The Story) Morning Glory [180g Gatedfold 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e</link>
+            <guid>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e</guid>
+            <pubDate>Fri, 22 Sep 2023 11:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695378900121_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prep 프렙 - Prep [Clear LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/158d2a93-21fe-4156-a2f7-26834a5a8cb5</link>
+            <guid>https://www.seoulvinyl.com/product/158d2a93-21fe-4156-a2f7-26834a5a8cb5</guid>
+            <pubDate>Fri, 22 Sep 2023 11:06:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695377913698_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Greatest Hits! Of Tatsuro Yamashita [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707</link>
@@ -110,30 +134,6 @@
             <pubDate>Sat, 16 Sep 2023 11:04:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694860358652_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ryuichi Sakamoto 류이치 사카모토 – async [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/c870d1d0-2bc5-438c-b77d-38bdac3387a8</link>
-            <guid>https://www.seoulvinyl.com/product/c870d1d0-2bc5-438c-b77d-38bdac3387a8</guid>
-            <pubDate>Fri, 15 Sep 2023 11:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694773721388_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] COWBOY BEBOP 카우보이 비밥 OST LP-BOX [11LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3184151b-674e-4164-8761-92c157da77c6</link>
-            <guid>https://www.seoulvinyl.com/product/3184151b-674e-4164-8761-92c157da77c6</guid>
-            <pubDate>Fri, 15 Sep 2023 11:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">407,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694774897486_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Tank! Gold COWBOY BEBOP 카우보이 비밥 OST (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/763eee7e-f0ef-4161-99bb-2d6c2f55e989</link>
-            <guid>https://www.seoulvinyl.com/product/763eee7e-f0ef-4161-99bb-2d6c2f55e989</guid>
-            <pubDate>Fri, 15 Sep 2023 11:05:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694775566013_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
