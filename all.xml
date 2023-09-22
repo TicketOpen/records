@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Sep 2023 09:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 10:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Greatest Hits! Of Tatsuro Yamashita [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707</link>
+            <guid>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707</guid>
+            <pubDate>Fri, 22 Sep 2023 10:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357538422_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - It`S A Poppin` Time [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/cfeeaa03-e1a6-42d2-b3f4-64a6ab01b185-2706</link>
+            <guid>https://www.seoulvinyl.com/product/cfeeaa03-e1a6-42d2-b3f4-64a6ab01b185-2706</guid>
+            <pubDate>Fri, 22 Sep 2023 10:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357597110_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Maneskin 모네스킨 - CHOSEN (LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d41872f5-c015-4bb8-a294-a5caee18d263-2663-2705</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 15 Sep 2023 11:05:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694775566013_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] THE REAL FOLK BLUES LEGENDS COWBOY BEBOP 카우보이 비밥 OST (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/fa1e7185-c154-4c99-893f-d0322d4ddd78</link>
-            <guid>https://www.seoulvinyl.com/product/fa1e7185-c154-4c99-893f-d0322d4ddd78</guid>
-            <pubDate>Fri, 15 Sep 2023 12:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694776517806_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] SONGS FOR THE COSMIC SOFA COWBOY BEBOP 카우보이 비밥 OST (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a6f1ab4c-1369-4acf-a9a3-bd5a8b109d52</link>
-            <guid>https://www.seoulvinyl.com/product/a6f1ab4c-1369-4acf-a9a3-bd5a8b109d52</guid>
-            <pubDate>Fri, 15 Sep 2023 12:13:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://static.sixshop.com/resources/images/product/thumbnail_default.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -904,6 +904,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Greatest Hits! Of Tatsuro Yamashita [LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707</link>
+            <guid>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707</guid>
+            <pubDate>Fri, 22 Sep 2023 10:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357538422_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - It`S A Poppin` Time [2LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/cfeeaa03-e1a6-42d2-b3f4-64a6ab01b185-2706</link>
+            <guid>https://www.seoulvinyl.com/product/cfeeaa03-e1a6-42d2-b3f4-64a6ab01b185-2706</guid>
+            <pubDate>Fri, 22 Sep 2023 10:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357597110_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Aiko 아이코 - 夏服 [180g 2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/096e87c7-6561-447e-91a1-310f42a15514</link>
             <guid>https://www.seoulvinyl.com/product/096e87c7-6561-447e-91a1-310f42a15514</guid>
@@ -1014,22 +1030,6 @@
             <pubDate>Mon, 04 Sep 2023 07:07:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693809690835_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Spacy [LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659</link>
-            <guid>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659</guid>
-            <pubDate>Tue, 29 Aug 2023 11:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357674972_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모서리할인] Yamashita Tatsuro 야마시타 타츠로 - Circus Town [LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/ab60ae40-8e77-4134-955a-888ab6fbae97-2660</link>
-            <guid>https://www.seoulvinyl.com/product/ab60ae40-8e77-4134-955a-888ab6fbae97-2660</guid>
-            <pubDate>Tue, 29 Aug 2023 11:05:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357626616_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kanye West (카니예 웨스트) - 10집 Donda [CD] (서울바이닐 ─ etc)]]></title>
