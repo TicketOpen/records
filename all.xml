@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 08:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Sep 2023 05:07:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695617699279_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이은미 베스트 컬렉션 [한정반 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</link>
+            <guid>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</guid>
+            <pubDate>Mon, 25 Sep 2023 09:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695466352455_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈스 과랄디 - A Charlie Brown Christmas (Green Vinyl) (서울바이닐 ─ 스토어)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 16 Sep 2023 11:04:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678089994373_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e-2629-2697</link>
-            <guid>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e-2629-2697</guid>
-            <pubDate>Sat, 16 Sep 2023 11:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686205004653_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -784,6 +784,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695617699279_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이은미 베스트 컬렉션 [한정반 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</link>
+            <guid>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</guid>
+            <pubDate>Mon, 25 Sep 2023 09:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695466352455_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</link>
             <guid>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</guid>
@@ -896,14 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685418746385_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[선우정아 - 2집 It's Okay, Dear [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/ebd9e8e4-3400-4892-bd0e-fda8a1e6720d-2642</link>
-            <guid>https://www.seoulvinyl.com/product/ebd9e8e4-3400-4892-bd0e-fda8a1e6720d-2642</guid>
-            <pubDate>Mon, 21 Aug 2023 12:14:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685949261516_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Greatest Hits! Of Tatsuro Yamashita [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707</link>
             <guid>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707</guid>
@@ -950,14 +950,6 @@
             <pubDate>Fri, 15 Sep 2023 11:05:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694773721388_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670-2683</link>
-            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670-2683</guid>
-            <pubDate>Tue, 12 Sep 2023 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru 우타다 히카루 - First Love [2LP] (서울바이닐 ─ JAPANESE)]]></title>
@@ -1030,6 +1022,14 @@
             <pubDate>Mon, 04 Sep 2023 07:07:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693809690835_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Spacy [LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659</link>
+            <guid>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659</guid>
+            <pubDate>Mon, 25 Sep 2023 09:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357674972_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kanye West (카니예 웨스트) - 10집 Donda [CD] (서울바이닐 ─ etc)]]></title>

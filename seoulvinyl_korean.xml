@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 08:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Sep 2023 05:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695617699279_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이은미 베스트 컬렉션 [한정반 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</link>
+            <guid>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</guid>
+            <pubDate>Mon, 25 Sep 2023 09:09:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695466352455_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 21 Aug 2023 12:15:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685418746385_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 - 2집 It's Okay, Dear [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/ebd9e8e4-3400-4892-bd0e-fda8a1e6720d-2642</link>
-            <guid>https://www.seoulvinyl.com/product/ebd9e8e4-3400-4892-bd0e-fda8a1e6720d-2642</guid>
-            <pubDate>Mon, 21 Aug 2023 12:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685949261516_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

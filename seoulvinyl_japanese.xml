@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 08:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 15 Sep 2023 11:07:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694773721388_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670-2683</link>
-            <guid>https://www.seoulvinyl.com/product/86595e32-13ee-41b8-b908-a0b333be03c9-2670-2683</guid>
-            <pubDate>Tue, 12 Sep 2023 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687763781765_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Utada Hikaru 우타다 히카루 - First Love [2LP]]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 04 Sep 2023 07:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693809690835_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Spacy [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659</link>
+            <guid>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659</guid>
+            <pubDate>Mon, 25 Sep 2023 09:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357674972_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

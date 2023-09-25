@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Sep 2023 08:12:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Sep 2023 09:10:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Mon, 25 Sep 2023 05:07:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695617699279_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이은미 베스트 컬렉션 [한정반 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</link>
+            <guid>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</guid>
+            <pubDate>Mon, 25 Sep 2023 09:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695466352455_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빈스 과랄디 - A Charlie Brown Christmas (Green Vinyl)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 16 Sep 2023 11:04:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1678089994373_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nakamori Akina 나카모리 아키나 - 10집 Crimson (Colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e-2629-2697</link>
-            <guid>https://www.seoulvinyl.com/product/6f6377fb-2f75-4582-8e20-e95f08c0bc4e-2629-2697</guid>
-            <pubDate>Sat, 16 Sep 2023 11:04:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686205004653_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
