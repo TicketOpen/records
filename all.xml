@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Sep 2023 05:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Sep 2023 06:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[[예약판매] 킹더랜드 OST (컬러 LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/1677b620-2330-486f-b93f-b4fb09c34fa1</link>
             <guid>https://www.seoulvinyl.com/product/1677b620-2330-486f-b93f-b4fb09c34fa1</guid>
-            <pubDate>Tue, 26 Sep 2023 05:08:32 GMT</pubDate>
+            <pubDate>Tue, 26 Sep 2023 05:07:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695704114247_1000.jpg" length="0" type="image/jpg"/>
         </item>
