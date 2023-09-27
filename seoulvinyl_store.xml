@@ -4,9 +4,57 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 10:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 11:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] SURL GSI 에디션 바이닐]]></title>
+            <link>https://www.seoulvinyl.com/product/05db2237-13fb-4a60-8480-bc38156131fe</link>
+            <guid>https://www.seoulvinyl.com/product/05db2237-13fb-4a60-8480-bc38156131fe</guid>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811556048_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터치드 GSI 에디션 바이닐]]></title>
+            <link>https://www.seoulvinyl.com/product/e09e0aec-30b0-40cc-b55c-17165cf2c23f</link>
+            <guid>https://www.seoulvinyl.com/product/e09e0aec-30b0-40cc-b55c-17165cf2c23f</guid>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811393850_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 터치드 EP [PURPLE] 바이닐]]></title>
+            <link>https://www.seoulvinyl.com/product/9fd92c34-6609-4fcc-9762-f22b3add1c65</link>
+            <guid>https://www.seoulvinyl.com/product/9fd92c34-6609-4fcc-9762-f22b3add1c65</guid>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811242141_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 유다빈밴드 GSI 에디션 바이닐]]></title>
+            <link>https://www.seoulvinyl.com/product/cf45925d-5b5b-4e79-994f-da3413e0f7e4</link>
+            <guid>https://www.seoulvinyl.com/product/cf45925d-5b5b-4e79-994f-da3413e0f7e4</guid>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811017271_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 유다빈밴드 1집 바이닐]]></title>
+            <link>https://www.seoulvinyl.com/product/c918d080-af03-4ae0-8be7-e90dd96cd440</link>
+            <guid>https://www.seoulvinyl.com/product/c918d080-af03-4ae0-8be7-e90dd96cd440</guid>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695810660539_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Matsubara Miki 마츠바라 미키 – Myself]]></title>
+            <link>https://www.seoulvinyl.com/product/ded2b786-9846-438c-861e-cda1003a5037</link>
+            <guid>https://www.seoulvinyl.com/product/ded2b786-9846-438c-861e-cda1003a5037</guid>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695793654304_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Christmas Eve（40th Anniversary Edition 12인치）]]></title>
             <link>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb</link>
@@ -86,54 +134,6 @@
             <pubDate>Mon, 25 Sep 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695630868286_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 – 1989 Taylor’s version (스카이블루 컬러 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/85f62ad2-e740-4c4b-b01a-d879d54f0d79</link>
-            <guid>https://www.seoulvinyl.com/product/85f62ad2-e740-4c4b-b01a-d879d54f0d79</guid>
-            <pubDate>Mon, 25 Sep 2023 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695631918361_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Purple vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</link>
-            <guid>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</guid>
-            <pubDate>Mon, 25 Sep 2023 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695633765342_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 버스커 버스커 - 2집 (발매 10주년 기념 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/4025044a-321e-4138-9bb6-8bffbcc74c25</link>
-            <guid>https://www.seoulvinyl.com/product/4025044a-321e-4138-9bb6-8bffbcc74c25</guid>
-            <pubDate>Mon, 25 Sep 2023 05:07:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695617699279_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이은미 베스트 컬렉션 [한정반 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</link>
-            <guid>https://www.seoulvinyl.com/product/bc92da52-98d0-4186-914e-67f7f2dd0f9e</guid>
-            <pubDate>Mon, 25 Sep 2023 09:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695466352455_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빈스 과랄디 - A Charlie Brown Christmas (Green Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/fe66a3dc-3860-4b4d-9e32-db7f2077d392</link>
-            <guid>https://www.seoulvinyl.com/product/fe66a3dc-3860-4b4d-9e32-db7f2077d392</guid>
-            <pubDate>Fri, 22 Sep 2023 11:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695379266097_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아시스 Oasis - (What's The Story) Morning Glory [180g Gatedfold 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e</link>
-            <guid>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e</guid>
-            <pubDate>Fri, 22 Sep 2023 11:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695378900121_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
