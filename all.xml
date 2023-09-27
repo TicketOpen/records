@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 05:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 06:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Christmas Eve（40th Anniversary Edition 12인치） (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb</link>
+            <guid>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb</guid>
+            <pubDate>Wed, 27 Sep 2023 06:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695791968766_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[En Vogue 엔보그 – Now Playing LP (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/5cae77ac-1310-4004-8673-10cdebd13cb3</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 22 Sep 2023 11:06:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695378900121_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prep 프렙 - Prep [Clear LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/158d2a93-21fe-4156-a2f7-26834a5a8cb5</link>
-            <guid>https://www.seoulvinyl.com/product/158d2a93-21fe-4156-a2f7-26834a5a8cb5</guid>
-            <pubDate>Fri, 22 Sep 2023 11:06:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695377913698_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
@@ -267,7 +267,7 @@
             <title><![CDATA[En Vogue 엔보그 – Now Playing LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/5cae77ac-1310-4004-8673-10cdebd13cb3</link>
             <guid>https://www.seoulvinyl.com/product/5cae77ac-1310-4004-8673-10cdebd13cb3</guid>
-            <pubDate>Wed, 27 Sep 2023 05:07:56 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 05:07:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695788472925_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1685418746385_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Christmas Eve（40th Anniversary Edition 12인치） (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb</link>
+            <guid>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb</guid>
+            <pubDate>Wed, 27 Sep 2023 06:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695791968766_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Anri 안리 - Timely!! (Clear Skyblue Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327-2563-2718</link>
             <guid>https://www.seoulvinyl.com/product/9569852e-b8fe-4412-948e-9bf054caa327-2563-2718</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Thu, 07 Sep 2023 08:10:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684484724122_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matsubara Miki 마츠바라 미키 松原みき* – Paradise Beach (클리어 퍼플 LP) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/f5426aa6-a6dd-4ed0-860b-b3da940ee8fb</link>
-            <guid>https://www.seoulvinyl.com/product/f5426aa6-a6dd-4ed0-860b-b3da940ee8fb</guid>
-            <pubDate>Thu, 07 Sep 2023 09:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694074637061_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kanye West (카니예 웨스트) - 10집 Donda [CD] (서울바이닐 ─ etc)]]></title>
