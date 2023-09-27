@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Sep 2023 11:07:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Sep 2023 12:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695630868286_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP] (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</link>
+            <guid>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</guid>
+            <pubDate>Wed, 20 Sep 2023 09:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695192442265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[P-TYPE 피타입 5th Album "Hardboiled Café" (Ltd, 2LP) (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</link>
             <guid>https://www.seoulvinyl.com/product/64498556-7336-4986-b819-17cd8745159d</guid>
@@ -254,14 +262,6 @@
             <pubDate>Thu, 24 Aug 2023 11:06:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1651462562787_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DINDIN (딘딘) EP 소음집(小音集) (Green Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</link>
-            <guid>https://www.seoulvinyl.com/product/272149e7-e44e-4a1b-af85-8878f8cf98ba</guid>
-            <pubDate>Thu, 24 Aug 2023 11:06:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">19,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1653561594905_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[En Vogue 엔보그 – Now Playing LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] SURL GSI 에디션 바이닐 (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/05db2237-13fb-4a60-8480-bc38156131fe</link>
             <guid>https://www.seoulvinyl.com/product/05db2237-13fb-4a60-8480-bc38156131fe</guid>
-            <pubDate>Wed, 27 Sep 2023 11:06:57 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811556048_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 터치드 GSI 에디션 바이닐 (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/e09e0aec-30b0-40cc-b55c-17165cf2c23f</link>
             <guid>https://www.seoulvinyl.com/product/e09e0aec-30b0-40cc-b55c-17165cf2c23f</guid>
-            <pubDate>Wed, 27 Sep 2023 11:06:57 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811393850_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -795,7 +795,7 @@
             <title><![CDATA[[예약판매] 터치드 EP [PURPLE] 바이닐 (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9fd92c34-6609-4fcc-9762-f22b3add1c65</link>
             <guid>https://www.seoulvinyl.com/product/9fd92c34-6609-4fcc-9762-f22b3add1c65</guid>
-            <pubDate>Wed, 27 Sep 2023 11:06:57 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811242141_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -803,7 +803,7 @@
             <title><![CDATA[[예약판매] 유다빈밴드 GSI 에디션 바이닐 (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/cf45925d-5b5b-4e79-994f-da3413e0f7e4</link>
             <guid>https://www.seoulvinyl.com/product/cf45925d-5b5b-4e79-994f-da3413e0f7e4</guid>
-            <pubDate>Wed, 27 Sep 2023 11:06:57 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695811017271_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -811,7 +811,7 @@
             <title><![CDATA[[예약판매] 유다빈밴드 1집 바이닐 (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c918d080-af03-4ae0-8be7-e90dd96cd440</link>
             <guid>https://www.seoulvinyl.com/product/c918d080-af03-4ae0-8be7-e90dd96cd440</guid>
-            <pubDate>Wed, 27 Sep 2023 11:06:57 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695810660539_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Matsubara Miki 마츠바라 미키 – Myself (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/ded2b786-9846-438c-861e-cda1003a5037</link>
             <guid>https://www.seoulvinyl.com/product/ded2b786-9846-438c-861e-cda1003a5037</guid>
-            <pubDate>Wed, 27 Sep 2023 11:07:09 GMT</pubDate>
+            <pubDate>Wed, 27 Sep 2023 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695793654304_1000.jpg" length="0" type="image/jpg"/>
         </item>
