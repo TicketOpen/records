@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Oct 2023 10:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Oct 2023 11:07:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 (에메랄드 컬러 LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</link>
+            <guid>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</guid>
+            <pubDate>Fri, 06 Oct 2023 11:05:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696588563315_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ryo Fukui 후쿠이 료 - Live At Vidro '77 (2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/228e7b89-529e-43c0-929e-1f203a2af7be</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 Sep 2023 10:08:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695721215127_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 킹더랜드 OST (컬러 LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/1677b620-2330-486f-b93f-b4fb09c34fa1</link>
-            <guid>https://www.seoulvinyl.com/product/1677b620-2330-486f-b93f-b4fb09c34fa1</guid>
-            <pubDate>Tue, 26 Sep 2023 05:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695704114247_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687341944181_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 (에메랄드 컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</link>
+            <guid>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</guid>
+            <pubDate>Fri, 06 Oct 2023 11:07:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696588563315_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 김뜻돌 - 꿈에서 걸려온 전화 (투명 블루 컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07</link>
             <guid>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07</guid>
@@ -896,18 +904,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693193573096_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DEUX 듀스 – 2.5집 RHYTHM LIGHT BEAT BLACK (Lime Yellow) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</link>
-            <guid>https://www.seoulvinyl.com/product/26c9eb18-0263-4e25-83c4-eda8908b2dc2</guid>
-            <pubDate>Mon, 28 Aug 2023 04:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693193759071_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Ryo Fukui 후쿠이 료 - Live At Vidro '77 (2LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/228e7b89-529e-43c0-929e-1f203a2af7be</link>
             <guid>https://www.seoulvinyl.com/product/228e7b89-529e-43c0-929e-1f203a2af7be</guid>
-            <pubDate>Fri, 06 Oct 2023 10:09:51 GMT</pubDate>
+            <pubDate>Fri, 06 Oct 2023 10:08:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696586100028_1000.jpg" length="0" type="image/jpg"/>
         </item>
