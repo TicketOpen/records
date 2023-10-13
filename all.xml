@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 04:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 05:09:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -784,11 +784,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697081899354_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 유재하 - 사랑하기 때문에 (에메랄드 컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[유재하 - 사랑하기 때문에 (에메랄드 컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</link>
             <guid>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</guid>
             <pubDate>Fri, 06 Oct 2023 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696588563315_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
