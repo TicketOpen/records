@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 11:07:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 12:15:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,7 +651,7 @@
             <title><![CDATA[Ed Sheeran 에드시런 - Autumn Variations (White LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/5f0c570c-3be3-43fa-bdeb-582cbb623640</link>
             <guid>https://www.seoulvinyl.com/product/5f0c570c-3be3-43fa-bdeb-582cbb623640</guid>
-            <pubDate>Fri, 13 Oct 2023 11:06:55 GMT</pubDate>
+            <pubDate>Fri, 13 Oct 2023 11:05:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697193458223_1000.jpg" length="0" type="image/jpg"/>
         </item>
