@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 14 Oct 2023 10:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Oct 2023 11:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Grant Green 그랜트 그린 - Street of Dreams [Blue Note]]]></title>
+            <link>https://www.seoulvinyl.com/product/37f214ef-04ad-49fc-97ff-aae679cd5770</link>
+            <guid>https://www.seoulvinyl.com/product/37f214ef-04ad-49fc-97ff-aae679cd5770</guid>
+            <pubDate>Sat, 14 Oct 2023 11:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697279197132_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green 그랜트 그린 - NIGERIA [Bluenote Tonepoet]]]></title>
+            <link>https://www.seoulvinyl.com/product/28a001a2-f76e-464d-8043-3cb5cf06ebbb</link>
+            <guid>https://www.seoulvinyl.com/product/28a001a2-f76e-464d-8043-3cb5cf06ebbb</guid>
+            <pubDate>Sat, 14 Oct 2023 11:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697278871015_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Grant Green 그랜트 그린 - Green Is Beautiful [Bluenote 80주년 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7b30d4d4-bb71-4594-89c8-5b9a3dbb2055</link>
+            <guid>https://www.seoulvinyl.com/product/7b30d4d4-bb71-4594-89c8-5b9a3dbb2055</guid>
+            <pubDate>Sat, 14 Oct 2023 11:06:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697278591688_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Buena Vista Social Club 부에나 비스타 소셜 클럽 [25th anniversary Bookpack]]]></title>
             <link>https://www.seoulvinyl.com/product/0f668d56-2f35-4054-9d16-181377baedc5</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 21 Jun 2023 06:10:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687324165599_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[antonio carlos jobim 안토니오 카를로스 조빔 lp - wave (LP + CD)vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/wave-2534</link>
-            <guid>https://www.seoulvinyl.com/product/wave-2534</guid>
-            <pubDate>Fri, 16 Jun 2023 11:06:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1606543908235_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio 빌 에반스 트리오 - Waltz For Debby [LP] OJC]]></title>
-            <link>https://www.seoulvinyl.com/product/aab1db5f-9649-4592-9820-72c7b18b28bd</link>
-            <guid>https://www.seoulvinyl.com/product/aab1db5f-9649-4592-9820-72c7b18b28bd</guid>
-            <pubDate>Fri, 16 Jun 2023 10:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1686908333003_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chuck Mangione 척 멘지오니 - Feels So Good [180g, Transparent Red LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/cf993a89-c165-4307-8b8a-eb2de9c5276e</link>
-            <guid>https://www.seoulvinyl.com/product/cf993a89-c165-4307-8b8a-eb2de9c5276e</guid>
-            <pubDate>Mon, 15 May 2023 11:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684144368062_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
