@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 04:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 05:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 이문세 5집 (180g LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/0f4f5833-a215-4a91-9375-9e8ab746678e</link>
+            <guid>https://www.seoulvinyl.com/product/0f4f5833-a215-4a91-9375-9e8ab746678e</guid>
+            <pubDate>Tue, 17 Oct 2023 05:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697518446403_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이문세 4집 (180g LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f83907bb-8a7d-4d69-bbe4-b29545f6078a</link>
+            <guid>https://www.seoulvinyl.com/product/f83907bb-8a7d-4d69-bbe4-b29545f6078a</guid>
+            <pubDate>Tue, 17 Oct 2023 05:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697518179824_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이문세 3집 (180g LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/966f2459-4026-4379-8806-08d7220fed0c</link>
+            <guid>https://www.seoulvinyl.com/product/966f2459-4026-4379-8806-08d7220fed0c</guid>
+            <pubDate>Tue, 17 Oct 2023 05:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697518115930_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Songs of coco 코코 OST (Glow In the Dark Green LP)]]></title>
             <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 12 Oct 2023 04:09:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697081899354_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 - 사랑하기 때문에 (에메랄드 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</link>
-            <guid>https://www.seoulvinyl.com/product/e6ca0f84-4c80-4861-908d-0b9615b5affd</guid>
-            <pubDate>Fri, 06 Oct 2023 11:05:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696588563315_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ryo Fukui 후쿠이 료 - Live At Vidro '77 (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/228e7b89-529e-43c0-929e-1f203a2af7be</link>
-            <guid>https://www.seoulvinyl.com/product/228e7b89-529e-43c0-929e-1f203a2af7be</guid>
-            <pubDate>Fri, 06 Oct 2023 10:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696586100028_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김뜻돌 - 꿈에서 걸려온 전화 (투명 블루 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07</link>
-            <guid>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07</guid>
-            <pubDate>Thu, 05 Oct 2023 08:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696490934772_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
