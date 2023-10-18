@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Oct 2023 09:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Oct 2023 10:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[D4VD 데이비드 - Petals To Thorns [투명 블랙 아이스 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f946c36c-245e-473c-9d00-502fcf8ce3a7</link>
+            <guid>https://www.seoulvinyl.com/product/f946c36c-245e-473c-9d00-502fcf8ce3a7</guid>
+            <pubDate>Wed, 18 Oct 2023 10:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697623308972_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[En Vogue 엔보그 – Now Playing LP]]></title>
+            <link>https://www.seoulvinyl.com/product/5cae77ac-1310-4004-8673-10cdebd13cb3-2756</link>
+            <guid>https://www.seoulvinyl.com/product/5cae77ac-1310-4004-8673-10cdebd13cb3-2756</guid>
+            <pubDate>Wed, 18 Oct 2023 10:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695788472925_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Usher 어셔 - My Way 25주년 LP]]></title>
             <link>https://www.seoulvinyl.com/product/e33158f8-0377-4a82-b942-05ead3c012be</link>
@@ -14,14 +30,6 @@
             <pubDate>Thu, 12 Oct 2023 11:06:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697106355466_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[En Vogue 엔보그 – Now Playing LP]]></title>
-            <link>https://www.seoulvinyl.com/product/5cae77ac-1310-4004-8673-10cdebd13cb3</link>
-            <guid>https://www.seoulvinyl.com/product/5cae77ac-1310-4004-8673-10cdebd13cb3</guid>
-            <pubDate>Wed, 27 Sep 2023 05:07:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695788472925_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tyler, The Creator 타일러, 더 크리에이터 - 6집 CALL ME IF YOU GET LOST [Color 3LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Jul 2023 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689926305124_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camp Lo 캠프 로 - Uptown Saturday Night (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/8eb10123-fb44-4f4a-80a2-1d4a3b40c4c0</link>
-            <guid>https://www.seoulvinyl.com/product/8eb10123-fb44-4f4a-80a2-1d4a3b40c4c0</guid>
-            <pubDate>Tue, 18 Jul 2023 12:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689679767390_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
