@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 10:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 11:07:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791537504_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, Clear Orange LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/ac1cdad5-b60f-4aa1-98d8-584cfafa91f8-2769</link>
+            <guid>https://www.seoulvinyl.com/product/ac1cdad5-b60f-4aa1-98d8-584cfafa91f8-2769</guid>
+            <pubDate>Fri, 20 Oct 2023 11:06:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695630868286_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트와이스 - #TWICE1 [Clear Pink LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 27 Sep 2023 06:12:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695791968766_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Anri 안리 - Summer Edition (45rpm, LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ac1cdad5-b60f-4aa1-98d8-584cfafa91f8</link>
-            <guid>https://www.seoulvinyl.com/product/ac1cdad5-b60f-4aa1-98d8-584cfafa91f8</guid>
-            <pubDate>Mon, 25 Sep 2023 10:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695630868286_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
