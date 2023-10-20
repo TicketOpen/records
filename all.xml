@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 09:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 10:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -488,7 +488,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694596886120_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] GIRLZ ‘N BOYZ COLLECTED (LP) (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA[GIRLZ ‘N BOYZ COLLECTED (LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</link>
             <guid>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</guid>
             <pubDate>Tue, 12 Sep 2023 11:05:53 GMT</pubDate>
@@ -907,7 +907,7 @@
             <title><![CDATA[Anri 안리 - Timely!! (Clear Skyblue Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/32f433d7-aebd-473e-abda-7c1739887ba5</link>
             <guid>https://www.seoulvinyl.com/product/32f433d7-aebd-473e-abda-7c1739887ba5</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 09:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791817586_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -915,7 +915,7 @@
             <title><![CDATA[Anri 안리 - Heaven Beach (Clear Yellow Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/d108d41a-fd2e-4f40-be02-68b56f33bb10</link>
             <guid>https://www.seoulvinyl.com/product/d108d41a-fd2e-4f40-be02-68b56f33bb10</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 09:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791749952_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -923,7 +923,7 @@
             <title><![CDATA[Anri 안리 - Bi・Ki・Ni (Clear Pink Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/62d64578-1349-404f-b81b-f7f0227afa50</link>
             <guid>https://www.seoulvinyl.com/product/62d64578-1349-404f-b81b-f7f0227afa50</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 09:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791654480_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -931,7 +931,7 @@
             <title><![CDATA[Anri 안리 - COOOL (Clear Green Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/1074c0f6-f2af-4c24-a6ae-959ea5ec056c</link>
             <guid>https://www.seoulvinyl.com/product/1074c0f6-f2af-4c24-a6ae-959ea5ec056c</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
+            <pubDate>Fri, 20 Oct 2023 09:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791537504_1000.jpg" length="0" type="image/jpg"/>
         </item>
