@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 10:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 11:07:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 트와이스 - #TWICE4 [Clear Skyblue LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777</link>
+            <guid>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777</guid>
+            <pubDate>Tue, 24 Oct 2023 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697711147476_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 트와이스 - #TWICE3 [White Color LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c-2776</link>
+            <guid>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c-2776</guid>
+            <pubDate>Tue, 24 Oct 2023 11:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710964675_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Anri 안리 - Timely!! (Clear Skyblue Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/32f433d7-aebd-473e-abda-7c1739887ba5</link>
@@ -62,22 +78,6 @@
             <pubDate>Thu, 19 Oct 2023 11:07:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710484917_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 - #TWICE3 [White Color LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c</link>
-            <guid>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c</guid>
-            <pubDate>Thu, 19 Oct 2023 11:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710964675_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 - #TWICE4 [Clear Skyblue LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd</link>
-            <guid>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd</guid>
-            <pubDate>Thu, 19 Oct 2023 11:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697711147476_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keisuke Kuwata 쿠와타 케이스케 - itumo dokokade (4LP)]]></title>
