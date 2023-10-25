@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 10:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 11:07:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392408281_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[오아시스 Oasis - (What's The Story) Morning Glory [180g Gatedfold 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e-2779</link>
+            <guid>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e-2779</guid>
+            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695378900121_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] aiko 아이코 - sakura no kino shita LP (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c</link>
             <guid>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c</guid>
@@ -46,14 +54,6 @@
             <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698225825862_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오아시스 Oasis - (What's The Story) Morning Glory [180g Gatedfold 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e-2779</link>
-            <guid>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e-2779</guid>
-            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695378900121_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 트와이스 - #TWICE4 [Clear Skyblue LP] (서울바이닐 ─ 스토어)]]></title>
@@ -395,7 +395,7 @@
             <title><![CDATA[GIRLZ ‘N BOYZ COLLECTED 걸즈앤보이즈 (LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555-2780</link>
             <guid>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555-2780</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:04 GMT</pubDate>
+            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694514755415_1000.png" length="0" type="image/png"/>
         </item>
@@ -651,7 +651,7 @@
             <title><![CDATA[HYBS 하입스 – Tiptoe (스플래터 7인치) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</link>
             <guid>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:28 GMT</pubDate>
+            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392408281_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -659,7 +659,7 @@
             <title><![CDATA[오아시스 Oasis - (What's The Story) Morning Glory [180g Gatedfold 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e-2779</link>
             <guid>https://www.seoulvinyl.com/product/46e4e372-94d6-4c7d-8280-d5fd2994428e-2779</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:28 GMT</pubDate>
+            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695378900121_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -779,7 +779,7 @@
             <title><![CDATA[버벌진트 (Verbal Jint) - Go Easy (2023 Remastering, Pink Colored 2LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9-2783</link>
             <guid>https://www.seoulvinyl.com/product/69397474-bb39-488a-ad18-c6be362562f9-2783</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:40 GMT</pubDate>
+            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683772699139_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] Slom 슬롬 - WEATHER REPORT LP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7</link>
             <guid>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:40 GMT</pubDate>
+            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698225825862_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] aiko 아이코 - sakura no kino shita LP (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c</link>
             <guid>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:51 GMT</pubDate>
+            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698226814728_1000.jpg" length="0" type="image/jpg"/>
         </item>
