@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Oct 2023 09:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Oct 2023 10:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GIRLZ ‘N BOYZ COLLECTED 걸즈앤보이즈 (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555-2780</link>
+            <guid>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555-2780</guid>
+            <pubDate>Wed, 25 Oct 2023 10:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694514755415_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Songs of coco 코코 OST (Glow In the Dark Green LP)]]></title>
             <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882</link>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 13 Sep 2023 10:08:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">420,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694596886120_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GIRLZ ‘N BOYZ COLLECTED (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</link>
-            <guid>https://www.seoulvinyl.com/product/7c9dbbad-6d42-4d97-8be7-cb41caed5555</guid>
-            <pubDate>Tue, 12 Sep 2023 11:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694514755415_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] LEGEND OF 1900 피아니스트의 전설 OST (LP)]]></title>
