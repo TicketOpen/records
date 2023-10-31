@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Oct 2023 05:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Oct 2023 06:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[지누션 - The Real [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/886714e1-a65b-4e03-be74-e420f67fafaf</link>
             <guid>https://www.seoulvinyl.com/product/886714e1-a65b-4e03-be74-e420f67fafaf</guid>
-            <pubDate>Tue, 31 Oct 2023 05:09:08 GMT</pubDate>
+            <pubDate>Tue, 31 Oct 2023 05:08:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698728470509_1000.jpg" length="0" type="image/jpg"/>
         </item>
