@@ -4,16 +4,16 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 09:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 10:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[HYBS 하입스 – Tiptoe (스플래터 7인치)]]></title>
-            <link>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</link>
-            <guid>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392408281_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Santana 산타나 - Supernatural (150g Gatefold 2LP) vinyl LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1005-2793</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1005-2793</guid>
+            <pubDate>Wed, 01 Nov 2023 10:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1613476671040_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오아시스 Oasis - (What's The Story) Morning Glory [180g Gatedfold 2LP]]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Wed, 25 Oct 2023 10:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695378900121_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[HYBS 하입스 – Tiptoe (스플래터 7인치)]]></title>
+            <link>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</link>
+            <guid>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</guid>
+            <pubDate>Wed, 25 Oct 2023 10:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392408281_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk 다프트 펑크 - Homework LP]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 12 Sep 2023 11:06:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694505044975_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kings Of Convenience 킹스 오브 컨베니언스 - Riot On An Empty Street (gatefold) LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1304-2684</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1304-2684</guid>
-            <pubDate>Tue, 12 Sep 2023 10:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627552201929_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

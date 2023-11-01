@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Nov 2023 09:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Nov 2023 10:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[aiko 아이코 - sakura no kino shita LP]]></title>
+            <link>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c-2792</link>
+            <guid>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c-2792</guid>
+            <pubDate>Wed, 01 Nov 2023 10:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698226814728_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - For You [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/1299eece-edca-447d-82f3-ec88c862e607-2784</link>
@@ -30,14 +38,6 @@
             <pubDate>Thu, 26 Oct 2023 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357674972_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] aiko 아이코 - sakura no kino shita LP]]></title>
-            <link>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c</link>
-            <guid>https://www.seoulvinyl.com/product/a8e61569-a021-4744-940d-1455c7386d9c</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698226814728_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 트와이스 - #TWICE4 [Clear Skyblue LP]]]></title>
