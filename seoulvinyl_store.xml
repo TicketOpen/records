@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 10:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 11:08:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가디언즈 오브 갤럭시 Awesome Mix Vol.1 O.S.T (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/93163b30-b90d-423e-a129-cad472005e0e-2798</link>
+            <guid>https://www.seoulvinyl.com/product/93163b30-b90d-423e-a129-cad472005e0e-2798</guid>
+            <pubDate>Thu, 02 Nov 2023 11:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047460202_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[가디언즈 오브 갤럭시 Awesome Mix Vol.2 O.S.T (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d5586d75-51c2-444c-b371-6e8489996236-2797</link>
+            <guid>https://www.seoulvinyl.com/product/d5586d75-51c2-444c-b371-6e8489996236-2797</guid>
+            <pubDate>Thu, 02 Nov 2023 11:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047409786_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Songs of coco 코코 OST (Glow In the Dark Green LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796</link>
+            <guid>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796</guid>
+            <pubDate>Thu, 02 Nov 2023 11:06:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697280043808_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Troye Sivan 트로이 시반 - 3집 Something To Give Each Other LP]]></title>
             <link>https://www.seoulvinyl.com/product/e81fdf0a-da1d-4f82-9d13-96469e80c015</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694514755415_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[HYBS 하입스 – Tiptoe (스플래터 7인치)]]></title>
-            <link>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</link>
-            <guid>https://www.seoulvinyl.com/product/c49ad42c-f42a-491d-b707-d647aaade192-2782</guid>
-            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392408281_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Slom 슬롬 - WEATHER REPORT LP]]></title>
-            <link>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7</link>
-            <guid>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7</guid>
-            <pubDate>Wed, 25 Oct 2023 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698225825862_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radwimps 래드윔프스 – 날씨의 아이 OST [ Sky blue 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d7d72a34-26fc-4389-ae86-312ba5285263-2787</link>
-            <guid>https://www.seoulvinyl.com/product/d7d72a34-26fc-4389-ae86-312ba5285263-2787</guid>
-            <pubDate>Sat, 28 Oct 2023 05:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248884420_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
