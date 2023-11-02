@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Nov 2023 06:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Nov 2023 07:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -416,7 +416,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248884420_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Songs of coco 코코 OST (Glow In the Dark Green LP) (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA[Songs of coco 코코 OST (Glow In the Dark Green LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882</link>
             <guid>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882</guid>
             <pubDate>Sat, 14 Oct 2023 11:05:53 GMT</pubDate>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약 판매] 크러쉬 - 정규 3집 wonderego [2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/781ede31-94e1-4156-870a-ad9541eaaf18</link>
             <guid>https://www.seoulvinyl.com/product/781ede31-94e1-4156-870a-ad9541eaaf18</guid>
-            <pubDate>Thu, 02 Nov 2023 06:10:44 GMT</pubDate>
+            <pubDate>Thu, 02 Nov 2023 06:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698902602495_1000.jpg" length="0" type="image/jpg"/>
         </item>
