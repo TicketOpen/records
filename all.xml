@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Nov 2023 06:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Nov 2023 07:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] THAMA 따마 - 2nd Album WOOOF! LP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/e573d666-f0d2-44c1-a47d-c1acb72a2d5e</link>
             <guid>https://www.seoulvinyl.com/product/e573d666-f0d2-44c1-a47d-c1acb72a2d5e</guid>
-            <pubDate>Mon, 13 Nov 2023 06:10:53 GMT</pubDate>
+            <pubDate>Mon, 13 Nov 2023 06:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699610486767_1000.jpg" length="0" type="image/jpg"/>
         </item>
