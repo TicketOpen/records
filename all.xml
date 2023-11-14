@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 10:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 11:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Mac Miller 맥밀러 - Swimming (2LP, Anniversary Edition) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</link>
+            <guid>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</guid>
+            <pubDate>Tue, 14 Nov 2023 11:06:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699956926186_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Yutaka Ozaki 유타카 오자키 - Seventeen's Map [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 11 Nov 2023 10:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699695909196_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TLC 티엘씨 - Ooooooohhh...On The TLC Tip [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a49d9556-ac0b-4ed5-b80b-19387993a3fe-2841</link>
-            <guid>https://www.seoulvinyl.com/product/a49d9556-ac0b-4ed5-b80b-19387993a3fe-2841</guid>
-            <pubDate>Sat, 11 Nov 2023 10:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699441530047_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666602861604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Mac Miller 맥밀러 - Swimming (2LP, Anniversary Edition) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</link>
+            <guid>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</guid>
+            <pubDate>Tue, 14 Nov 2023 11:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699956926186_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lil Uzi Vert 릴 우지 버트 - Pink Tape [Colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/836e6926-b54e-4aa8-91f0-a5ba34373771</link>
             <guid>https://www.seoulvinyl.com/product/836e6926-b54e-4aa8-91f0-a5ba34373771</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 11 Nov 2023 04:08:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582355621244_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West 카니예 웨스트 - Late Registration LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-219-1868-2826</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-219-1868-2826</guid>
-            <pubDate>Sat, 11 Nov 2023 04:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582356353786_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시스터 액트 (Sister Act 1) Soundtrack [Red Color LP] (서울바이닐 ─ OST)]]></title>
@@ -523,7 +523,7 @@
             <title><![CDATA[[예약판매] Michael Buble 마이클 부블레 - love (Black LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161</link>
             <guid>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161</guid>
-            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 10:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699955162447_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -531,7 +531,7 @@
             <title><![CDATA[[예약판매] Michael Buble 마이클 부블레 - Christmas (Red Color LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/b9e92e8c-c0f1-4b97-8c23-07920ebb662b</link>
             <guid>https://www.seoulvinyl.com/product/b9e92e8c-c0f1-4b97-8c23-07920ebb662b</guid>
-            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 10:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699955017309_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -539,7 +539,7 @@
             <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (Black LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853</link>
             <guid>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853</guid>
-            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 10:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608115762216_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Yutaka Ozaki 유타카 오자키 - Seventeen's Map [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597</link>
             <guid>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597</guid>
-            <pubDate>Tue, 14 Nov 2023 10:10:14 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 10:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699953233806_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -915,7 +915,7 @@
             <title><![CDATA[후지이 카제 1집 - Help Ever Hurt Never 3LP (클리어 2LP+ 클리어 7인치 Vinyl, Limited Edition) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/3a8db4db-f9ea-4101-b937-e4807a17c2e0-2850</link>
             <guid>https://www.seoulvinyl.com/product/3a8db4db-f9ea-4101-b937-e4807a17c2e0-2850</guid>
-            <pubDate>Tue, 14 Nov 2023 10:10:14 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 10:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">145,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693818522851_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -923,7 +923,7 @@
             <title><![CDATA[후지이 카제 2집 - Love All Serve All 3LP (올리브/오렌지 2LP+ 클리어 7인치 Vinyl, Limited Edition) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/805fd383-9abe-46bf-870d-cd5eafd0449a-2849</link>
             <guid>https://www.seoulvinyl.com/product/805fd383-9abe-46bf-870d-cd5eafd0449a-2849</guid>
-            <pubDate>Tue, 14 Nov 2023 10:10:14 GMT</pubDate>
+            <pubDate>Tue, 14 Nov 2023 10:08:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">145,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693819552946_1000.jpg" length="0" type="image/jpg"/>
         </item>
