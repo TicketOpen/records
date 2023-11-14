@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Yutaka Ozaki 유타카 오자키 - Seventeen's Map [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597</link>
+            <guid>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597</guid>
+            <pubDate>Tue, 14 Nov 2023 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699953233806_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후지이 카제 1집 - Help Ever Hurt Never 3LP (클리어 2LP+ 클리어 7인치 Vinyl, Limited Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/3a8db4db-f9ea-4101-b937-e4807a17c2e0-2850</link>
+            <guid>https://www.seoulvinyl.com/product/3a8db4db-f9ea-4101-b937-e4807a17c2e0-2850</guid>
+            <pubDate>Tue, 14 Nov 2023 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">145,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693818522851_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[후지이 카제 2집 - Love All Serve All 3LP (올리브/오렌지 2LP+ 클리어 7인치 Vinyl, Limited Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/805fd383-9abe-46bf-870d-cd5eafd0449a-2849</link>
+            <guid>https://www.seoulvinyl.com/product/805fd383-9abe-46bf-870d-cd5eafd0449a-2849</guid>
+            <pubDate>Tue, 14 Nov 2023 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">145,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693819552946_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joji 조지 - Nectar [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-970-2835</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791537504_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Summer Edition (45rpm, Clear Orange LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ac1cdad5-b60f-4aa1-98d8-584cfafa91f8-2769</link>
-            <guid>https://www.seoulvinyl.com/product/ac1cdad5-b60f-4aa1-98d8-584cfafa91f8-2769</guid>
-            <pubDate>Fri, 20 Oct 2023 11:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695630868286_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 - #TWICE1 [Clear Pink LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f3e62689-6ca7-4fc0-bc94-69d139541b94</link>
-            <guid>https://www.seoulvinyl.com/product/f3e62689-6ca7-4fc0-bc94-69d139541b94</guid>
-            <pubDate>Thu, 19 Oct 2023 11:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710249091_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스 - #TWICE2 [Clear Purple LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/5fe8501a-6ea5-4528-a326-fbdf4fa6e253</link>
-            <guid>https://www.seoulvinyl.com/product/5fe8501a-6ea5-4528-a326-fbdf4fa6e253</guid>
-            <pubDate>Thu, 19 Oct 2023 11:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710484917_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

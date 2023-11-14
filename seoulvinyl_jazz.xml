@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Nov 2023 09:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Nov 2023 10:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Michael Buble 마이클 부블레 - love (Black LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161</link>
+            <guid>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161</guid>
+            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699955162447_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Michael Buble 마이클 부블레 - Christmas (Red Color LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b9e92e8c-c0f1-4b97-8c23-07920ebb662b</link>
+            <guid>https://www.seoulvinyl.com/product/b9e92e8c-c0f1-4b97-8c23-07920ebb662b</guid>
+            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699955017309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (Black LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853</guid>
+            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608115762216_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Norah Jones 노라 존스 - Come away with me LP]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-835-2819</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 18 Sep 2023 08:11:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695022322814_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold)]]></title>
-            <link>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b</link>
-            <guid>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b</guid>
-            <pubDate>Thu, 31 Aug 2023 10:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392072894_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 杉本喜代志 Kiyoshi Sugimoto - OUR TIME (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/23b5be9d-66e9-4894-9aa8-f9f6c91dcd55</link>
-            <guid>https://www.seoulvinyl.com/product/23b5be9d-66e9-4894-9aa8-f9f6c91dcd55</guid>
-            <pubDate>Sat, 19 Aug 2023 12:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442933541_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 八木正生 Yagi Masao - Inga (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/630b9bd4-2956-4fc7-8692-b777a341c7a0</link>
-            <guid>https://www.seoulvinyl.com/product/630b9bd4-2956-4fc7-8692-b777a341c7a0</guid>
-            <pubDate>Sat, 19 Aug 2023 12:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442764540_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
