@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 09:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 10:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Extreme (익스트림) - Six [투명 레드 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d72d0ef2-b978-4b86-b9e3-5dbb25c02fdf-2859</link>
+            <guid>https://www.seoulvinyl.com/product/d72d0ef2-b978-4b86-b9e3-5dbb25c02fdf-2859</guid>
+            <pubDate>Wed, 15 Nov 2023 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688035807989_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Coldplay 콜드플레이 - A Head Full Of Dreams (Limited Recycled LP / Random Color)]]></title>
             <link>https://www.seoulvinyl.com/product/18481139-5eb4-4622-98c8-610f8397f8cb</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 14 Oct 2023 07:06:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697265234513_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ed Sheeran 에드시런 - Autumn Variations (White LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/5f0c570c-3be3-43fa-bdeb-582cbb623640</link>
-            <guid>https://www.seoulvinyl.com/product/5f0c570c-3be3-43fa-bdeb-582cbb623640</guid>
-            <pubDate>Fri, 13 Oct 2023 11:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697193458223_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

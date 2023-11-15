@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 09:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 10:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Songs of coco 코코 OST (Glow In the Dark Green LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796-2858</link>
+            <guid>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796-2858</guid>
+            <pubDate>Wed, 15 Nov 2023 10:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697280043808_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[시스터 액트 (Sister Act 1) Soundtrack [Red Color LP]]]></title>
             <link>https://www.seoulvinyl.com/product/6d506b80-d0bb-440f-85d6-c054925ed968</link>
@@ -46,14 +54,6 @@
             <pubDate>Thu, 02 Nov 2023 11:07:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047409786_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Songs of coco 코코 OST (Glow In the Dark Green LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796</link>
-            <guid>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796</guid>
-            <pubDate>Thu, 02 Nov 2023 11:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697280043808_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 디즈니 애니메이션 히트곡 모음집 (민트 컬러 2LP)]]></title>
