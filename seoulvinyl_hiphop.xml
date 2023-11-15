@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 08:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 09:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[A Tribe Called Quest 어 트라이브 콜드 퀘스트 - Midnight Marauders [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/aa7b4186-2235-4ee4-8cc3-3548e2be1d71</link>
+            <guid>https://www.seoulvinyl.com/product/aa7b4186-2235-4ee4-8cc3-3548e2be1d71</guid>
+            <pubDate>Wed, 15 Nov 2023 09:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700038323557_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Mac Miller 맥밀러 - Swimming (2LP, Anniversary Edition)]]></title>
             <link>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 11 Nov 2023 04:09:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582356146789_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West 카니예 웨스트 - The College Dropout LP]]></title>
-            <link>https://www.seoulvinyl.com/product/kanyecollege-1869-2823-1</link>
-            <guid>https://www.seoulvinyl.com/product/kanyecollege-1869-2823-1</guid>
-            <pubDate>Sat, 11 Nov 2023 04:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582355621244_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
