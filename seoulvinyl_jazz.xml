@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 09:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 10:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빈스 과랄디 - A Charlie Brown Christmas (Green Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/fe66a3dc-3860-4b4d-9e32-db7f2077d392-2882</link>
+            <guid>https://www.seoulvinyl.com/product/fe66a3dc-3860-4b4d-9e32-db7f2077d392-2882</guid>
+            <pubDate>Sat, 25 Nov 2023 10:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695379266097_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rh Factor - Hard Groove (Verve) [180G 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9c23daf5-6cb4-4f63-8559-359e3e746bd4</link>
+            <guid>https://www.seoulvinyl.com/product/9c23daf5-6cb4-4f63-8559-359e3e746bd4</guid>
+            <pubDate>Sat, 25 Nov 2023 10:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700905520866_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Glasper 로버트 글래스퍼 Black Radio III [Supreme Edition 3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b41516f4-50d5-4368-86f4-78b0dcbf5957</link>
+            <guid>https://www.seoulvinyl.com/product/b41516f4-50d5-4368-86f4-78b0dcbf5957</guid>
+            <pubDate>Sat, 25 Nov 2023 10:07:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700904807175_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Frank Sinatra 프랭크 시나트라 - Frank’s CHRISTMAS GREETINGS LP]]></title>
             <link>https://www.seoulvinyl.com/product/ba27afc0-d987-4a7a-97f5-0f02998c1bbb-2875</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 10 Nov 2023 07:07:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1584689915525_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Herbie Hancock 허비 행콕 - Maiden Voyage [Blue Note LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/87c3b76d-8214-42c5-bc38-b10fac376a47</link>
-            <guid>https://www.seoulvinyl.com/product/87c3b76d-8214-42c5-bc38-b10fac376a47</guid>
-            <pubDate>Sat, 21 Oct 2023 10:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697880515434_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Green 그랜트 그린 - Street of Dreams [Blue Note]]]></title>
-            <link>https://www.seoulvinyl.com/product/37f214ef-04ad-49fc-97ff-aae679cd5770</link>
-            <guid>https://www.seoulvinyl.com/product/37f214ef-04ad-49fc-97ff-aae679cd5770</guid>
-            <pubDate>Sat, 14 Oct 2023 11:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697279197132_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grant Green 그랜트 그린 - NIGERIA [Bluenote Tonepoet]]]></title>
-            <link>https://www.seoulvinyl.com/product/28a001a2-f76e-464d-8043-3cb5cf06ebbb</link>
-            <guid>https://www.seoulvinyl.com/product/28a001a2-f76e-464d-8043-3cb5cf06ebbb</guid>
-            <pubDate>Sat, 14 Oct 2023 11:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697278871015_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
