@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 04:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 05:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스타 이즈 본 (A Star Is Born Soundtrack) Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-550-2872</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-550-2872</guid>
+            <pubDate>Sat, 25 Nov 2023 05:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586942688555_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Songs of coco 코코 OST (Glow In the Dark Green LP)]]></title>
             <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796-2858</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Sep 2023 08:11:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695021733685_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] COWBOY BEBOP 카우보이 비밥 OST LP-BOX [11LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/3184151b-674e-4164-8761-92c157da77c6</link>
-            <guid>https://www.seoulvinyl.com/product/3184151b-674e-4164-8761-92c157da77c6</guid>
-            <pubDate>Fri, 15 Sep 2023 11:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">407,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1694774897486_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
