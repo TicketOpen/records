@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Nov 2023 07:07:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Nov 2023 08:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Sat, 25 Nov 2023 05:06:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1622281307309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Travis Scott 트래비스 스캇 - Birds In The Trap Sing Mcknight LP (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1132-2876</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1132-2876</guid>
+            <pubDate>Sat, 25 Nov 2023 08:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620902858324_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Travis Scott 트래비스 스캇 - Astroworld Vinyl (Black, 2LP) (서울바이닐 ─ 스토어)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Nov 2023 11:06:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">145,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693818522851_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mac Miller 맥밀러 ‎– Circles (Clear LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-661-2860</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-661-2860</guid>
-            <pubDate>Wed, 15 Nov 2023 10:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1591619590489_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -267,9 +267,17 @@
             <title><![CDATA[Silk Sonic 실크소닉 (Bruno Mars & Anderson .Paak) - An Evening With Silk Sonic (Atlantic 75주년 LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376-2874</link>
             <guid>https://www.seoulvinyl.com/product/b14c697c-818a-43a5-9757-3802bc014358-2376-2874</guid>
-            <pubDate>Sat, 25 Nov 2023 07:06:27 GMT</pubDate>
+            <pubDate>Sat, 25 Nov 2023 07:06:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1658142429605_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Travis Scott 트래비스 스캇 - Birds In The Trap Sing Mcknight LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1132-2876</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1132-2876</guid>
+            <pubDate>Sat, 25 Nov 2023 08:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1620902858324_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Travis Scott 트래비스 스캇 - Astroworld Vinyl (Black, 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 11 Nov 2023 10:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1573890295420_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Luther Vandross 루더 밴드로스 - Never Too Much LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/d87c3045-accd-4783-b663-9ad708061f18</link>
-            <guid>https://www.seoulvinyl.com/product/d87c3045-accd-4783-b663-9ad708061f18</guid>
-            <pubDate>Sat, 11 Nov 2023 10:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699694240131_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스타 이즈 본 (A Star Is Born Soundtrack) Lp (서울바이닐 ─ OST)]]></title>
@@ -523,7 +523,7 @@
             <title><![CDATA[Frank Sinatra 프랭크 시나트라 - Frank’s CHRISTMAS GREETINGS LP (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/ba27afc0-d987-4a7a-97f5-0f02998c1bbb-2875</link>
             <guid>https://www.seoulvinyl.com/product/ba27afc0-d987-4a7a-97f5-0f02998c1bbb-2875</guid>
-            <pubDate>Sat, 25 Nov 2023 07:06:48 GMT</pubDate>
+            <pubDate>Sat, 25 Nov 2023 07:06:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">26,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695022322814_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -531,7 +531,7 @@
             <title><![CDATA[Nina Simone 니나 시몬 - Baltimore (Gatefold, Translucent Red Vinyl) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/3c3791d9-4a93-46b4-8c3b-d0913790102a-2873</link>
             <guid>https://www.seoulvinyl.com/product/3c3791d9-4a93-46b4-8c3b-d0913790102a-2873</guid>
-            <pubDate>Sat, 25 Nov 2023 07:06:48 GMT</pubDate>
+            <pubDate>Sat, 25 Nov 2023 07:06:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683111756503_1000.png" length="0" type="image/png"/>
         </item>
