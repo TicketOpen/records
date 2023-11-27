@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Nov 2023 10:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Nov 2023 11:08:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (Black LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853-2885</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853-2885</guid>
+            <pubDate>Mon, 27 Nov 2023 11:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608115762216_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Buble 마이클 부블레 - Christmas (Red Color LP)]]></title>
             <link>https://www.seoulvinyl.com/product/b9e92e8c-c0f1-4b97-8c23-07920ebb662b-2884</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699955162447_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (Black LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853</guid>
-            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608115762216_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Norah Jones 노라 존스 - Come away with me LP]]></title>
