@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Nov 2023 04:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Nov 2023 05:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] CROWN J 크라운 제이 - ASIA KING [골드 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/00197e94-6b4a-4619-9c59-f7bd853ca40b</link>
+            <guid>https://www.seoulvinyl.com/product/00197e94-6b4a-4619-9c59-f7bd853ca40b</guid>
+            <pubDate>Tue, 28 Nov 2023 05:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701147660962_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 마미손 - 나의 슬픔 (My Sadness) [핑크 크리스탈 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/58c73792-0458-4633-9657-8b6d614d2439</link>
+            <guid>https://www.seoulvinyl.com/product/58c73792-0458-4633-9657-8b6d614d2439</guid>
+            <pubDate>Tue, 28 Nov 2023 05:08:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701146976504_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 산울림 - 동요 전집 [컬러 4LP 박스 세트]]]></title>
             <link>https://www.seoulvinyl.com/product/4aa6261c-88c4-4a5a-916b-e5f389964a05</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 25 Oct 2023 10:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683772699139_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Slom 슬롬 - WEATHER REPORT LP]]></title>
-            <link>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7</link>
-            <guid>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7</guid>
-            <pubDate>Wed, 25 Oct 2023 10:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698225825862_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 트와이스 - #TWICE4 [Clear Skyblue LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777</link>
-            <guid>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777</guid>
-            <pubDate>Tue, 24 Oct 2023 11:07:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697711147476_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
