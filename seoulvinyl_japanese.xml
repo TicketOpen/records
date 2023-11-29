@@ -4,9 +4,41 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Nov 2023 10:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Nov 2023 11:08:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트와이스 - #TWICE4 [Clear Skyblue LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777-2894</link>
+            <guid>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777-2894</guid>
+            <pubDate>Wed, 29 Nov 2023 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697711147476_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 - #TWICE3 [White Color LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c-2776-2893</link>
+            <guid>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c-2776-2893</guid>
+            <pubDate>Wed, 29 Nov 2023 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710964675_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 - #TWICE2 [Clear Purple LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5fe8501a-6ea5-4528-a326-fbdf4fa6e253-2892</link>
+            <guid>https://www.seoulvinyl.com/product/5fe8501a-6ea5-4528-a326-fbdf4fa6e253-2892</guid>
+            <pubDate>Wed, 29 Nov 2023 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710484917_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 - #TWICE1 [Clear Pink LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f3e62689-6ca7-4fc0-bc94-69d139541b94-2890-1</link>
+            <guid>https://www.seoulvinyl.com/product/f3e62689-6ca7-4fc0-bc94-69d139541b94-2890-1</guid>
+            <pubDate>Wed, 29 Nov 2023 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710249091_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ikeda Noriyo 이케다 노리요 - DREAM IN THE STREET LP [Clear Pink]]]></title>
             <link>https://www.seoulvinyl.com/product/043b1a30-d63d-4b59-b022-05e2c040814d</link>
@@ -96,44 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357674972_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 트와이스 - #TWICE4 [Clear Skyblue LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777</link>
-            <guid>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777</guid>
-            <pubDate>Tue, 24 Oct 2023 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697711147476_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 트와이스 - #TWICE3 [White Color LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c-2776</link>
-            <guid>https://www.seoulvinyl.com/product/1adec4b9-8e79-4084-b303-faf44c93fa7c-2776</guid>
-            <pubDate>Tue, 24 Oct 2023 11:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710964675_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Anri 안리 - Timely!! (Clear Skyblue Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/32f433d7-aebd-473e-abda-7c1739887ba5</link>
             <guid>https://www.seoulvinyl.com/product/32f433d7-aebd-473e-abda-7c1739887ba5</guid>
             <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791817586_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Heaven Beach (Clear Yellow Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d108d41a-fd2e-4f40-be02-68b56f33bb10</link>
-            <guid>https://www.seoulvinyl.com/product/d108d41a-fd2e-4f40-be02-68b56f33bb10</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791749952_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Bi・Ki・Ni (Clear Pink Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/62d64578-1349-404f-b81b-f7f0227afa50</link>
-            <guid>https://www.seoulvinyl.com/product/62d64578-1349-404f-b81b-f7f0227afa50</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791654480_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
