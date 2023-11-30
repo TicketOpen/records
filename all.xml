@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 06:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 07:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 스트릿 우먼 파이터2 (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/55eb7a5c-640c-468d-8a55-5329d04f96d2</link>
+            <guid>https://www.seoulvinyl.com/product/55eb7a5c-640c-468d-8a55-5329d04f96d2</guid>
+            <pubDate>Thu, 30 Nov 2023 07:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701325534951_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 - #TWICE4 [Clear Skyblue LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777-2894</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 25 Nov 2023 10:07:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700904807175_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kings Of Convenience 킹스 오브 컨베니언스 - Riot On An Empty Street (gatefold) LP (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1304-2684-2878</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1304-2684-2878</guid>
-            <pubDate>Sat, 25 Nov 2023 09:06:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1627552201929_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697880061702_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 스트릿 우먼 파이터2 (LP) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/55eb7a5c-640c-468d-8a55-5329d04f96d2</link>
+            <guid>https://www.seoulvinyl.com/product/55eb7a5c-640c-468d-8a55-5329d04f96d2</guid>
+            <pubDate>Thu, 30 Nov 2023 07:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701325534951_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트와이스 - #TWICE4 [Clear Skyblue LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777-2894</link>
             <guid>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777-2894</guid>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 08 Nov 2023 06:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699422524853_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약 판매] 크러쉬 - 정규 3집 wonderego [2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/781ede31-94e1-4156-870a-ad9541eaaf18</link>
-            <guid>https://www.seoulvinyl.com/product/781ede31-94e1-4156-870a-ad9541eaaf18</guid>
-            <pubDate>Thu, 02 Nov 2023 06:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698902602495_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트와이스 - #TWICE4 [Clear Skyblue LP] (서울바이닐 ─ JAPANESE)]]></title>
