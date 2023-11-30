@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Nov 2023 07:08:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Nov 2023 08:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 스트릿 우먼 파이터2 (LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/55eb7a5c-640c-468d-8a55-5329d04f96d2</link>
             <guid>https://www.seoulvinyl.com/product/55eb7a5c-640c-468d-8a55-5329d04f96d2</guid>
-            <pubDate>Thu, 30 Nov 2023 07:08:22 GMT</pubDate>
+            <pubDate>Thu, 30 Nov 2023 07:07:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701325534951_1000.jpg" length="0" type="image/jpg"/>
         </item>
