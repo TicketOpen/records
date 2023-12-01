@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 10:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 11:07:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[杉本喜代志 Kiyoshi Sugimoto - OUR TIME (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/23b5be9d-66e9-4894-9aa8-f9f6c91dcd55-2903</link>
+            <guid>https://www.seoulvinyl.com/product/23b5be9d-66e9-4894-9aa8-f9f6c91dcd55-2903</guid>
+            <pubDate>Fri, 01 Dec 2023 11:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442933541_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[八木正生 Yagi Masao - Inga (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/630b9bd4-2956-4fc7-8692-b777a341c7a0-2902</link>
+            <guid>https://www.seoulvinyl.com/product/630b9bd4-2956-4fc7-8692-b777a341c7a0-2902</guid>
+            <pubDate>Fri, 01 Dec 2023 11:06:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442764540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Michael Bublé 마이클 부블레 - Christmas (Black LP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-855-1562-2227-2853-2885</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 10 Nov 2023 11:06:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687858929288_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snarky Puppy 스나키퍼피 - Empire Central [3LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e4281bc6-faf2-40b4-aa7d-9826ab51583f</link>
-            <guid>https://www.seoulvinyl.com/product/e4281bc6-faf2-40b4-aa7d-9826ab51583f</guid>
-            <pubDate>Fri, 10 Nov 2023 09:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699604945931_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snarky Puppy & Metropole Orkest 스나키퍼피 - Sylva LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-393-2807</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-393-2807</guid>
-            <pubDate>Fri, 10 Nov 2023 07:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1584689915525_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
