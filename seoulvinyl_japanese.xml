@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 10:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ohashi Junko 오하시 준코 - Magical (Blue Colored 2Lp)]]></title>
+            <link>https://www.seoulvinyl.com/product/50e4e308-db45-4d5b-a0ce-2f57835f8fb5-2676-2900</link>
+            <guid>https://www.seoulvinyl.com/product/50e4e308-db45-4d5b-a0ce-2f57835f8fb5-2676-2900</guid>
+            <pubDate>Fri, 01 Dec 2023 10:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683027675598_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matsubara Miki 마츠바라 미키 – Myself]]></title>
+            <link>https://www.seoulvinyl.com/product/ded2b786-9846-438c-861e-cda1003a5037-2899</link>
+            <guid>https://www.seoulvinyl.com/product/ded2b786-9846-438c-861e-cda1003a5037-2899</guid>
+            <pubDate>Fri, 01 Dec 2023 10:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695793654304_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트와이스 - #TWICE4 [Clear Skyblue LP]]]></title>
             <link>https://www.seoulvinyl.com/product/629a2c03-37d0-41f7-91b3-26ad50be5ccd-2777-2894</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 26 Oct 2023 09:09:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357819104_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Spacy [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659-2785</link>
-            <guid>https://www.seoulvinyl.com/product/f73933c1-3364-4633-86be-ad204ac4d7f3-2659-2785</guid>
-            <pubDate>Thu, 26 Oct 2023 09:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357674972_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri 안리 - Timely!! (Clear Skyblue Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/32f433d7-aebd-473e-abda-7c1739887ba5</link>
-            <guid>https://www.seoulvinyl.com/product/32f433d7-aebd-473e-abda-7c1739887ba5</guid>
-            <pubDate>Fri, 20 Oct 2023 09:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697791817586_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

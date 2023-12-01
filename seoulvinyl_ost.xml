@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 09:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 10:10:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[일본 드라마 'Long Vacation' Original Soundtrack 컬러반]]></title>
+            <link>https://www.seoulvinyl.com/product/f2dad6ad-1ba0-48ef-83b3-888a5a3d327b-2898</link>
+            <guid>https://www.seoulvinyl.com/product/f2dad6ad-1ba0-48ef-83b3-888a5a3d327b-2898</guid>
+            <pubDate>Fri, 01 Dec 2023 10:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689850715376_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 영화 '고양이를 부탁해' OST (화이트 컬러 LP)]]></title>
             <link>https://www.seoulvinyl.com/product/1ce85b7c-0574-4626-a1af-4d23b33fb216</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 Sep 2023 05:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695704114247_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Purple vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</link>
-            <guid>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</guid>
-            <pubDate>Mon, 25 Sep 2023 10:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695633765342_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
