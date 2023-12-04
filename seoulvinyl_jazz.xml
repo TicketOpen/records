@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 08:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Robert Glasper 로버트 글래스퍼 Black Radio III [Supreme Edition 3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b41516f4-50d5-4368-86f4-78b0dcbf5957-2914</link>
+            <guid>https://www.seoulvinyl.com/product/b41516f4-50d5-4368-86f4-78b0dcbf5957-2914</guid>
+            <pubDate>Mon, 04 Dec 2023 10:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700904807175_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rh Factor - Hard Groove (Verve) [180G 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9c23daf5-6cb4-4f63-8559-359e3e746bd4-2913</link>
+            <guid>https://www.seoulvinyl.com/product/9c23daf5-6cb4-4f63-8559-359e3e746bd4-2913</guid>
+            <pubDate>Mon, 04 Dec 2023 10:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">77,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700905520866_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans Trio - Sunday At The Village Vanguard (OJC)]]></title>
             <link>https://www.seoulvinyl.com/product/7eb1cad6-1f27-4f59-8465-01b57f718672</link>
@@ -54,22 +70,6 @@
             <pubDate>Sat, 25 Nov 2023 10:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695379266097_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rh Factor - Hard Groove (Verve) [180G 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9c23daf5-6cb4-4f63-8559-359e3e746bd4</link>
-            <guid>https://www.seoulvinyl.com/product/9c23daf5-6cb4-4f63-8559-359e3e746bd4</guid>
-            <pubDate>Sat, 25 Nov 2023 10:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700905520866_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Robert Glasper 로버트 글래스퍼 Black Radio III [Supreme Edition 3LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b41516f4-50d5-4368-86f4-78b0dcbf5957</link>
-            <guid>https://www.seoulvinyl.com/product/b41516f4-50d5-4368-86f4-78b0dcbf5957</guid>
-            <pubDate>Sat, 25 Nov 2023 10:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700904807175_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Frank Sinatra 프랭크 시나트라 - Frank’s CHRISTMAS GREETINGS LP]]></title>
