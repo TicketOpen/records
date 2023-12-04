@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 10:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 11:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sat, 02 Dec 2023 08:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701147660962_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 영화 '고양이를 부탁해' OST (화이트 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/1ce85b7c-0574-4626-a1af-4d23b33fb216</link>
-            <guid>https://www.seoulvinyl.com/product/1ce85b7c-0574-4626-a1af-4d23b33fb216</guid>
-            <pubDate>Fri, 01 Dec 2023 04:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701401413288_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 업타운 - 25주년 베스트앨범 Back II Analog (12인치 화이트반 LP)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 13 Nov 2023 03:09:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699608920842_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Life and Time 라이프 앤 타임 - EP Chart [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b007d4dc-0927-4d6a-b434-31f00a296523</link>
+            <guid>https://www.seoulvinyl.com/product/b007d4dc-0927-4d6a-b434-31f00a296523</guid>
+            <pubDate>Mon, 04 Dec 2023 11:07:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699609314342_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

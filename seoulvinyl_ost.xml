@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 10:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 11:08:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 01 Dec 2023 10:08:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689850715376_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 영화 '고양이를 부탁해' OST (화이트 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/1ce85b7c-0574-4626-a1af-4d23b33fb216</link>
-            <guid>https://www.seoulvinyl.com/product/1ce85b7c-0574-4626-a1af-4d23b33fb216</guid>
-            <pubDate>Fri, 01 Dec 2023 04:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701401413288_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디즈니 100주년 기념 컴필레이션 (Disney 100) [실버 컬러 2LP]]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 26 Sep 2023 05:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695704114247_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Purple vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</link>
+            <guid>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</guid>
+            <pubDate>Mon, 04 Dec 2023 11:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695633765342_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
