@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 05:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 06:11:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -20,7 +20,7 @@
             <link>https://www.seoulvinyl.com/product/untitled-841-1809-2917</link>
             <guid>https://www.seoulvinyl.com/product/untitled-841-1809-2917</guid>
             <pubDate>Mon, 04 Dec 2023 11:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -268,7 +268,7 @@
             <link>https://www.seoulvinyl.com/product/untitled-841-1809-2917</link>
             <guid>https://www.seoulvinyl.com/product/untitled-841-1809-2917</guid>
             <pubDate>Mon, 04 Dec 2023 11:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 방탄소년단 - LOVE YOURSELF 轉 'Tear' (컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/045a2438-c523-4d4a-b5a0-32c8f715e734</link>
             <guid>https://www.seoulvinyl.com/product/045a2438-c523-4d4a-b5a0-32c8f715e734</guid>
-            <pubDate>Thu, 07 Dec 2023 05:08:41 GMT</pubDate>
+            <pubDate>Thu, 07 Dec 2023 05:07:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701925419664_1000.jpg" length="0" type="image/jpg"/>
         </item>
