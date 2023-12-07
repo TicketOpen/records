@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 10:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 11:08:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 세일러 문 美少女戦士セーラームーン The 30th Anniversary Memorial Album(2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369-2920</link>
+            <guid>https://www.seoulvinyl.com/product/880adffa-2941-44e4-9ab9-dbbf44323f17-2369-2920</guid>
+            <pubDate>Thu, 07 Dec 2023 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668078093549_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[일본 드라마 'Long Vacation' Original Soundtrack 컬러반]]></title>
             <link>https://www.seoulvinyl.com/product/f2dad6ad-1ba0-48ef-83b3-888a5a3d327b-2898</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 26 Sep 2023 05:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695704114247_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Purple vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</link>
-            <guid>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a</guid>
-            <pubDate>Mon, 04 Dec 2023 11:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695633765342_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
