@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 10:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 11:07:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[George Benson 조지 벤슨 - Irreplaceable LP]]></title>
+            <link>https://www.seoulvinyl.com/product/7f29e055-162a-46e7-854c-ccf189dceef9</link>
+            <guid>https://www.seoulvinyl.com/product/7f29e055-162a-46e7-854c-ccf189dceef9</guid>
+            <pubDate>Fri, 08 Dec 2023 11:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702033378351_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Buble 마이클 부블레 - love (Black LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161-2926</link>
+            <guid>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161-2926</guid>
+            <pubDate>Fri, 08 Dec 2023 11:07:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699955162447_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Robert Glasper 로버트 글래스퍼 Black Radio III [Supreme Edition 3LP]]]></title>
             <link>https://www.seoulvinyl.com/product/b41516f4-50d5-4368-86f4-78b0dcbf5957-2914</link>
@@ -104,14 +120,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695721215127_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Michael Buble 마이클 부블레 - love (Black LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161</link>
-            <guid>https://www.seoulvinyl.com/product/b1398682-d547-460e-8a90-c96235cc1161</guid>
-            <pubDate>Tue, 14 Nov 2023 10:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699955162447_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Norah Jones 노라 존스 - Come away with me LP]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-835-2819</link>
             <guid>https://www.seoulvinyl.com/product/untitled-835-2819</guid>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 11 Nov 2023 04:09:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699673416631_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio 빌 에반스 트리오 ‎– Portrait In Jazz LP (Riverside)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-788-2817</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-788-2817</guid>
-            <pubDate>Fri, 10 Nov 2023 11:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699613294670_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
