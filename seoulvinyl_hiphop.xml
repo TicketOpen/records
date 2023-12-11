@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Dec 2023 10:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 11:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] John Legend 존 레전드 - Once Again [Gold Colored 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/68e0091c-25aa-4b69-aab0-834c991eb6de</link>
+            <guid>https://www.seoulvinyl.com/product/68e0091c-25aa-4b69-aab0-834c991eb6de</guid>
+            <pubDate>Mon, 11 Dec 2023 11:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702291989960_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jay-Z 제이지 lp - Blueprint (2LP, gatefold)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-986-2928</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 11 Nov 2023 10:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699695909196_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TLC 티엘씨 - Ooooooohhh...On The TLC Tip [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a49d9556-ac0b-4ed5-b80b-19387993a3fe-2841</link>
-            <guid>https://www.seoulvinyl.com/product/a49d9556-ac0b-4ed5-b80b-19387993a3fe-2841</guid>
-            <pubDate>Sat, 11 Nov 2023 10:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699441530047_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
