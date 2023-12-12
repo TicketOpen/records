@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 10:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 11:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울왕국 Frozen : The Songs Limited ZOETROPE LP]]></title>
+            <link>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935</link>
+            <guid>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935</guid>
+            <pubDate>Tue, 12 Dec 2023 11:07:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699262497555_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 러브 액츄얼리 OST (Clear & Transparent Red 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/d3494b2b-8b03-4a19-b7a5-f0397403ba7a</link>
@@ -86,14 +94,6 @@
             <pubDate>Sat, 11 Nov 2023 09:07:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1601103059747_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 겨울왕국 Frozen : The Songs Limited ZOETROPE LP]]></title>
-            <link>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25</link>
-            <guid>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25</guid>
-            <pubDate>Mon, 06 Nov 2023 10:09:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699262497555_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가디언즈 오브 갤럭시 Awesome Mix Vol.1 O.S.T (LP)]]></title>

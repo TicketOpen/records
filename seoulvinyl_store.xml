@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Dec 2023 10:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 11:08:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[겨울왕국 Frozen : The Songs Limited ZOETROPE LP]]></title>
+            <link>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935</link>
+            <guid>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935</guid>
+            <pubDate>Tue, 12 Dec 2023 11:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699262497555_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slom 슬롬 - WEATHER REPORT LP]]></title>
+            <link>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7-2934</link>
+            <guid>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7-2934</guid>
+            <pubDate>Tue, 12 Dec 2023 11:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698225825862_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김뜻돌 - 꿈에서 걸려온 전화 (투명 블루 컬러 LP)]]></title>
             <link>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07-2933</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 07 Dec 2023 05:07:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701925419664_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mariah Carey 머라이어 캐리 - Merry Christmas Deluxe Anniversary Edition (Red LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-841-1809-2917</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-841-1809-2917</guid>
-            <pubDate>Mon, 04 Dec 2023 11:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1607511214941_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Greatest Hits! Of Tatsuro Yamashita [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707-2916</link>
-            <guid>https://www.seoulvinyl.com/product/c8f69785-4d25-47f2-b64f-332909b46f66-2707-2916</guid>
-            <pubDate>Mon, 04 Dec 2023 10:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357538422_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
