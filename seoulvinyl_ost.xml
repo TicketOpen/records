@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Dec 2023 10:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Dec 2023 11:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[山崎まさよし 야마자키 마사요시 - One more time, One more chance (초속 5센티미터 OST LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/ad0c178c-2176-472f-84ee-b9e932a117b5-2942</link>
+            <guid>https://www.seoulvinyl.com/product/ad0c178c-2176-472f-84ee-b9e932a117b5-2942</guid>
+            <pubDate>Thu, 14 Dec 2023 11:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411728604_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d32741c6-8ba8-4975-ac83-d2487d4ea674-2941</link>
+            <guid>https://www.seoulvinyl.com/product/d32741c6-8ba8-4975-ac83-d2487d4ea674-2941</guid>
+            <pubDate>Thu, 14 Dec 2023 11:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692442027488_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원피스 New World OST (옐로우&레드 컬러 한정반)]]></title>
             <link>https://www.seoulvinyl.com/product/7ff80fbf-4d3a-4212-8a1b-85ebd5062284</link>
@@ -32,7 +48,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699262497555_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 러브 액츄얼리 OST (Clear & Transparent Red 2LP)]]></title>
+            <title><![CDATA[러브 액츄얼리 OST (Clear & Transparent Red 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/d3494b2b-8b03-4a19-b7a5-f0397403ba7a</link>
             <guid>https://www.seoulvinyl.com/product/d3494b2b-8b03-4a19-b7a5-f0397403ba7a</guid>
             <pubDate>Mon, 11 Dec 2023 11:07:25 GMT</pubDate>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 02 Nov 2023 11:07:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047460202_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[가디언즈 오브 갤럭시 Awesome Mix Vol.2 O.S.T (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d5586d75-51c2-444c-b371-6e8489996236-2797</link>
-            <guid>https://www.seoulvinyl.com/product/d5586d75-51c2-444c-b371-6e8489996236-2797</guid>
-            <pubDate>Thu, 02 Nov 2023 11:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693047409786_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 디즈니 애니메이션 히트곡 모음집 (민트 컬러 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/584b62b7-78f6-446f-a2db-83dd45cb2304</link>
-            <guid>https://www.seoulvinyl.com/product/584b62b7-78f6-446f-a2db-83dd45cb2304</guid>
-            <pubDate>Tue, 31 Oct 2023 11:06:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698749555229_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
