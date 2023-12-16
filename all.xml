@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 10:08:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 11:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[Barbie 바비 : The Album [Sky Blue Limited LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/58fa0b6f-46ec-46bc-978a-e11b221de675</link>
             <guid>https://www.seoulvinyl.com/product/58fa0b6f-46ec-46bc-978a-e11b221de675</guid>
-            <pubDate>Sat, 16 Dec 2023 10:07:49 GMT</pubDate>
+            <pubDate>Sat, 16 Dec 2023 10:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702720281030_1000.jpg" length="0" type="image/jpg"/>
         </item>
