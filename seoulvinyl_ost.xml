@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Dec 2023 10:08:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 11:07:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Motohiro Hata 하타 모토히로 - Kotonoha (언어의정원 OST LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/19614066-dbbc-4e3e-afd3-fa379c7a1ec1-2955</link>
+            <guid>https://www.seoulvinyl.com/product/19614066-dbbc-4e3e-afd3-fa379c7a1ec1-2955</guid>
+            <pubDate>Sat, 23 Dec 2023 11:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411877635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[겨울왕국 Frozen : The Songs Limited ZOETROPE LP]]></title>
+            <link>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935-2954</link>
+            <guid>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935-2954</guid>
+            <pubDate>Sat, 23 Dec 2023 11:06:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699262497555_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Barbie 바비 : The Album [Sky Blue Limited LP]]]></title>
             <link>https://www.seoulvinyl.com/product/58fa0b6f-46ec-46bc-978a-e11b221de675</link>
@@ -46,14 +62,6 @@
             <pubDate>Wed, 13 Dec 2023 11:07:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693217660904_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[겨울왕국 Frozen : The Songs Limited ZOETROPE LP]]></title>
-            <link>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935</link>
-            <guid>https://www.seoulvinyl.com/product/ba53d591-915f-4b71-85e9-c8d9758d7c25-2935</guid>
-            <pubDate>Tue, 12 Dec 2023 11:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699262497555_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러브 액츄얼리 OST (Clear & Transparent Red 2LP)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 11 Nov 2023 09:07:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699692889262_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모서리 할인] Disney 디즈니 인어공주 OST 픽쳐 디스크 LP]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-691-2831</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-691-2831</guid>
-            <pubDate>Sat, 11 Nov 2023 09:07:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1601103059747_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
