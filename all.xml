@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 10:09:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 11:08:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[METRO BOOMIN 스파이더맨 : 어크로스 더 유니버스 OST (2LP, Metro Boomin Presents Spider-Man) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6408488c-740f-46e4-8046-4efd1a3999d4</link>
+            <guid>https://www.seoulvinyl.com/product/6408488c-740f-46e4-8046-4efd1a3999d4</guid>
+            <pubDate>Fri, 29 Dec 2023 11:06:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703846636117_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[낯선사람들 - 1집 동그라미, 네모, 세모 (blue white mix color) vinyl (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1048-2958</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Dec 2023 11:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702291989960_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Christmas Eve（40th Anniversary Edition 12인치) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb-2943</link>
-            <guid>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb-2943</guid>
-            <pubDate>Thu, 14 Dec 2023 11:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">32,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695791968766_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699695909196_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[METRO BOOMIN 스파이더맨 : 어크로스 더 유니버스 OST (2LP, Metro Boomin Presents Spider-Man) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/6408488c-740f-46e4-8046-4efd1a3999d4</link>
+            <guid>https://www.seoulvinyl.com/product/6408488c-740f-46e4-8046-4efd1a3999d4</guid>
+            <pubDate>Fri, 29 Dec 2023 11:06:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703846636117_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Motohiro Hata 하타 모토히로 - Kotonoha (언어의정원 OST LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/19614066-dbbc-4e3e-afd3-fa379c7a1ec1-2955</link>
             <guid>https://www.seoulvinyl.com/product/19614066-dbbc-4e3e-afd3-fa379c7a1ec1-2955</guid>
@@ -510,14 +518,6 @@
             <pubDate>Wed, 15 Nov 2023 10:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697280043808_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[시스터 액트 (Sister Act 1) Soundtrack [Red Color LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/6d506b80-d0bb-440f-85d6-c054925ed968</link>
-            <guid>https://www.seoulvinyl.com/product/6d506b80-d0bb-440f-85d6-c054925ed968</guid>
-            <pubDate>Sat, 11 Nov 2023 09:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699692889262_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold) (서울바이닐 ─ JAZZ)]]></title>
