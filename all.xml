@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Dec 2023 04:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 05:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[들국화 - 들국화 (Remastered 2022) [재발매 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</link>
+            <guid>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</guid>
+            <pubDate>Sat, 30 Dec 2023 05:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702006696683_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[METRO BOOMIN 스파이더맨 : 어크로스 더 유니버스 OST (2LP, Metro Boomin Presents Spider-Man) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/6408488c-740f-46e4-8046-4efd1a3999d4</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 15 Dec 2023 11:06:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677733629381_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Legend 존 레전드 - Once Again [Gold Colored 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/68e0091c-25aa-4b69-aab0-834c991eb6de-2944</link>
-            <guid>https://www.seoulvinyl.com/product/68e0091c-25aa-4b69-aab0-834c991eb6de-2944</guid>
-            <pubDate>Thu, 14 Dec 2023 11:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702291989960_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1613476671040_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[들국화 - 들국화 (Remastered 2022) [재발매 한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</link>
+            <guid>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</guid>
+            <pubDate>Sat, 30 Dec 2023 05:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702006696683_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[낯선사람들 - 1집 동그라미, 네모, 세모 (blue white mix color) vinyl (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1048-2958</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1048-2958</guid>
@@ -886,14 +894,6 @@
             <pubDate>Mon, 11 Dec 2023 11:06:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696490934772_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들국화 - 들국화 (Remastered 2022) [재발매 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9</link>
-            <guid>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9</guid>
-            <pubDate>Fri, 08 Dec 2023 04:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702006696683_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 타짜 OST [Limited Transparent Red & Orange Splitter Color LP] (서울바이닐 ─ KOREAN)]]></title>
