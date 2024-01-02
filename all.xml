@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 12:14:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 13:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1304,14 +1304,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202104/da99811b02cdb86baa9ce3ca2da07bfd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드린지 오 Dringe Augh 3집 Black Hyll Side CD/음반 (일렉트릭 뮤즈) (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1759&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1759&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[14,900 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/63c8aa5cab4385aa409e9b1f84059869.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[COSMOS 모리 MORI's 1st EP Album 음반, 엽서4매, 스티커 SET (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1710&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1710&amp;cate_no=60&amp;display_group=1</guid>
@@ -1542,6 +1534,14 @@
             <pubDate>Tue, 02 Jan 2024 12:14:03 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202305/7e13bcac40fa9b051e85ae2f825cf32b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사람들은 모두 다른 향기 지나오킹 카세트 테이프 음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2024&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2024&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Jan 2024 13:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202303/cd91adc89edf1bbc3dae99356d75b19a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
