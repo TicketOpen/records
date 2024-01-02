@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Jan 2024 11:08:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 12:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -110,14 +110,6 @@
             <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
             <content:encoded><![CDATA[17,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202110/7d7d4b4dd65c1b5809bd80457de30fab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시크릿 아시안 맨 Secret Asian Men 2집 Ghost CD/음반 (일렉트릭 뮤즈)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1775&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1775&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[16,300 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202106/7239b1d8de8436a5cd4d7c0eb4af7032.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[{ 재입고 } 김목인 3집 콜라보 씨의 일일 CD/음반 (일렉트릭 뮤즈)]]></title>
@@ -304,14 +296,6 @@
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/201905/7d330ec6176462db2c3c0eceecce2666.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쓰다(Xeuda) EP ‘남겨진 것들’]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1079&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1079&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Apr 2023 18:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://shopondo.cafe24.com/web/product/medium/201906/c8250e995c9014a05b458f011e3211e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Three Fakes 싱글앨범 ‘Q&E’]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1021&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1021&amp;cate_no=60&amp;display_group=1</guid>
@@ -390,6 +374,22 @@
             <pubDate>Fri, 15 Dec 2023 01:52:40 GMT</pubDate>
             <content:encoded><![CDATA[8,000 won]]></content:encoded>
             <enclosure url="http://shopondo.cafe24.com/web/product/medium/202306/9f9394ca8e9c9e765eccfe0524c269e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[봉오리 시절 허정혁 정규 1집]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2053&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2053&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Jan 2024 12:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202306/5b17681b58e47b98d3f83730ec3ace71.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조류: 현실은 썰물 사랑은 밀물 SHINKI, MINJU 산문시]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2045&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2045&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Jan 2024 12:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://shopondo.cafe24.com/web/product/medium/202305/7e13bcac40fa9b051e85ae2f825cf32b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
