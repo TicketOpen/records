@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 Jan 2024 09:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Jan 2024 10:09:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,7 +651,7 @@
             <title><![CDATA[Bobby Caldwell 바비 콜드웰 - Cat In The Hat LP (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/024ded58-937a-4f94-87d2-00dd303c1b0a-2966</link>
             <guid>https://www.seoulvinyl.com/product/024ded58-937a-4f94-87d2-00dd303c1b0a-2966</guid>
-            <pubDate>Thu, 04 Jan 2024 09:08:15 GMT</pubDate>
+            <pubDate>Thu, 04 Jan 2024 09:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697105894277_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -659,7 +659,7 @@
             <title><![CDATA[Bobby Caldwell 바비 콜드웰 - Bobby Caldwell LP (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/9127dd22-cc30-456d-8464-a090ddf7d14a-2965</link>
             <guid>https://www.seoulvinyl.com/product/9127dd22-cc30-456d-8464-a090ddf7d14a-2965</guid>
-            <pubDate>Thu, 04 Jan 2024 09:08:15 GMT</pubDate>
+            <pubDate>Thu, 04 Jan 2024 09:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697106015847_1000.jpg" length="0" type="image/jpg"/>
         </item>
