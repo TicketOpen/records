@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 10:09:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 11:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jay-Z 제이지 lp - Blueprint (2LP, gatefold) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-986-2928-2968</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-986-2928-2968</guid>
+            <pubDate>Fri, 05 Jan 2024 11:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1612354460192_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가디언즈 오브 더 갤럭시 3 O.S.T [Gatefold][2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/55721216-e94a-4db5-828e-bcbf46bd79ed-2967</link>
+            <guid>https://www.seoulvinyl.com/product/55721216-e94a-4db5-828e-bcbf46bd79ed-2967</guid>
+            <pubDate>Fri, 05 Jan 2024 11:06:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687850082402_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bobby Caldwell 바비 콜드웰 - Cat In The Hat LP (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/024ded58-937a-4f94-87d2-00dd303c1b0a-2966</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 23 Dec 2023 11:05:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이나믹 듀오 - Enlightened (2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c9fd3080-0c0f-49c7-a46c-3e92d727d2a2-2951</link>
-            <guid>https://www.seoulvinyl.com/product/c9fd3080-0c0f-49c7-a46c-3e92d727d2a2-2951</guid>
-            <pubDate>Fri, 22 Dec 2023 08:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702005361865_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삐삐밴드 - 문화혁명(文化革命) [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/62fe6fe4-270b-497d-93ee-b4e281623dbd</link>
-            <guid>https://www.seoulvinyl.com/product/62fe6fe4-270b-497d-93ee-b4e281623dbd</guid>
-            <pubDate>Fri, 22 Dec 2023 08:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703230313261_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -264,20 +264,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666602861604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jay-Z 제이지 lp - Blueprint (2LP, gatefold) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-986-2928-2968</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-986-2928-2968</guid>
+            <pubDate>Fri, 05 Jan 2024 11:07:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1612354460192_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[John Legend 존 레전드 - Once Again [Gold Colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/68e0091c-25aa-4b69-aab0-834c991eb6de-2944</link>
             <guid>https://www.seoulvinyl.com/product/68e0091c-25aa-4b69-aab0-834c991eb6de-2944</guid>
             <pubDate>Thu, 14 Dec 2023 11:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702291989960_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay-Z 제이지 lp - Blueprint (2LP, gatefold) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-986-2928</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-986-2928</guid>
-            <pubDate>Fri, 08 Dec 2023 11:06:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1612354460192_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Post Malone 포스트 말론 - Austin (Colored 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -390,6 +390,14 @@
             <pubDate>Sat, 11 Nov 2023 10:07:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699695909196_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가디언즈 오브 더 갤럭시 3 O.S.T [Gatefold][2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/55721216-e94a-4db5-828e-bcbf46bd79ed-2967</link>
+            <guid>https://www.seoulvinyl.com/product/55721216-e94a-4db5-828e-bcbf46bd79ed-2967</guid>
+            <pubDate>Fri, 05 Jan 2024 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687850082402_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[METRO BOOMIN 스파이더맨 : 어크로스 더 유니버스 OST (2LP, Metro Boomin Presents Spider-Man) (서울바이닐 ─ OST)]]></title>
@@ -510,14 +518,6 @@
             <pubDate>Sat, 25 Nov 2023 05:06:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1586942688555_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Songs of coco 코코 OST (Glow In the Dark Green LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796-2858</link>
-            <guid>https://www.seoulvinyl.com/product/4ff901b3-d544-48b9-a318-e98a8c7e0882-2796-2858</guid>
-            <pubDate>Wed, 15 Nov 2023 10:08:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697280043808_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Bill Evans Trio - Sunday At The Village Vanguard (OJC) (서울바이닐 ─ JAZZ)]]></title>
