@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 06:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Mon, 08 Jan 2024 08:11:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[쏜애플 카세트 테이프 (이상기후, 계몽, 서울병, 난 자꾸 말을 더듬고 잠드는 법도 잊었네 합본)]]></title>
-            <link>https://www.seoulvinyl.com/product/4e1dce2a-21aa-49a3-a1e8-4d6bba5c075d</link>
-            <guid>https://www.seoulvinyl.com/product/4e1dce2a-21aa-49a3-a1e8-4d6bba5c075d</guid>
-            <pubDate>Sat, 30 Dec 2023 10:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">120,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703930243016_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 (SURL) 카세트 테이프 (Aren't You?, I Know 합본)]]></title>
-            <link>https://www.seoulvinyl.com/product/f8ef8005-30a5-467c-ae9a-f1157b03ed83</link>
-            <guid>https://www.seoulvinyl.com/product/f8ef8005-30a5-467c-ae9a-f1157b03ed83</guid>
-            <pubDate>Sat, 30 Dec 2023 10:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703928232459_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[들국화 - 들국화 (Remastered 2022) [재발매 한정반]]]></title>
@@ -134,6 +118,22 @@
             <pubDate>Wed, 13 Dec 2023 05:08:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684736368096_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Slom 슬롬 - WEATHER REPORT LP]]></title>
+            <link>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7-2934</link>
+            <guid>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7-2934</guid>
+            <pubDate>Tue, 09 Jan 2024 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698225825862_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김뜻돌 - 꿈에서 걸려온 전화 (투명 블루 컬러 LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07-2933</link>
+            <guid>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07-2933</guid>
+            <pubDate>Tue, 09 Jan 2024 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696490934772_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
