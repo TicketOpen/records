@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 10:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 11:08:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/49a6d01f-2fe1-4709-b8d0-3d0547a36c9b</link>
+            <guid>https://www.seoulvinyl.com/product/49a6d01f-2fe1-4709-b8d0-3d0547a36c9b</guid>
+            <pubDate>Tue, 09 Jan 2024 11:06:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704798241087_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 23 Dec 2023 11:05:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다이나믹 듀오 - Enlightened (2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c9fd3080-0c0f-49c7-a46c-3e92d727d2a2-2951</link>
-            <guid>https://www.seoulvinyl.com/product/c9fd3080-0c0f-49c7-a46c-3e92d727d2a2-2951</guid>
-            <pubDate>Fri, 22 Dec 2023 08:10:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702005361865_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1666602861604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ray Charles (레이 찰스) - The Ultimate Collection: 28 Original Recordings [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/49a6d01f-2fe1-4709-b8d0-3d0547a36c9b</link>
+            <guid>https://www.seoulvinyl.com/product/49a6d01f-2fe1-4709-b8d0-3d0547a36c9b</guid>
+            <pubDate>Tue, 09 Jan 2024 11:07:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704798241087_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jay-Z 제이지 lp - Blueprint (2LP, gatefold) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-986-2928-2968</link>
             <guid>https://www.seoulvinyl.com/product/untitled-986-2928-2968</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 11 Nov 2023 11:04:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699697737459_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mac Miller 맥 밀러 - NPR Music Tiny Desk Concert LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/5e87d6db-87dd-45d0-a764-334343f9f7af</link>
-            <guid>https://www.seoulvinyl.com/product/5e87d6db-87dd-45d0-a764-334343f9f7af</guid>
-            <pubDate>Sat, 11 Nov 2023 10:07:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699695909196_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가디언즈 오브 더 갤럭시 3 O.S.T [Gatefold][2LP] (서울바이닐 ─ OST)]]></title>
