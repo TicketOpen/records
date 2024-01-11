@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 03:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 05:09:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 09 Jan 2024 11:06:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704798241087_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김현철 - 5집 동야동조 (冬夜冬朝) [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</link>
-            <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</guid>
-            <pubDate>Mon, 08 Jan 2024 08:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jay-Z 제이지 lp - Blueprint (2LP, gatefold)]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 09 Jan 2024 07:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다이나믹 듀오 - Enlightened (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c9fd3080-0c0f-49c7-a46c-3e92d727d2a2-2951</link>
+            <guid>https://www.seoulvinyl.com/product/c9fd3080-0c0f-49c7-a46c-3e92d727d2a2-2951</guid>
+            <pubDate>Thu, 11 Jan 2024 05:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702005361865_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
