@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 11:06:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 12:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 더 로즈 (The Rose) - Dual (레드반)]]></title>
+            <link>https://www.seoulvinyl.com/product/d7e5bff1-17b6-40cb-b591-bd92000eb0b9</link>
+            <guid>https://www.seoulvinyl.com/product/d7e5bff1-17b6-40cb-b591-bd92000eb0b9</guid>
+            <pubDate>Sat, 13 Jan 2024 12:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705145517488_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 더 로즈 (The Rose) - Dual (화이트반)]]></title>
+            <link>https://www.seoulvinyl.com/product/7f03f6d3-cd35-4272-834a-7dcfadc89f20</link>
+            <guid>https://www.seoulvinyl.com/product/7f03f6d3-cd35-4272-834a-7dcfadc89f20</guid>
+            <pubDate>Sat, 13 Jan 2024 12:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705144698430_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[양병집 - 1집 넋두리 [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/5bc7c9ec-a8aa-4340-a320-88caf063125d</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 30 Dec 2023 05:07:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702006696683_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[METRO BOOMIN 스파이더맨 : 어크로스 더 유니버스 OST (2LP, Metro Boomin Presents Spider-Man)]]></title>
-            <link>https://www.seoulvinyl.com/product/6408488c-740f-46e4-8046-4efd1a3999d4</link>
-            <guid>https://www.seoulvinyl.com/product/6408488c-740f-46e4-8046-4efd1a3999d4</guid>
-            <pubDate>Fri, 29 Dec 2023 11:06:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703846636117_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선사람들 - 1집 동그라미, 네모, 세모 (blue white mix color) vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1048-2958</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1048-2958</guid>
-            <pubDate>Fri, 29 Dec 2023 07:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615546377198_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
