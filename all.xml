@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Jan 2024 12:13:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jan 2024 13:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 더 로즈 (The Rose) - Dual (레드반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d7e5bff1-17b6-40cb-b591-bd92000eb0b9</link>
             <guid>https://www.seoulvinyl.com/product/d7e5bff1-17b6-40cb-b591-bd92000eb0b9</guid>
-            <pubDate>Sat, 13 Jan 2024 12:12:59 GMT</pubDate>
+            <pubDate>Sat, 13 Jan 2024 12:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705145517488_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 더 로즈 (The Rose) - Dual (화이트반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/7f03f6d3-cd35-4272-834a-7dcfadc89f20</link>
             <guid>https://www.seoulvinyl.com/product/7f03f6d3-cd35-4272-834a-7dcfadc89f20</guid>
-            <pubDate>Sat, 13 Jan 2024 12:12:59 GMT</pubDate>
+            <pubDate>Sat, 13 Jan 2024 12:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705144698430_1000.jpg" length="0" type="image/jpg"/>
         </item>
