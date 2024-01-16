@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jan 2024 04:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jan 2024 05:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,11 +80,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704798241087_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</link>
             <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</guid>
             <pubDate>Thu, 11 Jan 2024 11:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -816,11 +816,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704970397652_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</link>
             <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</guid>
             <pubDate>Thu, 11 Jan 2024 11:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
