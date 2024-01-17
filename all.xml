@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 11:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 12:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[김현철 - 베스트 앨범 (Best) [오렌지 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983</link>
             <guid>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983</guid>
-            <pubDate>Wed, 17 Jan 2024 11:07:47 GMT</pubDate>
+            <pubDate>Wed, 17 Jan 2024 11:06:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791569876_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735-2982</link>
             <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735-2982</guid>
-            <pubDate>Wed, 17 Jan 2024 11:07:47 GMT</pubDate>
+            <pubDate>Wed, 17 Jan 2024 11:06:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
         </item>
