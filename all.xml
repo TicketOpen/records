@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Jan 2024 10:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jan 2024 11:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김현철 - 베스트 앨범 (Best) [오렌지 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983</link>
+            <guid>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983</guid>
+            <pubDate>Wed, 17 Jan 2024 11:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791569876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735-2982</link>
+            <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735-2982</guid>
+            <pubDate>Wed, 17 Jan 2024 11:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 더 로즈 (The Rose) - Dual (레드반) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d7e5bff1-17b6-40cb-b591-bd92000eb0b9</link>
@@ -80,14 +96,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704798241087_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</link>
-            <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</guid>
-            <pubDate>Thu, 11 Jan 2024 11:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jay-Z 제이지 lp - Blueprint (2LP, gatefold) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-986-2928-2968</link>
             <guid>https://www.seoulvinyl.com/product/untitled-986-2928-2968</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 03 Jan 2024 08:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704268685364_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들국화 - 들국화 (Remastered 2022) [재발매 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</link>
-            <guid>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</guid>
-            <pubDate>Sat, 30 Dec 2023 05:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702006696683_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1611321932087_1000.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[김현철 - 베스트 앨범 (Best) [오렌지 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983</link>
+            <guid>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983</guid>
+            <pubDate>Wed, 17 Jan 2024 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791569876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735-2982</link>
+            <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735-2982</guid>
+            <pubDate>Wed, 17 Jan 2024 11:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 더 로즈 (The Rose) - Dual (레드반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d7e5bff1-17b6-40cb-b591-bd92000eb0b9</link>
             <guid>https://www.seoulvinyl.com/product/d7e5bff1-17b6-40cb-b591-bd92000eb0b9</guid>
@@ -814,14 +830,6 @@
             <pubDate>Thu, 11 Jan 2024 11:07:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704970397652_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 5집 동야동조 (冬夜冬朝) [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</link>
-            <guid>https://www.seoulvinyl.com/product/63c64edd-634b-43a3-98e5-ff5ee3d48735</guid>
-            <pubDate>Thu, 11 Jan 2024 11:07:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704702242878_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[들국화 - 들국화 (Remastered 2022) [재발매 한정반] (서울바이닐 ─ KOREAN)]]></title>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 15 Dec 2023 11:06:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702636304923_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김광석 - 다시부르기1 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/87c6e962-21e8-4724-93a3-76383c4b0344-2945</link>
-            <guid>https://www.seoulvinyl.com/product/87c6e962-21e8-4724-93a3-76383c4b0344-2945</guid>
-            <pubDate>Fri, 15 Dec 2023 11:06:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677733629381_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Shoody 슈디 - Tomorrow's Child LP (서울바이닐 ─ JAPANESE)]]></title>
