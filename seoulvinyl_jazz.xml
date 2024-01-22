@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 10:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 11:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold)]]></title>
+            <link>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b-2957-3010</link>
+            <guid>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b-2957-3010</guid>
+            <pubDate>Mon, 22 Jan 2024 11:07:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392072894_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans Trio - Sunday At The Village Vanguard (OJC)]]></title>
             <link>https://www.seoulvinyl.com/product/999697bd-105d-4436-b372-a726f6118036</link>
@@ -14,14 +22,6 @@
             <pubDate>Wed, 03 Jan 2024 08:10:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704268685364_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold)]]></title>
-            <link>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b-2957</link>
-            <guid>https://www.seoulvinyl.com/product/264bc8cd-d68a-4ebb-9b69-ba518869036b-2957</guid>
-            <pubDate>Tue, 26 Dec 2023 12:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1693392072894_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[George Benson 조지 벤슨 - Irreplaceable LP]]></title>

@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Jan 2024 10:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Jan 2024 11:08:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성시경 - 이렇게 너를 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690-3009</link>
+            <guid>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690-3009</guid>
+            <pubDate>Mon, 22 Jan 2024 11:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shoody 슈디 - Tomorrow's Child LP]]></title>
             <link>https://www.seoulvinyl.com/product/81dea049-b7b4-4397-b62b-d6cf82706d57-2956</link>
@@ -22,14 +30,6 @@
             <pubDate>Sat, 23 Dec 2023 11:06:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411877635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경 - 이렇게 너를 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690</link>
-            <guid>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690</guid>
-            <pubDate>Sat, 23 Dec 2023 11:06:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Christmas Eve（40th Anniversary Edition 12인치)]]></title>
