@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 14:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 15:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,7 +267,7 @@
             <title><![CDATA[[예약판매] Post Malone (포스트 말론) - The Diamond Collection (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/7faff034-ae00-497f-b77c-1223a68c6b71</link>
             <guid>https://www.seoulvinyl.com/product/7faff034-ae00-497f-b77c-1223a68c6b71</guid>
-            <pubDate>Fri, 26 Jan 2024 14:07:39 GMT</pubDate>
+            <pubDate>Fri, 26 Jan 2024 14:07:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706264973996_1000.jpg" length="0" type="image/jpg"/>
         </item>
