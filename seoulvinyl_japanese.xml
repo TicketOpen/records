@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 03:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 04:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Kessoku Band (결속밴드) - 結束バンド (180g 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/0e901ac4-44e1-42bd-910b-a0a964ea96d8</link>
-            <guid>https://www.seoulvinyl.com/product/0e901ac4-44e1-42bd-910b-a0a964ea96d8</guid>
-            <pubDate>Mon, 29 Jan 2024 09:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">74,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706511947894_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Emily Bronte's Wuthering Heights (폭풍의 언덕) (Soundtrack)(Ltd)(Clear 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/f8ca10ce-3c3a-43df-a791-e060e87757ec</link>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 29 Nov 2023 11:07:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710964675_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[트와이스 - #TWICE2 [Clear Purple LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/5fe8501a-6ea5-4528-a326-fbdf4fa6e253-2892</link>
+            <guid>https://www.seoulvinyl.com/product/5fe8501a-6ea5-4528-a326-fbdf4fa6e253-2892</guid>
+            <pubDate>Tue, 30 Jan 2024 04:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697710484917_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
