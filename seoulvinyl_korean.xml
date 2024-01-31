@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 05:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 06:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산울림 - Evening Breeze [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ffc7c5c7-fd1f-462a-b1f9-ad233d09c0c3</link>
+            <guid>https://www.seoulvinyl.com/product/ffc7c5c7-fd1f-462a-b1f9-ad233d09c0c3</guid>
+            <pubDate>Wed, 31 Jan 2024 06:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706678143450_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 30 Dec 2023 05:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702006696683_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[낯선사람들 - 1집 동그라미, 네모, 세모 (blue white mix color) vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1048-2958</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1048-2958</guid>
-            <pubDate>Fri, 29 Dec 2023 07:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1615546377198_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
