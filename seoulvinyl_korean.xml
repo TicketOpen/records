@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Feb 2024 07:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Feb 2024 08:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 나윤선 - 12집 Elles [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f1748157-31fc-49ec-9653-39fada16d26b</link>
+            <guid>https://www.seoulvinyl.com/product/f1748157-31fc-49ec-9653-39fada16d26b</guid>
+            <pubDate>Thu, 01 Feb 2024 08:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706772712371_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 연인 드라마음악 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/39c9dd0d-5ce2-4d74-a530-54c78209d2fe</link>
+            <guid>https://www.seoulvinyl.com/product/39c9dd0d-5ce2-4d74-a530-54c78209d2fe</guid>
+            <pubDate>Thu, 01 Feb 2024 08:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706772552365_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 홍이삭, 진수영 - EP Album [everland] [마블 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bbe59169-6f3f-4296-ada5-2e7b4a332c7e</link>
+            <guid>https://www.seoulvinyl.com/product/bbe59169-6f3f-4296-ada5-2e7b4a332c7e</guid>
+            <pubDate>Thu, 01 Feb 2024 08:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706772293987_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산울림 - Evening Breeze [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/ffc7c5c7-fd1f-462a-b1f9-ad233d09c0c3</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 22 Jan 2024 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705145517488_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김현철 - 베스트 앨범 (Best) [오렌지 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983-2986</link>
-            <guid>https://www.seoulvinyl.com/product/bac65c31-10c9-4eff-8cd3-28f30b05884d-2983-2986</guid>
-            <pubDate>Mon, 22 Jan 2024 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1667791569876_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이문세 - 정규 15집 New Direction LP]]></title>
-            <link>https://www.seoulvinyl.com/product/e4b4d8c4-2223-4b48-a6d4-4acc7b480011</link>
-            <guid>https://www.seoulvinyl.com/product/e4b4d8c4-2223-4b48-a6d4-4acc7b480011</guid>
-            <pubDate>Mon, 22 Jan 2024 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705920132253_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들국화 - 들국화 (Remastered 2022) [재발매 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</link>
-            <guid>https://www.seoulvinyl.com/product/24b992b1-aac9-42f6-9366-766dee459ef9-2960</guid>
-            <pubDate>Sat, 30 Dec 2023 05:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702006696683_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
