@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 11:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 12:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Usher - Coming Home (Ltd)(Clear 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/67630f71-5f2d-4b03-8904-7d02773ad132</link>
+            <guid>https://www.seoulvinyl.com/product/67630f71-5f2d-4b03-8904-7d02773ad132</guid>
+            <pubDate>Wed, 07 Feb 2024 12:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303584629_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Post Malone (포스트 말론) - The Diamond Collection]]></title>
             <link>https://www.seoulvinyl.com/product/7faff034-ae00-497f-b77c-1223a68c6b71</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 Nov 2023 09:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700038323557_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Mac Miller 맥밀러 - Swimming (2LP, Anniversary Edition)]]></title>
-            <link>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</link>
-            <guid>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</guid>
-            <pubDate>Tue, 14 Nov 2023 11:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699956926186_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

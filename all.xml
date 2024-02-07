@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 11:07:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 12:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 동요 4집 - 동심의 노래 [스모키 퍼플 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/74b18258-3529-4692-b4d3-5db8e3740f93</link>
+            <guid>https://www.seoulvinyl.com/product/74b18258-3529-4692-b4d3-5db8e3740f93</guid>
+            <pubDate>Wed, 07 Feb 2024 12:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305897197_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 동요 3집 - 이게 웬 긴 꼬리냐 [스모키 그린 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/e41c7978-62f2-4781-a732-1653559d6c72</link>
+            <guid>https://www.seoulvinyl.com/product/e41c7978-62f2-4781-a732-1653559d6c72</guid>
+            <pubDate>Wed, 07 Feb 2024 12:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305742268_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매]산울림 동요 2집 - 산할아버지 [투명 스모키 레드 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6225eadf-341b-4c67-bbe8-7ca30a3fcd85</link>
+            <guid>https://www.seoulvinyl.com/product/6225eadf-341b-4c67-bbe8-7ca30a3fcd85</guid>
+            <pubDate>Wed, 07 Feb 2024 12:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305643540_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 동요 1집 - 개구장이 [140g 투명 스모키 레드 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/43e298f3-a8b8-405d-a81e-15afe467329f</link>
+            <guid>https://www.seoulvinyl.com/product/43e298f3-a8b8-405d-a81e-15afe467329f</guid>
+            <pubDate>Wed, 07 Feb 2024 12:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305345121_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Usher - Coming Home (Ltd)(Clear 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/67630f71-5f2d-4b03-8904-7d02773ad132</link>
+            <guid>https://www.seoulvinyl.com/product/67630f71-5f2d-4b03-8904-7d02773ad132</guid>
+            <pubDate>Wed, 07 Feb 2024 12:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303584629_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] fukui ryo 후쿠이 료 lp - mellow dream [블루반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</link>
+            <guid>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</guid>
+            <pubDate>Wed, 07 Feb 2024 11:06:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303961412_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl [레드반] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/ac7a19bf-b551-48c6-99b4-270743e21de3</link>
@@ -86,54 +134,6 @@
             <pubDate>Sat, 03 Feb 2024 12:11:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706959276681_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker 쳇베이커 – Sings (Blue Note Tone Poet Series, Gatefold) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/39b53f69-402c-4527-8e76-7117792f2961-3030</link>
-            <guid>https://www.seoulvinyl.com/product/39b53f69-402c-4527-8e76-7117792f2961-3030</guid>
-            <pubDate>Thu, 01 Feb 2024 12:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706612432011_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[크러쉬 - 정규 3집 wonderego [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/781ede31-94e1-4156-870a-ad9541eaaf18-3029</link>
-            <guid>https://www.seoulvinyl.com/product/781ede31-94e1-4156-870a-ad9541eaaf18-3029</guid>
-            <pubDate>Thu, 01 Feb 2024 12:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">68,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698902602495_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yutaka Ozaki 유타카 오자키 - Seventeen's Map [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597-3027-1</link>
-            <guid>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597-3027-1</guid>
-            <pubDate>Thu, 01 Feb 2024 12:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699953233806_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 나윤선 - 12집 Elles [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f1748157-31fc-49ec-9653-39fada16d26b</link>
-            <guid>https://www.seoulvinyl.com/product/f1748157-31fc-49ec-9653-39fada16d26b</guid>
-            <pubDate>Thu, 01 Feb 2024 08:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706772712371_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 연인 드라마음악 [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/39c9dd0d-5ce2-4d74-a530-54c78209d2fe</link>
-            <guid>https://www.seoulvinyl.com/product/39c9dd0d-5ce2-4d74-a530-54c78209d2fe</guid>
-            <pubDate>Thu, 01 Feb 2024 08:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706772552365_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 홍이삭, 진수영 - EP Album [everland] [마블 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/bbe59169-6f3f-4296-ada5-2e7b4a332c7e</link>
-            <guid>https://www.seoulvinyl.com/product/bbe59169-6f3f-4296-ada5-2e7b4a332c7e</guid>
-            <pubDate>Thu, 01 Feb 2024 08:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706772293987_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Colde 콜드 - Love part 1 (Pink Colored LP) (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1631245306414_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Usher - Coming Home (Ltd)(Clear 2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/67630f71-5f2d-4b03-8904-7d02773ad132</link>
+            <guid>https://www.seoulvinyl.com/product/67630f71-5f2d-4b03-8904-7d02773ad132</guid>
+            <pubDate>Wed, 07 Feb 2024 12:12:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303584629_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Post Malone (포스트 말론) - The Diamond Collection (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/7faff034-ae00-497f-b77c-1223a68c6b71</link>
             <guid>https://www.seoulvinyl.com/product/7faff034-ae00-497f-b77c-1223a68c6b71</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 15 Nov 2023 09:08:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">28,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700038323557_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Mac Miller 맥밀러 - Swimming (2LP, Anniversary Edition) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</link>
-            <guid>https://www.seoulvinyl.com/product/7d24341d-82b5-457e-8795-57d84a36015f</guid>
-            <pubDate>Tue, 14 Nov 2023 11:06:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">99,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699956926186_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 블루 자이언트 (Blue Giant OST by Uehara Hiromi) [블루 컬러 2LP] (서울바이닐 ─ OST)]]></title>
@@ -776,6 +776,38 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688035807989_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 산울림 동요 4집 - 동심의 노래 [스모키 퍼플 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/74b18258-3529-4692-b4d3-5db8e3740f93</link>
+            <guid>https://www.seoulvinyl.com/product/74b18258-3529-4692-b4d3-5db8e3740f93</guid>
+            <pubDate>Wed, 07 Feb 2024 12:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305897197_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 동요 3집 - 이게 웬 긴 꼬리냐 [스모키 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e41c7978-62f2-4781-a732-1653559d6c72</link>
+            <guid>https://www.seoulvinyl.com/product/e41c7978-62f2-4781-a732-1653559d6c72</guid>
+            <pubDate>Wed, 07 Feb 2024 12:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305742268_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매]산울림 동요 2집 - 산할아버지 [투명 스모키 레드 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/6225eadf-341b-4c67-bbe8-7ca30a3fcd85</link>
+            <guid>https://www.seoulvinyl.com/product/6225eadf-341b-4c67-bbe8-7ca30a3fcd85</guid>
+            <pubDate>Wed, 07 Feb 2024 12:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305643540_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 동요 1집 - 개구장이 [140g 투명 스모키 레드 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/43e298f3-a8b8-405d-a81e-15afe467329f</link>
+            <guid>https://www.seoulvinyl.com/product/43e298f3-a8b8-405d-a81e-15afe467329f</guid>
+            <pubDate>Wed, 07 Feb 2024 12:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305345121_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 최성원 - 베스트 [블랙반] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/09519a47-7502-4a97-9a27-58a2fa109373</link>
             <guid>https://www.seoulvinyl.com/product/09519a47-7502-4a97-9a27-58a2fa109373</guid>
@@ -872,38 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산울림 - 3집 내 마음 (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/28115149-7582-427e-89b3-ce05bb34b83a</link>
-            <guid>https://www.seoulvinyl.com/product/28115149-7582-427e-89b3-ce05bb34b83a</guid>
-            <pubDate>Wed, 31 Jan 2024 04:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673025479_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 2집 내 마음에 주단을 깔고 (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/fc037146-cd87-4141-9ef0-62538120dd3b</link>
-            <guid>https://www.seoulvinyl.com/product/fc037146-cd87-4141-9ef0-62538120dd3b</guid>
-            <pubDate>Wed, 31 Jan 2024 04:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706672890592_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 - 1집 아니 벌써 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/3a36d64c-168f-4ffb-a65c-b46d125f661f</link>
-            <guid>https://www.seoulvinyl.com/product/3a36d64c-168f-4ffb-a65c-b46d125f661f</guid>
-            <pubDate>Wed, 31 Jan 2024 04:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706672654680_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[성시경 - 이렇게 너를 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690-3009</link>
-            <guid>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690-3009</guid>
-            <pubDate>Mon, 22 Jan 2024 11:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] fukui ryo 후쿠이 료 lp - mellow dream [블루반] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</link>
             <guid>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</guid>
@@ -915,7 +915,7 @@
             <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl [레드반] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/ac7a19bf-b551-48c6-99b4-270743e21de3</link>
             <guid>https://www.seoulvinyl.com/product/ac7a19bf-b551-48c6-99b4-270743e21de3</guid>
-            <pubDate>Wed, 07 Feb 2024 11:06:47 GMT</pubDate>
+            <pubDate>Wed, 07 Feb 2024 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303812837_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -923,7 +923,7 @@
             <title><![CDATA[[예약판매] Mariya Takeuchi 타케우치 마리아 – DENIM [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/c2d2a179-d78d-4ce9-a61a-647275029435</link>
             <guid>https://www.seoulvinyl.com/product/c2d2a179-d78d-4ce9-a61a-647275029435</guid>
-            <pubDate>Wed, 07 Feb 2024 11:06:47 GMT</pubDate>
+            <pubDate>Wed, 07 Feb 2024 11:05:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707302268646_1000.jpg" length="0" type="image/jpg"/>
         </item>
