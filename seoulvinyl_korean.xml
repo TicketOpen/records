@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Feb 2024 08:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 09:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 최성원 - 베스트 [블랙반]]]></title>
+            <link>https://www.seoulvinyl.com/product/09519a47-7502-4a97-9a27-58a2fa109373</link>
+            <guid>https://www.seoulvinyl.com/product/09519a47-7502-4a97-9a27-58a2fa109373</guid>
+            <pubDate>Wed, 07 Feb 2024 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707294737713_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 최성원 - 베스트 [투명 스모크 브라운 컬러반]]]></title>
+            <link>https://www.seoulvinyl.com/product/f76f0ea7-9907-4430-908a-1a853ceb681a</link>
+            <guid>https://www.seoulvinyl.com/product/f76f0ea7-9907-4430-908a-1a853ceb681a</guid>
+            <pubDate>Wed, 07 Feb 2024 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707294555816_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 코스믹보이 (Cosmic Boy) 1집 - Can I Love ?]]></title>
             <link>https://www.seoulvinyl.com/product/eeeeee32-1c26-4130-9488-70fe245c88ef</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 22 Jan 2024 11:08:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Slom 슬롬 - WEATHER REPORT LP]]></title>
-            <link>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7-2934-3008</link>
-            <guid>https://www.seoulvinyl.com/product/9cac0fa1-1762-41f8-a279-1d1e032b78b7-2934-3008</guid>
-            <pubDate>Mon, 22 Jan 2024 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1698225825862_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정원영 - 1집 가버린 날들 [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/503890b3-da5d-4b0c-8dd4-65513c81dabb-3004</link>
-            <guid>https://www.seoulvinyl.com/product/503890b3-da5d-4b0c-8dd4-65513c81dabb-3004</guid>
-            <pubDate>Mon, 22 Jan 2024 11:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703228627896_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
