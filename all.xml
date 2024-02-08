@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 11:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 12:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[MILLIC 밀릭 - VIDA (오렌지 컬러 LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753-3048</link>
             <guid>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753-3048</guid>
-            <pubDate>Thu, 08 Feb 2024 11:06:54 GMT</pubDate>
+            <pubDate>Thu, 08 Feb 2024 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
         </item>
