@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 18 Feb 2024 10:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 11:06:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oasis (오아시스) - The Masterplan [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/67b6712d-be02-41eb-be74-9fb7d97a07e7</link>
+            <guid>https://www.seoulvinyl.com/product/67b6712d-be02-41eb-be74-9fb7d97a07e7</guid>
+            <pubDate>Sun, 18 Feb 2024 11:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708252960661_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryusenkei (류센케이) - Tokyo Sniper [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c728fb5e-a101-43a4-8ac9-abc73a84c275</link>
+            <guid>https://www.seoulvinyl.com/product/c728fb5e-a101-43a4-8ac9-abc73a84c275</guid>
+            <pubDate>Sun, 18 Feb 2024 11:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708252666309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Playboi Carti (플레이보이 카티) - 2집 Whole Lotta Red [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4a3fd3b3-ff39-4b6b-bbcf-8921cc4653bb</link>
+            <guid>https://www.seoulvinyl.com/product/4a3fd3b3-ff39-4b6b-bbcf-8921cc4653bb</guid>
+            <pubDate>Sun, 18 Feb 2024 11:04:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708251198302_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Wham! (왬) - Make It Big [블랙반]]]></title>
             <link>https://www.seoulvinyl.com/product/5319af06-8f2b-4b77-a2d7-ce11958864ad</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 12 Feb 2024 08:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707722449652_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] HYBS 하입스 – COLD CUTS (Remix) [블루 오렌지 스플래터 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9c348617-f3c0-48eb-86f3-b61cb413ee29-3016-3049</link>
-            <guid>https://www.seoulvinyl.com/product/9c348617-f3c0-48eb-86f3-b61cb413ee29-3016-3049</guid>
-            <pubDate>Mon, 12 Feb 2024 07:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697279582399_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[MILLIC 밀릭 - VIDA (오렌지 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753-3048</link>
-            <guid>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753-3048</guid>
-            <pubDate>Thu, 08 Feb 2024 11:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nas (나스) - Made You Look: God’s Son Live 2002 [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/47b8d968-841d-46fc-a852-ae7c081aa5c6</link>
-            <guid>https://www.seoulvinyl.com/product/47b8d968-841d-46fc-a852-ae7c081aa5c6</guid>
-            <pubDate>Thu, 08 Feb 2024 08:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707378003441_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
