@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 12:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 13:09:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 박정현 - 1집 Piece [투명 레드 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b5f572bd-3155-4432-9d68-d3eaa8cb2bce</link>
             <guid>https://www.seoulvinyl.com/product/b5f572bd-3155-4432-9d68-d3eaa8cb2bce</guid>
-            <pubDate>Mon, 19 Feb 2024 12:14:09 GMT</pubDate>
+            <pubDate>Mon, 19 Feb 2024 12:13:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708341385261_1000.jpg" length="0" type="image/jpg"/>
         </item>
