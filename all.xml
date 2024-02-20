@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 11:06:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 12:14:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,7 +139,7 @@
             <title><![CDATA[Yamasita Tatsuro 카세트 테이프 모음집 (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/18c57519-d8f3-4e44-9221-299879cd412a</link>
             <guid>https://www.seoulvinyl.com/product/18c57519-d8f3-4e44-9221-299879cd412a</guid>
-            <pubDate>Tue, 20 Feb 2024 11:05:37 GMT</pubDate>
+            <pubDate>Tue, 20 Feb 2024 11:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">350,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708424945685_1000.jpg" length="0" type="image/jpg"/>
         </item>
