@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Feb 2024 11:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 12:13:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Notting Hill(노팅힐) O.S.T 블랙반 Lp (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/5a8783bd-60e4-4d20-aaf0-f79a0c3aa965</link>
+            <guid>https://www.seoulvinyl.com/product/5a8783bd-60e4-4d20-aaf0-f79a0c3aa965</guid>
+            <pubDate>Thu, 22 Feb 2024 12:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708600732774_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ariana Grande (아리아나 그란데) - 7집 eternal sunshine [루비 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/2ca1d13f-429a-4d85-83fd-23ac3e5a7a35</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 Feb 2024 05:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708059405043_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lukas Graham (루카스 그레이엄) - Lukas Graham (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c4c61785-bac0-4b21-88a3-9788156e3c2b</link>
-            <guid>https://www.seoulvinyl.com/product/c4c61785-bac0-4b21-88a3-9788156e3c2b</guid>
-            <pubDate>Thu, 15 Feb 2024 11:07:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707995075453_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamasita Tatsuro 카세트 테이프 모음집 (서울바이닐 ─ 제작)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1700130522444_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Notting Hill(노팅힐) O.S.T 블랙반 Lp (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/5a8783bd-60e4-4d20-aaf0-f79a0c3aa965</link>
+            <guid>https://www.seoulvinyl.com/product/5a8783bd-60e4-4d20-aaf0-f79a0c3aa965</guid>
+            <pubDate>Thu, 22 Feb 2024 12:12:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708600732774_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 블루 자이언트 (Blue Giant OST by Uehara Hiromi) [블루 컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/93380936-9d2a-4157-bbc7-898ca88722af</link>
             <guid>https://www.seoulvinyl.com/product/93380936-9d2a-4157-bbc7-898ca88722af</guid>
@@ -510,14 +518,6 @@
             <pubDate>Fri, 08 Dec 2023 11:06:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695633765342_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 타짜 OST [Limited Transparent Red & Orange Splitter Color LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/34a636f9-cd8f-438a-8af8-1bd1eeb60e83</link>
-            <guid>https://www.seoulvinyl.com/product/34a636f9-cd8f-438a-8af8-1bd1eeb60e83</guid>
-            <pubDate>Fri, 08 Dec 2023 04:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702005516273_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Laufey (라이베이) - Bewitched [오렌지 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
