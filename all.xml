@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 06:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 07:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 홍다빈 - GiGgles (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f</link>
             <guid>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f</guid>
-            <pubDate>Mon, 26 Feb 2024 06:11:24 GMT</pubDate>
+            <pubDate>Mon, 26 Feb 2024 06:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708926215429_1000.jpg" length="0" type="image/jpg"/>
         </item>
