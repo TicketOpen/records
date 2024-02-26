@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Feb 2024 10:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Feb 2024 11:07:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -644,7 +644,7 @@
             <link>https://www.seoulvinyl.com/product/0f668d56-2f35-4054-9d16-181377baedc5-2856</link>
             <guid>https://www.seoulvinyl.com/product/0f668d56-2f35-4054-9d16-181377baedc5-2856</guid>
             <pubDate>Wed, 15 Nov 2023 09:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695721215127_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
