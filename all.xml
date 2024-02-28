@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 06:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 07:09:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움3 [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/e7773f08-00fe-4f7f-a7b8-d549f30ec89f</link>
+            <guid>https://www.seoulvinyl.com/product/e7773f08-00fe-4f7f-a7b8-d549f30ec89f</guid>
+            <pubDate>Wed, 28 Feb 2024 07:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709102555045_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 홍다빈 - GiGgles (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 Feb 2024 07:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708064858747_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Daft Punk (다프트 펑크) - Random Access Memories [Drumless Edition] [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f0c48e5b-7d0e-437f-977d-eb9de0eb8e62</link>
-            <guid>https://www.seoulvinyl.com/product/f0c48e5b-7d0e-437f-977d-eb9de0eb8e62</guid>
-            <pubDate>Fri, 16 Feb 2024 07:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708064313044_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamasita Tatsuro 카세트 테이프 모음집 (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582196396469_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움3 [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e7773f08-00fe-4f7f-a7b8-d549f30ec89f</link>
+            <guid>https://www.seoulvinyl.com/product/e7773f08-00fe-4f7f-a7b8-d549f30ec89f</guid>
+            <pubDate>Wed, 28 Feb 2024 07:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709102555045_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 홍다빈 - GiGgles (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f</link>
             <guid>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f</guid>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 07 Feb 2024 09:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707294737713_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 최성원 - 베스트 [투명 스모크 브라운 컬러반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/f76f0ea7-9907-4430-908a-1a853ceb681a</link>
-            <guid>https://www.seoulvinyl.com/product/f76f0ea7-9907-4430-908a-1a853ceb681a</guid>
-            <pubDate>Wed, 07 Feb 2024 09:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707294555816_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro (야마시타 타츠로) - For You [LP] (서울바이닐 ─ JAPANESE)]]></title>
