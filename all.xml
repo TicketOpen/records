@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 07:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 08:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,7 +651,7 @@
             <title><![CDATA[Chemical Brothers - Further (180g Gatefold Vinyl 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/cf6d3d6a-2af8-4167-b4b5-56feea7c81ee</link>
             <guid>https://www.seoulvinyl.com/product/cf6d3d6a-2af8-4167-b4b5-56feea7c81ee</guid>
-            <pubDate>Thu, 29 Feb 2024 07:09:40 GMT</pubDate>
+            <pubDate>Thu, 29 Feb 2024 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709189817837_1000.jpg" length="0" type="image/jpg"/>
         </item>
