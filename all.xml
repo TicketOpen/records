@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 06:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 07:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Colde 콜드 - LP 2종 세트 (Love part 1, Wave) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</link>
+            <guid>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</guid>
+            <pubDate>Wed, 06 Mar 2024 07:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709707404658_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2차 예약판매] 권진아 - 우리의 방식 [5월 15일 이후 입고] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708424945685_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro (야마시타 타츠로) - For You [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ca9cd0cd-c8d4-475b-abfe-bf7f6b5ac7cb</link>
-            <guid>https://www.seoulvinyl.com/product/ca9cd0cd-c8d4-475b-abfe-bf7f6b5ac7cb</guid>
-            <pubDate>Tue, 20 Feb 2024 10:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708423413916_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Colde 콜드 - LP 2종 세트 (Love part 1, Wave) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</link>
+            <guid>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</guid>
+            <pubDate>Wed, 06 Mar 2024 07:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709707404658_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamasita Tatsuro 카세트 테이프 모음집 (서울바이닐 ─ 제작)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 01 Mar 2023 10:09:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748698581_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Yellow Colored Cassette Tape) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/6db43695-068d-4e2c-8888-5af56fdec838-2381</link>
-            <guid>https://www.seoulvinyl.com/product/6db43695-068d-4e2c-8888-5af56fdec838-2381</guid>
-            <pubDate>Wed, 01 Mar 2023 10:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748607868_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Luther Vandross 루더 밴드로스 - Never Too Much LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705135923468_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Colde 콜드 - LP 2종 세트 (Love part 1, Wave) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</link>
+            <guid>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</guid>
+            <pubDate>Wed, 06 Mar 2024 07:08:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709707404658_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2차 예약판매] 권진아 - 우리의 방식 [5월 15일 이후 입고] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</link>
             <guid>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 08 Feb 2024 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 산울림 동요 4집 - 동심의 노래 [스모키 퍼플 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/74b18258-3529-4692-b4d3-5db8e3740f93</link>
-            <guid>https://www.seoulvinyl.com/product/74b18258-3529-4692-b4d3-5db8e3740f93</guid>
-            <pubDate>Wed, 07 Feb 2024 12:12:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707305897197_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro (야마시타 타츠로) - For You [LP] (서울바이닐 ─ JAPANESE)]]></title>

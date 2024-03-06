@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 06:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 07:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Colde 콜드 - LP 2종 세트 (Love part 1, Wave)]]></title>
+            <link>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</link>
+            <guid>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</guid>
+            <pubDate>Wed, 06 Mar 2024 07:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709707404658_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2차 예약판매] 권진아 - 우리의 방식 [5월 15일 이후 입고]]]></title>
             <link>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 20 Feb 2024 11:05:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">350,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708424945685_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yamashita Tatsuro (야마시타 타츠로) - For You [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/ca9cd0cd-c8d4-475b-abfe-bf7f6b5ac7cb</link>
-            <guid>https://www.seoulvinyl.com/product/ca9cd0cd-c8d4-475b-abfe-bf7f6b5ac7cb</guid>
-            <pubDate>Tue, 20 Feb 2024 10:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708423413916_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
