@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Mar 2024 10:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Mar 2024 11:06:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -476,7 +476,7 @@
             <link>https://www.seoulvinyl.com/product/ad0c178c-2176-472f-84ee-b9e932a117b5-2942</link>
             <guid>https://www.seoulvinyl.com/product/ad0c178c-2176-472f-84ee-b9e932a117b5-2942</guid>
             <pubDate>Thu, 14 Dec 2023 11:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411728604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -532,7 +532,7 @@
             <link>https://www.seoulvinyl.com/product/39b53f69-402c-4527-8e76-7117792f2961-3030</link>
             <guid>https://www.seoulvinyl.com/product/39b53f69-402c-4527-8e76-7117792f2961-3030</guid>
             <pubDate>Thu, 01 Feb 2024 12:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706612432011_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
@@ -1004,7 +1004,7 @@
             <link>https://www.seoulvinyl.com/product/81dea049-b7b4-4397-b62b-d6cf82706d57-2956</link>
             <guid>https://www.seoulvinyl.com/product/81dea049-b7b4-4397-b62b-d6cf82706d57-2956</guid>
             <pubDate>Sat, 23 Dec 2023 11:05:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411380266_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1028,7 +1028,7 @@
             <link>https://www.seoulvinyl.com/product/ad0c178c-2176-472f-84ee-b9e932a117b5-2942</link>
             <guid>https://www.seoulvinyl.com/product/ad0c178c-2176-472f-84ee-b9e932a117b5-2942</guid>
             <pubDate>Thu, 14 Dec 2023 11:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411728604_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
