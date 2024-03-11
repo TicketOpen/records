@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 05:09:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 06:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 06 Mar 2024 07:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709707404658_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 홍다빈 - GiGgles]]></title>
+            <link>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f</link>
+            <guid>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f</guid>
+            <pubDate>Mon, 11 Mar 2024 06:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708926215429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamasita Tatsuro 카세트 테이프 모음집]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 03 Jun 2023 13:08:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748765955_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Clear Colored Cassette Tape)]]></title>
-            <link>https://www.seoulvinyl.com/product/077e821d-db74-47a8-a1b4-88b59f8649f4-2380</link>
-            <guid>https://www.seoulvinyl.com/product/077e821d-db74-47a8-a1b4-88b59f8649f4-2380</guid>
-            <pubDate>Sat, 03 Jun 2023 13:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,200원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748698581_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
