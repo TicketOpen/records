@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 11:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 12:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이문세 - 6집 [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/6876ca7e-f70e-44f3-87a2-40406f096d9d</link>
+            <guid>https://www.seoulvinyl.com/product/6876ca7e-f70e-44f3-87a2-40406f096d9d</guid>
+            <pubDate>Mon, 11 Mar 2024 12:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710155809038_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Colde 콜드 - LP 2종 세트 (Love part 1, Wave)]]></title>
             <link>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 13 Feb 2024 04:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707794952222_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MILLIC 밀릭 - VIDA (오렌지 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753-3048</link>
-            <guid>https://www.seoulvinyl.com/product/bf10fb7e-075d-4441-8ef9-78c6488b4753-3048</guid>
-            <pubDate>Thu, 08 Feb 2024 11:06:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692248626907_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
