@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 09:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 10:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멕카트니: 대양의 제국 (McCartney: Ocean's Kingdom) (2LP) - John Wilson (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2cdf2e98-57fe-4f86-b1b2-cc9469e4b767</link>
+            <guid>https://www.seoulvinyl.com/product/2cdf2e98-57fe-4f86-b1b2-cc9469e4b767</guid>
+            <pubDate>Wed, 13 Mar 2024 10:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710324016563_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tony Bennett & Bill Evans - Tony Bennett/Bill Evans Album [OJC 180g Lp] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/54d279bd-0c53-44a1-9196-a0d8ad01866c</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 02 Mar 2024 06:10:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709358079983_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd (핑크 플로이드) - The Division Bell [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/da491c8d-dbeb-4f15-ac01-c3ea730e7d9b</link>
-            <guid>https://www.seoulvinyl.com/product/da491c8d-dbeb-4f15-ac01-c3ea730e7d9b</guid>
-            <pubDate>Sat, 02 Mar 2024 06:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709357815734_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Colde 콜드 - LP 2종 세트 (Love part 1, Wave) (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1688036278226_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[멕카트니: 대양의 제국 (McCartney: Ocean's Kingdom) (2LP) - John Wilson (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/2cdf2e98-57fe-4f86-b1b2-cc9469e4b767</link>
+            <guid>https://www.seoulvinyl.com/product/2cdf2e98-57fe-4f86-b1b2-cc9469e4b767</guid>
+            <pubDate>Wed, 13 Mar 2024 10:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710324016563_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Justice - Audio Video Disco (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/64bc1e07-4de6-490f-899a-e0c5d1dc755c</link>
             <guid>https://www.seoulvinyl.com/product/64bc1e07-4de6-490f-899a-e0c5d1dc755c</guid>
@@ -766,14 +774,6 @@
             <pubDate>Mon, 22 Jan 2024 11:06:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697106015847_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Caldwell 바비 콜드웰 - Cat In The Hat Lp (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/024ded58-937a-4f94-87d2-00dd303c1b0a-2966-3005</link>
-            <guid>https://www.seoulvinyl.com/product/024ded58-937a-4f94-87d2-00dd303c1b0a-2966-3005</guid>
-            <pubDate>Mon, 22 Jan 2024 11:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697105894277_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김현철 - 4집 Who stepped on it (Remastered 2022)[150g LP] (서울바이닐 ─ KOREAN)]]></title>
