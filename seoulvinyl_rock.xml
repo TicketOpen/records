@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 11:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 12:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Pink Floyd - The Dark Side Of The Moon (50th Anniversary) (2023 Remaster)]]></title>
+            <link>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</link>
+            <guid>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</guid>
+            <pubDate>Thu, 14 Mar 2024 12:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416803856_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Celine Dion - My Love Essential Collection (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a887c35d-cf4f-4faf-823f-6f467a5fad2b</link>
+            <guid>https://www.seoulvinyl.com/product/a887c35d-cf4f-4faf-823f-6f467a5fad2b</guid>
+            <pubDate>Thu, 14 Mar 2024 12:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416661662_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[maroon5 마룬5 lp - Songs About Jane vinyl]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-408-3099</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 16 Feb 2024 07:08:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708064313044_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lukas Graham (루카스 그레이엄) - Lukas Graham]]></title>
-            <link>https://www.seoulvinyl.com/product/c4c61785-bac0-4b21-88a3-9788156e3c2b</link>
-            <guid>https://www.seoulvinyl.com/product/c4c61785-bac0-4b21-88a3-9788156e3c2b</guid>
-            <pubDate>Thu, 15 Feb 2024 11:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707995075453_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] HYBS 하입스 – COLD CUTS (Remix) [블루 오렌지 스플래터 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9c348617-f3c0-48eb-86f3-b61cb413ee29-3016-3049</link>
-            <guid>https://www.seoulvinyl.com/product/9c348617-f3c0-48eb-86f3-b61cb413ee29-3016-3049</guid>
-            <pubDate>Mon, 12 Feb 2024 07:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697279582399_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

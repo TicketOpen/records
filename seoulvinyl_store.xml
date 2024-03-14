@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 11:07:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 12:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Pink Floyd - The Dark Side Of The Moon (50th Anniversary) (2023 Remaster)]]></title>
+            <link>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</link>
+            <guid>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</guid>
+            <pubDate>Thu, 14 Mar 2024 12:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416803856_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Gerry mulligan - Night Lights (Verve Acoustic Sounds Series)]]></title>
+            <link>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5</link>
+            <guid>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5</guid>
+            <pubDate>Thu, 14 Mar 2024 12:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416509848_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Celine Dion - My Love Essential Collection (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a887c35d-cf4f-4faf-823f-6f467a5fad2b</link>
+            <guid>https://www.seoulvinyl.com/product/a887c35d-cf4f-4faf-823f-6f467a5fad2b</guid>
+            <pubDate>Thu, 14 Mar 2024 12:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416661662_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[정준일 - 1집 Lo9ve3r4s [블랙반]]]></title>
             <link>https://www.seoulvinyl.com/product/bdad3dcf-cf96-4c21-b4f6-b7e2369f8a35-3101</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 06 Mar 2024 04:08:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709694840604_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1차 예약판매] 권진아 - 우리의 방식 [3월 14일 입고]]]></title>
-            <link>https://www.seoulvinyl.com/product/bd74e887-374d-44f7-9fcc-04f06e16e36a</link>
-            <guid>https://www.seoulvinyl.com/product/bd74e887-374d-44f7-9fcc-04f06e16e36a</guid>
-            <pubDate>Tue, 05 Mar 2024 09:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709625224833_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Luther Vandross 루더 밴드로스 - Never Too Much LP]]></title>
-            <link>https://www.seoulvinyl.com/product/d87c3045-accd-4783-b663-9ad708061f18-3086</link>
-            <guid>https://www.seoulvinyl.com/product/d87c3045-accd-4783-b663-9ad708061f18-3086</guid>
-            <pubDate>Mon, 04 Mar 2024 12:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699694240131_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Post Malone (포스트 말론) - The Diamond Collection]]></title>
-            <link>https://www.seoulvinyl.com/product/7faff034-ae00-497f-b77c-1223a68c6b71-3085</link>
-            <guid>https://www.seoulvinyl.com/product/7faff034-ae00-497f-b77c-1223a68c6b71-3085</guid>
-            <pubDate>Mon, 04 Mar 2024 12:19:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706264973996_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
