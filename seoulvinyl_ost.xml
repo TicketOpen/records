@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 09:09:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 10:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[back to the future lp 백투더퓨쳐 ost vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1133-3109</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1133-3109</guid>
+            <pubDate>Fri, 15 Mar 2024 10:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1664874891472_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이데몬 드라마 음악 (My Demon OST) [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/db01a93b-04a8-4a5b-ab11-510b3761d67c-2990-3108</link>
+            <guid>https://www.seoulvinyl.com/product/db01a93b-04a8-4a5b-ab11-510b3761d67c-2990-3108</guid>
+            <pubDate>Fri, 15 Mar 2024 10:08:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705731785642_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Notting Hill(노팅힐) O.S.T 블랙반 Lp]]></title>
             <link>https://www.seoulvinyl.com/product/5a8783bd-60e4-4d20-aaf0-f79a0c3aa965-3082</link>
@@ -46,14 +62,6 @@
             <pubDate>Mon, 22 Jan 2024 11:07:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1687850082402_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 마이데몬 드라마 음악 (My Demon OST) [투명 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/db01a93b-04a8-4a5b-ab11-510b3761d67c-2990</link>
-            <guid>https://www.seoulvinyl.com/product/db01a93b-04a8-4a5b-ab11-510b3761d67c-2990</guid>
-            <pubDate>Mon, 22 Jan 2024 11:07:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705731785642_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[METRO BOOMIN 스파이더맨 : 어크로스 더 유니버스 OST (2LP, Metro Boomin Presents Spider-Man)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 11 Dec 2023 11:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702292465662_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Interstellar 인터스텔라 OST by Hans Zimmer 한스짐머 (Purple vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a-2925</link>
-            <guid>https://www.seoulvinyl.com/product/73442cca-c4b0-410b-90ae-894f82b3570a-2925</guid>
-            <pubDate>Fri, 08 Dec 2023 11:06:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695633765342_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
