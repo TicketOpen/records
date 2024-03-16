@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187588</id>
-    <title>서울바이닐 ─ JAPANESE</title>
-    <updated>2024-03-16T11:06:00.942Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ JAPANESE</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Sat, 16 Mar 2024 12:13:42 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ono Lisa - Catupiry [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/501c7eb1-b35d-486f-9da2-a2af8ca3d244-3107</link>
+            <guid>https://www.seoulvinyl.com/product/501c7eb1-b35d-486f-9da2-a2af8ca3d244-3107</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709896235481_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro (야마시타 타츠로) - For You [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/ca9cd0cd-c8d4-475b-abfe-bf7f6b5ac7cb</link>
+            <guid>https://www.seoulvinyl.com/product/ca9cd0cd-c8d4-475b-abfe-bf7f6b5ac7cb</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708423413916_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryusenkei (류센케이) - Tokyo Sniper [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c728fb5e-a101-43a4-8ac9-abc73a84c275</link>
+            <guid>https://www.seoulvinyl.com/product/c728fb5e-a101-43a4-8ac9-abc73a84c275</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708252666309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Fishmans(피쉬만즈) - Kuchu The Best of Fishmans (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/953df0c2-dba3-4d08-8ae1-f3eb9e7b89f6</link>
+            <guid>https://www.seoulvinyl.com/product/953df0c2-dba3-4d08-8ae1-f3eb9e7b89f6</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707723262083_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Fishmans (피쉬만즈) - Kuchu The Best of Fishmans [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a34b344e-b914-47c8-98aa-6aee1b2299a2</link>
+            <guid>https://www.seoulvinyl.com/product/a34b344e-b914-47c8-98aa-6aee1b2299a2</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707722449652_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] fukui ryo 후쿠이 료 lp - mellow dream [블루반]]]></title>
+            <link>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</link>
+            <guid>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303961412_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Fukui Ryo 후쿠이 료 - Scenery Vinyl [레드반]]]></title>
+            <link>https://www.seoulvinyl.com/product/ac7a19bf-b551-48c6-99b4-270743e21de3</link>
+            <guid>https://www.seoulvinyl.com/product/ac7a19bf-b551-48c6-99b4-270743e21de3</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303812837_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Mariya Takeuchi 타케우치 마리아 – DENIM [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/c2d2a179-d78d-4ce9-a61a-647275029435</link>
+            <guid>https://www.seoulvinyl.com/product/c2d2a179-d78d-4ce9-a61a-647275029435</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707302268646_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Miki (마츠바라 미키) - Stay With Me (2023 Mix) (45RPM) (12" 180g Vinyl Single LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/d4e08322-f42f-451c-a76f-c786f91a60d3</link>
+            <guid>https://www.seoulvinyl.com/product/d4e08322-f42f-451c-a76f-c786f91a60d3</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706959762544_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yutaka Ozaki 유타카 오자키 - Seventeen's Map [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597-3027-1</link>
+            <guid>https://www.seoulvinyl.com/product/40af21ed-632c-4404-86d3-c898b936d597-3027-1</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1699953233806_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kessoku Band (결속밴드) - 結束バンド (180g 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/0e901ac4-44e1-42bd-910b-a0a964ea96d8</link>
+            <guid>https://www.seoulvinyl.com/product/0e901ac4-44e1-42bd-910b-a0a964ea96d8</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">74,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706511947894_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto (류이치 사카모토) - Emily Bronte's Wuthering Heights (폭풍의 언덕) (Soundtrack)(Ltd)(Clear 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f8ca10ce-3c3a-43df-a791-e060e87757ec</link>
+            <guid>https://www.seoulvinyl.com/product/f8ca10ce-3c3a-43df-a791-e060e87757ec</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">72,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706263906658_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성시경 - 이렇게 너를 [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690-3009</link>
+            <guid>https://www.seoulvinyl.com/product/24a9f1dd-fe66-4d61-b666-0ebe91b3f690-3009</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1703316083628_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shoody 슈디 - Tomorrow's Child LP]]></title>
+            <link>https://www.seoulvinyl.com/product/81dea049-b7b4-4397-b62b-d6cf82706d57-2956</link>
+            <guid>https://www.seoulvinyl.com/product/81dea049-b7b4-4397-b62b-d6cf82706d57-2956</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411380266_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Motohiro Hata 하타 모토히로 - Kotonoha (언어의정원 OST LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/19614066-dbbc-4e3e-afd3-fa379c7a1ec1-2955</link>
+            <guid>https://www.seoulvinyl.com/product/19614066-dbbc-4e3e-afd3-fa379c7a1ec1-2955</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696411877635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - Christmas Eve（40th Anniversary Edition 12인치)]]></title>
+            <link>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb-2943</link>
+            <guid>https://www.seoulvinyl.com/product/17f7ed18-a5f2-4119-ae3e-acd165f49acb-2943</guid>
+            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695791968766_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
