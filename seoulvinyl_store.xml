@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Mar 2024 09:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 10:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[My Chemical Romance (마이 케미컬 로맨스) - The Black Parade [픽쳐 디스크 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/76a273fd-b522-4c76-8067-d0eec1b429ec</link>
+            <guid>https://www.seoulvinyl.com/product/76a273fd-b522-4c76-8067-d0eec1b429ec</guid>
+            <pubDate>Mon, 18 Mar 2024 10:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710755574709_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Takanaka Masayoshi (타카나카 마사요시) - SUPER TAKANAKA LIVE!]]></title>
             <link>https://www.seoulvinyl.com/product/ef80b115-71cd-4504-bdd0-010cdb9ddbe8</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 13 Mar 2024 11:08:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708422591280_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[maroon5 마룬5 lp - Songs About Jane vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-408-3099</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-408-3099</guid>
-            <pubDate>Wed, 13 Mar 2024 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1584699365466_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
