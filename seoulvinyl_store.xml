@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Mar 2024 10:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 11:07:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모서리 할인] Kanye West 카니예 웨스트 - Ye [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d9302849-7f4e-4e5f-b589-bb22bf3055a8</link>
+            <guid>https://www.seoulvinyl.com/product/d9302849-7f4e-4e5f-b589-bb22bf3055a8</guid>
+            <pubDate>Tue, 19 Mar 2024 11:06:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710845770468_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모서리 할인] Kanye West 카니예 웨스트 - My Beautiful Dark Twisted Fantasy LP]]></title>
+            <link>https://www.seoulvinyl.com/product/008e0a4f-1a87-4e97-9b06-68696ff21627</link>
+            <guid>https://www.seoulvinyl.com/product/008e0a4f-1a87-4e97-9b06-68696ff21627</guid>
+            <pubDate>Tue, 19 Mar 2024 11:06:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710843183223_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[George Benson - Give Me The Night [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/230c1c25-a681-466c-bc73-53a7ca3080fe</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 15 Mar 2024 10:07:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709358079983_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] DUA LIPA – Radical Optimism]]></title>
-            <link>https://www.seoulvinyl.com/product/4920c447-cd37-4351-a454-bef73629e9fc</link>
-            <guid>https://www.seoulvinyl.com/product/4920c447-cd37-4351-a454-bef73629e9fc</guid>
-            <pubDate>Thu, 14 Mar 2024 13:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710418660726_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Pink Floyd - The Dark Side Of The Moon (50th Anniversary) (2023 Remaster)]]></title>
-            <link>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</link>
-            <guid>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</guid>
-            <pubDate>Thu, 14 Mar 2024 12:13:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416803856_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
