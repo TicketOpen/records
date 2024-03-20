@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 11:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 12:14:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tame Impala 테임임팔라 - Lonerism [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/73c093a1-b02f-4966-92e1-6697e187769f</link>
+            <guid>https://www.seoulvinyl.com/product/73c093a1-b02f-4966-92e1-6697e187769f</guid>
+            <pubDate>Wed, 20 Mar 2024 12:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710933258847_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Maroon 5 - JORDI [Limited Violet LP]]]></title>
             <link>https://www.seoulvinyl.com/product/8988f0be-be39-412b-98cc-79100cda3d11</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 15 Mar 2024 10:07:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1705731785642_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ono Lisa - Catupiry [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/501c7eb1-b35d-486f-9da2-a2af8ca3d244-3107</link>
-            <guid>https://www.seoulvinyl.com/product/501c7eb1-b35d-486f-9da2-a2af8ca3d244-3107</guid>
-            <pubDate>Fri, 15 Mar 2024 10:07:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709896235481_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
