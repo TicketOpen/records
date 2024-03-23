@@ -4,11 +4,27 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Mar 2024 05:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Mar 2024 06:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Jungle - Volcano (LP)]]></title>
+            <title><![CDATA[Deep Purple(딥퍼플) - Machine Head (25Th Anniversary Edition) (180G LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/5ec8c8b4-568c-42a2-a4c5-3fdc57db16b8</link>
+            <guid>https://www.seoulvinyl.com/product/5ec8c8b4-568c-42a2-a4c5-3fdc57db16b8</guid>
+            <pubDate>Sat, 23 Mar 2024 06:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711172975699_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smashing Pumpkins(스매싱 펌킨스) - Siamese Dream (Remastered)(2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a46b73d0-c088-490d-a910-f597b4af3532</link>
+            <guid>https://www.seoulvinyl.com/product/a46b73d0-c088-490d-a910-f597b4af3532</guid>
+            <pubDate>Sat, 23 Mar 2024 06:13:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711172660394_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jungle(정글) - Volcano (LP)]]></title>
             <link>https://www.seoulvinyl.com/product/037a8baa-a581-4fe4-af9d-1a769079ca66</link>
             <guid>https://www.seoulvinyl.com/product/037a8baa-a581-4fe4-af9d-1a769079ca66</guid>
             <pubDate>Fri, 22 Mar 2024 11:07:42 GMT</pubDate>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 13 Mar 2024 11:09:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1584699365466_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멕카트니: 대양의 제국 (McCartney: Ocean's Kingdom) (2LP) - John Wilson]]></title>
-            <link>https://www.seoulvinyl.com/product/2cdf2e98-57fe-4f86-b1b2-cc9469e4b767</link>
-            <guid>https://www.seoulvinyl.com/product/2cdf2e98-57fe-4f86-b1b2-cc9469e4b767</guid>
-            <pubDate>Wed, 13 Mar 2024 10:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710324016563_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Justice - Audio Video Disco (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/64bc1e07-4de6-490f-899a-e0c5d1dc755c</link>
-            <guid>https://www.seoulvinyl.com/product/64bc1e07-4de6-490f-899a-e0c5d1dc755c</guid>
-            <pubDate>Tue, 12 Mar 2024 08:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710225896839_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
