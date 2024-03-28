@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 06:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Pink Floyd - Dark Side Of The Moon (50th Anniversary Edition)(Remastered)[black vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/ad943e2c-c3f4-4383-bdaa-fdb9bdf9d04f</link>
+            <guid>https://www.seoulvinyl.com/product/ad943e2c-c3f4-4383-bdaa-fdb9bdf9d04f</guid>
+            <pubDate>Thu, 28 Mar 2024 06:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711606066024_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fun 펀 - Some Nights [Silver Color Limited LP]]]></title>
             <link>https://www.seoulvinyl.com/product/698c67e1-c998-4853-9202-3d7ad61fa2d4-3144</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Mar 2024 12:14:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416803856_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Celine Dion - My Love Essential Collection (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/a887c35d-cf4f-4faf-823f-6f467a5fad2b</link>
-            <guid>https://www.seoulvinyl.com/product/a887c35d-cf4f-4faf-823f-6f467a5fad2b</guid>
-            <pubDate>Thu, 14 Mar 2024 12:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416661662_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
