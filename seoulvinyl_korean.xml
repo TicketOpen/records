@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 07:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 08:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 - 12집 불안한 행복]]></title>
+            <link>https://www.seoulvinyl.com/product/4942942c-4a05-4e6f-b1bc-97fe6a0d4c20</link>
+            <guid>https://www.seoulvinyl.com/product/4942942c-4a05-4e6f-b1bc-97fe6a0d4c20</guid>
+            <pubDate>Thu, 28 Mar 2024 08:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711610611803_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 산울림 - 13집 무지개]]></title>
+            <link>https://www.seoulvinyl.com/product/fefa1d63-52e6-4da9-98e5-c20294aefa63</link>
+            <guid>https://www.seoulvinyl.com/product/fefa1d63-52e6-4da9-98e5-c20294aefa63</guid>
+            <pubDate>Thu, 28 Mar 2024 08:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711610691700_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 임현식 - 미니앨범 2집 : The Young Man and the Deep Sea [컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/9d12e2ce-8bca-4bd0-8a1d-f757b6b2cb3c</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 26 Feb 2024 06:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708926215429_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 박정현 - 1집 Piece [투명 레드 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b5f572bd-3155-4432-9d68-d3eaa8cb2bce</link>
-            <guid>https://www.seoulvinyl.com/product/b5f572bd-3155-4432-9d68-d3eaa8cb2bce</guid>
-            <pubDate>Mon, 19 Feb 2024 12:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708341385261_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] wave to earth (웨이브 투 어스) - uncounted 0.00 [투명 블루 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e5f1fb18-5c34-4315-a8b8-516b90af6ccb</link>
-            <guid>https://www.seoulvinyl.com/product/e5f1fb18-5c34-4315-a8b8-516b90af6ccb</guid>
-            <pubDate>Fri, 16 Feb 2024 05:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708059405043_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
