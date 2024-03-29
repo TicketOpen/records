@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Mar 2024 09:09:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Mar 2024 10:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blur (블러) - 9집 The Ballad of Darren [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a802cda9-122d-444d-aa8d-2756341089b7</link>
+            <guid>https://www.seoulvinyl.com/product/a802cda9-122d-444d-aa8d-2756341089b7</guid>
+            <pubDate>Fri, 29 Mar 2024 10:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711706677128_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Pink Floyd - Dark Side Of The Moon (50th Anniversary Edition)(Remastered)[black vinyl]]]></title>
             <link>https://www.seoulvinyl.com/product/ad943e2c-c3f4-4383-bdaa-fdb9bdf9d04f</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 14 Mar 2024 13:09:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710418660726_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Pink Floyd - The Dark Side Of The Moon (50th Anniversary) (2023 Remaster)]]></title>
-            <link>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</link>
-            <guid>https://www.seoulvinyl.com/product/5c1ea1b5-a2b7-4d1a-a6eb-50d7366510e7</guid>
-            <pubDate>Thu, 14 Mar 2024 12:14:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416803856_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
