@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Mar 2024 11:08:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Mar 2024 12:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Tamaki Koji[玉置浩二]/玉置浩二 Concert Tour 2022 故郷楽団 35th ANNIVERSARY]]></title>
+            <link>https://www.seoulvinyl.com/product/185ed4be-31a7-497c-8050-ade9fe40fa4a</link>
+            <guid>https://www.seoulvinyl.com/product/185ed4be-31a7-497c-8050-ade9fe40fa4a</guid>
+            <pubDate>Sat, 30 Mar 2024 12:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711799412205_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Ryusenkei - City Music [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2211b266-ae99-485d-9799-fa9804687ea9</link>
+            <guid>https://www.seoulvinyl.com/product/2211b266-ae99-485d-9799-fa9804687ea9</guid>
+            <pubDate>Sat, 30 Mar 2024 12:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711798392468_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Matsubara Miki (마츠바라 미키) - Paradise Beach [클리어 퍼플 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/ba327650-4bdd-4569-9f05-59f754f50a5f</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303812837_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Mariya Takeuchi 타케우치 마리아 – DENIM [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/c2d2a179-d78d-4ce9-a61a-647275029435</link>
-            <guid>https://www.seoulvinyl.com/product/c2d2a179-d78d-4ce9-a61a-647275029435</guid>
-            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707302268646_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Miki (마츠바라 미키) - Stay With Me (2023 Mix) (45RPM) (12" 180g Vinyl Single LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d4e08322-f42f-451c-a76f-c786f91a60d3</link>
-            <guid>https://www.seoulvinyl.com/product/d4e08322-f42f-451c-a76f-c786f91a60d3</guid>
-            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706959762544_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
