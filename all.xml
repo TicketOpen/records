@@ -4,15 +4,23 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 11:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 12:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[예약판매] Laufey (라이베이) - Bewitched [오렌지 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[랍온어비트 (lobonabeat!) - 1집 Trapstar Lifestyle (Deluxe) [블랙 & 화이트 크리스탈 스플래터 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93-3169</link>
+            <guid>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93-3169</guid>
+            <pubDate>Mon, 01 Apr 2024 12:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711798907164_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laufey (라이베이) - Bewitched [오렌지 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</link>
             <guid>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</guid>
             <pubDate>Mon, 01 Apr 2024 11:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711533570990_1000.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -24,7 +32,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704970397652_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] quincy jones 퀸시존스 - the dude (vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[quincy jones 퀸시존스 - the dude (vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1246-3148-3166</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1246-3148-3166</guid>
             <pubDate>Mon, 01 Apr 2024 11:08:29 GMT</pubDate>
@@ -38,14 +46,6 @@
             <pubDate>Sat, 30 Mar 2024 12:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711799412205_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 랍온어비트 (lobonabeat!) - 1집 Trapstar Lifestyle (Deluxe) [블랙 & 화이트 크리스탈 스플래터 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93</link>
-            <guid>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93</guid>
-            <pubDate>Sat, 30 Mar 2024 12:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711798907164_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] '드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP) (서울바이닐 ─ 스토어)]]></title>
@@ -264,10 +264,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748858537_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] quincy jones 퀸시존스 - the dude (vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[quincy jones 퀸시존스 - the dude (vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1246-3148-3166</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1246-3148-3166</guid>
-            <pubDate>Mon, 01 Apr 2024 11:08:49 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 11:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1626503120241_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -286,14 +286,6 @@
             <pubDate>Wed, 27 Mar 2024 12:13:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711537737781_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] quincy jones 퀸시존스 - the dude (vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1246-3148</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1246-3148</guid>
-            <pubDate>Wed, 27 Mar 2024 11:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1626503120241_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ella Mai 엘라 마이 lp - Ella Mai vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -390,6 +382,14 @@
             <pubDate>Tue, 19 Mar 2024 10:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710842590490_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marvin Gaye 마빈 게이 - Let's Get It on [180g Gatefold 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-705-3097</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-705-3097</guid>
+            <pubDate>Mon, 01 Apr 2024 12:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1598097327572_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] '드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP) (서울바이닐 ─ OST)]]></title>
@@ -520,11 +520,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1702720281030_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Laufey (라이베이) - Bewitched [오렌지 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
+            <title><![CDATA[Laufey (라이베이) - Bewitched [오렌지 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</link>
             <guid>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</guid>
-            <pubDate>Mon, 01 Apr 2024 11:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <pubDate>Mon, 01 Apr 2024 11:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711533570990_1000.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -776,20 +776,20 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710755574709_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[랍온어비트 (lobonabeat!) - 1집 Trapstar Lifestyle (Deluxe) [블랙 & 화이트 크리스탈 스플래터 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93-3169</link>
+            <guid>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93-3169</guid>
+            <pubDate>Mon, 01 Apr 2024 12:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711798907164_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[산울림 - 10집 너의 의미 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/65bed85e-ced0-4ca9-bd10-8b64364c9316-2995-3167</link>
             <guid>https://www.seoulvinyl.com/product/65bed85e-ced0-4ca9-bd10-8b64364c9316-2995-3167</guid>
-            <pubDate>Mon, 01 Apr 2024 11:09:26 GMT</pubDate>
+            <pubDate>Mon, 01 Apr 2024 11:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704970397652_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 랍온어비트 (lobonabeat!) - 1집 Trapstar Lifestyle (Deluxe) [블랙 & 화이트 크리스탈 스플래터 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93</link>
-            <guid>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93</guid>
-            <pubDate>Sat, 30 Mar 2024 12:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711798907164_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 산울림 - 12집 불안한 행복 (서울바이닐 ─ KOREAN)]]></title>

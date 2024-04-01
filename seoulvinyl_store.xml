@@ -4,15 +4,23 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Apr 2024 11:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Apr 2024 12:16:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[예약판매] Laufey (라이베이) - Bewitched [오렌지 컬러 LP]]]></title>
+            <title><![CDATA[랍온어비트 (lobonabeat!) - 1집 Trapstar Lifestyle (Deluxe) [블랙 & 화이트 크리스탈 스플래터 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93-3169</link>
+            <guid>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93-3169</guid>
+            <pubDate>Mon, 01 Apr 2024 12:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711798907164_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laufey (라이베이) - Bewitched [오렌지 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</link>
             <guid>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</guid>
             <pubDate>Mon, 01 Apr 2024 11:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711533570990_1000.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -24,7 +32,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704970397652_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] quincy jones 퀸시존스 - the dude (vinyl)]]></title>
+            <title><![CDATA[quincy jones 퀸시존스 - the dude (vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1246-3148-3166</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1246-3148-3166</guid>
             <pubDate>Mon, 01 Apr 2024 11:08:29 GMT</pubDate>
@@ -38,14 +46,6 @@
             <pubDate>Sat, 30 Mar 2024 12:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711799412205_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 랍온어비트 (lobonabeat!) - 1집 Trapstar Lifestyle (Deluxe) [블랙 & 화이트 크리스탈 스플래터 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93</link>
-            <guid>https://www.seoulvinyl.com/product/1a09f7dc-e52a-4d20-82da-4e7b909bed93</guid>
-            <pubDate>Sat, 30 Mar 2024 12:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711798907164_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] '드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP)]]></title>
