@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Apr 2024 10:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Apr 2024 11:09:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kid Cudi 키드 커디 lp - Man On The Moon: The End Of Day vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-242-3175</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-242-3175</guid>
+            <pubDate>Tue, 02 Apr 2024 11:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582796157456_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Victoria Monet (빅토리아 모넷) - Jaguar II [Colored vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/b072e26a-30f1-4449-ab67-7b327592bed0</link>
+            <guid>https://www.seoulvinyl.com/product/b072e26a-30f1-4449-ab67-7b327592bed0</guid>
+            <pubDate>Tue, 02 Apr 2024 11:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712053404783_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rick James(릭 제임스) - Street Songs]]></title>
+            <link>https://www.seoulvinyl.com/product/fb68f80d-9f9d-40f7-8e8e-e1b61684b345</link>
+            <guid>https://www.seoulvinyl.com/product/fb68f80d-9f9d-40f7-8e8e-e1b61684b345</guid>
+            <pubDate>Tue, 02 Apr 2024 11:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712053157423_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[quincy jones 퀸시존스 - the dude (vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1246-3148-3166</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 19 Mar 2024 11:06:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710845770468_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모서리 할인] Kanye West 카니예 웨스트 - My Beautiful Dark Twisted Fantasy LP]]></title>
-            <link>https://www.seoulvinyl.com/product/008e0a4f-1a87-4e97-9b06-68696ff21627</link>
-            <guid>https://www.seoulvinyl.com/product/008e0a4f-1a87-4e97-9b06-68696ff21627</guid>
-            <pubDate>Tue, 19 Mar 2024 11:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710843183223_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Benson - Give Me The Night [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/230c1c25-a681-466c-bc73-53a7ca3080fe</link>
-            <guid>https://www.seoulvinyl.com/product/230c1c25-a681-466c-bc73-53a7ca3080fe</guid>
-            <pubDate>Tue, 19 Mar 2024 10:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710842590490_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marvin Gaye 마빈 게이 - Let's Get It on [180g Gatefold 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-705-3097</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-705-3097</guid>
-            <pubDate>Mon, 01 Apr 2024 12:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1598097327572_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
