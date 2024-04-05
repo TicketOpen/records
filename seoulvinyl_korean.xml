@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 10:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 11:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</link>
+            <guid>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</guid>
+            <pubDate>Fri, 05 Apr 2024 11:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (투명 블루 컬러 LP)]]></title>
             <link>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07-2933-3188</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 06 Mar 2024 04:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709694840604_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1차 예약판매] 권진아 - 우리의 방식 [3월 14일 입고]]]></title>
-            <link>https://www.seoulvinyl.com/product/bd74e887-374d-44f7-9fcc-04f06e16e36a</link>
-            <guid>https://www.seoulvinyl.com/product/bd74e887-374d-44f7-9fcc-04f06e16e36a</guid>
-            <pubDate>Tue, 05 Mar 2024 09:08:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709625224833_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

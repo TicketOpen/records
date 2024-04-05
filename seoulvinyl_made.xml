@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 10:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 11:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</link>
+            <guid>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</guid>
+            <pubDate>Fri, 05 Apr 2024 11:06:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Colde 콜드 - LP 2종 세트 (Love part 1, Wave)]]></title>
             <link>https://www.seoulvinyl.com/product/4fd72586-c73c-4164-bb10-27e8ba3a2bf9</link>
@@ -46,14 +54,6 @@
             <pubDate>Sat, 16 Mar 2024 14:05:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707190815132_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e</link>
-            <guid>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e</guid>
-            <pubDate>Sun, 31 Mar 2024 13:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Pink Colored 2LP)]]></title>

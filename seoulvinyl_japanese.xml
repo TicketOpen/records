@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 10:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 11:07:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MONDO GROSSO 몬도 그로소 BEST 2 Ver. Lp]]></title>
+            <link>https://www.seoulvinyl.com/product/3fc386c5-ec71-46a9-a9dd-ddaabb8c194d-1595-3193</link>
+            <guid>https://www.seoulvinyl.com/product/3fc386c5-ec71-46a9-a9dd-ddaabb8c194d-1595-3193</guid>
+            <pubDate>Fri, 05 Apr 2024 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1640773595712_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hisaishi Joe 히사이시 조 - 원령공주 (모노노케 히메) 교향조곡 Vinyl LP]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-881-3190</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-881-3190</guid>
+            <pubDate>Fri, 05 Apr 2024 11:07:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608985823189_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Matsubara Miki (마츠바라 미키) - Paradise Beach [클리어 퍼플 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/ba327650-4bdd-4569-9f05-59f754f50a5f-3187</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707723262083_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Fishmans (피쉬만즈) - Kuchu The Best of Fishmans [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a34b344e-b914-47c8-98aa-6aee1b2299a2</link>
-            <guid>https://www.seoulvinyl.com/product/a34b344e-b914-47c8-98aa-6aee1b2299a2</guid>
-            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707722449652_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] fukui ryo 후쿠이 료 lp - mellow dream [블루반]]]></title>
-            <link>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</link>
-            <guid>https://www.seoulvinyl.com/product/f77d867c-e2f5-4967-b6f4-45f8297b08fd</guid>
-            <pubDate>Sat, 16 Mar 2024 12:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707303961412_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
