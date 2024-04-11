@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 06:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 코드 쿤스트 (CODE KUNST) - 5집 Remember Archive [컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</link>
+            <guid>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</guid>
+            <pubDate>Thu, 11 Apr 2024 06:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712815154306_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 06 Mar 2024 07:08:22 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709707404658_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2차 예약판매] 권진아 - 우리의 방식 [5월 15일 이후 입고]]]></title>
-            <link>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</link>
-            <guid>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</guid>
-            <pubDate>Wed, 06 Mar 2024 04:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709694840604_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

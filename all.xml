@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 05:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 06:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 코드 쿤스트 (CODE KUNST) - 5집 Remember Archive [컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</link>
+            <guid>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</guid>
+            <pubDate>Thu, 11 Apr 2024 06:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712815154306_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MONDO GROSSO 몬도 그로소 BEST 2 Ver. Lp (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/3fc386c5-ec71-46a9-a9dd-ddaabb8c194d-1595-3193</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 03 Apr 2024 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712141133761_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Led Zeppelin (레드제플린) - 3집 Led Zeppelin III [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9ac30acd-b5c6-41d3-9996-ba9f81b04966</link>
-            <guid>https://www.seoulvinyl.com/product/9ac30acd-b5c6-41d3-9996-ba9f81b04966</guid>
-            <pubDate>Wed, 03 Apr 2024 11:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712140175619_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711172975699_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 코드 쿤스트 (CODE KUNST) - 5집 Remember Archive [컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</link>
+            <guid>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</guid>
+            <pubDate>Thu, 11 Apr 2024 06:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712815154306_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</link>
             <guid>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</guid>
@@ -896,14 +904,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709707404658_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2차 예약판매] 권진아 - 우리의 방식 [5월 15일 이후 입고] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</link>
-            <guid>https://www.seoulvinyl.com/product/fb562faf-e489-4b2b-ba62-73637a6e86ff</guid>
-            <pubDate>Wed, 06 Mar 2024 04:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709694840604_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MONDO GROSSO 몬도 그로소 BEST 2 Ver. Lp (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/3fc386c5-ec71-46a9-a9dd-ddaabb8c194d-1595-3193</link>
             <guid>https://www.seoulvinyl.com/product/3fc386c5-ec71-46a9-a9dd-ddaabb8c194d-1595-3193</guid>
@@ -928,7 +928,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711688627131_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] KIRINJI - Steppin' Out (서울바이닐 ─ JAPANESE)]]></title>
+            <title><![CDATA[[예약판매] KIRINJI(키린지) - Steppin' Out (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/026d168d-85e8-4604-a527-a2cf05461492</link>
             <guid>https://www.seoulvinyl.com/product/026d168d-85e8-4604-a527-a2cf05461492</guid>
             <pubDate>Tue, 02 Apr 2024 10:08:51 GMT</pubDate>
