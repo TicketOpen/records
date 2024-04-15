@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 10:08:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 11:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 루시드폴 - Ambient album [Being-with] [다크 그린 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6d07e96c-ab52-48e5-91dc-14548833645f</link>
+            <guid>https://www.seoulvinyl.com/product/6d07e96c-ab52-48e5-91dc-14548833645f</guid>
+            <pubDate>Mon, 15 Apr 2024 11:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713176177097_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김윤아 - 정규 5집 [관능소설] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/dce7eedc-a4fe-40c3-bf66-ffaa88f33ee5</link>
+            <guid>https://www.seoulvinyl.com/product/dce7eedc-a4fe-40c3-bf66-ffaa88f33ee5</guid>
+            <pubDate>Mon, 15 Apr 2024 11:04:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713176605299_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Led Zeppelin (레드 제플린) - 6집 Physical Graffiti [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/b8694ca8-f342-4bb4-9437-ed5cb2ca8f38</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 05 Apr 2024 11:05:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O.S.T. - Top Gun: Maverick (탑건: 매버릭) (Soundtrack)(Ltd)(White Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</link>
-            <guid>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</guid>
-            <pubDate>Fri, 05 Apr 2024 11:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657970263439_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hisaishi Joe 히사이시 조 - 원령공주 (모노노케 히메) 교향조곡 Vinyl LP (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-881-3190</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-881-3190</guid>
-            <pubDate>Fri, 05 Apr 2024 11:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608985823189_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711706677128_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 루시드폴 - Ambient album [Being-with] [다크 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/6d07e96c-ab52-48e5-91dc-14548833645f</link>
+            <guid>https://www.seoulvinyl.com/product/6d07e96c-ab52-48e5-91dc-14548833645f</guid>
+            <pubDate>Mon, 15 Apr 2024 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713176177097_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 김윤아 - 정규 5집 [관능소설] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/dce7eedc-a4fe-40c3-bf66-ffaa88f33ee5</link>
+            <guid>https://www.seoulvinyl.com/product/dce7eedc-a4fe-40c3-bf66-ffaa88f33ee5</guid>
+            <pubDate>Mon, 15 Apr 2024 11:06:00 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">32,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713176605299_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 장덕 - 4집 님 떠난 후 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/acc3812d-168b-4ca3-9d3d-4c22c39f3de8</link>
             <guid>https://www.seoulvinyl.com/product/acc3812d-168b-4ca3-9d3d-4c22c39f3de8</guid>
@@ -886,22 +902,6 @@
             <pubDate>Mon, 18 Mar 2024 08:10:33 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710748033451_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정준일 - 1집 Lo9ve3r4s [블랙반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/bdad3dcf-cf96-4c21-b4f6-b7e2369f8a35-3101</link>
-            <guid>https://www.seoulvinyl.com/product/bdad3dcf-cf96-4c21-b4f6-b7e2369f8a35-3101</guid>
-            <pubDate>Wed, 13 Mar 2024 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708422746116_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정준일 - 1집 Lo9ve3r4s [핑크반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/d3f0a7c5-4695-436b-882e-a933890b8dd0-3100</link>
-            <guid>https://www.seoulvinyl.com/product/d3f0a7c5-4695-436b-882e-a933890b8dd0-3100</guid>
-            <pubDate>Wed, 13 Mar 2024 11:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708422591280_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Playing the Piano 12122020 [화이트 컬러 2LP] (서울바이닐 ─ JAPANESE)]]></title>
