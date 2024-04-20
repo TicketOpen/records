@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 11:06:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 12:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lizzo (리쪼) - Special (Alternate Cover) Vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/57ef240c-e782-4d7c-9411-f33af8e60a6d</link>
+            <guid>https://www.seoulvinyl.com/product/57ef240c-e782-4d7c-9411-f33af8e60a6d</guid>
+            <pubDate>Sat, 20 Apr 2024 12:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713613299513_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O.S.T. - Shaft In Africa [black vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/abf29ffa-07f2-4998-a666-cb46ce846e10</link>
+            <guid>https://www.seoulvinyl.com/product/abf29ffa-07f2-4998-a666-cb46ce846e10</guid>
+            <pubDate>Sat, 20 Apr 2024 12:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713612855853_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O.S.T. - Color Purple (컬러 퍼플) (Soundtrack)(3LP Colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/1565c439-7fdc-49c3-b333-470f65a47884</link>
+            <guid>https://www.seoulvinyl.com/product/1565c439-7fdc-49c3-b333-470f65a47884</guid>
+            <pubDate>Sat, 20 Apr 2024 12:12:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713611044741_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tyla (타일라) - Tyla (Orange Red Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/c3e86a37-372e-4a89-86a7-c4242f9b6c34</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 11 Apr 2024 13:07:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712837981069_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ohashi Junko 오하시 준코 - Magical (Clear Vinyl Edition)]]></title>
-            <link>https://www.seoulvinyl.com/product/082af57c-d327-4b47-9254-c20c0c6607fb-3196</link>
-            <guid>https://www.seoulvinyl.com/product/082af57c-d327-4b47-9254-c20c0c6607fb-3196</guid>
-            <pubDate>Thu, 11 Apr 2024 12:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1701512808722_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ohashi Junko 오하시 준코 - Full house]]></title>
-            <link>https://www.seoulvinyl.com/product/ecb95856-3b2e-41fa-95f4-9b590460f24a</link>
-            <guid>https://www.seoulvinyl.com/product/ecb95856-3b2e-41fa-95f4-9b590460f24a</guid>
-            <pubDate>Thu, 11 Apr 2024 12:12:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712835408005_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 코드 쿤스트 (CODE KUNST) - 5집 Remember Archive [컬러 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</link>
-            <guid>https://www.seoulvinyl.com/product/020a0c9b-eac3-4d6f-b96d-59d8e06ff730</guid>
-            <pubDate>Thu, 11 Apr 2024 06:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712815154306_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
