@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 Apr 2024 08:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 Apr 2024 09:08:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,7 +968,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711799412205_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Ryusenkei(류센케이) - City Music [LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <title><![CDATA[Ryusenkei(류센케이) - City Music [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/2211b266-ae99-485d-9799-fa9804687ea9</link>
             <guid>https://www.seoulvinyl.com/product/2211b266-ae99-485d-9799-fa9804687ea9</guid>
             <pubDate>Sat, 30 Mar 2024 12:10:56 GMT</pubDate>
