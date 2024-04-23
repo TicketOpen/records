@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 06:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 07:08:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[2차 예약판매] Ryuichi Sakamoto (류이치 사카모토) - Playing the Piano 12122020 (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/e486b22f-e67c-40df-8dcf-adce84762d32</link>
             <guid>https://www.seoulvinyl.com/product/e486b22f-e67c-40df-8dcf-adce84762d32</guid>
-            <pubDate>Tue, 23 Apr 2024 06:11:29 GMT</pubDate>
+            <pubDate>Tue, 23 Apr 2024 06:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">92,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713851889810_1000.jpg" length="0" type="image/jpg"/>
         </item>
