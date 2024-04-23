@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 05:09:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 06:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2차 예약판매] Ryuichi Sakamoto (류이치 사카모토) - Playing the Piano 12122020]]></title>
+            <link>https://www.seoulvinyl.com/product/e486b22f-e67c-40df-8dcf-adce84762d32</link>
+            <guid>https://www.seoulvinyl.com/product/e486b22f-e67c-40df-8dcf-adce84762d32</guid>
+            <pubDate>Tue, 23 Apr 2024 06:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">92,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713851889810_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tamaki Koji(타마키 코지)[玉置浩二]/玉置浩二 Concert Tour 2022 故郷楽団 35th ANNIVERSARY]]></title>
             <link>https://www.seoulvinyl.com/product/185ed4be-31a7-497c-8050-ade9fe40fa4a-3222</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 18 Mar 2024 08:11:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710748974832_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시) - TAKANAKA]]></title>
-            <link>https://www.seoulvinyl.com/product/3de0cbf0-07ac-43a2-9193-749e81ac16fb</link>
-            <guid>https://www.seoulvinyl.com/product/3de0cbf0-07ac-43a2-9193-749e81ac16fb</guid>
-            <pubDate>Mon, 18 Mar 2024 08:11:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710748813799_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
