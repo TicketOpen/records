@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 11:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 12:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V.A - RE:sonance The Vinyl [2024 RSD Edition]]]></title>
+            <link>https://www.seoulvinyl.com/product/b19b1230-f2e1-42d3-93e6-798043a1cf33</link>
+            <guid>https://www.seoulvinyl.com/product/b19b1230-f2e1-42d3-93e6-798043a1cf33</guid>
+            <pubDate>Fri, 26 Apr 2024 12:15:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714130252640_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이소라 - 베스트 블랙 2021 (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1166-1589-3225</link>
@@ -32,7 +40,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713765213294_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[터치드 (TOUCHED) - Purple [ [2024 RSD Edition]]]></title>
+            <title><![CDATA[터치드 (TOUCHED) - Purple [2024 RSD Edition]]]></title>
             <link>https://www.seoulvinyl.com/product/b732183a-84db-4e15-8e41-6fbf047f34e7</link>
             <guid>https://www.seoulvinyl.com/product/b732183a-84db-4e15-8e41-6fbf047f34e7</guid>
             <pubDate>Mon, 22 Apr 2024 06:11:38 GMT</pubDate>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 05 Apr 2024 11:06:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 - 꿈에서 걸려온 전화 (투명 블루 컬러 LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07-2933-3188</link>
-            <guid>https://www.seoulvinyl.com/product/4fe75e89-270b-48ec-948a-d2286c298a07-2933-3188</guid>
-            <pubDate>Thu, 04 Apr 2024 12:14:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1696490934772_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
