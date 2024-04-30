@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 05:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 06:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 씨잼 <킁> [Black Vinyl] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246</link>
             <guid>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246</guid>
-            <pubDate>Tue, 30 Apr 2024 05:09:34 GMT</pubDate>
+            <pubDate>Tue, 30 Apr 2024 05:08:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714452896707_1000.png" length="0" type="image/png"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 씨잼 <킁>[Orange & Red Marbled Color Vinyl] (한정반) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/31990fcd-3fbb-4822-8df2-fb91e2bc7a76</link>
             <guid>https://www.seoulvinyl.com/product/31990fcd-3fbb-4822-8df2-fb91e2bc7a76</guid>
-            <pubDate>Tue, 30 Apr 2024 05:09:34 GMT</pubDate>
+            <pubDate>Tue, 30 Apr 2024 05:08:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714452428640_1000.jpg" length="0" type="image/jpg"/>
         </item>
