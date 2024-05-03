@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 10:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 11:08:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Natalie Cole (나탈리 콜) - Unforgettable...With Love [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/18b4b97f-d7f1-4958-9d52-e558e61a1ab9</link>
+            <guid>https://www.seoulvinyl.com/product/18b4b97f-d7f1-4958-9d52-e558e61a1ab9</guid>
+            <pubDate>Fri, 03 May 2024 11:07:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714732806106_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] HYBS(하입스) - Well Done (Fantasy Vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/89d5c9a8-69c8-4117-9c3c-ee0d94eb1e1c</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 23 Mar 2024 06:13:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711173384027_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay-Z - Vol. 3: Life & Times Of Shawn Carter (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/1f710964-30ca-45a1-8013-7c944b138a38</link>
-            <guid>https://www.seoulvinyl.com/product/1f710964-30ca-45a1-8013-7c944b138a38</guid>
-            <pubDate>Sat, 23 Mar 2024 06:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711171649670_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
