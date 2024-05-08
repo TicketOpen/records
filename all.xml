@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 12:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 13:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,11 +376,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1626503120241_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Earth, Wind & Fire - The Greatest Hits (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <title><![CDATA[Earth, Wind & Fire - The Greatest Hits (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/b382417c-0c81-4f40-953b-1eabda8f1a49</link>
             <guid>https://www.seoulvinyl.com/product/b382417c-0c81-4f40-953b-1eabda8f1a49</guid>
             <pubDate>Wed, 27 Mar 2024 12:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711537737781_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
