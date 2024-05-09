@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 May 2024 04:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 05:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Justice(저스티스) Hyperdrama: Limited Crystal Clear Vinyl 2LP (한정반) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/8dedb8f7-a5ce-4519-820c-66f8d2ac8bc6</link>
+            <guid>https://www.seoulvinyl.com/product/8dedb8f7-a5ce-4519-820c-66f8d2ac8bc6</guid>
+            <pubDate>Thu, 09 May 2024 05:08:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715230030853_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 저스트뮤직 - 파급효과 (Ripple Effect) [180g 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/1715af55-a439-4300-bce0-f3cf16583bf1</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 02 May 2024 06:10:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714627458009_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김뜻돌 - COBALT [핑크 마블 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c44ed114-acff-4b3a-96dd-1cbc1c9f5d11</link>
-            <guid>https://www.seoulvinyl.com/product/c44ed114-acff-4b3a-96dd-1cbc1c9f5d11</guid>
-            <pubDate>Tue, 30 Apr 2024 08:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714461455504_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -380,7 +380,7 @@
             <link>https://www.seoulvinyl.com/product/b382417c-0c81-4f40-953b-1eabda8f1a49</link>
             <guid>https://www.seoulvinyl.com/product/b382417c-0c81-4f40-953b-1eabda8f1a49</guid>
             <pubDate>Wed, 27 Mar 2024 12:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711537737781_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704268685364_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Justice(저스티스) Hyperdrama: Limited Crystal Clear Vinyl 2LP (한정반) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/8dedb8f7-a5ce-4519-820c-66f8d2ac8bc6</link>
+            <guid>https://www.seoulvinyl.com/product/8dedb8f7-a5ce-4519-820c-66f8d2ac8bc6</guid>
+            <pubDate>Thu, 09 May 2024 05:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715230030853_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[테일러 스위프트(Taylor Swift) LP - Tortured Poets Department (11집 신보) [Ivory Vinyl , 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/adfa3477-f63c-41af-97ca-e30f036c2687-3259</link>
             <guid>https://www.seoulvinyl.com/product/adfa3477-f63c-41af-97ca-e30f036c2687-3259</guid>
@@ -766,14 +774,6 @@
             <pubDate>Wed, 03 Apr 2024 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712142764499_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica (메탈리카) - Ride the Lightning [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/57d05764-ec7b-4ddb-ae90-ab7a61df33ea</link>
-            <guid>https://www.seoulvinyl.com/product/57d05764-ec7b-4ddb-ae90-ab7a61df33ea</guid>
-            <pubDate>Wed, 03 Apr 2024 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712142592050_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 저스트뮤직 - 파급효과 (Ripple Effect) [180g 2LP] (서울바이닐 ─ KOREAN)]]></title>
