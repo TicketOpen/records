@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 May 2024 08:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 May 2024 09:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>https://www.seoulvinyl.com/product/bed5d8ef-2592-47c0-8a9d-059a6c53f00f</guid>
             <pubDate>Mon, 13 May 2024 08:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715587549886_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715587909043_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Ryusenkei (류센케이) - Illusions (イリュージョン) (서울바이닐 ─ 스토어)]]></title>
@@ -267,9 +267,9 @@
             <title><![CDATA[[예약판매] Beyonce (비욘세) - 8집 Cowboy Carter [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/bed5d8ef-2592-47c0-8a9d-059a6c53f00f</link>
             <guid>https://www.seoulvinyl.com/product/bed5d8ef-2592-47c0-8a9d-059a6c53f00f</guid>
-            <pubDate>Mon, 13 May 2024 08:11:39 GMT</pubDate>
+            <pubDate>Mon, 13 May 2024 08:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715587549886_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715587909043_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Aaliyah 알리야 - Ultimate Aaliyah[3LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Ryusenkei (류센케이) - Illusions (イリュージョン) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/29ec68d9-02b6-457e-9c47-de62d82be500</link>
             <guid>https://www.seoulvinyl.com/product/29ec68d9-02b6-457e-9c47-de62d82be500</guid>
-            <pubDate>Mon, 13 May 2024 08:12:31 GMT</pubDate>
+            <pubDate>Mon, 13 May 2024 08:11:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715586943962_1000.jpg" length="0" type="image/jpg"/>
         </item>
