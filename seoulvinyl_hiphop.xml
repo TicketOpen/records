@@ -4,14 +4,22 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 10:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 11:08:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
+            <title><![CDATA[boyz II man 보이즈투맨 lp - 2집 vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-679-3276</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-679-3276</guid>
+            <pubDate>Wed, 15 May 2024 11:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1596186647049_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Roy Ayers Ubiquity (로이 아이레스) - Everybody Loves The Sunshine (40th Anniversary) (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/35b6e44a-7239-472a-96aa-7a745de08763</link>
-            <guid>https://www.seoulvinyl.com/product/35b6e44a-7239-472a-96aa-7a745de08763</guid>
-            <pubDate>Tue, 14 May 2024 06:12:44 GMT</pubDate>
+            <link>https://www.seoulvinyl.com/product/35b6e44a-7239-472a-96aa-7a745de08763-3275</link>
+            <guid>https://www.seoulvinyl.com/product/35b6e44a-7239-472a-96aa-7a745de08763-3275</guid>
+            <pubDate>Wed, 15 May 2024 11:07:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715665305320_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 02 Apr 2024 11:08:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712053404783_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rick James(릭 제임스) - Street Songs]]></title>
-            <link>https://www.seoulvinyl.com/product/fb68f80d-9f9d-40f7-8e8e-e1b61684b345</link>
-            <guid>https://www.seoulvinyl.com/product/fb68f80d-9f9d-40f7-8e8e-e1b61684b345</guid>
-            <pubDate>Tue, 02 Apr 2024 11:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712053157423_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
