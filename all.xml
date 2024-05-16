@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 11:08:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 12:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Laufey (라이베이) - Bewitched : The Goddess Edition [블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7ead4a86-a79f-445c-8a80-157ad8430bed</link>
+            <guid>https://www.seoulvinyl.com/product/7ead4a86-a79f-445c-8a80-157ad8430bed</guid>
+            <pubDate>Thu, 16 May 2024 12:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715857979854_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Makoto Iwabuchi(마코토 이와부치) - supermoon (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d2c95a12-472e-4e5e-9401-2e3a54953e1f</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 08 May 2024 06:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715146965369_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Various Artists - Now That's What I Call K-Pop (LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/e9da8781-6849-4824-bd75-effcbdcb5c04</link>
-            <guid>https://www.seoulvinyl.com/product/e9da8781-6849-4824-bd75-effcbdcb5c04</guid>
-            <pubDate>Sat, 04 May 2024 12:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714823258146_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706511947894_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Laufey (라이베이) - Bewitched : The Goddess Edition [블루 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/7ead4a86-a79f-445c-8a80-157ad8430bed</link>
+            <guid>https://www.seoulvinyl.com/product/7ead4a86-a79f-445c-8a80-157ad8430bed</guid>
+            <pubDate>Thu, 16 May 2024 12:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715857979854_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Gerry mulligan(제리 멀리건)- Night Lights (Verve Acoustic Sounds Series) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5-3277</link>
             <guid>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5-3277</guid>
@@ -638,14 +646,6 @@
             <pubDate>Sat, 16 Mar 2024 16:08:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706612432011_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio - Sunday At The Village Vanguard (OJC) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/999697bd-105d-4436-b372-a726f6118036</link>
-            <guid>https://www.seoulvinyl.com/product/999697bd-105d-4436-b372-a726f6118036</guid>
-            <pubDate>Sat, 16 Mar 2024 16:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1704268685364_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Justice(저스티스) Hyperdrama: Limited Crystal Clear Vinyl 2LP (한정반) (서울바이닐 ─ ROCK & POP)]]></title>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Makoto Iwabuchi(마코토 이와부치) - supermoon (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/d2c95a12-472e-4e5e-9401-2e3a54953e1f</link>
             <guid>https://www.seoulvinyl.com/product/d2c95a12-472e-4e5e-9401-2e3a54953e1f</guid>
-            <pubDate>Thu, 16 May 2024 11:08:08 GMT</pubDate>
+            <pubDate>Thu, 16 May 2024 11:06:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715857384250_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -915,7 +915,7 @@
             <title><![CDATA[[예약판매] Hitomi Tohyama (히토미 토야마) - SEXY ROBOT (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/95fbb1ad-53a4-47f2-8141-d783e9f51f50</link>
             <guid>https://www.seoulvinyl.com/product/95fbb1ad-53a4-47f2-8141-d783e9f51f50</guid>
-            <pubDate>Thu, 16 May 2024 11:08:08 GMT</pubDate>
+            <pubDate>Thu, 16 May 2024 11:06:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715857146279_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -923,7 +923,7 @@
             <title><![CDATA[[예약판매] Hitomi Tohyama (히토미 토야마) - NEXT DOOR (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/cdb414cf-5c8c-4c64-a19b-f55f1e54c73e</link>
             <guid>https://www.seoulvinyl.com/product/cdb414cf-5c8c-4c64-a19b-f55f1e54c73e</guid>
-            <pubDate>Thu, 16 May 2024 11:08:08 GMT</pubDate>
+            <pubDate>Thu, 16 May 2024 11:06:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715856737744_1000.jpg" length="0" type="image/jpg"/>
         </item>
