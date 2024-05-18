@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 May 2024 08:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 09:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Pink Floyd - Pulse (Live) [180g 4LP][박스세트] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/812fa8fe-d81c-43c0-8011-79ae07cfa80b</link>
+            <guid>https://www.seoulvinyl.com/product/812fa8fe-d81c-43c0-8011-79ae07cfa80b</guid>
+            <pubDate>Sat, 18 May 2024 09:08:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">130,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716020687588_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이문세 4집 [옐로우 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/7dfe16d8-a805-497f-bc2c-ec1f53b6a97e</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 May 2024 11:07:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1709694840604_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sonyo(소녀) - I Want To Get Closer To You / Just The Two Of Us (7inch) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d1f5bbdf-8f3c-48ea-8e22-17566cd9d081</link>
-            <guid>https://www.seoulvinyl.com/product/d1f5bbdf-8f3c-48ea-8e22-17566cd9d081</guid>
-            <pubDate>Wed, 15 May 2024 08:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715757760693_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706612432011_1000.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Pink Floyd - Pulse (Live) [180g 4LP][박스세트] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/812fa8fe-d81c-43c0-8011-79ae07cfa80b</link>
+            <guid>https://www.seoulvinyl.com/product/812fa8fe-d81c-43c0-8011-79ae07cfa80b</guid>
+            <pubDate>Sat, 18 May 2024 09:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">130,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716020687588_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Eagles 이글스 - Their Greatest Hits Volumes 1 & 2 [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-1172-2871-3285</link>
             <guid>https://www.seoulvinyl.com/product/untitled-1172-2871-3285</guid>
@@ -766,14 +774,6 @@
             <pubDate>Wed, 03 Apr 2024 12:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712143494134_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica (메탈리카) - Load [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c5372142-0456-42ed-94d9-2cd06db91d2e</link>
-            <guid>https://www.seoulvinyl.com/product/c5372142-0456-42ed-94d9-2cd06db91d2e</guid>
-            <pubDate>Wed, 03 Apr 2024 12:13:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712142999668_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이문세 4집 [옐로우 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
