@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 May 2024 09:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 10:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -651,7 +651,7 @@
             <title><![CDATA[[예약판매] Pink Floyd - Pulse (Live) [180g 4LP][박스세트] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/812fa8fe-d81c-43c0-8011-79ae07cfa80b</link>
             <guid>https://www.seoulvinyl.com/product/812fa8fe-d81c-43c0-8011-79ae07cfa80b</guid>
-            <pubDate>Sat, 18 May 2024 09:09:01 GMT</pubDate>
+            <pubDate>Sat, 18 May 2024 09:08:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">130,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716020687588_1000.jpg" length="0" type="image/jpg"/>
         </item>
