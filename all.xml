@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 May 2024 07:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 08:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[이문세 4집 [옐로우 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/7dfe16d8-a805-497f-bc2c-ec1f53b6a97e</link>
             <guid>https://www.seoulvinyl.com/product/7dfe16d8-a805-497f-bc2c-ec1f53b6a97e</guid>
-            <pubDate>Sat, 18 May 2024 07:09:36 GMT</pubDate>
+            <pubDate>Sat, 18 May 2024 07:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716015673255_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[이문세 3집 [레드 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/4575f27c-52ba-4c9c-8758-5f80dd3ca7bf</link>
             <guid>https://www.seoulvinyl.com/product/4575f27c-52ba-4c9c-8758-5f80dd3ca7bf</guid>
-            <pubDate>Sat, 18 May 2024 07:09:36 GMT</pubDate>
+            <pubDate>Sat, 18 May 2024 07:08:46 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716015458264_1000.jpg" length="0" type="image/jpg"/>
         </item>
