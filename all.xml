@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 May 2024 06:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 07:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,6 +312,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714735432625_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Stevie Wonder(스티비 원더) - Signed, Sealed & Delivered (Vinyl LP (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/2134e728-c061-43d1-a8cf-0c0bf811978c</link>
+            <guid>https://www.seoulvinyl.com/product/2134e728-c061-43d1-a8cf-0c0bf811978c</guid>
+            <pubDate>Mon, 20 May 2024 07:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714736322056_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Natalie Cole (나탈리 콜) - Unforgettable...With Love [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/18b4b97f-d7f1-4958-9d52-e558e61a1ab9</link>
             <guid>https://www.seoulvinyl.com/product/18b4b97f-d7f1-4958-9d52-e558e61a1ab9</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 02 Apr 2024 11:08:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1582796157456_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Victoria Monet (빅토리아 모넷) - Jaguar II [Colored vinyl] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/b072e26a-30f1-4449-ab67-7b327592bed0</link>
-            <guid>https://www.seoulvinyl.com/product/b072e26a-30f1-4449-ab67-7b327592bed0</guid>
-            <pubDate>Tue, 02 Apr 2024 11:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712053404783_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매]그대들은 어떻게 살 것인가 애니메이션 음악 (君たちはどう生きるか OST by Joe Hisaishi) [2LP] (서울바이닐 ─ OST)]]></title>
