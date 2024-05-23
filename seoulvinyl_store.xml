@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 03:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 04:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2차 예약판매] GLEN CHECK - Electronic Live System 2024 [180g LP][한정판]]]></title>
+            <link>https://www.seoulvinyl.com/product/9e7dade2-f677-49c0-9c33-c669a74e5194</link>
+            <guid>https://www.seoulvinyl.com/product/9e7dade2-f677-49c0-9c33-c669a74e5194</guid>
+            <pubDate>Thu, 23 May 2024 04:10:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716433987802_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[J. Cole(제이콜) - 2014 Forest Hills Drive [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/8c528915-1930-4763-ad35-d1e263a592e8</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 15 May 2024 12:15:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715831176126_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[boyz II man 보이즈투맨 lp - 2집 vinyl]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-679-3276</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-679-3276</guid>
-            <pubDate>Wed, 15 May 2024 11:07:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1596186647049_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

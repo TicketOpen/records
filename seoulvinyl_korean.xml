@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 03:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 04:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2차 예약판매] GLEN CHECK - Electronic Live System 2024 [180g LP][한정판]]]></title>
+            <link>https://www.seoulvinyl.com/product/9e7dade2-f677-49c0-9c33-c669a74e5194</link>
+            <guid>https://www.seoulvinyl.com/product/9e7dade2-f677-49c0-9c33-c669a74e5194</guid>
+            <pubDate>Thu, 23 May 2024 04:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716433987802_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 글렌 체크 GLEN CHECK - Electronic Live System 2024 [180g LP][한정판]]]></title>
             <link>https://www.seoulvinyl.com/product/dcab3c35-2826-4149-86b4-1e7c7389f423</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 26 Apr 2024 10:09:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1621841904041_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김광석 - 다시 부르기 2 (180g LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/e94369fa-13bf-48ef-bd7a-3015609e1329</link>
-            <guid>https://www.seoulvinyl.com/product/e94369fa-13bf-48ef-bd7a-3015609e1329</guid>
-            <pubDate>Fri, 26 Apr 2024 08:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714117246651_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
