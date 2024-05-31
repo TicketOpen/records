@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 09:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 10:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1312,14 +1312,6 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202103/52579673db75602707fbed7237f21a6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[We, Do It Together VA_Various Artists CD음반 (일렉트릭 뮤즈) (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1746&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1746&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[16,300 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202105/e2ca7fa65a52e7b8c44f2cf2c2e3a81a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Walking Cliché Sextet 'Chase Reflex' 바이닐+아트북 Night Birds 나이트 버즈 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1672&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1672&amp;cate_no=60&amp;display_group=1</guid>
@@ -1542,6 +1534,14 @@
             <pubDate>Wed, 10 Apr 2024 05:09:23 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202303/cd91adc89edf1bbc3dae99356d75b19a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행복회로 부수는중 나노말 정규 1집 CD/음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2020&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2020&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Fri, 31 May 2024 10:10:44 GMT</pubDate>
+            <content:encoded><![CDATA[18,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202303/bafd4a74309146e38fbb014431bc03a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
