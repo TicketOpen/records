@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 01 Jun 2024 07:08:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Jun 2024 08:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,28 +112,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714734074215_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Sade(샤데이) - Soldier Of Love [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8653cda9-3b9e-4a1e-834e-3a51784b96f9</link>
+            <guid>https://www.seoulvinyl.com/product/8653cda9-3b9e-4a1e-834e-3a51784b96f9</guid>
+            <pubDate>Sat, 01 Jun 2024 08:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714213062926_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Sade(샤데이) - Diamond Life [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7f99f4c1-abe2-4833-b166-2b6685ea399e</link>
+            <guid>https://www.seoulvinyl.com/product/7f99f4c1-abe2-4833-b166-2b6685ea399e</guid>
+            <pubDate>Sat, 01 Jun 2024 08:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714212196521_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ariana Grande (아리아나 그란데) - 7집 eternal sunshine [루비 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/1bc80483-0a7a-4a32-9f4a-7d22f48f38d0-3221</link>
             <guid>https://www.seoulvinyl.com/product/1bc80483-0a7a-4a32-9f4a-7d22f48f38d0-3221</guid>
             <pubDate>Mon, 22 Apr 2024 11:07:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711006054752_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Led Zeppelin (레드 제플린) - 6집 Physical Graffiti [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/b8694ca8-f342-4bb4-9437-ed5cb2ca8f38</link>
-            <guid>https://www.seoulvinyl.com/product/b8694ca8-f342-4bb4-9437-ed5cb2ca8f38</guid>
-            <pubDate>Sat, 13 Apr 2024 12:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713009319709_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Buckley (제프 버클리) - Sketches For My Sweetheart The Drunk (3LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/5659b235-6f8f-413d-a8bc-b2c6b3abf35b</link>
-            <guid>https://www.seoulvinyl.com/product/5659b235-6f8f-413d-a8bc-b2c6b3abf35b</guid>
-            <pubDate>Sat, 13 Apr 2024 12:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713009048889_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
