@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 11:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jun 2024 12:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Grey October Sound "Lo-Fi Ghibli" (로파이 지브리) LP (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/2a3b0f37-9fbb-40ff-a48e-179d7d3167db</link>
             <guid>https://www.seoulvinyl.com/product/2a3b0f37-9fbb-40ff-a48e-179d7d3167db</guid>
-            <pubDate>Mon, 03 Jun 2024 11:08:06 GMT</pubDate>
+            <pubDate>Mon, 03 Jun 2024 11:06:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717411349844_1000.jpg" length="0" type="image/jpg"/>
         </item>
