@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 06:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 07:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714461455504_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Yorushika 요루시카 - Rubato / bremen (7inch) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/dca13c26-4b63-4899-8176-c405af487d8a</link>
+            <guid>https://www.seoulvinyl.com/product/dca13c26-4b63-4899-8176-c405af487d8a</guid>
+            <pubDate>Tue, 04 Jun 2024 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717484811460_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Grey October Sound "Lo-Fi Ghibli" (로파이 지브리) LP (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/2a3b0f37-9fbb-40ff-a48e-179d7d3167db</link>
             <guid>https://www.seoulvinyl.com/product/2a3b0f37-9fbb-40ff-a48e-179d7d3167db</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 15 May 2024 08:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715757760693_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ryusenkei (류센케이) - Illusions (イリュージョン) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/29ec68d9-02b6-457e-9c47-de62d82be500</link>
-            <guid>https://www.seoulvinyl.com/product/29ec68d9-02b6-457e-9c47-de62d82be500</guid>
-            <pubDate>Mon, 13 May 2024 08:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715586943962_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CITY POP BEST100――シティ・ポップの名曲 1973-1989 (서울바이닐 ─ etc)]]></title>
