@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 06:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 07:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SZA 시저 - Sos (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/867c6aa7-bfdb-40bb-8b50-807ba1b1abb0</link>
+            <guid>https://www.seoulvinyl.com/product/867c6aa7-bfdb-40bb-8b50-807ba1b1abb0</guid>
+            <pubDate>Wed, 05 Jun 2024 07:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717568995915_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 1975 - 2집 I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It [투명 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/aa9e8d9d-576e-46fb-80b5-9f68ae9321ab</link>
+            <guid>https://www.seoulvinyl.com/product/aa9e8d9d-576e-46fb-80b5-9f68ae9321ab</guid>
+            <pubDate>Wed, 05 Jun 2024 07:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717568297739_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] GINGER ROOT (진저 루트) - Mahjong Room]]></title>
             <link>https://www.seoulvinyl.com/product/4aa6868b-7d36-408b-9a26-75048b4465a0</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">95,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710416803856_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Olivia Rodrigo 올리비아 로드리고 - Guts 2집 [black vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/955fdba1-a6c4-4ddd-93f9-08e73fa45965-3311</link>
-            <guid>https://www.seoulvinyl.com/product/955fdba1-a6c4-4ddd-93f9-08e73fa45965-3311</guid>
-            <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717219570464_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Agust D (어거스트 디) - D-DAY [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/5fd6d17e-4b0e-4352-bade-4019713fe100-3310</link>
-            <guid>https://www.seoulvinyl.com/product/5fd6d17e-4b0e-4352-bade-4019713fe100-3310</guid>
-            <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715052609853_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
