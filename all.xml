@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 07:09:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 08:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Playing the Piano 12122020 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/1a71d577-254d-41a1-809f-580308341c05</link>
+            <guid>https://www.seoulvinyl.com/product/1a71d577-254d-41a1-809f-580308341c05</guid>
+            <pubDate>Fri, 07 Jun 2024 08:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">87,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717747271202_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Billie Eilish (빌리 아일리시) - HIT ME HARD AND SOFT [black vinyl] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/90ed6d05-e90d-45ea-86f1-d9404754e810-3329-1</link>
@@ -128,14 +136,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717411750672_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186</link>
-            <guid>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186</guid>
-            <pubDate>Mon, 03 Jun 2024 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717384096656_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</link>
             <guid>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</guid>
@@ -236,7 +236,7 @@
             <link>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</link>
             <guid>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</guid>
             <pubDate>Sat, 16 Mar 2024 14:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684488005425_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -244,7 +244,7 @@
             <link>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</link>
             <guid>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</guid>
             <pubDate>Sat, 16 Mar 2024 14:05:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683352638858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711538909476_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Playing the Piano 12122020 (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/1a71d577-254d-41a1-809f-580308341c05</link>
+            <guid>https://www.seoulvinyl.com/product/1a71d577-254d-41a1-809f-580308341c05</guid>
+            <pubDate>Fri, 07 Jun 2024 08:12:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">87,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717747271202_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Twilight Saga New Moon 트와일라잇 뉴문 ost [Gold vinyl] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/ffb49352-0374-4592-a60d-51b207028920</link>
             <guid>https://www.seoulvinyl.com/product/ffb49352-0374-4592-a60d-51b207028920</guid>
@@ -510,14 +518,6 @@
             <pubDate>Mon, 25 Mar 2024 11:07:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706959276681_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영화 '팀 버튼의 크리스마스 악몽' O.S.T (By Danny Elfman)[Gatefold][Zoetrope 2LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/6d27a7e4-0783-46a5-947f-781f1b9e8810</link>
-            <guid>https://www.seoulvinyl.com/product/6d27a7e4-0783-46a5-947f-781f1b9e8810</guid>
-            <pubDate>Sat, 23 Mar 2024 11:04:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711191145096_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bill Evans and Jim Hall 빌에반스 짐홀 - Undercurrent [Jackpot records ver] (서울바이닐 ─ JAZZ)]]></title>
