@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 12:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 13:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,7 +267,7 @@
             <title><![CDATA[Prince 프린스 - Prince (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/16858075-a5e4-4c45-be1d-a2c750f80e8e</link>
             <guid>https://www.seoulvinyl.com/product/16858075-a5e4-4c45-be1d-a2c750f80e8e</guid>
-            <pubDate>Fri, 07 Jun 2024 12:16:06 GMT</pubDate>
+            <pubDate>Fri, 07 Jun 2024 12:15:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717759254694_1000.jpg" length="0" type="image/jpg"/>
         </item>
