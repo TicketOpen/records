@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 08:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1456,7 +1456,15 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
-            <title><![CDATA[드링킹소년소녀합창단 2집 CD 음반 Marriage License 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
+            <title><![CDATA[드링킹소년소녀합창단 2집 Marriage License (LP,Vinyl 음반) 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2184&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2184&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 09:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[33,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202406/92105f62f8fca461411c881491390a3d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드링킹소년소녀합창단 2집 Marriage License CD 음반 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2183&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2183&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Tue, 11 Jun 2024 08:13:17 GMT</pubDate>
@@ -1534,14 +1542,6 @@
             <pubDate>Fri, 15 Dec 2023 01:52:40 GMT</pubDate>
             <content:encoded><![CDATA[8,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202306/9f9394ca8e9c9e765eccfe0524c269e6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[{ 재입고 } The Whistle  미역수염 EP (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2062&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2062&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Thu, 18 Jan 2024 17:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[8,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202306/fc927a539b668bc6131da2979cab5fce.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
