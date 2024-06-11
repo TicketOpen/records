@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 05:11:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 06:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1456,6 +1456,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[시크릿 아시안 맨 1집 Secrets Beyond The Room 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2182&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2182&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 06:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[16,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202406/d1f17472d06261c5bdc4bac8eeb31343.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[량유 꿈의 목격 EP 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2181&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2181&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Tue, 02 Jan 2024 12:14:03 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202306/5b17681b58e47b98d3f83730ec3ace71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람들은 모두 다른 향기 지나오킹 카세트 테이프 음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2024&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2024&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 10 Apr 2024 05:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202303/cd91adc89edf1bbc3dae99356d75b19a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
