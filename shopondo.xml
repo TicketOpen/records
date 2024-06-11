@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 07:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 08:13:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[드링킹소년소녀합창단 2집 CD 음반 Marriage License 일렉트릭 뮤즈 제작]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2183&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2183&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 08:13:17 GMT</pubDate>
+            <content:encoded><![CDATA[16,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202406/4c4c11445af7d97217927d45960c18ac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시크릿 아시안 맨 1집 Secrets Beyond The Room 일렉트릭 뮤즈 제작]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2182&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2182&amp;cate_no=60&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 18 Jan 2024 17:08:49 GMT</pubDate>
             <content:encoded><![CDATA[8,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202306/fc927a539b668bc6131da2979cab5fce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봉오리 시절 허정혁 정규 1집]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2053&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2053&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Jan 2024 12:14:03 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202306/5b17681b58e47b98d3f83730ec3ace71.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
