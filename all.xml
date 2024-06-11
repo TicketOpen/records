@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 04:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 05:11:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1456,6 +1456,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[량유 꿈의 목격 EP 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2181&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2181&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[16,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202406/972719b302b7c2a6755b838e0695afb9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아닌 ANIN 1집 여자, 아닌 ANIN, A-WOMAN CD 음반 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2140&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2140&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Wed, 10 Apr 2024 05:09:23 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202303/cd91adc89edf1bbc3dae99356d75b19a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[행복회로 부수는중 나노말 정규 1집 CD/음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2020&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2020&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 10:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[18,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202303/bafd4a74309146e38fbb014431bc03a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
