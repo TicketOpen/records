@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 09:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 10:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 2 [블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</link>
+            <guid>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</guid>
+            <pubDate>Wed, 12 Jun 2024 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718185642023_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 [불투명 그린 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b80b7664-83ef-490d-89f4-b57ab964df90</link>
+            <guid>https://www.seoulvinyl.com/product/b80b7664-83ef-490d-89f4-b57ab964df90</guid>
+            <pubDate>Wed, 12 Jun 2024 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718185285938_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pastor TL Barrett Do Not Pass Me by Vol .1 (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/df9282f8-784a-412c-8197-ce01ce2f8037-3336</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 04 Jun 2024 07:09:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717484811460_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Grey October Sound "Lo-Fi Ghibli" (로파이 지브리) LP (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2a3b0f37-9fbb-40ff-a48e-179d7d3167db</link>
-            <guid>https://www.seoulvinyl.com/product/2a3b0f37-9fbb-40ff-a48e-179d7d3167db</guid>
-            <pubDate>Mon, 03 Jun 2024 11:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717411349844_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Jiselle (지셀) - Therapy Session DeluxeLP (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2ffc0bbe-1f5b-413b-8adc-51dea712bbad</link>
-            <guid>https://www.seoulvinyl.com/product/2ffc0bbe-1f5b-413b-8adc-51dea712bbad</guid>
-            <pubDate>Mon, 03 Jun 2024 06:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717392206876_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714735768498_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 2 [블루 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</link>
+            <guid>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</guid>
+            <pubDate>Wed, 12 Jun 2024 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718185642023_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 [불투명 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/b80b7664-83ef-490d-89f4-b57ab964df90</link>
+            <guid>https://www.seoulvinyl.com/product/b80b7664-83ef-490d-89f4-b57ab964df90</guid>
+            <pubDate>Wed, 12 Jun 2024 10:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718185285938_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Jiselle (지셀) - Therapy Session DeluxeLP (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2ffc0bbe-1f5b-413b-8adc-51dea712bbad</link>
             <guid>https://www.seoulvinyl.com/product/2ffc0bbe-1f5b-413b-8adc-51dea712bbad</guid>
@@ -886,22 +902,6 @@
             <pubDate>Wed, 08 May 2024 06:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715146965369_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists - Now That's What I Call K-Pop (LP) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/e9da8781-6849-4824-bd75-effcbdcb5c04</link>
-            <guid>https://www.seoulvinyl.com/product/e9da8781-6849-4824-bd75-effcbdcb5c04</guid>
-            <pubDate>Sat, 04 May 2024 12:12:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714823258146_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 김뜻돌 - COBALT [핑크 마블 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/c44ed114-acff-4b3a-96dd-1cbc1c9f5d11</link>
-            <guid>https://www.seoulvinyl.com/product/c44ed114-acff-4b3a-96dd-1cbc1c9f5d11</guid>
-            <pubDate>Tue, 30 Apr 2024 08:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714461455504_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] GINGER ROOT (진저 루트) - Mahjong Room (서울바이닐 ─ JAPANESE)]]></title>
