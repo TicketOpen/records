@@ -4,11 +4,11 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 10:10:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 11:09:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 2 [블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 2 [불투명 블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</link>
             <guid>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</guid>
             <pubDate>Wed, 12 Jun 2024 10:09:18 GMT</pubDate>
@@ -776,10 +776,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714735768498_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 2 [블루 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 2 [불투명 블루 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</link>
             <guid>https://www.seoulvinyl.com/product/5ac634f3-2be2-462c-b4dc-7d5c1bbd397d</guid>
-            <pubDate>Wed, 12 Jun 2024 10:10:14 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 10:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718185642023_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 웅산 - 사랑 그 그리움 [불투명 그린 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/b80b7664-83ef-490d-89f4-b57ab964df90</link>
             <guid>https://www.seoulvinyl.com/product/b80b7664-83ef-490d-89f4-b57ab964df90</guid>
-            <pubDate>Wed, 12 Jun 2024 10:10:14 GMT</pubDate>
+            <pubDate>Wed, 12 Jun 2024 10:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718185285938_1000.jpg" length="0" type="image/jpg"/>
         </item>
