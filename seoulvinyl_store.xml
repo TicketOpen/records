@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 04:11:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 05:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버벌진트 (Verbal Jint) - 10년동안의 오독 [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/868eb02c-2418-46a9-a3ed-5a7dd838582c-3343</link>
+            <guid>https://www.seoulvinyl.com/product/868eb02c-2418-46a9-a3ed-5a7dd838582c-3343</guid>
+            <pubDate>Sat, 15 Jun 2024 05:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689221305057_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tabber (태버) - Madness Always Turns to Sadness [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/03bef5be-7814-4cfc-adbd-77df5f0f242d-3342</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 05 Jun 2024 07:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717568297739_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] GINGER ROOT (진저 루트) - Mahjong Room]]></title>
-            <link>https://www.seoulvinyl.com/product/4aa6868b-7d36-408b-9a26-75048b4465a0</link>
-            <guid>https://www.seoulvinyl.com/product/4aa6868b-7d36-408b-9a26-75048b4465a0</guid>
-            <pubDate>Tue, 04 Jun 2024 11:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717497206706_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
