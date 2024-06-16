@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jun 2024 04:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 05:10:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1456,6 +1456,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[드린지 오 1집 Between The Tygh 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2185&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2185&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Jun 2024 05:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[11,800 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202406/02f2c351ac82d501681d92876d6c8b2b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드링킹소년소녀합창단 2집 Marriage License (LP,Vinyl 음반) 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2184&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2184&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Tue, 04 Jul 2023 16:12:16 GMT</pubDate>
             <content:encoded><![CDATA[12,500 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202307/b44e5aeffe8bd5cc0822e18500a4c516.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Letter to now:here PY00NG 소설 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2066&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2066&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Dec 2023 01:52:40 GMT</pubDate>
-            <content:encoded><![CDATA[8,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202306/9f9394ca8e9c9e765eccfe0524c269e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
