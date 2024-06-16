@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jun 2024 06:12:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jun 2024 07:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1456,6 +1456,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[홍갑 3집 꿈의 편집 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2188&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2188&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Sun, 16 Jun 2024 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[13,400 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202406/49580ab8a6c9bbe0357c9a0f0bd02b39.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[드린지 오 EP Individually Wrapped 일렉트릭 뮤즈 제작 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2187&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2187&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Tue, 18 Jul 2023 09:09:46 GMT</pubDate>
             <content:encoded><![CDATA[18,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202307/2143c1dd4bd56d026790b15f40d7fde0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[{ 재입고 } 전파납치 khc/moribet 정규 1집 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2075&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2075&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 17:06:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202307/d34ccf48d3d86550ff27a116abf1c77e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
