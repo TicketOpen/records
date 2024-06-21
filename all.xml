@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jun 2024 07:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jun 2024 08:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,7 +907,7 @@
             <title><![CDATA[V.A – City Music Tokyo (Multiple) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/3a810186-7724-4bf4-a233-ac567474916b</link>
             <guid>https://www.seoulvinyl.com/product/3a810186-7724-4bf4-a233-ac567474916b</guid>
-            <pubDate>Fri, 21 Jun 2024 07:10:08 GMT</pubDate>
+            <pubDate>Fri, 21 Jun 2024 07:09:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">110,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718947532858_1000.jpg" length="0" type="image/jpg"/>
         </item>
