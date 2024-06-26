@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jun 2024 11:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 12:17:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[씨잼 <킁> [Black Vinyl] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246-3350</link>
             <guid>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246-3350</guid>
-            <pubDate>Wed, 26 Jun 2024 11:09:08 GMT</pubDate>
+            <pubDate>Wed, 26 Jun 2024 11:08:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714452896707_1000.png" length="0" type="image/png"/>
         </item>
