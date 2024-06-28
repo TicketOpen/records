@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jun 2024 05:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 06:13:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -480,7 +480,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712229226391_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] '드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP) (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA['드래곤 볼' 히트곡 (클리어 오렌지 컬러 LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/ea1b732e-d3b8-4fcb-bd98-b12ebad85f4d</link>
             <guid>https://www.seoulvinyl.com/product/ea1b732e-d3b8-4fcb-bd98-b12ebad85f4d</guid>
             <pubDate>Sat, 30 Mar 2024 12:10:56 GMT</pubDate>
