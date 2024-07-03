@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Jul 2024 06:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Jul 2024 07:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Ryuichi Sakamoto / Onuki Takeo (류이치 사카모토 / 오누키 타에코) - UTAU [3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93</link>
+            <guid>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93</guid>
+            <pubDate>Wed, 03 Jul 2024 07:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">132,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719987537368_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - For You [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/1299eece-edca-447d-82f3-ec88c862e607-2784-3352</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 29 May 2024 11:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">105,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716979796765_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Hiroshi Sato (히로시 사토) - AWAKENING [Pastel Blue color vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/4c816411-6f72-4505-afcc-3c8d34b6a768</link>
-            <guid>https://www.seoulvinyl.com/product/4c816411-6f72-4505-afcc-3c8d34b6a768</guid>
-            <pubDate>Tue, 28 May 2024 04:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716868656675_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
