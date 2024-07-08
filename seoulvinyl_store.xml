@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Jul 2024 08:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Jul 2024 09:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 하현우 - 미니 2집 Anti ego (Black ver.)]]></title>
+            <link>https://www.seoulvinyl.com/product/bd55f2c6-c2d8-474a-b3c2-62cad8ce0122</link>
+            <guid>https://www.seoulvinyl.com/product/bd55f2c6-c2d8-474a-b3c2-62cad8ce0122</guid>
+            <pubDate>Mon, 08 Jul 2024 09:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428286711_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 하현우 - 미니 2집 Anti ego (White ver.)]]></title>
+            <link>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</link>
+            <guid>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</guid>
+            <pubDate>Mon, 08 Jul 2024 09:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428178506_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Beenzino 빈지노- NOWITZKI [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/983d07f9-fec3-4838-aab4-7f4387b25fea</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 28 Jun 2024 10:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719567993524_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨잼 <킁> [Black Vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246-3350</link>
-            <guid>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246-3350</guid>
-            <pubDate>Wed, 26 Jun 2024 11:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714452896707_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Masaki Matsubara 마츠바라 마사키- PAINTED WOMAN [PURE VIRGIN vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/c1b24ea2-e18c-4ec9-b18b-d597aded2e6e</link>
-            <guid>https://www.seoulvinyl.com/product/c1b24ea2-e18c-4ec9-b18b-d597aded2e6e</guid>
-            <pubDate>Sat, 22 Jun 2024 07:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719038861607_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
