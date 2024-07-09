@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jul 2024 05:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jul 2024 06:13:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 베이빌론 (Babylon) - 6집 MOOD (500장 한정반) [핑크 & 퍼플 마블 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d586aad3-edd8-45f4-bf10-f90bbb123e33</link>
+            <guid>https://www.seoulvinyl.com/product/d586aad3-edd8-45f4-bf10-f90bbb123e33</guid>
+            <pubDate>Tue, 09 Jul 2024 06:12:19 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720503088592_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Kessoku Band (결속밴드) - 結束バンド (180g 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/ad3b04f0-cd31-4098-a58c-dc95cebfce31</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 29 Jun 2024 11:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711097864497_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - For You [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1299eece-edca-447d-82f3-ec88c862e607-2784-3352</link>
-            <guid>https://www.seoulvinyl.com/product/1299eece-edca-447d-82f3-ec88c862e607-2784-3352</guid>
-            <pubDate>Sat, 29 Jun 2024 08:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357897894_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
