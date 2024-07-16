@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 10:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 11:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -424,11 +424,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717385702652_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP] (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA[드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186</link>
             <guid>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186</guid>
             <pubDate>Mon, 03 Jun 2024 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717384096656_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
