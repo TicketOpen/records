@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Jul 2024 11:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2024 12:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이소라 - 7집 [투명 푸시아 핑크 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4-3373</link>
+            <guid>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4-3373</guid>
+            <pubDate>Tue, 16 Jul 2024 12:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">115,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720086869875_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186-3372</link>
+            <guid>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186-3372</guid>
+            <pubDate>Tue, 16 Jul 2024 12:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717384096656_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto / Onuki Takeo (류이치 사카모토 / 오누키 타에코) - UTAU [3LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93-3371</link>
+            <guid>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93-3371</guid>
+            <pubDate>Tue, 16 Jul 2024 12:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">135,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719987537368_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taylor Swift (테일러 스위프트) - 7집 Lover [핑크 & 블루 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/6b9ad888-2962-4d66-bbaa-a94d1a6f9e42</link>
@@ -104,36 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720087045454_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이소라 - 7집 [투명 푸시아 핑크 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4</link>
-            <guid>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4</guid>
-            <pubDate>Thu, 04 Jul 2024 10:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">115,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720086869875_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto / Onuki Takeo (류이치 사카모토 / 오누키 타에코) - UTAU [3LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93</link>
-            <guid>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93</guid>
-            <pubDate>Wed, 03 Jul 2024 07:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">135,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719987537368_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 옥상달빛 - 40 [형광 컬러 한정반 LP / 게이트폴드 커버] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/e5614c03-1275-4378-be2a-6e6242dceb01</link>
             <guid>https://www.seoulvinyl.com/product/e5614c03-1275-4378-be2a-6e6242dceb01</guid>
             <pubDate>Mon, 01 Jul 2024 06:13:12 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719811934696_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[버벌진트 (Verbal Jint) - 10년동안의 오독 [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/868eb02c-2418-46a9-a3ed-5a7dd838582c-3343-3355</link>
-            <guid>https://www.seoulvinyl.com/product/868eb02c-2418-46a9-a3ed-5a7dd838582c-3343-3355</guid>
-            <pubDate>Sat, 29 Jun 2024 11:07:25 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689221305057_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Colde 콜드 - Love part 1 (Pink Colored LP) (서울바이닐 ─ 제작)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714736322056_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186-3372</link>
+            <guid>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186-3372</guid>
+            <pubDate>Tue, 16 Jul 2024 12:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717384096656_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kessoku Band (결속밴드) - 結束バンド (180g 2LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/ad3b04f0-cd31-4098-a58c-dc95cebfce31</link>
             <guid>https://www.seoulvinyl.com/product/ad3b04f0-cd31-4098-a58c-dc95cebfce31</guid>
@@ -422,14 +430,6 @@
             <pubDate>Mon, 03 Jun 2024 04:12:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717385702652_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP] (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186</link>
-            <guid>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186</guid>
-            <pubDate>Mon, 03 Jun 2024 03:10:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717384096656_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[그대들은 어떻게 살 것인가 애니메이션 음악 (君たちはどう生きるか OST by Joe Hisaishi) [2LP] (서울바이닐 ─ OST)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714733854050_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이소라 - 7집 [투명 푸시아 핑크 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4-3373</link>
+            <guid>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4-3373</guid>
+            <pubDate>Tue, 16 Jul 2024 12:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">115,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720086869875_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186-3372</link>
+            <guid>https://www.seoulvinyl.com/product/7efc53ae-fae0-429c-8802-7f41d117c186-3372</guid>
+            <pubDate>Tue, 16 Jul 2024 12:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717384096656_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</link>
             <guid>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</guid>
@@ -856,14 +872,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720087045454_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이소라 - 7집 [투명 푸시아 핑크 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4</link>
-            <guid>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4</guid>
-            <pubDate>Thu, 04 Jul 2024 10:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">115,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720086869875_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 옥상달빛 - 40 [형광 컬러 한정반 LP / 게이트폴드 커버] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/e5614c03-1275-4378-be2a-6e6242dceb01</link>
             <guid>https://www.seoulvinyl.com/product/e5614c03-1275-4378-be2a-6e6242dceb01</guid>
@@ -896,12 +904,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718594834345_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 악뮤 (AKMU) - 3rd MINI ALBUM [LOVE EPISODE] [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/54c8cb88-2332-41ff-b835-1ceb0a60aa47</link>
-            <guid>https://www.seoulvinyl.com/product/54c8cb88-2332-41ff-b835-1ceb0a60aa47</guid>
-            <pubDate>Mon, 17 Jun 2024 04:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718594499483_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Ryuichi Sakamoto / Onuki Takeo (류이치 사카모토 / 오누키 타에코) - UTAU [3LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93-3371</link>
+            <guid>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93-3371</guid>
+            <pubDate>Tue, 16 Jul 2024 12:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">135,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719987537368_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kessoku Band (결속밴드) - 結束バンド (180g 2LP) (서울바이닐 ─ JAPANESE)]]></title>
@@ -910,14 +918,6 @@
             <pubDate>Mon, 08 Jul 2024 10:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">80,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720430240468_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto / Onuki Takeo (류이치 사카모토 / 오누키 타에코) - UTAU [3LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93</link>
-            <guid>https://www.seoulvinyl.com/product/f1db846e-537a-49a3-844b-d0a57fce7c93</guid>
-            <pubDate>Wed, 03 Jul 2024 07:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">135,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719987537368_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - For You [LP] (서울바이닐 ─ JAPANESE)]]></title>
