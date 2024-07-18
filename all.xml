@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Jul 2024 03:11:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Jul 2024 04:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 이소라 - My One And Only Love [화이트 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/75297265-01ff-42bf-8659-1ccd5b05500e</link>
+            <guid>https://www.seoulvinyl.com/product/75297265-01ff-42bf-8659-1ccd5b05500e</guid>
+            <pubDate>Thu, 18 Jul 2024 04:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721274380109_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이소라 - 8집 [3000장 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ae03fc4-2298-42c7-ac13-55b3e0202979</link>
+            <guid>https://www.seoulvinyl.com/product/2ae03fc4-2298-42c7-ac13-55b3e0202979</guid>
+            <pubDate>Thu, 18 Jul 2024 04:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721274112496_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KIRINJI(키린지) - Steppin' Out [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/026d168d-85e8-4604-a527-a2cf05461492-3377</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 08 Jul 2024 04:11:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720409812191_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colde 콜드 - 이상주의 ( Transparent Clear colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/88e3ead4-e70d-45de-89f9-83981ecd2acc</link>
-            <guid>https://www.seoulvinyl.com/product/88e3ead4-e70d-45de-89f9-83981ecd2acc</guid>
-            <pubDate>Fri, 05 Jul 2024 03:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720146608745_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colde 콜드 - Love part 1 (Pink Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ac042ee3-e304-4762-ad18-498673c3bcd1-3361</link>
-            <guid>https://www.seoulvinyl.com/product/ac042ee3-e304-4762-ad18-498673c3bcd1-3361</guid>
-            <pubDate>Fri, 05 Jul 2024 02:26:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707190895714_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Colde 콜드 - Love part 1 (Pink Colored LP) (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714733854050_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 이소라 - My One And Only Love [화이트 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/75297265-01ff-42bf-8659-1ccd5b05500e</link>
+            <guid>https://www.seoulvinyl.com/product/75297265-01ff-42bf-8659-1ccd5b05500e</guid>
+            <pubDate>Thu, 18 Jul 2024 04:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721274380109_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 이소라 - 8집 [3000장 한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/2ae03fc4-2298-42c7-ac13-55b3e0202979</link>
+            <guid>https://www.seoulvinyl.com/product/2ae03fc4-2298-42c7-ac13-55b3e0202979</guid>
+            <pubDate>Thu, 18 Jul 2024 04:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721274112496_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이소라 - 7집 [투명 푸시아 핑크 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4-3373</link>
             <guid>https://www.seoulvinyl.com/product/fc52be04-a715-41bd-a5af-0318fbfa09d4-3373</guid>
@@ -886,22 +902,6 @@
             <pubDate>Sat, 29 Jun 2024 11:07:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1689221305057_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨잼 <킁> [Black Vinyl] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246-3350</link>
-            <guid>https://www.seoulvinyl.com/product/2e4f5fd7-870a-41de-98cd-6438ba45e246-3350</guid>
-            <pubDate>Wed, 26 Jun 2024 11:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714452896707_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 엔하이픈 - ROMANCE : UNTOLD [12” LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a0063103-c2f2-4e09-ae92-8ea64f22a4e0</link>
-            <guid>https://www.seoulvinyl.com/product/a0063103-c2f2-4e09-ae92-8ea64f22a4e0</guid>
-            <pubDate>Mon, 17 Jun 2024 04:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718594834345_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KIRINJI(키린지) - Steppin' Out [LP] (서울바이닐 ─ JAPANESE)]]></title>
