@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Jul 2024 09:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 10:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 뎁트 - Goodbye 2023 [LP](B Type)]]></title>
+            <link>https://www.seoulvinyl.com/product/6388f2fc-66e5-4c8e-8640-b3f36a53cedd</link>
+            <guid>https://www.seoulvinyl.com/product/6388f2fc-66e5-4c8e-8640-b3f36a53cedd</guid>
+            <pubDate>Wed, 24 Jul 2024 10:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721813280913_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 뎁트 - Goodbye 2023 [LP](A Type)]]></title>
+            <link>https://www.seoulvinyl.com/product/9df9171e-b25d-4a21-b5db-ff5bc4fdb7c3</link>
+            <guid>https://www.seoulvinyl.com/product/9df9171e-b25d-4a21-b5db-ff5bc4fdb7c3</guid>
+            <pubDate>Wed, 24 Jul 2024 10:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721813193832_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 이소라 - My One And Only Love [화이트 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/75297265-01ff-42bf-8659-1ccd5b05500e</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 08 Jul 2024 09:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428286711_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 하현우 - 미니 2집 Anti ego (White ver.)]]></title>
-            <link>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</link>
-            <guid>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</guid>
-            <pubDate>Mon, 08 Jul 2024 09:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428178506_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Beenzino 빈지노- NOWITZKI [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/983d07f9-fec3-4838-aab4-7f4387b25fea</link>
-            <guid>https://www.seoulvinyl.com/product/983d07f9-fec3-4838-aab4-7f4387b25fea</guid>
-            <pubDate>Mon, 08 Jul 2024 04:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720409812191_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
