@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Jul 2024 07:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jul 2024 08:13:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720859182014_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</link>
-            <guid>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</guid>
-            <pubDate>Wed, 10 Jul 2024 11:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720610136281_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (500장 한정반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/d586aad3-edd8-45f4-bf10-f90bbb123e33</link>
             <guid>https://www.seoulvinyl.com/product/d586aad3-edd8-45f4-bf10-f90bbb123e33</guid>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 08 Jul 2024 09:09:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428286711_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 하현우 - 미니 2집 Anti ego (White ver.) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</link>
+            <guid>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</guid>
+            <pubDate>Mon, 08 Jul 2024 09:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428178506_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Colde 콜드 - Love part 1 (Pink Colored LP) (서울바이닐 ─ 제작)]]></title>
@@ -824,14 +824,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717384096656_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</link>
-            <guid>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</guid>
-            <pubDate>Wed, 10 Jul 2024 11:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720610136281_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (500장 한정반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/d586aad3-edd8-45f4-bf10-f90bbb123e33</link>
             <guid>https://www.seoulvinyl.com/product/d586aad3-edd8-45f4-bf10-f90bbb123e33</guid>
@@ -902,6 +894,14 @@
             <pubDate>Thu, 04 Jul 2024 10:08:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">115,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720087045454_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 옥상달빛 - 40 [형광 컬러 한정반 LP / 게이트폴드 커버] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/e5614c03-1275-4378-be2a-6e6242dceb01</link>
+            <guid>https://www.seoulvinyl.com/product/e5614c03-1275-4378-be2a-6e6242dceb01</guid>
+            <pubDate>Thu, 25 Jul 2024 08:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719811934696_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[KIRINJI(키린지) - Steppin' Out [LP] (서울바이닐 ─ JAPANESE)]]></title>
