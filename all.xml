@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jul 2024 11:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jul 2024 12:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -907,7 +907,7 @@
             <title><![CDATA[[예약판매] Piko Taro 피코 타로 - PRAP (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9d2b494a-ae8f-4cbe-a2ce-0c91ae4648ab</link>
             <guid>https://www.seoulvinyl.com/product/9d2b494a-ae8f-4cbe-a2ce-0c91ae4648ab</guid>
-            <pubDate>Fri, 26 Jul 2024 11:09:59 GMT</pubDate>
+            <pubDate>Fri, 26 Jul 2024 11:08:49 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721991131999_1000.png" length="0" type="image/png"/>
         </item>
