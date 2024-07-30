@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 09:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 10:10:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
             <link>https://www.seoulvinyl.com/product/456cf700-3cd5-4e9d-a74e-e25ca60a3a0e</link>
             <guid>https://www.seoulvinyl.com/product/456cf700-3cd5-4e9d-a74e-e25ca60a3a0e</guid>
             <pubDate>Tue, 23 Jul 2024 20:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714215910104_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
