@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jul 2024 03:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jul 2024 04:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 멜로망스(MeloMance) - Sentimental (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/5ae76a6f-115b-4139-90c4-d256d5cdbd4f</link>
             <guid>https://www.seoulvinyl.com/product/5ae76a6f-115b-4139-90c4-d256d5cdbd4f</guid>
-            <pubDate>Tue, 30 Jul 2024 03:12:10 GMT</pubDate>
+            <pubDate>Tue, 30 Jul 2024 03:11:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722308640481_1000.jpg" length="0" type="image/jpg"/>
         </item>
