@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 12:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 13:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -395,7 +395,7 @@
             <title><![CDATA[Sakamoto Ryuichi (사카모토 류이치) - Neo Geo (180g LP) (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</link>
             <guid>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</guid>
-            <pubDate>Mon, 05 Aug 2024 12:16:19 GMT</pubDate>
+            <pubDate>Mon, 05 Aug 2024 12:15:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722857811771_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[Sakamoto Ryuichi (사카모토 류이치) - Neo Geo (180g LP) (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</link>
             <guid>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</guid>
-            <pubDate>Mon, 05 Aug 2024 12:16:55 GMT</pubDate>
+            <pubDate>Mon, 05 Aug 2024 12:15:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722857811771_1000.jpg" length="0" type="image/jpg"/>
         </item>
