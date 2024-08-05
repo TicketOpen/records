@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 05 Aug 2024 11:09:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Aug 2024 12:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sakamoto Ryuichi (사카모토 류이치) - Neo Geo (180g LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</link>
+            <guid>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</guid>
+            <pubDate>Mon, 05 Aug 2024 12:15:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722857811771_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lil Yachty (릴 야티) - Let#s Start Here. [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/5aa6bc97-fe2e-4cf2-b74e-5206d0881a42</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 Jul 2024 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721211843413_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Hitomi Tohyama (히토미 토야마) - 5집 SEXY ROBOT [Pink vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/17d2663e-3ad2-45fc-954a-e49fdac92a04</link>
-            <guid>https://www.seoulvinyl.com/product/17d2663e-3ad2-45fc-954a-e49fdac92a04</guid>
-            <pubDate>Wed, 17 Jul 2024 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721211534781_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
