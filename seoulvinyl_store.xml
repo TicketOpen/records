@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Aug 2024 11:09:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Aug 2024 12:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모서리 할인] 트레인스포팅 영화음악 (Trainspotting OST) [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/20942795-8412-442c-a2cc-c9f10e92e8c8</link>
+            <guid>https://www.seoulvinyl.com/product/20942795-8412-442c-a2cc-c9f10e92e8c8</guid>
+            <pubDate>Wed, 07 Aug 2024 12:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1723029586844_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sakamoto Ryuichi (사카모토 류이치) - Neo Geo (180g LP)]]></title>
             <link>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</link>
@@ -30,6 +38,14 @@
             <pubDate>Tue, 30 Jul 2024 12:15:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722337894830_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laufey 라이베이 - Typical Of Me (EP)(LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e00c06f9-0b69-41a6-adc3-ea043a8ed965</link>
+            <guid>https://www.seoulvinyl.com/product/e00c06f9-0b69-41a6-adc3-ea043a8ed965</guid>
+            <pubDate>Wed, 07 Aug 2024 12:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722337186367_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mary J. Blige - My Life (25th Anniversary)(Gatefold)(2LP)]]></title>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 18 Jul 2024 04:10:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721274112496_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIRINJI(키린지) - Steppin' Out [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/026d168d-85e8-4604-a527-a2cf05461492-3377</link>
-            <guid>https://www.seoulvinyl.com/product/026d168d-85e8-4604-a527-a2cf05461492-3377</guid>
-            <pubDate>Wed, 17 Jul 2024 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1712051050462_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Hitomi Toyama (히토미 토야마 ) - 4집 Next Door (green vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/dadb904b-c4b4-40bf-90f9-82334fe03421</link>
-            <guid>https://www.seoulvinyl.com/product/dadb904b-c4b4-40bf-90f9-82334fe03421</guid>
-            <pubDate>Wed, 17 Jul 2024 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721211843413_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
