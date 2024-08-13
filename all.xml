@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Aug 2024 03:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Aug 2024 04:12:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1096,14 +1096,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927691526_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] [Book] WA-MONO A-TO-Z DISC GUIDE (서울바이닐 ─ etc)]]></title>
-            <link>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</link>
-            <guid>https://www.seoulvinyl.com/product/b88d5e70-6833-41d2-9837-c8f0f976ba4a</guid>
-            <pubDate>Sat, 16 Mar 2024 11:05:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1677927449309_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[오토폰] CONCORDE MK2 DJ TWIN STYLUS (서울바이닐 ─ etc)]]></title>
             <link>https://www.seoulvinyl.com/product/a6b502c6-7373-49a7-8077-a1db0276eaea</link>
             <guid>https://www.seoulvinyl.com/product/a6b502c6-7373-49a7-8077-a1db0276eaea</guid>
@@ -1158,6 +1150,14 @@
             <pubDate>Sat, 16 Mar 2024 11:05:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">1,699,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852452876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[Technics 테크닉스] SL-1210 MK7 턴테이블 (블랙) (서울바이닐 ─ etc)]]></title>
+            <link>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760</link>
+            <guid>https://www.seoulvinyl.com/product/5fab8177-2ce4-4983-88bd-027a08d08760</guid>
+            <pubDate>Tue, 13 Aug 2024 04:12:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">1,699,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675852068547_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코토바 cotoba 4th EP ‘Humanoid operational’ CD음반 (공상온도 스토어 ─ 음반)]]></title>
