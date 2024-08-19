@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 10:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 11:09:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 소금 The Complete Studio Albums LP BOX SET 블랙반]]></title>
+            <link>https://www.seoulvinyl.com/product/c9d08d5c-a1bd-49d3-9f23-8f29479d46e1</link>
+            <guid>https://www.seoulvinyl.com/product/c9d08d5c-a1bd-49d3-9f23-8f29479d46e1</guid>
+            <pubDate>Mon, 19 Aug 2024 11:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">220,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724062331869_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 악뮤 (AKMU) - 싱글앨범: 콩떡빙수 [컬러 5종 랜덤 발송]]]></title>
             <link>https://www.seoulvinyl.com/product/3aa7ac0e-a2b2-4043-aed6-fa0b8e3f5518</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 08 Jul 2024 09:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428286711_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 하현우 - 미니 2집 Anti ego (White ver.)]]></title>
-            <link>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</link>
-            <guid>https://www.seoulvinyl.com/product/c102a20d-f281-4fe3-8f92-438133933cc6</guid>
-            <pubDate>Mon, 08 Jul 2024 09:10:43 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428178506_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
