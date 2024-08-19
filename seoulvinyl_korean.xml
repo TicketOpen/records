@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 04:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 05:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] YUNGIN - Did You Know? Part 1 [LP](한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/869c122b-c281-4fb9-b308-50708f021aca</link>
+            <guid>https://www.seoulvinyl.com/product/869c122b-c281-4fb9-b308-50708f021aca</guid>
+            <pubDate>Mon, 19 Aug 2024 05:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724039384639_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멜로망스(MeloMance) - Sentimental]]></title>
             <link>https://www.seoulvinyl.com/product/5ae76a6f-115b-4139-90c4-d256d5cdbd4f-3399</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 08 Jul 2024 04:12:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720409812191_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colde 콜드 - 이상주의 ( Transparent Clear colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/88e3ead4-e70d-45de-89f9-83981ecd2acc</link>
-            <guid>https://www.seoulvinyl.com/product/88e3ead4-e70d-45de-89f9-83981ecd2acc</guid>
-            <pubDate>Fri, 05 Jul 2024 03:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720146608745_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

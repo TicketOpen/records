@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Aug 2024 04:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 05:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Sabrina Carpenter (사브리나 카펜터) - 6집 Short n' Sweet [Light sky colored]]]></title>
+            <link>https://www.seoulvinyl.com/product/128ec679-417e-4b50-826e-562b566420df</link>
+            <guid>https://www.seoulvinyl.com/product/128ec679-417e-4b50-826e-562b566420df</guid>
+            <pubDate>Mon, 19 Aug 2024 05:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724042009406_1000.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Post Malone (포스트 말론) - 6집 F-1 Trillion [black vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/7584f532-b737-439c-a910-e4a3d8f31f04</link>
+            <guid>https://www.seoulvinyl.com/product/7584f532-b737-439c-a910-e4a3d8f31f04</guid>
+            <pubDate>Mon, 19 Aug 2024 05:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724041627512_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] YUNGIN - Did You Know? Part 1 [LP](한정반)]]></title>
+            <link>https://www.seoulvinyl.com/product/869c122b-c281-4fb9-b308-50708f021aca</link>
+            <guid>https://www.seoulvinyl.com/product/869c122b-c281-4fb9-b308-50708f021aca</guid>
+            <pubDate>Mon, 19 Aug 2024 05:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724039384639_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tetsuya komuro 고무로 테츠야, ryoko shinohara 료코 시노하라 - 스트리트파이트2 영화 ost (7 inch)]]></title>
             <link>https://www.seoulvinyl.com/product/67e737e7-d343-410c-8584-5d229ce18efc</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 30 Jul 2024 10:09:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722331694723_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임재범 - Memories …속으로 [투명 코크 보틀 컬러 3LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/228dfcbb-b5ce-4464-99ba-d63c26fb87e1</link>
-            <guid>https://www.seoulvinyl.com/product/228dfcbb-b5ce-4464-99ba-d63c26fb87e1</guid>
-            <pubDate>Tue, 30 Jul 2024 08:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">120,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722326703713_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Piko Taro 피코 타로 - PRAP]]></title>
-            <link>https://www.seoulvinyl.com/product/9d2b494a-ae8f-4cbe-a2ce-0c91ae4648ab</link>
-            <guid>https://www.seoulvinyl.com/product/9d2b494a-ae8f-4cbe-a2ce-0c91ae4648ab</guid>
-            <pubDate>Fri, 26 Jul 2024 11:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721991131999_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[저스트뮤직 - 파급효과 (Ripple Effect) [180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1715af55-a439-4300-bce0-f3cf16583bf1-3382</link>
-            <guid>https://www.seoulvinyl.com/product/1715af55-a439-4300-bce0-f3cf16583bf1-3382</guid>
-            <pubDate>Thu, 25 Jul 2024 11:07:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715146965369_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
