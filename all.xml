@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 11:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 12:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -267,7 +267,7 @@
             <title><![CDATA[[예약판매] ERIK TAGG 에릭 테그- Rendez Vous [yellow colored vinyl] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/3ceb7654-7a3e-4ef2-9a54-0f068676aadf</link>
             <guid>https://www.seoulvinyl.com/product/3ceb7654-7a3e-4ef2-9a54-0f068676aadf</guid>
-            <pubDate>Tue, 20 Aug 2024 11:08:50 GMT</pubDate>
+            <pubDate>Tue, 20 Aug 2024 11:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724151520721_1000.jpg" length="0" type="image/jpg"/>
         </item>
