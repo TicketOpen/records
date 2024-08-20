@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Aug 2024 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Aug 2024 05:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 뷔 (V) - Layover [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034</link>
+            <guid>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034</guid>
+            <pubDate>Tue, 20 Aug 2024 05:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724127779795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빛과 소금 The Complete Studio Albums LP BOX SET 블랙반 (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/c9d08d5c-a1bd-49d3-9f23-8f29479d46e1</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 31 Jul 2024 08:12:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722412500283_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laufey 라이베이 - Typical Of Me (EP)(LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/e00c06f9-0b69-41a6-adc3-ea043a8ed965</link>
-            <guid>https://www.seoulvinyl.com/product/e00c06f9-0b69-41a6-adc3-ea043a8ed965</guid>
-            <pubDate>Wed, 07 Aug 2024 12:15:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722337186367_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717129769892_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 뷔 (V) - Layover [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034</link>
+            <guid>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034</guid>
+            <pubDate>Tue, 20 Aug 2024 05:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724127779795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빛과 소금 The Complete Studio Albums LP BOX SET 블랙반 (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c9d08d5c-a1bd-49d3-9f23-8f29479d46e1</link>
             <guid>https://www.seoulvinyl.com/product/c9d08d5c-a1bd-49d3-9f23-8f29479d46e1</guid>
@@ -894,14 +902,6 @@
             <pubDate>Tue, 09 Jul 2024 06:12:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720610151558_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 하현우 - 미니 2집 Anti ego (Black ver.) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/bd55f2c6-c2d8-474a-b3c2-62cad8ce0122</link>
-            <guid>https://www.seoulvinyl.com/product/bd55f2c6-c2d8-474a-b3c2-62cad8ce0122</guid>
-            <pubDate>Mon, 08 Jul 2024 09:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720428286711_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[tetsuya komuro 고무로 테츠야, ryoko shinohara 료코 시노하라 - 스트리트파이트2 영화 ost (7 inch) (서울바이닐 ─ JAPANESE)]]></title>
