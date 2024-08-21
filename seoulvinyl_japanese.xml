@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Aug 2024 09:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Aug 2024 10:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Uyama[예약판매] Hiroto (우야마 히로토) - A Son Of A Sun [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/40ce0689-2381-4f85-9115-2d59d6801579</link>
+            <guid>https://www.seoulvinyl.com/product/40ce0689-2381-4f85-9115-2d59d6801579</guid>
+            <pubDate>Wed, 21 Aug 2024 10:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724234771069_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Nujabes 누자베스 - metaphorical music (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/7e60230d-0276-40e1-9341-a19767f7a96f</link>
+            <guid>https://www.seoulvinyl.com/product/7e60230d-0276-40e1-9341-a19767f7a96f</guid>
+            <pubDate>Wed, 21 Aug 2024 10:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724234548478_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Matsuhista Makoto 마츠시타 마코토 - First Light (pink colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/3ec27bc7-ba07-464a-bfac-ac785ebba597</link>
+            <guid>https://www.seoulvinyl.com/product/3ec27bc7-ba07-464a-bfac-ac785ebba597</guid>
+            <pubDate>Wed, 21 Aug 2024 10:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724234201642_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/4eaf1cee-4480-4a1a-a5d7-aaa770c835f4</link>
@@ -110,30 +134,6 @@
             <pubDate>Tue, 16 Jul 2024 12:15:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">135,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719987537368_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kessoku Band (결속밴드) - 結束バンド (180g 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ad3b04f0-cd31-4098-a58c-dc95cebfce31</link>
-            <guid>https://www.seoulvinyl.com/product/ad3b04f0-cd31-4098-a58c-dc95cebfce31</guid>
-            <pubDate>Mon, 08 Jul 2024 10:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">80,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720430240468_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamashita Tatsuro 야마시타 타츠로 - For You [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1299eece-edca-447d-82f3-ec88c862e607-2784-3352</link>
-            <guid>https://www.seoulvinyl.com/product/1299eece-edca-447d-82f3-ec88c862e607-2784-3352</guid>
-            <pubDate>Sat, 29 Jun 2024 08:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1681357897894_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] NAKAMORI AKINA 나카모리 아키나 - CRIMSON [Clear vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/6b9a09c4-5b26-448e-a443-d3e52c3207a5</link>
-            <guid>https://www.seoulvinyl.com/product/6b9a09c4-5b26-448e-a443-d3e52c3207a5</guid>
-            <pubDate>Fri, 28 Jun 2024 10:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719567993524_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
