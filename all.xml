@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 22 Aug 2024 05:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 06:14:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] The Poles (더 폴스) - Anomalies in the oddity space [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/1d2c9abc-8c65-4d82-903c-4de2f4facab2</link>
+            <guid>https://www.seoulvinyl.com/product/1d2c9abc-8c65-4d82-903c-4de2f4facab2</guid>
+            <pubDate>Thu, 22 Aug 2024 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724303320573_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 우효 (Oohyo) - Girl Sense (180g LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 16 Aug 2024 12:15:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1723809187767_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멜로망스(MeloMance) - Sentimental (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/5ae76a6f-115b-4139-90c4-d256d5cdbd4f-3399</link>
-            <guid>https://www.seoulvinyl.com/product/5ae76a6f-115b-4139-90c4-d256d5cdbd4f-3399</guid>
-            <pubDate>Fri, 16 Aug 2024 11:07:41 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722308640481_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -781,13 +781,13 @@
             <guid>https://www.seoulvinyl.com/product/1d2c9abc-8c65-4d82-903c-4de2f4facab2</guid>
             <pubDate>Thu, 22 Aug 2024 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724303329568_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724303320573_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 우효 (Oohyo) - Girl Sense (180g LP) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342</link>
             <guid>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342</guid>
-            <pubDate>Thu, 22 Aug 2024 05:09:57 GMT</pubDate>
+            <pubDate>Thu, 22 Aug 2024 05:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724302715947_1000.jpg" length="0" type="image/jpg"/>
         </item>
