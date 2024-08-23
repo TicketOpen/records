@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Aug 2024 04:13:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Aug 2024 05:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 변진섭 - GREAT HITS [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b33e8cbf-56d5-4e36-a26c-7a8f8e94ddb5</link>
+            <guid>https://www.seoulvinyl.com/product/b33e8cbf-56d5-4e36-a26c-7a8f8e94ddb5</guid>
+            <pubDate>Fri, 23 Aug 2024 05:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724386895075_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Opus [4LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f8379b6f-030e-46c0-be01-090ca32c7be5</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 19 Aug 2024 05:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724041627512_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] YUNGIN - Did You Know? Part 1 [LP](한정반)]]></title>
-            <link>https://www.seoulvinyl.com/product/869c122b-c281-4fb9-b308-50708f021aca</link>
-            <guid>https://www.seoulvinyl.com/product/869c122b-c281-4fb9-b308-50708f021aca</guid>
-            <pubDate>Mon, 19 Aug 2024 05:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724039384639_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
