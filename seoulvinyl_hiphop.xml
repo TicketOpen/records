@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 09:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 10:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Sat, 24 Aug 2024 08:10:50 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724484893053_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모서리 할인] Daniel Caesar 다니엘 시저 - Never Enough (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ad1b800d-ba90-4daa-b1c4-ceb29d52ab9b</link>
-            <guid>https://www.seoulvinyl.com/product/ad1b800d-ba90-4daa-b1c4-ceb29d52ab9b</guid>
-            <pubDate>Sat, 24 Aug 2024 06:12:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724478813563_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] ERIK TAGG 에릭 테그- Rendez Vous [yellow colored vinyl]]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 23 Jul 2024 18:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716278858300_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beyonce (비욘세) - 8집 Cowboy Carter [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/bed5d8ef-2592-47c0-8a9d-059a6c53f00f-3284</link>
+            <guid>https://www.seoulvinyl.com/product/bed5d8ef-2592-47c0-8a9d-059a6c53f00f-3284</guid>
+            <pubDate>Sat, 24 Aug 2024 10:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715587909043_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
