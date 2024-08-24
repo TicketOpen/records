@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 04:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 05:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Onuki Taeko (오누키 타에코) - 2집 Sunshower [핑크 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2c608e2c-00fd-46b2-924f-d7238907c4e2</link>
+            <guid>https://www.seoulvinyl.com/product/2c608e2c-00fd-46b2-924f-d7238907c4e2</guid>
+            <pubDate>Sat, 24 Aug 2024 05:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724475889660_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 산울림 - Evening Breeze [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/2761ab03-b592-4ad4-b0a6-2b86dc682dc1</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 20 Aug 2024 11:08:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724151520721_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 뷔 (V) - Layover [컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034</link>
-            <guid>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034</guid>
-            <pubDate>Tue, 20 Aug 2024 05:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724127779795_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

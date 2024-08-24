@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 24 Aug 2024 04:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Aug 2024 05:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Onuki Taeko (오누키 타에코) - 2집 Sunshower [핑크 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2c608e2c-00fd-46b2-924f-d7238907c4e2</link>
+            <guid>https://www.seoulvinyl.com/product/2c608e2c-00fd-46b2-924f-d7238907c4e2</guid>
+            <pubDate>Sat, 24 Aug 2024 05:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724475889660_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Opus [4LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f8379b6f-030e-46c0-be01-090ca32c7be5</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 17 Jul 2024 11:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721211534781_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 너의 이름은 애니메이션 음악 (君の名は。/ your name. OST by Radwimps 래드윔프스) [2LP 블랙반]]]></title>
-            <link>https://www.seoulvinyl.com/product/93138341-9f8e-4ae0-8fec-c4d03b5e7929</link>
-            <guid>https://www.seoulvinyl.com/product/93138341-9f8e-4ae0-8fec-c4d03b5e7929</guid>
-            <pubDate>Wed, 17 Jul 2024 08:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721200978612_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
