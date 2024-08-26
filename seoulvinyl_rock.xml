@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 26 Aug 2024 09:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Aug 2024 10:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Sabrina Carpenter(사브리나 카펜터) - Emails I Can't Send]]></title>
-            <link>https://www.seoulvinyl.com/product/1cfab077-6d3c-464f-a7e4-3ceeef15a55f</link>
-            <guid>https://www.seoulvinyl.com/product/1cfab077-6d3c-464f-a7e4-3ceeef15a55f</guid>
-            <pubDate>Mon, 26 Aug 2024 07:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724653392225_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Creed(크리드) - Greatest Hits [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/ec570564-ef4c-4a85-ab0c-54f21929380e</link>
@@ -134,6 +126,14 @@
             <pubDate>Sat, 01 Jun 2024 06:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717220323857_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bon Jovi (본 조비) - Cross Road [Best Album]]]></title>
+            <link>https://www.seoulvinyl.com/product/0ee02139-42c9-427e-a629-aa132d6aef55</link>
+            <guid>https://www.seoulvinyl.com/product/0ee02139-42c9-427e-a629-aa132d6aef55</guid>
+            <pubDate>Mon, 26 Aug 2024 10:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717220039997_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
