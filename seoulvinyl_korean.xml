@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Aug 2024 06:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Aug 2024 07:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 솔루션스 (THE SOLUTIONS) - 2집 MOVEMENT [투명 코크 보틀 그린 컬러LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/53218cb8-eb32-481e-a48e-8438864c381d</link>
+            <guid>https://www.seoulvinyl.com/product/53218cb8-eb32-481e-a48e-8438864c381d</guid>
+            <pubDate>Tue, 27 Aug 2024 07:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724740608530_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 페퍼톤스 (Peppertones) - 2집 New Standard [투명 핑크 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/298c8065-8266-426e-be1c-55c766b1245e</link>
+            <guid>https://www.seoulvinyl.com/product/298c8065-8266-426e-be1c-55c766b1245e</guid>
+            <pubDate>Tue, 27 Aug 2024 07:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724740422208_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 소란 (Soran) - SETLIST [골드 마블 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d4040ea2-18f2-4f7a-8077-c3aa49306c21</link>
+            <guid>https://www.seoulvinyl.com/product/d4040ea2-18f2-4f7a-8077-c3aa49306c21</guid>
+            <pubDate>Tue, 27 Aug 2024 07:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724740248736_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 산울림 - Evening Breeze [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/2761ab03-b592-4ad4-b0a6-2b86dc682dc1</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 16 Aug 2024 11:08:41 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1723809489907_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[임재범 - Memories …속으로 [투명 코크 보틀 컬러 3LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/228dfcbb-b5ce-4464-99ba-d63c26fb87e1</link>
-            <guid>https://www.seoulvinyl.com/product/228dfcbb-b5ce-4464-99ba-d63c26fb87e1</guid>
-            <pubDate>Tue, 30 Jul 2024 08:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">120,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722326703713_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[저스트뮤직 - 파급효과 (Ripple Effect) [180g 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1715af55-a439-4300-bce0-f3cf16583bf1-3382</link>
-            <guid>https://www.seoulvinyl.com/product/1715af55-a439-4300-bce0-f3cf16583bf1-3382</guid>
-            <pubDate>Thu, 25 Jul 2024 11:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715146965369_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 뎁트 - Goodbye 2023 [LP](B Type)]]></title>
-            <link>https://www.seoulvinyl.com/product/6388f2fc-66e5-4c8e-8640-b3f36a53cedd</link>
-            <guid>https://www.seoulvinyl.com/product/6388f2fc-66e5-4c8e-8640-b3f36a53cedd</guid>
-            <pubDate>Wed, 24 Jul 2024 10:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721813280913_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
