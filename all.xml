@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Aug 2024 08:13:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Aug 2024 09:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,19 +448,19 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717747271202_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Twilight Saga New Moon 트와일라잇 뉴문 ost [Gold vinyl] (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA[Twilight Saga New Moon 트와일라잇 뉴문 ost [Gold vinyl] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/ffb49352-0374-4592-a60d-51b207028920</link>
             <guid>https://www.seoulvinyl.com/product/ffb49352-0374-4592-a60d-51b207028920</guid>
             <pubDate>Mon, 03 Jun 2024 04:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717386289985_1000.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Twilight 트와일라잇 ost [Mercuty Marbled vinyl] (서울바이닐 ─ OST)]]></title>
+            <title><![CDATA[Twilight 트와일라잇 ost [Mercuty Marbled vinyl] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/c0f0cf53-4d18-4aab-9b45-b701a1e0bff7</link>
             <guid>https://www.seoulvinyl.com/product/c0f0cf53-4d18-4aab-9b45-b701a1e0bff7</guid>
             <pubDate>Mon, 03 Jun 2024 04:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717385702652_1000.png" length="0" type="image/png"/>
         </item>
         <item>
