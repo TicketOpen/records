@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 11:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 12:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chemical Brothers (케미컬 브라더스) - Brotherhood (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/5126e6af-d517-489d-a53b-6d32ad9ab194</link>
+            <guid>https://www.seoulvinyl.com/product/5126e6af-d517-489d-a53b-6d32ad9ab194</guid>
+            <pubDate>Mon, 02 Sep 2024 12:16:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725278637334_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[모서리 할인] 우효 (Oohyo) - Girl Sense (180g LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342-3450</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 24 Aug 2024 10:08:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724475889660_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takanaka Masayoshi (타카나카 마사요시) - AN INSATIABLE HIGH (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/cb24b6bc-8d9f-4158-a349-3dac21c3b07b-3432</link>
-            <guid>https://www.seoulvinyl.com/product/cb24b6bc-8d9f-4158-a349-3dac21c3b07b-3432</guid>
-            <pubDate>Sat, 24 Aug 2024 10:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710748974832_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710237775852_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Chemical Brothers (케미컬 브라더스) - Brotherhood (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/5126e6af-d517-489d-a53b-6d32ad9ab194</link>
+            <guid>https://www.seoulvinyl.com/product/5126e6af-d517-489d-a53b-6d32ad9ab194</guid>
+            <pubDate>Mon, 02 Sep 2024 12:17:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725278637334_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Creed(크리드) - Greatest Hits [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/ec570564-ef4c-4a85-ab0c-54f21929380e-3449</link>
             <guid>https://www.seoulvinyl.com/product/ec570564-ef4c-4a85-ab0c-54f21929380e-3449</guid>
@@ -692,7 +700,7 @@
             <link>https://www.seoulvinyl.com/product/6b9ad888-2962-4d66-bbaa-a94d1a6f9e42</link>
             <guid>https://www.seoulvinyl.com/product/6b9ad888-2962-4d66-bbaa-a94d1a6f9e42</guid>
             <pubDate>Sat, 13 Jul 2024 09:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720859182014_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -766,14 +774,6 @@
             <pubDate>Sat, 01 Jun 2024 11:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717219570464_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Noah Kahan (노아 칸) - Busyhead (LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/08689971-0fb8-41a1-b206-f825bfb10db8</link>
-            <guid>https://www.seoulvinyl.com/product/08689971-0fb8-41a1-b206-f825bfb10db8</guid>
-            <pubDate>Sat, 01 Jun 2024 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717220323857_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[모서리 할인] 우효 (Oohyo) - Girl Sense (180g LP) (서울바이닐 ─ KOREAN)]]></title>
