@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 06:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 07:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 24 Aug 2024 10:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724493558447_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/11ae7aea-1f89-4ad8-b938-73d9889f490a</link>
+            <guid>https://www.seoulvinyl.com/product/11ae7aea-1f89-4ad8-b938-73d9889f490a</guid>
+            <pubDate>Mon, 02 Sep 2024 07:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724311688716_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Opus [4LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 05 Aug 2024 12:16:55 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722857811771_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Piko Taro 피코 타로 - PRAP]]></title>
-            <link>https://www.seoulvinyl.com/product/9d2b494a-ae8f-4cbe-a2ce-0c91ae4648ab</link>
-            <guid>https://www.seoulvinyl.com/product/9d2b494a-ae8f-4cbe-a2ce-0c91ae4648ab</guid>
-            <pubDate>Fri, 26 Jul 2024 11:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1721991131999_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

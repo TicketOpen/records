@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Sep 2024 06:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Sep 2024 07:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모서리 할인] 우효 (Oohyo) - Girl Sense (180g LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342-3450</link>
+            <guid>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342-3450</guid>
+            <pubDate>Mon, 02 Sep 2024 07:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724302715947_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 솔루션스 (THE SOLUTIONS) - 2집 MOVEMENT [투명 코크 보틀 그린 컬러LP]]]></title>
             <link>https://www.seoulvinyl.com/product/53218cb8-eb32-481e-a48e-8438864c381d</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 22 Aug 2024 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724303320573_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 우효 (Oohyo) - Girl Sense (180g LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342</link>
-            <guid>https://www.seoulvinyl.com/product/c49a1fcd-e17f-4988-98c0-de18cd6d8342</guid>
-            <pubDate>Thu, 22 Aug 2024 05:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724302715947_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 뷔 (V) - Layover [컬러 LP]]]></title>
