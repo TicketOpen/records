@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 Sep 2024 10:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 11:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cypress Hill(사이프레스 힐) - Black Sunday (180g Vinyl 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</link>
+            <guid>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</guid>
+            <pubDate>Fri, 06 Sep 2024 11:08:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725619186550_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김동률 - 오래된 노래 (2019 LIVE) vinyl (2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/untitled-911-3460</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 28 Aug 2024 12:16:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724500141834_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince And The Revolution (프린스 앤 레볼루션) - Live [3LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/e80499e6-fb05-4249-b8c1-72f0424752fb-3445</link>
-            <guid>https://www.seoulvinyl.com/product/e80499e6-fb05-4249-b8c1-72f0424752fb-3445</guid>
-            <pubDate>Wed, 28 Aug 2024 12:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">74,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724500315591_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710237775852_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Cypress Hill(사이프레스 힐) - Black Sunday (180g Vinyl 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</link>
+            <guid>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</guid>
+            <pubDate>Fri, 06 Sep 2024 11:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725619186550_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Oasis (오아시스) - Definitely Maybe 30주년 한정반 (colored vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/015a31fd-19a5-4c59-a298-155fe87dff25</link>
             <guid>https://www.seoulvinyl.com/product/015a31fd-19a5-4c59-a298-155fe87dff25</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 07 Jun 2024 10:08:36 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717754661693_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The 1975 - 2집 I Like It When You Sleep, For You Are So Beautiful Yet So Unaware Of It [투명 컬러 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/aa9e8d9d-576e-46fb-80b5-9f68ae9321ab</link>
-            <guid>https://www.seoulvinyl.com/product/aa9e8d9d-576e-46fb-80b5-9f68ae9321ab</guid>
-            <pubDate>Wed, 05 Jun 2024 07:08:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717568297739_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김동률 - 오래된 노래 (2019 LIVE) vinyl (2LP) (서울바이닐 ─ KOREAN)]]></title>
