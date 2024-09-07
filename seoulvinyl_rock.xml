@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Sep 2024 10:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Sep 2024 11:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sabrina Carpenter (사브리나 카펜터) - Emails I Can't Send]]></title>
+            <link>https://www.seoulvinyl.com/product/9c5fedfd-cfe8-4ef2-b512-baa51e970ba4</link>
+            <guid>https://www.seoulvinyl.com/product/9c5fedfd-cfe8-4ef2-b512-baa51e970ba4</guid>
+            <pubDate>Sat, 07 Sep 2024 11:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725705945638_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arctic Monkeys (악틱 몽키스) - Tranquility Base Hotel & Casino (180g Gatefold Vinyl LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f95e4a54-9a1f-4a07-8650-6e732056f90a</link>
+            <guid>https://www.seoulvinyl.com/product/f95e4a54-9a1f-4a07-8650-6e732056f90a</guid>
+            <pubDate>Sat, 07 Sep 2024 11:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725705821249_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AC/DC (에이씨디씨) - Dirty Deeds Done Dirt Cheap [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/c4c2ec2c-f1ba-46a2-ad4e-be6e8643db41</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 29 Jun 2024 11:08:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711097864497_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Coldplay 콜드플레이 - Moon Music [translucent pink Colored]]]></title>
-            <link>https://www.seoulvinyl.com/product/563e842d-45ab-4ecd-828e-ba724c3a1125</link>
-            <guid>https://www.seoulvinyl.com/product/563e842d-45ab-4ecd-828e-ba724c3a1125</guid>
-            <pubDate>Tue, 18 Jun 2024 11:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1718707749197_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sarah McLachlan 사라 맥라클란 - Surfacing [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1c5fe397-0975-4a71-8a06-f457a92dbe7d-3341</link>
-            <guid>https://www.seoulvinyl.com/product/1c5fe397-0975-4a71-8a06-f457a92dbe7d-3341</guid>
-            <pubDate>Thu, 13 Jun 2024 11:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1690006052323_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
