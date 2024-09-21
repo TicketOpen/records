@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 21 Sep 2024 03:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 04:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane (존 콜트레인) - A Love Supreme (180g)(LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</link>
+            <guid>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</guid>
+            <pubDate>Sat, 21 Sep 2024 04:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726890954737_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mary J. Blige - Reflections: A Retrospective (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a736e7e2-54bd-4b0f-a59b-7c6e07060f3b</link>
+            <guid>https://www.seoulvinyl.com/product/a736e7e2-54bd-4b0f-a59b-7c6e07060f3b</guid>
+            <pubDate>Sat, 21 Sep 2024 04:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726890583848_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사운드 오브 뮤직 영화음악 (The Sound Of Music OST) [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/f549d98a-a46b-457e-9fd4-748a9ad6ee08</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 07 Sep 2024 09:08:27 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725696869014_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Me'shell Ndegeocello (미셸 뉴게첼로) - 2집 Peace Beyond Passion [블루 믹스 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/bbfd541a-cb4e-449f-bd44-b5722abeaa5c</link>
-            <guid>https://www.seoulvinyl.com/product/bbfd541a-cb4e-449f-bd44-b5722abeaa5c</guid>
-            <pubDate>Sat, 07 Sep 2024 08:11:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725696285173_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Porter Robinson (포터 로빈슨) - Smile :D (Ltd)(Gatefold Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ec0251c1-ea7f-48bb-8dec-8a3dbb7ad335</link>
-            <guid>https://www.seoulvinyl.com/product/ec0251c1-ea7f-48bb-8dec-8a3dbb7ad335</guid>
-            <pubDate>Sat, 07 Sep 2024 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725690866432_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1668748858537_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mary J. Blige - Reflections: A Retrospective (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/a736e7e2-54bd-4b0f-a59b-7c6e07060f3b</link>
+            <guid>https://www.seoulvinyl.com/product/a736e7e2-54bd-4b0f-a59b-7c6e07060f3b</guid>
+            <pubDate>Sat, 21 Sep 2024 04:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726890583848_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[V.A -Now Hip-hop At 50 (colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/b7c253bc-1107-45df-91c1-318aa453b6c5</link>
             <guid>https://www.seoulvinyl.com/product/b7c253bc-1107-45df-91c1-318aa453b6c5</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 23 Jul 2024 18:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717582949322_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Prince 프린스 - Prince (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/16858075-a5e4-4c45-be1d-a2c750f80e8e</link>
-            <guid>https://www.seoulvinyl.com/product/16858075-a5e4-4c45-be1d-a2c750f80e8e</guid>
-            <pubDate>Tue, 23 Jul 2024 18:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717759254694_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사운드 오브 뮤직 영화음악 (The Sound Of Music OST) [LP] (서울바이닐 ─ OST)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1608985823189_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[John Coltrane (존 콜트레인) - A Love Supreme (180g)(LP) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</link>
+            <guid>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</guid>
+            <pubDate>Sat, 21 Sep 2024 04:11:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726890954737_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Red Garland Trio(레드 갈란드 트리오) - Groovy (OJC)(180g LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/f5482da8-6416-4b09-9b74-b17d03edca1e</link>
             <guid>https://www.seoulvinyl.com/product/f5482da8-6416-4b09-9b74-b17d03edca1e</guid>
@@ -638,14 +646,6 @@
             <pubDate>Tue, 23 Jul 2024 20:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714127431392_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laufey (라이베이) - Bewitched [오렌지 컬러 LP] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</link>
-            <guid>https://www.seoulvinyl.com/product/b7b34c25-6fbb-4b0a-9f92-1be2ff9e3bc3-3168</guid>
-            <pubDate>Tue, 23 Jul 2024 20:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1711533570990_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Maneskin (모네스킨) - 1집 Rush! [LP] (서울바이닐 ─ ROCK & POP)]]></title>
