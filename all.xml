@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Sep 2024 11:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2024 12:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[뷔 (V) - Layover [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034-3490</link>
+            <guid>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034-3490</guid>
+            <pubDate>Thu, 26 Sep 2024 12:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724127779795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 잠 (zzzaam) - 4집 빛나 [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/61a5e742-1700-407f-92ea-4afcdcc39676</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 14 Sep 2024 11:06:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726310145794_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine (웰던 어빈) - In harmony (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a58fe163-c5e5-4f71-8d1d-d554156376b4</link>
-            <guid>https://www.seoulvinyl.com/product/a58fe163-c5e5-4f71-8d1d-d554156376b4</guid>
-            <pubDate>Fri, 13 Sep 2024 11:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726224855012_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -395,7 +395,7 @@
             <title><![CDATA[[예약판매] 헤어질 결심 영화음악 (Decision to Leave OST) [컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/85391a37-c045-4cab-a981-c5c3999857c7</link>
             <guid>https://www.seoulvinyl.com/product/85391a37-c045-4cab-a981-c5c3999857c7</guid>
-            <pubDate>Thu, 26 Sep 2024 11:08:59 GMT</pubDate>
+            <pubDate>Thu, 26 Sep 2024 11:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">67,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727348286067_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -776,10 +776,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722334405740_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[뷔 (V) - Layover [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034-3490</link>
+            <guid>https://www.seoulvinyl.com/product/0ed95c87-ab2b-481d-924b-9740ae684034-3490</guid>
+            <pubDate>Thu, 26 Sep 2024 12:18:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724127779795_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 잠 (zzzaam) - 4집 빛나 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/61a5e742-1700-407f-92ea-4afcdcc39676</link>
             <guid>https://www.seoulvinyl.com/product/61a5e742-1700-407f-92ea-4afcdcc39676</guid>
-            <pubDate>Thu, 26 Sep 2024 11:09:30 GMT</pubDate>
+            <pubDate>Thu, 26 Sep 2024 11:08:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727348536639_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 04 Sep 2024 10:09:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">94,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725435139890_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOY (아도이) - CATNIP LP (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/7029575a-fb6b-4415-af2e-f21f50a0ecc3</link>
-            <guid>https://www.seoulvinyl.com/product/7029575a-fb6b-4415-af2e-f21f50a0ecc3</guid>
-            <pubDate>Wed, 04 Sep 2024 10:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">94,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725435104777_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Ai Tomioka (토미오카 아이) - BLUE SPOT [블루 앤 블루 마블 컬러 LP] (서울바이닐 ─ JAPANESE)]]></title>
