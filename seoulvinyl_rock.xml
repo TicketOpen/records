@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 28 Sep 2024 09:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 28 Sep 2024 10:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Mayer (존 메이어) - Room For Squares [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/56872f97-08c6-4521-880a-70dc61122f70</link>
+            <guid>https://www.seoulvinyl.com/product/56872f97-08c6-4521-880a-70dc61122f70</guid>
+            <pubDate>Sat, 28 Sep 2024 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727517514797_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis 오아시스 - 4집 Standing on the Shoulder of Giants [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/325d91b6-ca9e-444c-9903-df346fc54133</link>
+            <guid>https://www.seoulvinyl.com/product/325d91b6-ca9e-444c-9903-df346fc54133</guid>
+            <pubDate>Sat, 28 Sep 2024 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727517216991_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beastie Boys (비스티 보이즈) - Solid Gold Hits [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/035b8f90-e971-4f38-a8ee-04077530e42f</link>
+            <guid>https://www.seoulvinyl.com/product/035b8f90-e971-4f38-a8ee-04077530e42f</guid>
+            <pubDate>Sat, 28 Sep 2024 10:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727516956972_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Maneskin (모네스킨) - 1집 Rush! [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/bbe2241f-43ba-489c-adbf-96cb1adff23f</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 29 Aug 2024 11:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724501165762_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Smashing Pumpkins(스매싱 펌킨스) - Rotten Apples: Greatest Hits]]></title>
-            <link>https://www.seoulvinyl.com/product/6f860301-6294-40fc-b632-bc9169993793</link>
-            <guid>https://www.seoulvinyl.com/product/6f860301-6294-40fc-b632-bc9169993793</guid>
-            <pubDate>Thu, 29 Aug 2024 11:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724927243939_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sabrina Carpenter (사브리나 카펜터) - 6집 Short n' Sweet [Light sky colored]]]></title>
-            <link>https://www.seoulvinyl.com/product/128ec679-417e-4b50-826e-562b566420df</link>
-            <guid>https://www.seoulvinyl.com/product/128ec679-417e-4b50-826e-562b566420df</guid>
-            <pubDate>Mon, 19 Aug 2024 05:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724042009406_1000.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[V.A - Now That's What I Call Music Vol. 2 (25th Anniversary Edition)(Ltd)(Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/9f73210c-6a72-4c9e-83ba-a975774d135c-3397</link>
-            <guid>https://www.seoulvinyl.com/product/9f73210c-6a72-4c9e-83ba-a975774d135c-3397</guid>
-            <pubDate>Fri, 16 Aug 2024 11:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722334405740_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
