@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 10:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 11:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -328,6 +328,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724666160529_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Future & Metro Boomin (퓨처 & 메트로 부민) - We Still Don't Trust You (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/fea6820d-1e3a-4c2a-8cfb-fc139de48304</link>
+            <guid>https://www.seoulvinyl.com/product/fea6820d-1e3a-4c2a-8cfb-fc139de48304</guid>
+            <pubDate>Tue, 01 Oct 2024 11:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724485998014_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Future & Metro Boomin(퓨쳐 & 메트로부민) - We Don't Trust You [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/01c87497-7e75-40de-88a7-501dbe685d40</link>
             <guid>https://www.seoulvinyl.com/product/01c87497-7e75-40de-88a7-501dbe685d40</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 23 Jul 2024 18:13:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675999034739_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pastor TL Barrett Do Not Pass Me by Vol .1 (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/df9282f8-784a-412c-8197-ce01ce2f8037-3336</link>
-            <guid>https://www.seoulvinyl.com/product/df9282f8-784a-412c-8197-ce01ce2f8037-3336</guid>
-            <pubDate>Tue, 23 Jul 2024 18:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717582949322_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 헤어질 결심 영화음악 (Decision to Leave OST) [컬러 2LP] (서울바이닐 ─ OST)]]></title>
@@ -1000,6 +1000,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724234201642_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nujabes 누자베스 - Modal Soul [2LP 게이트폴드] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/48b34c64-1322-477d-8a70-c638f30bd909</link>
+            <guid>https://www.seoulvinyl.com/product/48b34c64-1322-477d-8a70-c638f30bd909</guid>
+            <pubDate>Tue, 01 Oct 2024 11:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724233934821_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/4eaf1cee-4480-4a1a-a5d7-aaa770c835f4</link>
             <guid>https://www.seoulvinyl.com/product/4eaf1cee-4480-4a1a-a5d7-aaa770c835f4</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 21 Aug 2024 09:10:08 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724228170397_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tetsuya komuro 고무로 테츠야, ryoko shinohara 료코 시노하라 - 스트리트파이트2 영화 ost (7 inch) (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/67e737e7-d343-410c-8584-5d229ce18efc</link>
-            <guid>https://www.seoulvinyl.com/product/67e737e7-d343-410c-8584-5d229ce18efc</guid>
-            <pubDate>Fri, 16 Aug 2024 12:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1723809187767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CITY POP BEST100――シティ・ポップの名曲 1973-1989 (서울바이닐 ─ etc)]]></title>

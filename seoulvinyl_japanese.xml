@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Oct 2024 10:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2024 11:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724234201642_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nujabes 누자베스 - Modal Soul [2LP 게이트폴드]]]></title>
+            <link>https://www.seoulvinyl.com/product/48b34c64-1322-477d-8a70-c638f30bd909</link>
+            <guid>https://www.seoulvinyl.com/product/48b34c64-1322-477d-8a70-c638f30bd909</guid>
+            <pubDate>Tue, 01 Oct 2024 11:09:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724233934821_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/4eaf1cee-4480-4a1a-a5d7-aaa770c835f4</link>
             <guid>https://www.seoulvinyl.com/product/4eaf1cee-4480-4a1a-a5d7-aaa770c835f4</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 21 Aug 2024 09:11:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724228170397_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[tetsuya komuro 고무로 테츠야, ryoko shinohara 료코 시노하라 - 스트리트파이트2 영화 ost (7 inch)]]></title>
-            <link>https://www.seoulvinyl.com/product/67e737e7-d343-410c-8584-5d229ce18efc</link>
-            <guid>https://www.seoulvinyl.com/product/67e737e7-d343-410c-8584-5d229ce18efc</guid>
-            <pubDate>Fri, 16 Aug 2024 12:16:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1723809187767_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
