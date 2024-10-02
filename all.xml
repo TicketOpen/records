@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 04:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 05:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 사공 - 노래모음집 [반투명 아이스 블루 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/87c4b841-0900-483a-b02c-64a02010efc2</link>
+            <guid>https://www.seoulvinyl.com/product/87c4b841-0900-483a-b02c-64a02010efc2</guid>
+            <pubDate>Wed, 02 Oct 2024 05:10:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727845512465_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 백현진 - 1집 반성의 시간 [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/66568d88-a9d4-473f-b068-43e104066a54</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Sep 2024 12:17:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727263709459_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 옥상달빛 - 1집 28 [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/7014e8d7-0574-477e-8940-dbd3767c5b63</link>
-            <guid>https://www.seoulvinyl.com/product/7014e8d7-0574-477e-8940-dbd3767c5b63</guid>
-            <pubDate>Wed, 25 Sep 2024 12:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727261229500_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[[예약판매] Bobby Caldwell 바비 콜드웰 - HEART OF MINE (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/025a9fc5-399f-4a73-83d0-4aac1d0042cf-2901-3499</link>
             <guid>https://www.seoulvinyl.com/product/025a9fc5-399f-4a73-83d0-4aac1d0042cf-2901-3499</guid>
-            <pubDate>Wed, 02 Oct 2024 04:13:29 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 04:12:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692443394475_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -776,10 +776,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725278637334_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 사공 - 노래모음집 [반투명 아이스 블루 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/87c4b841-0900-483a-b02c-64a02010efc2</link>
+            <guid>https://www.seoulvinyl.com/product/87c4b841-0900-483a-b02c-64a02010efc2</guid>
+            <pubDate>Wed, 02 Oct 2024 05:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727845512465_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 백현진 - 1집 반성의 시간 [2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/66568d88-a9d4-473f-b068-43e104066a54</link>
             <guid>https://www.seoulvinyl.com/product/66568d88-a9d4-473f-b068-43e104066a54</guid>
-            <pubDate>Wed, 02 Oct 2024 04:13:40 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 04:12:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727839840688_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -896,18 +904,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617276012272_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김동률 - 동행 remastered [LP+CD] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a9de3934-cb0e-466b-9933-ccd829c8bd6a</link>
-            <guid>https://www.seoulvinyl.com/product/a9de3934-cb0e-466b-9933-ccd829c8bd6a</guid>
-            <pubDate>Fri, 06 Sep 2024 07:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725604030457_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Ado 아도 - Zanmu (잔몽) [2LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/2cb63c10-fa71-4f7f-8c26-e7b4c848a3bc</link>
             <guid>https://www.seoulvinyl.com/product/2cb63c10-fa71-4f7f-8c26-e7b4c848a3bc</guid>
-            <pubDate>Wed, 02 Oct 2024 04:13:50 GMT</pubDate>
+            <pubDate>Wed, 02 Oct 2024 04:12:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727839600904_1000.jpg" length="0" type="image/jpg"/>
         </item>
