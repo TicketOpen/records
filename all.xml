@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Oct 2024 00:44:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Oct 2024 02:13:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724501165762_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 정국 - GOLDEN [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/f7a79c69-e9e1-4c68-99ae-430fb919718e</link>
+            <guid>https://www.seoulvinyl.com/product/f7a79c69-e9e1-4c68-99ae-430fb919718e</guid>
+            <pubDate>Wed, 02 Oct 2024 02:12:49 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727835069701_1000.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Beenzino 빈지노- NOWITZKI [2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/983d07f9-fec3-4838-aab4-7f4387b25fea-3495-1</link>
             <guid>https://www.seoulvinyl.com/product/983d07f9-fec3-4838-aab4-7f4387b25fea-3495-1</guid>
@@ -894,14 +902,6 @@
             <pubDate>Fri, 06 Sep 2024 07:08:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1619086224770_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ADOY (아도이) - Her LP (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/55ca3ea0-2a7d-4845-b767-28333ec9bc58</link>
-            <guid>https://www.seoulvinyl.com/product/55ca3ea0-2a7d-4845-b767-28333ec9bc58</guid>
-            <pubDate>Wed, 04 Sep 2024 10:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">94,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725443362193_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NAKAMORI AKINA 나카모리 아키나 - CRIMSON [Clear vinyl] (서울바이닐 ─ JAPANESE)]]></title>
