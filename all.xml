@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Oct 2024 05:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 06:14:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[2차 예약판매] 정국 - GOLDEN [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/21d3ffc9-3e9b-46b1-ba0f-9c814f82ab20</link>
             <guid>https://www.seoulvinyl.com/product/21d3ffc9-3e9b-46b1-ba0f-9c814f82ab20</guid>
-            <pubDate>Sat, 05 Oct 2024 05:10:05 GMT</pubDate>
+            <pubDate>Sat, 05 Oct 2024 05:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728103428558_1000.jpg" length="0" type="image/jpg"/>
         </item>
