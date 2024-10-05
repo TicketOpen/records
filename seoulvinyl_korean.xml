@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Oct 2024 04:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Oct 2024 05:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2차 예약판매] 정국 - GOLDEN [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/21d3ffc9-3e9b-46b1-ba0f-9c814f82ab20</link>
+            <guid>https://www.seoulvinyl.com/product/21d3ffc9-3e9b-46b1-ba0f-9c814f82ab20</guid>
+            <pubDate>Sat, 05 Oct 2024 05:10:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728103428558_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 이진아 - 3집 도시의 속마음 [투명 크리스탈 컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/61fef990-648d-4cc1-9e4b-46d75ec603b7</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 25 Sep 2024 11:09:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727259457749_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률 - 오래된 노래 (2019 LIVE) vinyl (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-911-3460</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-911-3460</guid>
-            <pubDate>Fri, 06 Sep 2024 07:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">74,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1609734009833_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
