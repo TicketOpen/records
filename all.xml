@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Oct 2024 10:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Oct 2024 11:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Nomi Yuji (노미 유지) - 耳をすませば (귀를 기울이면, Whisper Of The Heart) (LP) (Soundtrack) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6c61ef95-9ba1-460e-b53f-5997591ef46d</link>
+            <guid>https://www.seoulvinyl.com/product/6c61ef95-9ba1-460e-b53f-5997591ef46d</guid>
+            <pubDate>Mon, 07 Oct 2024 11:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728297366922_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Toe-NOW I SEE THE LIGHT (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/0ae8bfe4-20b3-4356-b9b1-dac6b1a1fb6e</link>
+            <guid>https://www.seoulvinyl.com/product/0ae8bfe4-20b3-4356-b9b1-dac6b1a1fb6e</guid>
+            <pubDate>Mon, 07 Oct 2024 11:09:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728296019225_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2차 예약판매] 정국 - GOLDEN [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/21d3ffc9-3e9b-46b1-ba0f-9c814f82ab20</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 26 Sep 2024 12:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724127779795_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 잠 (zzzaam) - 4집 빛나 [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/61a5e742-1700-407f-92ea-4afcdcc39676</link>
-            <guid>https://www.seoulvinyl.com/product/61a5e742-1700-407f-92ea-4afcdcc39676</guid>
-            <pubDate>Thu, 26 Sep 2024 11:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727348536639_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[헤어질 결심 영화음악 (Decision to Leave OST) [컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/85391a37-c045-4cab-a981-c5c3999857c7</link>
-            <guid>https://www.seoulvinyl.com/product/85391a37-c045-4cab-a981-c5c3999857c7</guid>
-            <pubDate>Thu, 26 Sep 2024 11:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">67,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727348286067_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP] (서울바이닐 ─ 제작)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1675999034739_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Nomi Yuji (노미 유지) - 耳をすませば (귀를 기울이면, Whisper Of The Heart) (LP) (Soundtrack) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/6c61ef95-9ba1-460e-b53f-5997591ef46d</link>
+            <guid>https://www.seoulvinyl.com/product/6c61ef95-9ba1-460e-b53f-5997591ef46d</guid>
+            <pubDate>Mon, 07 Oct 2024 11:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728297366922_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[헤어질 결심 영화음악 (Decision to Leave OST) [컬러 2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/85391a37-c045-4cab-a981-c5c3999857c7</link>
             <guid>https://www.seoulvinyl.com/product/85391a37-c045-4cab-a981-c5c3999857c7</guid>
@@ -510,14 +518,6 @@
             <pubDate>Sat, 20 Apr 2024 12:12:02 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713611044741_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O.S.T. - Top Gun: Maverick (탑건: 매버릭) (Soundtrack)(Ltd)(White Colored LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</link>
-            <guid>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</guid>
-            <pubDate>Fri, 05 Apr 2024 11:05:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657970263439_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[John Coltrane (존 콜트레인) - A Love Supreme (180g)(LP) (서울바이닐 ─ JAZZ)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727259457749_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Toe-NOW I SEE THE LIGHT (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/0ae8bfe4-20b3-4356-b9b1-dac6b1a1fb6e</link>
+            <guid>https://www.seoulvinyl.com/product/0ae8bfe4-20b3-4356-b9b1-dac6b1a1fb6e</guid>
+            <pubDate>Mon, 07 Oct 2024 11:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728296019225_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 사무라이 참프루 뮤직 레코드 ‘누자베스’ (Samurai Champloo Music Record 'Nujabes') [7인치 6 Vinyl 박스] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/2c1cbf4d-50ed-4c14-a947-aba3e242e16c</link>
             <guid>https://www.seoulvinyl.com/product/2c1cbf4d-50ed-4c14-a947-aba3e242e16c</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Tue, 01 Oct 2024 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724233934821_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Haruka Nakamura 하루카 나카무라 - Nujabes Pray Reflections [LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/4eaf1cee-4480-4a1a-a5d7-aaa770c835f4</link>
-            <guid>https://www.seoulvinyl.com/product/4eaf1cee-4480-4a1a-a5d7-aaa770c835f4</guid>
-            <pubDate>Wed, 21 Aug 2024 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724228804669_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CITY POP BEST100――シティ・ポップの名曲 1973-1989 (서울바이닐 ─ etc)]]></title>
