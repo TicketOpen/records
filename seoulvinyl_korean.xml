@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 06:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 07:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[하현우 - 미니 2집 Anti ego (White ver.) [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/e7c7bf4d-0d04-48f2-aaa5-c9336d92fde2</link>
+            <guid>https://www.seoulvinyl.com/product/e7c7bf4d-0d04-48f2-aaa5-c9336d92fde2</guid>
+            <pubDate>Fri, 11 Oct 2024 07:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728629297195_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하현우 - 미니 2집 Anti ego (Black ver.) [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a6b1412a-5607-4356-b6ad-c94031980485</link>
+            <guid>https://www.seoulvinyl.com/product/a6b1412a-5607-4356-b6ad-c94031980485</guid>
+            <pubDate>Fri, 11 Oct 2024 07:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728629149692_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Babylon 베이빌론 - EGO 90'S (Clear Colored Cassette Tape) [300장 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/a2d1e539-07e8-4880-bae9-9845ed73cada</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 25 Sep 2024 12:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727261229500_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전자양 - 정규 1집 Day Is Far Too Long [180g Pure/Clear Orange 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/e4f7f39c-852e-496e-987a-1e692f726096</link>
-            <guid>https://www.seoulvinyl.com/product/e4f7f39c-852e-496e-987a-1e692f726096</guid>
-            <pubDate>Wed, 25 Sep 2024 11:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">77,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727259669086_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] DA PLUTO (다플루토) - THE BROWN INSTRUMENTAL CREATURE [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/248311b0-85e6-436a-a880-9dbe5e3b861f</link>
-            <guid>https://www.seoulvinyl.com/product/248311b0-85e6-436a-a880-9dbe5e3b861f</guid>
-            <pubDate>Wed, 25 Sep 2024 11:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727259616450_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
