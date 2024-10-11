@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Oct 2024 07:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Oct 2024 08:14:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 최유리 - 1집 746 [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/27f262e1-e8f0-45be-b240-beb87c577618</link>
+            <guid>https://www.seoulvinyl.com/product/27f262e1-e8f0-45be-b240-beb87c577618</guid>
+            <pubDate>Fri, 11 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728631429876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chris Brown(크리스 브라운) - 11:11 (Deluxe Edition)(Ltd)(Colored 3LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c988024b-0846-4019-bc4c-357e3a8d2fe7</link>
+            <guid>https://www.seoulvinyl.com/product/c988024b-0846-4019-bc4c-357e3a8d2fe7</guid>
+            <pubDate>Fri, 11 Oct 2024 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728631145196_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하현우 - 미니 2집 Anti ego (White ver.) [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e7c7bf4d-0d04-48f2-aaa5-c9336d92fde2</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 02 Oct 2024 03:15:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727835069701_1000.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[NAKAMORI AKINA 나카모리 아키나 - CRIMSON [Clear vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/6b9a09c4-5b26-448e-a443-d3e52c3207a5-3497</link>
-            <guid>https://www.seoulvinyl.com/product/6b9a09c4-5b26-448e-a443-d3e52c3207a5-3497</guid>
-            <pubDate>Mon, 30 Sep 2024 08:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719567993524_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beenzino 빈지노- NOWITZKI [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/983d07f9-fec3-4838-aab4-7f4387b25fea-3495-1</link>
-            <guid>https://www.seoulvinyl.com/product/983d07f9-fec3-4838-aab4-7f4387b25fea-3495-1</guid>
-            <pubDate>Mon, 30 Sep 2024 03:21:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720409812191_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
