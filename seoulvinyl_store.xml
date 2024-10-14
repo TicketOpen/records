@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Oct 2024 05:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Oct 2024 06:16:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 너드커넥션 - 정규 2집 그래도 우리는 [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b5161f82-b2cd-431f-a755-8e4cf2802596</link>
+            <guid>https://www.seoulvinyl.com/product/b5161f82-b2cd-431f-a755-8e4cf2802596</guid>
+            <pubDate>Mon, 14 Oct 2024 06:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728885857392_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자켓 터짐 할인] Ozzy Osbourne 오지 오스본 - Blizzard Of Ozz [180g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/60a85ef0-2f42-4e25-b670-2ec5e5120f8b</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 02 Oct 2024 04:12:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727839840688_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ado 아도 - Zanmu (잔몽) [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2cb63c10-fa71-4f7f-8c26-e7b4c848a3bc</link>
-            <guid>https://www.seoulvinyl.com/product/2cb63c10-fa71-4f7f-8c26-e7b4c848a3bc</guid>
-            <pubDate>Wed, 02 Oct 2024 04:12:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727839600904_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
