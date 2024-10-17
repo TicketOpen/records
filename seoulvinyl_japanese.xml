@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Oct 2024 07:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Oct 2024 08:14:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sheena Ringo (시이나 링고) - Houjouya [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/be2990d9-8f2b-4fc2-be42-4678f363322e-3519</link>
+            <guid>https://www.seoulvinyl.com/product/be2990d9-8f2b-4fc2-be42-4678f363322e-3519</guid>
+            <pubDate>Thu, 17 Oct 2024 08:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717060450841_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Toe-NOW I SEE THE LIGHT]]></title>
             <link>https://www.seoulvinyl.com/product/0ae8bfe4-20b3-4356-b9b1-dac6b1a1fb6e</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 21 Aug 2024 10:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724234201642_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nujabes 누자베스 - Modal Soul [2LP 게이트폴드]]]></title>
-            <link>https://www.seoulvinyl.com/product/48b34c64-1322-477d-8a70-c638f30bd909</link>
-            <guid>https://www.seoulvinyl.com/product/48b34c64-1322-477d-8a70-c638f30bd909</guid>
-            <pubDate>Tue, 01 Oct 2024 11:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724233934821_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
