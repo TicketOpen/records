@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Oct 2024 05:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Oct 2024 06:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 위아더 나잇We Are The Night - Tiramisu Cake (7인치) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7718b30d-2615-4e77-bc59-d618046cdf9c</link>
+            <guid>https://www.seoulvinyl.com/product/7718b30d-2615-4e77-bc59-d618046cdf9c</guid>
+            <pubDate>Fri, 18 Oct 2024 06:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1729230629309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sheena Ringo (시이나 링고) - Houjouya [2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/be2990d9-8f2b-4fc2-be42-4678f363322e-3519</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 05 Oct 2024 05:09:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728103428558_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 사무라이 참프루 뮤직 레코드 ‘누자베스’ (Samurai Champloo Music Record 'Nujabes') [7인치 6 Vinyl 박스] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/2c1cbf4d-50ed-4c14-a947-aba3e242e16c</link>
-            <guid>https://www.seoulvinyl.com/product/2c1cbf4d-50ed-4c14-a947-aba3e242e16c</guid>
-            <pubDate>Fri, 04 Oct 2024 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">131,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728029875317_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Babylon 베이빌론 - EGO 90'S (Clear Colored Cassette Tape) [300장 한정반] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725619186550_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 위아더 나잇We Are The Night - Tiramisu Cake (7인치) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/7718b30d-2615-4e77-bc59-d618046cdf9c</link>
+            <guid>https://www.seoulvinyl.com/product/7718b30d-2615-4e77-bc59-d618046cdf9c</guid>
+            <pubDate>Fri, 18 Oct 2024 06:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1729230629309_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 윤석철트리오 - 정규앨범 나의 여름은 아직 안 끝났어 [2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/f0669748-e612-4b02-b479-0e3d6df746bb</link>
             <guid>https://www.seoulvinyl.com/product/f0669748-e612-4b02-b479-0e3d6df746bb</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 26 Sep 2024 12:17:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724127779795_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 잠 (zzzaam) - 4집 빛나 [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/61a5e742-1700-407f-92ea-4afcdcc39676</link>
-            <guid>https://www.seoulvinyl.com/product/61a5e742-1700-407f-92ea-4afcdcc39676</guid>
-            <pubDate>Thu, 26 Sep 2024 11:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727348536639_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sheena Ringo (시이나 링고) - Houjouya [2LP] (서울바이닐 ─ JAPANESE)]]></title>
