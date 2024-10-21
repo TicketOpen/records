@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Oct 2024 10:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Oct 2024 11:12:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍다빈 - GiGgles]]></title>
+            <link>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f-3525</link>
+            <guid>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f-3525</guid>
+            <pubDate>Mon, 21 Oct 2024 11:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708926215429_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 여행스케치 - 베스트 (Best) [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/25adf491-9dff-4586-a373-8bcba2409701</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 11 Oct 2024 07:10:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728629149692_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (Clear Colored Cassette Tape) [300장 한정반]]]></title>
-            <link>https://www.seoulvinyl.com/product/a2d1e539-07e8-4880-bae9-9845ed73cada</link>
-            <guid>https://www.seoulvinyl.com/product/a2d1e539-07e8-4880-bae9-9845ed73cada</guid>
-            <pubDate>Thu, 10 Oct 2024 08:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728547585348_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
