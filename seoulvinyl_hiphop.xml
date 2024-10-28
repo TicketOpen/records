@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 06:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 07:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 07 Sep 2024 08:11:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">75,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725696285173_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cypress Hill(사이프레스 힐) - Black Sunday (180g Vinyl 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</link>
+            <guid>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</guid>
+            <pubDate>Mon, 28 Oct 2024 07:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725619186550_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mary J. Blige - My Life (25th Anniversary)(Gatefold)(2LP)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 30 Jul 2024 10:09:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722331694723_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pastor T.L. Barrett And The Youth For Christ Choir - Do Not Pass Me By Vol. 2]]></title>
-            <link>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71-3340</link>
-            <guid>https://www.seoulvinyl.com/product/b9d65120-605d-4eae-b355-cbc509487c71-3340</guid>
-            <pubDate>Tue, 23 Jul 2024 18:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1650276632901_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

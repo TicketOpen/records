@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Oct 2024 06:16:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Oct 2024 07:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,12 +128,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725690866432_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Cypress Hill(사이프레스 힐) - Black Sunday (180g Vinyl 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</link>
-            <guid>https://www.seoulvinyl.com/product/43822114-45da-4053-b129-2c6430c24f4c</guid>
-            <pubDate>Fri, 06 Sep 2024 11:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725619186550_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] Oasis (오아시스) - Definitely Maybe 30주년 한정반 (colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/015a31fd-19a5-4c59-a298-155fe87dff25</link>
+            <guid>https://www.seoulvinyl.com/product/015a31fd-19a5-4c59-a298-155fe87dff25</guid>
+            <pubDate>Mon, 28 Oct 2024 07:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1725368008837_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
