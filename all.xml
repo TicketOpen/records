@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Oct 2024 07:13:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Oct 2024 08:15:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Drake (드레이크) - Views [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b8bcc8db-6e74-44db-adc9-24b345a4b5a3</link>
+            <guid>https://www.seoulvinyl.com/product/b8bcc8db-6e74-44db-adc9-24b345a4b5a3</guid>
+            <pubDate>Wed, 30 Oct 2024 08:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730275792861_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Edwin Birdsong - Edwin Birdsong (Ltd)(180g)(Color Vinyl)(LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/eca2e9ba-fc45-4309-8535-f274e1221792</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 12 Oct 2024 07:08:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728714920671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 최유리 - 1집 746 [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/27f262e1-e8f0-45be-b240-beb87c577618</link>
-            <guid>https://www.seoulvinyl.com/product/27f262e1-e8f0-45be-b240-beb87c577618</guid>
-            <pubDate>Fri, 11 Oct 2024 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728631429876_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 - GiGgles (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683352638858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Drake (드레이크) - Views [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/b8bcc8db-6e74-44db-adc9-24b345a4b5a3</link>
+            <guid>https://www.seoulvinyl.com/product/b8bcc8db-6e74-44db-adc9-24b345a4b5a3</guid>
+            <pubDate>Wed, 30 Oct 2024 08:14:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730275792861_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Edwin Birdsong - Edwin Birdsong (Ltd)(180g)(Color Vinyl)(LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/eca2e9ba-fc45-4309-8535-f274e1221792</link>
             <guid>https://www.seoulvinyl.com/product/eca2e9ba-fc45-4309-8535-f274e1221792</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 19 Aug 2024 05:09:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724041627512_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lil Yachty (릴 야티) - Let#s Start Here. [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/5aa6bc97-fe2e-4cf2-b74e-5206d0881a42</link>
-            <guid>https://www.seoulvinyl.com/product/5aa6bc97-fe2e-4cf2-b74e-5206d0881a42</guid>
-            <pubDate>Wed, 31 Jul 2024 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722412500283_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nomi Yuji (노미 유지) - 耳をすませば (귀를 기울이면, Whisper Of The Heart) (LP) (Soundtrack) (서울바이닐 ─ OST)]]></title>
