@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187585</id>
-    <title>서울바이닐 ─ JAZZ</title>
-    <updated>2024-10-30T19:09:31.489Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ JAZZ</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Oct 2024 20:12:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane (존 콜트레인) - A Love Supreme (180g)(LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</link>
+            <guid>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726890954737_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Garland Trio(레드 갈란드 트리오) - Groovy (OJC)(180g LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f5482da8-6416-4b09-9b74-b17d03edca1e</link>
+            <guid>https://www.seoulvinyl.com/product/f5482da8-6416-4b09-9b74-b17d03edca1e</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726826996087_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weldon Irvine (웰던 어빈) - In harmony]]></title>
+            <link>https://www.seoulvinyl.com/product/a58fe163-c5e5-4f71-8d1d-d554156376b4</link>
+            <guid>https://www.seoulvinyl.com/product/a58fe163-c5e5-4f71-8d1d-d554156376b4</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726224855012_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takanaka Masayoshi (타카나카 마사요시) - AN INSATIABLE HIGH]]></title>
+            <link>https://www.seoulvinyl.com/product/cb24b6bc-8d9f-4158-a349-3dac21c3b07b-3432</link>
+            <guid>https://www.seoulvinyl.com/product/cb24b6bc-8d9f-4158-a349-3dac21c3b07b-3432</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710748974832_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Takanaka Masayoshi (타카나카 마사요시) - TAKANAKA]]></title>
+            <link>https://www.seoulvinyl.com/product/3de0cbf0-07ac-43a2-9193-749e81ac16fb-3431</link>
+            <guid>https://www.seoulvinyl.com/product/3de0cbf0-07ac-43a2-9193-749e81ac16fb-3431</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710748813799_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laufey 라이베이 - Typical Of Me (EP)(LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e00c06f9-0b69-41a6-adc3-ea043a8ed965</link>
+            <guid>https://www.seoulvinyl.com/product/e00c06f9-0b69-41a6-adc3-ea043a8ed965</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722337186367_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans and Jim Hall 빌에반스 짐홀 - Undercurrent [Jackpot records ver]]]></title>
+            <link>https://www.seoulvinyl.com/product/b9df435f-0717-41eb-9ca1-539eeb8b9513</link>
+            <guid>https://www.seoulvinyl.com/product/b9df435f-0717-41eb-9ca1-539eeb8b9513</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716978092683_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laufey (라이베이) - Bewitched : The Goddess Edition [블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7ead4a86-a79f-445c-8a80-157ad8430bed</link>
+            <guid>https://www.seoulvinyl.com/product/7ead4a86-a79f-445c-8a80-157ad8430bed</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715857979854_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gerry mulligan(제리 멀리건)- Night Lights (Verve Acoustic Sounds Series) [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5-3277</link>
+            <guid>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5-3277</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715831176126_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[gregory porter 그레고리 포터 lp - liquid spirit vinyl]]></title>
+            <link>https://www.seoulvinyl.com/product/76052666-8174-4843-ba88-1fa2b7b9de35-3263</link>
+            <guid>https://www.seoulvinyl.com/product/76052666-8174-4843-ba88-1fa2b7b9de35-3263</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1629545425766_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fourplay(포플레이) - Between The Sheets [180g 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4a512965-25aa-44fc-a461-2c5d750eb4b2</link>
+            <guid>https://www.seoulvinyl.com/product/4a512965-25aa-44fc-a461-2c5d750eb4b2</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714216211374_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laufey (라이베이) - Everything I Know About Love [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/456cf700-3cd5-4e9d-a74e-e25ca60a3a0e</link>
+            <guid>https://www.seoulvinyl.com/product/456cf700-3cd5-4e9d-a74e-e25ca60a3a0e</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714215910104_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sade(샤데이) - Stronger Than Pride [180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2309162d-f3d7-4905-9157-a649dbdfe628</link>
+            <guid>https://www.seoulvinyl.com/product/2309162d-f3d7-4905-9157-a649dbdfe628</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714212654695_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sade (샤데이) - Promise [ 180g LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9a4b980e-a2cb-46fa-b9b4-ebadbfac11b6</link>
+            <guid>https://www.seoulvinyl.com/product/9a4b980e-a2cb-46fa-b9b4-ebadbfac11b6</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714212175599_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Casiopea 카시오페아 - Casiopea (clear orange colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/954c7c23-f730-40f3-ba3a-eb2e9e22967f</link>
+            <guid>https://www.seoulvinyl.com/product/954c7c23-f730-40f3-ba3a-eb2e9e22967f</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714127653587_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Casiopea 카시오페아 - Mint Jams (clear green colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/847a235e-8c04-48a0-9fb1-ed0eba01a12b</link>
+            <guid>https://www.seoulvinyl.com/product/847a235e-8c04-48a0-9fb1-ed0eba01a12b</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714127431392_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

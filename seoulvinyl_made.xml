@@ -1,8 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.seoulvinyl.com/store?productListFilter=187590</id>
-    <title>서울바이닐 ─ 제작</title>
-    <updated>2024-10-30T19:09:31.472Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.seoulvinyl.com/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>서울바이닐 ─ 제작</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Wed, 30 Oct 2024 20:12:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[홍다빈 - GiGgles]]></title>
+            <link>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f-3525-3531</link>
+            <guid>https://www.seoulvinyl.com/product/9a9a74e5-4411-4ffc-a1bf-fd1baef3c53f-3525-3531</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708926215429_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babylon 베이빌론 - EGO 90'S (Clear Colored Cassette Tape) [300장 한정반]]]></title>
+            <link>https://www.seoulvinyl.com/product/a2d1e539-07e8-4880-bae9-9845ed73cada</link>
+            <guid>https://www.seoulvinyl.com/product/a2d1e539-07e8-4880-bae9-9845ed73cada</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728547585348_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[베이빌론 (Babylon) - 6집 MOOD (친필싸인반) [핑크 & 퍼플 마블 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</link>
+            <guid>https://www.seoulvinyl.com/product/d4b6e832-f528-4d7e-89cc-3937823aead1</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720610136281_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colde 콜드 - 이상주의 ( Transparent Clear colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/88e3ead4-e70d-45de-89f9-83981ecd2acc</link>
+            <guid>https://www.seoulvinyl.com/product/88e3ead4-e70d-45de-89f9-83981ecd2acc</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1720146608745_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colde 콜드 - Love part 1 (Pink Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/ac042ee3-e304-4762-ad18-498673c3bcd1-3361</link>
+            <guid>https://www.seoulvinyl.com/product/ac042ee3-e304-4762-ad18-498673c3bcd1-3361</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707190895714_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colde 콜드 - Wave (Blue Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/f32acc68-6b26-4c54-af12-7b8dbd98fc2e-3361</link>
+            <guid>https://www.seoulvinyl.com/product/f32acc68-6b26-4c54-af12-7b8dbd98fc2e-3361</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1707190815132_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[듀스 (DEUX) - 3집 FORCE DEUX [레드 앤 화이트 컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</link>
+            <guid>https://www.seoulvinyl.com/product/7d56da0f-353c-4346-869c-4359c607276e-3192</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yamasita Tatsuro 카세트 테이프 모음집]]></title>
+            <link>https://www.seoulvinyl.com/product/18c57519-d8f3-4e44-9221-299879cd412a</link>
+            <guid>https://www.seoulvinyl.com/product/18c57519-d8f3-4e44-9221-299879cd412a</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">350,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708424945685_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Pink Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2771</link>
+            <guid>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2771</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998377679_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Hot Pink Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2418-2770</link>
+            <guid>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2418-2770</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998477628_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Orange Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/7776bb96-924a-4354-818c-7660935c8351-2773</link>
+            <guid>https://www.seoulvinyl.com/product/7776bb96-924a-4354-818c-7660935c8351-2773</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998083681_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Blue Colored 2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/7776bb96-924a-4354-818c-7660935c8351-2416-2772</link>
+            <guid>https://www.seoulvinyl.com/product/7776bb96-924a-4354-818c-7660935c8351-2416-2772</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998212769_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deep Groove 바이닐 클리너 솔]]></title>
+            <link>https://www.seoulvinyl.com/product/e73befaa-3d7b-404b-840d-148cc3a77575</link>
+            <guid>https://www.seoulvinyl.com/product/e73befaa-3d7b-404b-840d-148cc3a77575</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697183899635_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</link>
+            <guid>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695192442265_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DEUX 듀스 - 2nd DEUXISM LP (Clear Blue Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</link>
+            <guid>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684488005425_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DEUX 듀스 - 1st DEUX LP (Clear Colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</link>
+            <guid>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</guid>
+            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683352638858_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
