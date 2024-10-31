@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Oct 2024 06:15:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Oct 2024 07:11:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kamasi Washington(카사미 워싱턴) - The Epic [3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b9d47766-3361-4ee5-8127-e7c2b1bf026a</link>
+            <guid>https://www.seoulvinyl.com/product/b9d47766-3361-4ee5-8127-e7c2b1bf026a</guid>
+            <pubDate>Thu, 31 Oct 2024 07:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730356987554_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kamasi Washington (카마시 워싱턴) - Harmony Of Difference (EP) [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fa7ee08a-2c34-454c-8769-3f131b54a21e</link>
+            <guid>https://www.seoulvinyl.com/product/fa7ee08a-2c34-454c-8769-3f131b54a21e</guid>
+            <pubDate>Thu, 31 Oct 2024 07:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730356601204_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kamasi Washington (카마시 워싱턴) - Heaven and Earth [4 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/028fa736-a347-405e-b9ff-af70524daa18</link>
+            <guid>https://www.seoulvinyl.com/product/028fa736-a347-405e-b9ff-af70524daa18</guid>
+            <pubDate>Thu, 31 Oct 2024 07:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730355811876_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane (존 콜트레인) - A Love Supreme (180g)(LP)]]></title>
             <link>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714212654695_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sade (샤데이) - Promise [ 180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/9a4b980e-a2cb-46fa-b9b4-ebadbfac11b6</link>
-            <guid>https://www.seoulvinyl.com/product/9a4b980e-a2cb-46fa-b9b4-ebadbfac11b6</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714212175599_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Casiopea 카시오페아 - Casiopea (clear orange colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/954c7c23-f730-40f3-ba3a-eb2e9e22967f</link>
-            <guid>https://www.seoulvinyl.com/product/954c7c23-f730-40f3-ba3a-eb2e9e22967f</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714127653587_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Casiopea 카시오페아 - Mint Jams (clear green colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/847a235e-8c04-48a0-9fb1-ed0eba01a12b</link>
-            <guid>https://www.seoulvinyl.com/product/847a235e-8c04-48a0-9fb1-ed0eba01a12b</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714127431392_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
