@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 00:50:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 02:22:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 자이언티 - 정규 1집 Red Light [투명 레드반 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/032a02c2-506e-4a9d-aa3e-7924d32c16fe</link>
+            <guid>https://www.seoulvinyl.com/product/032a02c2-506e-4a9d-aa3e-7924d32c16fe</guid>
+            <pubDate>Fri, 01 Nov 2024 02:20:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730427224291_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙핑크 (BLACKPINK) - 2집 Born Pink [클리어 컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/06be3d90-792c-45d0-ac49-35e17a17b5cc</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730356987554_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kamasi Washington (카마시 워싱턴) - Harmony Of Difference (EP) [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/fa7ee08a-2c34-454c-8769-3f131b54a21e</link>
-            <guid>https://www.seoulvinyl.com/product/fa7ee08a-2c34-454c-8769-3f131b54a21e</guid>
-            <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730356601204_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
