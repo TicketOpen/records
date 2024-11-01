@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 06:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 07:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Earth, Wind & Fire 어스 윈드 앤 파이어 - All 'N All [180g LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f5f31e6b-eea0-4602-beb2-2bba8f08f433</link>
+            <guid>https://www.seoulvinyl.com/product/f5f31e6b-eea0-4602-beb2-2bba8f08f433</guid>
+            <pubDate>Fri, 01 Nov 2024 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730443503187_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Stooges 더 스투지스 - The Stooges (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/feed8fb6-6ed1-419a-a0b4-2479fc64a0a9</link>
+            <guid>https://www.seoulvinyl.com/product/feed8fb6-6ed1-419a-a0b4-2479fc64a0a9</guid>
+            <pubDate>Fri, 01 Nov 2024 07:10:04 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730441632328_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 자이언티 - 정규 1집 Red Light [투명 레드반 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/032a02c2-506e-4a9d-aa3e-7924d32c16fe</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730357806440_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arctic Monkeys (악틱 몽키즈) - 3집 Humbug [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/59326c12-283b-4a1d-8603-79a3977e555f</link>
-            <guid>https://www.seoulvinyl.com/product/59326c12-283b-4a1d-8603-79a3977e555f</guid>
-            <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730357688083_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kamasi Washington(카사미 워싱턴) - The Epic [3LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b9d47766-3361-4ee5-8127-e7c2b1bf026a</link>
-            <guid>https://www.seoulvinyl.com/product/b9d47766-3361-4ee5-8127-e7c2b1bf026a</guid>
-            <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730356987554_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 - GiGgles (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683352638858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Earth, Wind & Fire 어스 윈드 앤 파이어 - All 'N All [180g LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/f5f31e6b-eea0-4602-beb2-2bba8f08f433</link>
+            <guid>https://www.seoulvinyl.com/product/f5f31e6b-eea0-4602-beb2-2bba8f08f433</guid>
+            <pubDate>Fri, 01 Nov 2024 07:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730443503187_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Edwin Birdsong - Edwin Birdsong (Ltd)(180g)(Color Vinyl)(LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/eca2e9ba-fc45-4309-8535-f274e1221792-3532</link>
             <guid>https://www.seoulvinyl.com/product/eca2e9ba-fc45-4309-8535-f274e1221792-3532</guid>
@@ -382,14 +390,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724484893053_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] ERIK TAGG 에릭 테그- Rendez Vous [yellow colored vinyl] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/3ceb7654-7a3e-4ef2-9a54-0f068676aadf</link>
-            <guid>https://www.seoulvinyl.com/product/3ceb7654-7a3e-4ef2-9a54-0f068676aadf</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724151520721_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nomi Yuji (노미 유지) - 耳をすませば (귀를 기울이면, Whisper Of The Heart) (LP) (Soundtrack) (서울바이닐 ─ OST)]]></title>
@@ -520,7 +520,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713611044741_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kamasi Washington(카사미 워싱턴) - The Epic [3LP] (서울바이닐 ─ JAZZ)]]></title>
+            <title><![CDATA[Kamasi Washington(카마시 워싱턴) - The Epic [3LP] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/b9d47766-3361-4ee5-8127-e7c2b1bf026a</link>
             <guid>https://www.seoulvinyl.com/product/b9d47766-3361-4ee5-8127-e7c2b1bf026a</guid>
             <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714212654695_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Stooges 더 스투지스 - The Stooges (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/feed8fb6-6ed1-419a-a0b4-2479fc64a0a9</link>
+            <guid>https://www.seoulvinyl.com/product/feed8fb6-6ed1-419a-a0b4-2479fc64a0a9</guid>
+            <pubDate>Fri, 01 Nov 2024 07:10:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730441632328_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Korn(콘) - Issues [140G 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/a677298c-9b46-4072-a8ea-b0337411c19d</link>
             <guid>https://www.seoulvinyl.com/product/a677298c-9b46-4072-a8ea-b0337411c19d</guid>
@@ -766,14 +774,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728714920671_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Bobby Caldwell 바비 콜드웰 - HEART OF MINE (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/025a9fc5-399f-4a73-83d0-4aac1d0042cf-2901-3499</link>
-            <guid>https://www.seoulvinyl.com/product/025a9fc5-399f-4a73-83d0-4aac1d0042cf-2901-3499</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1692443394475_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자이언티 - 정규 1집 Red Light [투명 레드반 LP] (서울바이닐 ─ KOREAN)]]></title>
