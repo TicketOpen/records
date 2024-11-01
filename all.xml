@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Nov 2024 07:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Nov 2024 08:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Phil Collins 필 콜린스 - Singles (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/cf11f223-38be-425a-86d6-01a98f372101</link>
+            <guid>https://www.seoulvinyl.com/product/cf11f223-38be-425a-86d6-01a98f372101</guid>
+            <pubDate>Fri, 01 Nov 2024 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730445754754_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Earth, Wind & Fire 어스 윈드 앤 파이어 - All 'N All [180g LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/f5f31e6b-eea0-4602-beb2-2bba8f08f433</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730358239390_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arctic Monkeys (악틱 몽키즈) - 4집 Suck It And See [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f74ad8be-d9a7-4b4c-8cbf-d91227b51252</link>
-            <guid>https://www.seoulvinyl.com/product/f74ad8be-d9a7-4b4c-8cbf-d91227b51252</guid>
-            <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730357806440_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 - GiGgles (서울바이닐 ─ 제작)]]></title>
@@ -267,7 +267,7 @@
             <title><![CDATA[Earth, Wind & Fire 어스 윈드 앤 파이어 - All 'N All [180g LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/f5f31e6b-eea0-4602-beb2-2bba8f08f433</link>
             <guid>https://www.seoulvinyl.com/product/f5f31e6b-eea0-4602-beb2-2bba8f08f433</guid>
-            <pubDate>Fri, 01 Nov 2024 07:10:25 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 07:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730443503187_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -648,10 +648,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714212654695_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Phil Collins 필 콜린스 - Singles (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/cf11f223-38be-425a-86d6-01a98f372101</link>
+            <guid>https://www.seoulvinyl.com/product/cf11f223-38be-425a-86d6-01a98f372101</guid>
+            <pubDate>Fri, 01 Nov 2024 08:14:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730445754754_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Stooges 더 스투지스 - The Stooges (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/feed8fb6-6ed1-419a-a0b4-2479fc64a0a9</link>
             <guid>https://www.seoulvinyl.com/product/feed8fb6-6ed1-419a-a0b4-2479fc64a0a9</guid>
-            <pubDate>Fri, 01 Nov 2024 07:10:54 GMT</pubDate>
+            <pubDate>Fri, 01 Nov 2024 07:10:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">34,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730441632328_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -766,14 +774,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728715088239_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Duran Duran - Notorious (Remastered)(LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d94d66db-2e6a-4907-ad83-291143e30d28</link>
-            <guid>https://www.seoulvinyl.com/product/d94d66db-2e6a-4907-ad83-291143e30d28</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728714920671_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 자이언티 - 정규 1집 Red Light [투명 레드반 LP] (서울바이닐 ─ KOREAN)]]></title>
