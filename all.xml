@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Nov 2024 06:16:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Nov 2024 07:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 존박 (John Park) - 정규 2집 PSST! [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/96859181-e595-4f61-8335-aa1c608dd9c1</link>
+            <guid>https://www.seoulvinyl.com/product/96859181-e595-4f61-8335-aa1c608dd9c1</guid>
+            <pubDate>Mon, 11 Nov 2024 07:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731305734769_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Janis Joplin / Big Brother & The Holding Company (제니스 조플린 / 빅브라더 & 더 홀딩 컴퍼니) - Cheap Thrills [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/80aa834a-0351-40a5-8822-b68c63f1f7d9</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 31 Oct 2024 08:12:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730360742680_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bon Jovi (본 조비) - 5집 Keep The Faith [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/49f86366-918d-40ae-bac9-d081b5bc3bc6</link>
-            <guid>https://www.seoulvinyl.com/product/49f86366-918d-40ae-bac9-d081b5bc3bc6</guid>
-            <pubDate>Thu, 31 Oct 2024 08:12:54 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730360440787_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 - GiGgles (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730357806440_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 존박 (John Park) - 정규 2집 PSST! [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/96859181-e595-4f61-8335-aa1c608dd9c1</link>
+            <guid>https://www.seoulvinyl.com/product/96859181-e595-4f61-8335-aa1c608dd9c1</guid>
+            <pubDate>Mon, 11 Nov 2024 07:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731305734769_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[적재 (JUKJAE) - 3집 : CLICHÉ [컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/885356f2-641f-4969-893c-1ad1e68a53a4-3559</link>
             <guid>https://www.seoulvinyl.com/product/885356f2-641f-4969-893c-1ad1e68a53a4-3559</guid>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">27,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728547585348_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크리스마스 재즈 캐럴 모음집 (Christmas Jazz) [투명 레드 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/29c909a8-d5c3-4b14-aa8b-c9c4bd6b1a31</link>
-            <guid>https://www.seoulvinyl.com/product/29c909a8-d5c3-4b14-aa8b-c9c4bd6b1a31</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728384950587_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Wonk 웅크 - Shades of (서울바이닐 ─ JAPANESE)]]></title>
