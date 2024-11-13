@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 09:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 10:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어, 장범준 - 아파트 (7 인치) [세트 상품] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42</link>
+            <guid>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42</guid>
+            <pubDate>Wed, 13 Nov 2024 10:10:26 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">91,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731490399641_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 아파트 (7 인치) [Transparent green colored] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</link>
@@ -128,12 +136,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730364870764_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Korn (콘) - Follow The Leader [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a4c9e249-6394-4cdf-8c63-eb2edecadfd9</link>
-            <guid>https://www.seoulvinyl.com/product/a4c9e249-6394-4cdf-8c63-eb2edecadfd9</guid>
-            <pubDate>Thu, 31 Oct 2024 09:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730364505441_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어, 장범준 - 아파트 (7 인치) [세트 상품] (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42</link>
+            <guid>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42</guid>
+            <pubDate>Wed, 13 Nov 2024 10:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">91,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731490399641_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 - 아파트 (7 인치) [Transparent green colored] (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</link>
+            <guid>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</guid>
+            <pubDate>Wed, 13 Nov 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488523318_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</link>
+            <guid>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</guid>
+            <pubDate>Wed, 13 Nov 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488472851_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 - GiGgles (서울바이닐 ─ 제작)]]></title>
@@ -238,30 +262,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697183899635_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KIMMUSEUM 김뮤지엄 - MUMBLING (unsolved case) [한정 클리어 LP] (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</link>
-            <guid>https://www.seoulvinyl.com/product/988e7319-b8b2-48a9-8d84-a33eb14a97cf</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1695192442265_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX 듀스 - 2nd DEUXISM LP (Clear Blue Colored Vinyl) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</link>
-            <guid>https://www.seoulvinyl.com/product/cfac903a-278b-4661-b11e-21105cfd7776</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1684488005425_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DEUX 듀스 - 1st DEUX LP (Clear Colored Vinyl) (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</link>
-            <guid>https://www.seoulvinyl.com/product/33338b1c-3aaf-4484-bb81-27a1ebea5e2d</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1683352638858_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Usher 어셔 - Confessions (20th Anniversary Edition)(Remastered)(2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -776,10 +776,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730357806440_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어, 장범준 - 아파트 (7 인치) [세트 상품] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42</link>
+            <guid>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42</guid>
+            <pubDate>Wed, 13 Nov 2024 10:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">91,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731490399641_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 장범준 - 아파트 (7 인치) [Transparent green colored] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</link>
             <guid>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</guid>
-            <pubDate>Wed, 13 Nov 2024 09:11:10 GMT</pubDate>
+            <pubDate>Wed, 13 Nov 2024 09:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488523318_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +795,7 @@
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</link>
             <guid>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</guid>
-            <pubDate>Wed, 13 Nov 2024 09:11:10 GMT</pubDate>
+            <pubDate>Wed, 13 Nov 2024 09:10:16 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488472851_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -894,14 +902,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:00 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728885857392_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 최유리 - 1집 746 [투명 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/27f262e1-e8f0-45be-b240-beb87c577618</link>
-            <guid>https://www.seoulvinyl.com/product/27f262e1-e8f0-45be-b240-beb87c577618</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728631429876_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Wonk 웅크 - Shades of (서울바이닐 ─ JAPANESE)]]></title>
