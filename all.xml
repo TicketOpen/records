@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Nov 2024 08:15:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Nov 2024 09:11:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 - 아파트 (7 인치) [Transparent green colored] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</link>
+            <guid>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</guid>
+            <pubDate>Wed, 13 Nov 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488523318_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</link>
+            <guid>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</guid>
+            <pubDate>Wed, 13 Nov 2024 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488472851_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재현(NCT) - 1집 J (Japan pressing Ver.) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9b2246d8-03b9-462a-b8cd-68dc001fdaac</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 31 Oct 2024 09:11:05 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730364505441_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Korn(콘) - Korn [180g 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/287a911b-d00b-4e9a-99d4-7b098225a1df</link>
-            <guid>https://www.seoulvinyl.com/product/287a911b-d00b-4e9a-99d4-7b098225a1df</guid>
-            <pubDate>Fri, 08 Nov 2024 08:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730363960294_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Korn(콘) - Life Is Peachy [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/31a7742e-ee29-4fc5-a4fc-a1969d602129</link>
-            <guid>https://www.seoulvinyl.com/product/31a7742e-ee29-4fc5-a4fc-a1969d602129</guid>
-            <pubDate>Thu, 31 Oct 2024 09:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730363435154_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[홍다빈 - GiGgles (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730357806440_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 장범준 - 아파트 (7 인치) [Transparent green colored] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</link>
+            <guid>https://www.seoulvinyl.com/product/cf8e1b7d-5331-46ab-94f1-c82111c03a0f</guid>
+            <pubDate>Wed, 13 Nov 2024 09:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488523318_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</link>
+            <guid>https://www.seoulvinyl.com/product/c4b24c6b-a236-4d91-ba28-637c6e9e5604</guid>
+            <pubDate>Wed, 13 Nov 2024 09:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488472851_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재현(NCT) - 1집 J (Japan pressing Ver.) (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/9b2246d8-03b9-462a-b8cd-68dc001fdaac</link>
             <guid>https://www.seoulvinyl.com/product/9b2246d8-03b9-462a-b8cd-68dc001fdaac</guid>
@@ -886,22 +902,6 @@
             <pubDate>Wed, 30 Oct 2024 20:12:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728631429876_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하현우 - 미니 2집 Anti ego (White ver.) [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/e7c7bf4d-0d04-48f2-aaa5-c9336d92fde2</link>
-            <guid>https://www.seoulvinyl.com/product/e7c7bf4d-0d04-48f2-aaa5-c9336d92fde2</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728629297195_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하현우 - 미니 2집 Anti ego (Black ver.) [LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/a6b1412a-5607-4356-b6ad-c94031980485</link>
-            <guid>https://www.seoulvinyl.com/product/a6b1412a-5607-4356-b6ad-c94031980485</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728629149692_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Wonk 웅크 - Shades of (서울바이닐 ─ JAPANESE)]]></title>
