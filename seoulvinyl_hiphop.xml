@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Nov 2024 09:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Nov 2024 10:12:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Keshi (케시) - 2집 Requiem [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1cfbc9b5-db92-439d-a017-25fb3a6ee70d</link>
+            <guid>https://www.seoulvinyl.com/product/1cfbc9b5-db92-439d-a017-25fb3a6ee70d</guid>
+            <pubDate>Fri, 15 Nov 2024 10:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731664553505_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Usher 어셔 - Confessions (20th Anniversary Edition)(Remastered)(2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/9a80e4f9-0e83-4dc7-9c99-a081f6b18938</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724666160529_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Future & Metro Boomin (퓨처 & 메트로 부민) - We Still Don't Trust You]]></title>
-            <link>https://www.seoulvinyl.com/product/fea6820d-1e3a-4c2a-8cfb-fc139de48304</link>
-            <guid>https://www.seoulvinyl.com/product/fea6820d-1e3a-4c2a-8cfb-fc139de48304</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724485998014_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
