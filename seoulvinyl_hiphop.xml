@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 05:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 06:14:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모서리 할인] The Weeknd (위켄드) - 5집 Dawn FM [2 LP, 블랙반]]]></title>
+            <link>https://www.seoulvinyl.com/product/49401365-29f7-4869-a57f-c1df79c18969</link>
+            <guid>https://www.seoulvinyl.com/product/49401365-29f7-4869-a57f-c1df79c18969</guid>
+            <pubDate>Sat, 16 Nov 2024 06:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731735883791_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[모서리 할인] Kanye West 카니예 웨스트 - The College Dropout LP]]></title>
+            <link>https://www.seoulvinyl.com/product/3d502d46-805a-4337-abe0-6a4fd781d480</link>
+            <guid>https://www.seoulvinyl.com/product/3d502d46-805a-4337-abe0-6a4fd781d480</guid>
+            <pubDate>Sat, 16 Nov 2024 06:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731735278909_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Keshi (케시) - 2집 Requiem [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/1cfbc9b5-db92-439d-a017-25fb3a6ee70d</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:24 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">74,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724500315591_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bryson Tiller - Trapsoul [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/533e58a7-fa7f-4db7-b928-6e4f359cb5bf</link>
-            <guid>https://www.seoulvinyl.com/product/533e58a7-fa7f-4db7-b928-6e4f359cb5bf</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724840635643_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Spinners(스피너스) - Now Playing (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/96cfd6df-0d19-4e51-b61e-5fe60ae1eb4a</link>
-            <guid>https://www.seoulvinyl.com/product/96cfd6df-0d19-4e51-b61e-5fe60ae1eb4a</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">36,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724666160529_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
