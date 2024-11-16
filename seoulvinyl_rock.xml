@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 07:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 08:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alvvays 올웨이즈 - Antisocialites [Yellow colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/fba3c17b-ba6f-4020-949a-b1dc62608319</link>
+            <guid>https://www.seoulvinyl.com/product/fba3c17b-ba6f-4020-949a-b1dc62608319</guid>
+            <pubDate>Sat, 16 Nov 2024 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731741760442_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alvvays 올웨이즈 - Alvvays (Orange colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c2ac0320-5572-4e1a-ac97-90000e903970</link>
+            <guid>https://www.seoulvinyl.com/product/c2ac0320-5572-4e1a-ac97-90000e903970</guid>
+            <pubDate>Sat, 16 Nov 2024 08:13:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731740970160_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beach Boys - Pet Sounds [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/923f5790-2aaf-4c26-9dd3-8f90d9a89a26</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 31 Oct 2024 08:13:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730359883465_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Mayer (존 메이어) - Paradise Valley [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/09a16dd1-2d5f-4129-836f-e33a9beac836</link>
-            <guid>https://www.seoulvinyl.com/product/09a16dd1-2d5f-4129-836f-e33a9beac836</guid>
-            <pubDate>Fri, 08 Nov 2024 08:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730359329134_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Mayer (존 메이어) - Born And Raised [2LP + CD]]]></title>
-            <link>https://www.seoulvinyl.com/product/263f57c2-a627-40cc-aab6-695c102a0c2b</link>
-            <guid>https://www.seoulvinyl.com/product/263f57c2-a627-40cc-aab6-695c102a0c2b</guid>
-            <pubDate>Thu, 31 Oct 2024 08:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730359113983_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

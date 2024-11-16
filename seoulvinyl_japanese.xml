@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Nov 2024 07:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Nov 2024 08:14:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Onuki Taeko (오누키 타에코) - Mignonne [180G LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/9784cb7b-3e44-44cf-93ea-905cf73e233c</link>
+            <guid>https://www.seoulvinyl.com/product/9784cb7b-3e44-44cf-93ea-905cf73e233c</guid>
+            <pubDate>Sat, 16 Nov 2024 08:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731741972511_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Wonk 웅크 - Shades of]]></title>
             <link>https://www.seoulvinyl.com/product/96126164-e4a1-4368-a189-260e641b3626</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724311688716_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Ryuichi Sakamoto (류이치 사카모토) - Opus [4LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f8379b6f-030e-46c0-be01-090ca32c7be5</link>
-            <guid>https://www.seoulvinyl.com/product/f8379b6f-030e-46c0-be01-090ca32c7be5</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">187,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724307965904_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
