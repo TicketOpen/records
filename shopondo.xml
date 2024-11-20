@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 10:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 11:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,6 +360,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[쓰다 2집 사랑의 말을 가르쳐주세요 CD 음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2237&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2237&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Nov 2024 11:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202411/8014339023d2e8d107b101588e5b252c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[최미루 EP nEwCHAt CD 음반]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2236&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2236&amp;cate_no=60&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 10 Oct 2024 09:12:32 GMT</pubDate>
             <content:encoded><![CDATA[20,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/78146d48a0cd397ea7ae196285f4d4e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jean Rhee(진리) Hey… It’s Been Crazy 1st EP]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2218&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2218&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Oct 2024 07:12:03 GMT</pubDate>
-            <content:encoded><![CDATA[18,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/4b4eae85633308cdb106dd352fd3b353.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
