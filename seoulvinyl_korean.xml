@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 05:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 06:16:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Colde 콜드 - Love part 2 (blue colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab639692-b58c-4481-86f9-ce70a2e69332</link>
+            <guid>https://www.seoulvinyl.com/product/ab639692-b58c-4481-86f9-ce70a2e69332</guid>
+            <pubDate>Wed, 20 Nov 2024 06:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732082193520_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 태연 - 미니 6집 Letter To Myself (LP Ver.)[컬러 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/3d0f932e-3d39-48a0-9bf7-9bd805f00832</link>
@@ -62,14 +70,6 @@
             <pubDate>Tue, 12 Nov 2024 10:11:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731406042370_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 존박 (John Park) - 정규 2집 PSST! [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/96859181-e595-4f61-8335-aa1c608dd9c1</link>
-            <guid>https://www.seoulvinyl.com/product/96859181-e595-4f61-8335-aa1c608dd9c1</guid>
-            <pubDate>Mon, 11 Nov 2024 07:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731305734769_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[적재 (JUKJAE) - 3집 : CLICHÉ [컬러 LP]]]></title>
