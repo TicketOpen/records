@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Nov 2024 09:12:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Nov 2024 10:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Tomoko Aran - 부유공간 (浮遊空間) [white colored LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/67acb61d-2e2a-44e0-b549-ca64326893ea</link>
+            <guid>https://www.seoulvinyl.com/product/67acb61d-2e2a-44e0-b549-ca64326893ea</guid>
+            <pubDate>Wed, 20 Nov 2024 10:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732097218640_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Colde 콜드 - Love part 2 (blue colored vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/ab639692-b58c-4481-86f9-ce70a2e69332</link>
@@ -128,12 +136,12 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731909142909_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Erykah Badu(에리카 바두) - But You Caint Use My Phone (Ltd)(180g 퍼플 컬러 LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/7a8dbaa9-0f3e-4ab3-bc88-a1343cc61ca4</link>
-            <guid>https://www.seoulvinyl.com/product/7a8dbaa9-0f3e-4ab3-bc88-a1343cc61ca4</guid>
-            <pubDate>Sat, 16 Nov 2024 09:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731745636138_1000.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Colde 콜드 - Love part 2 (blue colored vinyl) (서울바이닐 ─ 제작)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab639692-b58c-4481-86f9-ce70a2e69332</link>
+            <guid>https://www.seoulvinyl.com/product/ab639692-b58c-4481-86f9-ce70a2e69332</guid>
+            <pubDate>Wed, 20 Nov 2024 06:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732082193520_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어, 장범준 - 아파트 (7 인치) [세트 상품] (서울바이닐 ─ 제작)]]></title>
@@ -254,14 +262,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998212769_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep Groove 바이닐 클리너 솔 (서울바이닐 ─ 제작)]]></title>
-            <link>https://www.seoulvinyl.com/product/e73befaa-3d7b-404b-840d-148cc3a77575</link>
-            <guid>https://www.seoulvinyl.com/product/e73befaa-3d7b-404b-840d-148cc3a77575</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">25,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1697183899635_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] MF DOOM- MM..FOOD [Green/Pink colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1729230629309_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Tomoko Aran - 부유공간 (浮遊空間) [white colored LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/67acb61d-2e2a-44e0-b549-ca64326893ea</link>
+            <guid>https://www.seoulvinyl.com/product/67acb61d-2e2a-44e0-b549-ca64326893ea</guid>
+            <pubDate>Wed, 20 Nov 2024 10:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732097218640_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Onuki Taeko (오누키 타에코) - Mignonne [180G LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/9784cb7b-3e44-44cf-93ea-905cf73e233c</link>
             <guid>https://www.seoulvinyl.com/product/9784cb7b-3e44-44cf-93ea-905cf73e233c</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724493558447_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matsubara Miki (마츠바라 미키) - 1집 Pocket Park [아쿠아 블루 컬러 LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/11ae7aea-1f89-4ad8-b938-73d9889f490a</link>
-            <guid>https://www.seoulvinyl.com/product/11ae7aea-1f89-4ad8-b938-73d9889f490a</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724311688716_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CITY POP BEST100――シティ・ポップの名曲 1973-1989 (서울바이닐 ─ etc)]]></title>
@@ -1512,6 +1512,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[최미루 EP nEwCHAt CD 음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2236&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2236&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Nov 2024 10:12:46 GMT</pubDate>
+            <content:encoded><![CDATA[19,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202411/bfeb98d51406e81ad9c0031545456065.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ō  신고도 (Shin Kodot) CD+책자 음반 (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2221&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2221&amp;cate_no=60&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Tue, 29 Oct 2024 07:12:03 GMT</pubDate>
             <content:encoded><![CDATA[18,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/4b4eae85633308cdb106dd352fd3b353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[asoe eosa CD 음반 (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2195&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2195&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Nov 2024 05:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202407/e2e6c43094a6801cc45c224e1de0d7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
