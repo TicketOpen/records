@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Nov 2024 11:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Nov 2024 12:20:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 27 Nov 2024 11:09:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732702222495_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fourplay 포플레이 - Fourplay [Dark blue colored 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/05e3b7bc-ecb4-47ac-bc70-44feffce1106</link>
+            <guid>https://www.seoulvinyl.com/product/05e3b7bc-ecb4-47ac-bc70-44feffce1106</guid>
+            <pubDate>Wed, 27 Nov 2024 12:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">67,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732701919270_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fourplay 포플레이 - Between The Sheets [Transparent purple colored 2LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715857979854_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gerry mulligan(제리 멀리건)- Night Lights (Verve Acoustic Sounds Series) [180g LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5-3277</link>
-            <guid>https://www.seoulvinyl.com/product/7383f9be-cdce-4c35-9c9d-9760417f7cd5-3277</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715831176126_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
