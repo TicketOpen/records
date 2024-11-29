@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Nov 2024 05:12:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 06:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 가리온 - <가리온 3> [180g black LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/3c40695f-4fd7-4932-8e4e-e035f399ee48</link>
             <guid>https://www.seoulvinyl.com/product/3c40695f-4fd7-4932-8e4e-e035f399ee48</guid>
-            <pubDate>Fri, 29 Nov 2024 05:11:38 GMT</pubDate>
+            <pubDate>Fri, 29 Nov 2024 05:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,200원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732856536040_1000.jpg" length="0" type="image/jpg"/>
         </item>
