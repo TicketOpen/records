@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Nov 2024 09:11:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 10:10:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[조용필 - 16~19집 [140g 컬러 4LP 박스][넘버링 한정반] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</link>
+            <guid>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</guid>
+            <pubDate>Sat, 30 Nov 2024 10:09:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">170,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732958436629_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yuga (유우가) - Love Deluxe [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/83f5304d-3756-4d3a-9bea-aac6b2e2a627</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 20 Nov 2024 10:11:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732097218640_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colde 콜드 - Love part 2 (blue colored vinyl) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ab639692-b58c-4481-86f9-ce70a2e69332</link>
-            <guid>https://www.seoulvinyl.com/product/ab639692-b58c-4481-86f9-ce70a2e69332</guid>
-            <pubDate>Wed, 20 Nov 2024 06:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732082193520_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731046285116_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조용필 - 16~19집 [140g 컬러 4LP 박스][넘버링 한정반] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</link>
+            <guid>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</guid>
+            <pubDate>Sat, 30 Nov 2024 10:10:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">170,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732958436629_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 가리온 - <가리온 3> [180g black LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/3c40695f-4fd7-4932-8e4e-e035f399ee48</link>
             <guid>https://www.seoulvinyl.com/product/3c40695f-4fd7-4932-8e4e-e035f399ee48</guid>
@@ -896,18 +904,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708926215429_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] 파란노을 - 4집 Sky Hundred [2LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/78cbdef7-f79c-406a-914d-696ae86ff074</link>
-            <guid>https://www.seoulvinyl.com/product/78cbdef7-f79c-406a-914d-696ae86ff074</guid>
-            <pubDate>Sat, 30 Nov 2024 06:14:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1729832101154_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Yuga (유우가) - Love Deluxe [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/83f5304d-3756-4d3a-9bea-aac6b2e2a627</link>
             <guid>https://www.seoulvinyl.com/product/83f5304d-3756-4d3a-9bea-aac6b2e2a627</guid>
-            <pubDate>Sat, 30 Nov 2024 09:11:00 GMT</pubDate>
+            <pubDate>Sat, 30 Nov 2024 09:09:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732952010900_1000.jpg" length="0" type="image/jpg"/>
         </item>
