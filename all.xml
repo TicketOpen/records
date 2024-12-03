@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 Dec 2024 06:16:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Dec 2024 07:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Jay Z & Kanye West 제이지 & 칸예 웨스트 lp - Watch The Throne Picture vinyl (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-576-3616</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-576-3616</guid>
-            <pubDate>Mon, 02 Dec 2024 11:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">167,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1587990363545_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 - 정규11집 TTPD The Anthology [colored 4LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/f478c7df-14cb-4191-8f9b-41c3917effec</link>
@@ -134,6 +126,14 @@
             <pubDate>Sat, 23 Nov 2024 03:20:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488523318_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어, 장범준 - 아파트 (7 인치) [세트 상품] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42-3600</link>
+            <guid>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42-3600</guid>
+            <pubDate>Sat, 23 Nov 2024 03:20:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">91,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731490399641_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -264,14 +264,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998212769_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Jay Z & Kanye West 제이지 & 칸예 웨스트 lp - Watch The Throne Picture vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-576-3616</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-576-3616</guid>
-            <pubDate>Mon, 02 Dec 2024 11:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">167,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1587990363545_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Whitney Houston 휘스니 휴스턴 - The Concert For A New South Africa - Durban [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/2a1af99f-e953-4601-a15f-bd26f7bb5f2a</link>
             <guid>https://www.seoulvinyl.com/product/2a1af99f-e953-4601-a15f-bd26f7bb5f2a</guid>
@@ -390,6 +382,14 @@
             <pubDate>Sat, 16 Nov 2024 06:12:56 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731735278909_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keshi (케시) - 2집 Requiem [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/1cfbc9b5-db92-439d-a017-25fb3a6ee70d</link>
+            <guid>https://www.seoulvinyl.com/product/1cfbc9b5-db92-439d-a017-25fb3a6ee70d</guid>
+            <pubDate>Tue, 03 Dec 2024 07:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731664553505_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] Nomi Yuji (노미 유지) - 耳をすませば (귀를 기울이면, Whisper Of The Heart) (LP) (Soundtrack) (서울바이닐 ─ OST)]]></title>
