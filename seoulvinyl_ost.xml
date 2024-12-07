@@ -4,17 +4,9 @@
         <title>서울바이닐 ─ OST</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 08:13:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 09:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[예약판매] Nomi Yuji (노미 유지) - 耳をすませば (귀를 기울이면, Whisper Of The Heart) (LP) (Soundtrack)]]></title>
-            <link>https://www.seoulvinyl.com/product/6c61ef95-9ba1-460e-b53f-5997591ef46d</link>
-            <guid>https://www.seoulvinyl.com/product/6c61ef95-9ba1-460e-b53f-5997591ef46d</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728297366922_1000.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[헤어질 결심 영화음악 (Decision to Leave OST) [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/85391a37-c045-4cab-a981-c5c3999857c7</link>
@@ -134,6 +126,14 @@
             <pubDate>Wed, 30 Oct 2024 20:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713611044741_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O.S.T. - Top Gun: Maverick (탑건: 매버릭) (Soundtrack)(Ltd)(White Colored LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</link>
+            <guid>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</guid>
+            <pubDate>Sat, 07 Dec 2024 09:10:36 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657970263439_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
