@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 10:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 11:09:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pink Sweat$ (핑크 스웨츠) - Pink Moon [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6c7831e0-cbca-4fea-abab-45e6b7b1a951</link>
+            <guid>https://www.seoulvinyl.com/product/6c7831e0-cbca-4fea-abab-45e6b7b1a951</guid>
+            <pubDate>Sat, 07 Dec 2024 11:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733568078367_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oasis (오아시스) - Complete 7-inch Single Collection Box Volume 1&2 세트 상품 (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/7f615af2-f0cb-4d4d-8b23-ebcb12d453db</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 02 Dec 2024 10:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733131822639_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 - 16~19집 [140g 컬러 4LP 박스][넘버링 한정반] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</link>
-            <guid>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</guid>
-            <pubDate>Sat, 30 Nov 2024 10:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">170,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732958436629_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998212769_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pink Sweat$ (핑크 스웨츠) - Pink Moon [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/6c7831e0-cbca-4fea-abab-45e6b7b1a951</link>
+            <guid>https://www.seoulvinyl.com/product/6c7831e0-cbca-4fea-abab-45e6b7b1a951</guid>
+            <pubDate>Sat, 07 Dec 2024 11:08:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733568078367_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매]Childish Gambino 차일디시 감비노- Atavista [Gatefold 140g 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</link>
             <guid>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 16 Nov 2024 08:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731744265019_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Luther Vandross 루더 밴드로스 - Never Too Much: Greatest Hits (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657</link>
-            <guid>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657</guid>
-            <pubDate>Sat, 16 Nov 2024 08:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731742927006_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤어질 결심 영화음악 (Decision to Leave OST) [2LP] (서울바이닐 ─ OST)]]></title>
@@ -651,7 +651,7 @@
             <title><![CDATA[Oasis (오아시스) - Complete 7-inch Single Collection Box Volume 1&2 세트 상품 (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/7f615af2-f0cb-4d4d-8b23-ebcb12d453db</link>
             <guid>https://www.seoulvinyl.com/product/7f615af2-f0cb-4d4d-8b23-ebcb12d453db</guid>
-            <pubDate>Sat, 07 Dec 2024 10:11:48 GMT</pubDate>
+            <pubDate>Sat, 07 Dec 2024 10:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">1,050,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733563323708_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -659,7 +659,7 @@
             <title><![CDATA[Oasis (오아시스) - Complete 7-inch Single Collection Box Volume 2 (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/b996d5b5-7814-4125-b98c-776acf833b4a</link>
             <guid>https://www.seoulvinyl.com/product/b996d5b5-7814-4125-b98c-776acf833b4a</guid>
-            <pubDate>Sat, 07 Dec 2024 10:11:48 GMT</pubDate>
+            <pubDate>Sat, 07 Dec 2024 10:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">535,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733563150534_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -667,7 +667,7 @@
             <title><![CDATA[Oasis (오아시스) - Complete 7-inch Single Collection Box Volume 1 (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/f4670688-d596-4cb4-b69b-b3efeb46d0eb</link>
             <guid>https://www.seoulvinyl.com/product/f4670688-d596-4cb4-b69b-b3efeb46d0eb</guid>
-            <pubDate>Sat, 07 Dec 2024 10:11:48 GMT</pubDate>
+            <pubDate>Sat, 07 Dec 2024 10:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">535,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733563047227_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -907,7 +907,7 @@
             <title><![CDATA[YOASOBI 요아소비 - THE BOOK 1,2,3 세트 상품 (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/f9652023-fba0-4380-a88d-ab1ad2f5f81c</link>
             <guid>https://www.seoulvinyl.com/product/f9652023-fba0-4380-a88d-ab1ad2f5f81c</guid>
-            <pubDate>Sat, 07 Dec 2024 10:12:10 GMT</pubDate>
+            <pubDate>Sat, 07 Dec 2024 10:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">180,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733562697934_1000.jpg" length="0" type="image/jpg"/>
         </item>
