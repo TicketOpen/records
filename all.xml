@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 03:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 04:14:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -968,7 +968,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1717060450841_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Toe-NOW I SEE THE LIGHT (서울바이닐 ─ JAPANESE)]]></title>
+            <title><![CDATA[Toe-NOW I SEE THE LIGHT (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/0ae8bfe4-20b3-4356-b9b1-dac6b1a1fb6e</link>
             <guid>https://www.seoulvinyl.com/product/0ae8bfe4-20b3-4356-b9b1-dac6b1a1fb6e</guid>
             <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
