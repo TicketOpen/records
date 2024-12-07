@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 Dec 2024 09:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Dec 2024 10:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[YOASOBI 요아소비 - THE BOOK 1,2,3 세트 상품]]></title>
+            <link>https://www.seoulvinyl.com/product/f9652023-fba0-4380-a88d-ab1ad2f5f81c</link>
+            <guid>https://www.seoulvinyl.com/product/f9652023-fba0-4380-a88d-ab1ad2f5f81c</guid>
+            <pubDate>Sat, 07 Dec 2024 10:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">180,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733562697934_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] MONDO GROSSO 몬도 그로소 - BIG WORLD[LP]]]></title>
             <link>https://www.seoulvinyl.com/product/6b07ec57-a6d3-4e58-963e-c458a20828fb</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716868656675_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Onuki Taeko (오누키 타에코) - 2집 Sunshower [핑크 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/2c608e2c-00fd-46b2-924f-d7238907c4e2-3433</link>
-            <guid>https://www.seoulvinyl.com/product/2c608e2c-00fd-46b2-924f-d7238907c4e2-3433</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724475889660_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
