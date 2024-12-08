@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 08 Dec 2024 06:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Dec 2024 07:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fourplay 포플레이 - Heartfelt (Gold Colored 2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/c68542b9-2671-46c1-8532-c4859e87d669</link>
+            <guid>https://www.seoulvinyl.com/product/c68542b9-2671-46c1-8532-c4859e87d669</guid>
+            <pubDate>Sun, 08 Dec 2024 07:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733641434504_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Mars 브루노 마스 - 24K Magic (Splatter Colored LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d33faa2a-c443-4404-b027-c0a70d4392fd</link>
+            <guid>https://www.seoulvinyl.com/product/d33faa2a-c443-4404-b027-c0a70d4392fd</guid>
+            <pubDate>Sun, 08 Dec 2024 07:09:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733640036941_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pink Sweat$ (핑크 스웨츠) - Pink Moon [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/6c7831e0-cbca-4fea-abab-45e6b7b1a951</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 03 Dec 2024 08:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733210545560_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay Z & Kanye West 제이지 & 칸예 웨스트 lp - Watch The Throne Picture vinyl (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-576-3616</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-576-3616</guid>
-            <pubDate>Wed, 04 Dec 2024 06:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">167,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1587990363545_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 - 정규11집 TTPD The Anthology [colored 4LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/f478c7df-14cb-4191-8f9b-41c3917effec</link>
-            <guid>https://www.seoulvinyl.com/product/f478c7df-14cb-4191-8f9b-41c3917effec</guid>
-            <pubDate>Mon, 02 Dec 2024 10:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733131822639_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998212769_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bruno Mars 브루노 마스 - 24K Magic (Splatter Colored LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/d33faa2a-c443-4404-b027-c0a70d4392fd</link>
+            <guid>https://www.seoulvinyl.com/product/d33faa2a-c443-4404-b027-c0a70d4392fd</guid>
+            <pubDate>Sun, 08 Dec 2024 07:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733640036941_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Pink Sweat$ (핑크 스웨츠) - Pink Moon [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/6c7831e0-cbca-4fea-abab-45e6b7b1a951</link>
             <guid>https://www.seoulvinyl.com/product/6c7831e0-cbca-4fea-abab-45e6b7b1a951</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 16 Nov 2024 09:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731744850865_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erykah Badu (에리카 바두) - New Amerykah Part One [퍼플 컬러 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/e043174d-5729-4712-a189-37efba2df0d5</link>
-            <guid>https://www.seoulvinyl.com/product/e043174d-5729-4712-a189-37efba2df0d5</guid>
-            <pubDate>Sat, 16 Nov 2024 08:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731744265019_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤어질 결심 영화음악 (Decision to Leave OST) [2LP] (서울바이닐 ─ OST)]]></title>
@@ -520,6 +520,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657970263439_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fourplay 포플레이 - Heartfelt (Gold Colored 2LP) (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/c68542b9-2671-46c1-8532-c4859e87d669</link>
+            <guid>https://www.seoulvinyl.com/product/c68542b9-2671-46c1-8532-c4859e87d669</guid>
+            <pubDate>Sun, 08 Dec 2024 07:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733641434504_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Blue Mitchell - Blue's Moods (Original Jazz Classics Series)(180g LP) (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/0d78a4f4-8f3b-4e0e-a4ce-9046b417a06b</link>
             <guid>https://www.seoulvinyl.com/product/0d78a4f4-8f3b-4e0e-a4ce-9046b417a06b</guid>
@@ -638,14 +646,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722337186367_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans and Jim Hall 빌에반스 짐홀 - Undercurrent [Jackpot records ver] (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/b9df435f-0717-41eb-9ca1-539eeb8b9513</link>
-            <guid>https://www.seoulvinyl.com/product/b9df435f-0717-41eb-9ca1-539eeb8b9513</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1716978092683_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Oasis (오아시스) - Complete 7-inch Single Collection Box Volume 1&2 세트 상품 (서울바이닐 ─ ROCK & POP)]]></title>
