@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 Dec 2024 07:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Dec 2024 08:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,6 +280,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733568078367_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Doja Cat (도자 캣) - 3집 Planet Her [2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/2b051438-35ed-44d2-a86a-1aca4b042589</link>
+            <guid>https://www.seoulvinyl.com/product/2b051438-35ed-44d2-a86a-1aca4b042589</guid>
+            <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733561150312_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doja Cat 도자캣 - 4집 Scarlet 2 CLAUDE [Colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</link>
+            <guid>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</guid>
+            <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733560292366_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매]Childish Gambino 차일디시 감비노- Atavista [Gatefold 140g 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</link>
             <guid>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</guid>
@@ -374,22 +390,6 @@
             <pubDate>Sat, 16 Nov 2024 09:09:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731745636138_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erykah Badu(에리카 바두) - Baduizm (Gatefold)[180g 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/3be19e2f-dcc7-4b3f-b2cd-5cf8fe30016d</link>
-            <guid>https://www.seoulvinyl.com/product/3be19e2f-dcc7-4b3f-b2cd-5cf8fe30016d</guid>
-            <pubDate>Sat, 16 Nov 2024 09:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731745106937_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erykah Badu (에리카 바두) - New Amerykah Part Two [불투명 바이올렛 컬러2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/54a15f9b-d160-4293-be6c-0887cf0c8c16</link>
-            <guid>https://www.seoulvinyl.com/product/54a15f9b-d160-4293-be6c-0887cf0c8c16</guid>
-            <pubDate>Sat, 16 Nov 2024 09:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731744850865_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤어질 결심 영화음악 (Decision to Leave OST) [2LP] (서울바이닐 ─ OST)]]></title>
@@ -672,22 +672,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733563047227_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Doja Cat (도자 캣) - 3집 Planet Her [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/2b051438-35ed-44d2-a86a-1aca4b042589</link>
-            <guid>https://www.seoulvinyl.com/product/2b051438-35ed-44d2-a86a-1aca4b042589</guid>
-            <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733561150312_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doja Cat 도자캣 - 4집 Scarlet 2 CLAUDE [Colored 2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</link>
-            <guid>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</guid>
-            <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733560292366_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] Taylor Swift 테일러 스위프트 - 정규11집 TTPD The Anthology [colored 4LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/f478c7df-14cb-4191-8f9b-41c3917effec</link>
             <guid>https://www.seoulvinyl.com/product/f478c7df-14cb-4191-8f9b-41c3917effec</guid>
@@ -774,6 +758,22 @@
             <pubDate>Sat, 16 Nov 2024 08:12:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731741760442_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alvvays 올웨이즈 - Alvvays (Orange colored LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/c2ac0320-5572-4e1a-ac97-90000e903970</link>
+            <guid>https://www.seoulvinyl.com/product/c2ac0320-5572-4e1a-ac97-90000e903970</guid>
+            <pubDate>Mon, 09 Dec 2024 08:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731740970160_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beach Boys - Pet Sounds [LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/923f5790-2aaf-4c26-9dd3-8f90d9a89a26</link>
+            <guid>https://www.seoulvinyl.com/product/923f5790-2aaf-4c26-9dd3-8f90d9a89a26</guid>
+            <pubDate>Mon, 09 Dec 2024 08:16:02 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731736829918_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 라쿠나 - EP 5집 유령 [180g Clear Green colored LP] (서울바이닐 ─ KOREAN)]]></title>
