@@ -4,11 +4,43 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Dec 2024 09:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Dec 2024 10:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Aespa 에스파 - 미니 5집 Whiplash [LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[[예약판매] 봉제인간 7인치 바이닐 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</link>
+            <guid>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</guid>
+            <pubDate>Thu, 12 Dec 2024 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996973751_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] WAH WAH WAH 7인치 바이닐 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/5a752dfe-05a2-458f-97b0-047f01ed59e6</link>
+            <guid>https://www.seoulvinyl.com/product/5a752dfe-05a2-458f-97b0-047f01ed59e6</guid>
+            <pubDate>Thu, 12 Dec 2024 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996810590_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] SNAKE CHICKEN SOUP 7인치 바이닐 (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/46062f59-8777-48f1-8226-b7faefb50d2d</link>
+            <guid>https://www.seoulvinyl.com/product/46062f59-8777-48f1-8226-b7faefb50d2d</guid>
+            <pubDate>Thu, 12 Dec 2024 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996607977_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d-3637</link>
+            <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d-3637</guid>
+            <pubDate>Thu, 12 Dec 2024 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670212869809_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Aespa 에스파 - 미니 5집 Whiplash [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/34026a89-6a76-4af1-83cb-49b1a2e0168d</link>
             <guid>https://www.seoulvinyl.com/product/34026a89-6a76-4af1-83cb-49b1a2e0168d</guid>
             <pubDate>Tue, 10 Dec 2024 08:15:23 GMT</pubDate>
@@ -16,7 +48,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733818455296_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Aespa 에스파 - 정규 1집 Armageddon [LP] (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[[예약판매] Aespa 에스파 - 정규 1집 Armageddon [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/97c9dcbc-9d33-4012-b153-d7c63a3f975a</link>
             <guid>https://www.seoulvinyl.com/product/97c9dcbc-9d33-4012-b153-d7c63a3f975a</guid>
             <pubDate>Tue, 10 Dec 2024 08:14:21 GMT</pubDate>
@@ -102,38 +134,6 @@
             <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733561150312_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Doja Cat 도자캣 - 4집 Scarlet 2 CLAUDE [Colored 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</link>
-            <guid>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</guid>
-            <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733560292366_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 라쿠나 - EP 5집 유령 [180g Clear Green colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9ef91313-69cc-442f-bad5-f9be2d083bef</link>
-            <guid>https://www.seoulvinyl.com/product/9ef91313-69cc-442f-bad5-f9be2d083bef</guid>
-            <pubDate>Thu, 05 Dec 2024 03:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733368595767_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 멜로망스 - Romantic [180g pink colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9a120d59-2c00-430f-9187-f6409218be41</link>
-            <guid>https://www.seoulvinyl.com/product/9a120d59-2c00-430f-9187-f6409218be41</guid>
-            <pubDate>Thu, 05 Dec 2024 03:29:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733368399985_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매]Childish Gambino 차일디시 감비노- Atavista [Gatefold 140g 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</link>
-            <guid>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</guid>
-            <pubDate>Wed, 04 Dec 2024 11:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733308059062_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -776,7 +776,39 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731736829918_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Aespa 에스파 - 미니 5집 Whiplash [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[[예약판매] 봉제인간 7인치 바이닐 (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</link>
+            <guid>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</guid>
+            <pubDate>Thu, 12 Dec 2024 10:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996973751_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] WAH WAH WAH 7인치 바이닐 (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/5a752dfe-05a2-458f-97b0-047f01ed59e6</link>
+            <guid>https://www.seoulvinyl.com/product/5a752dfe-05a2-458f-97b0-047f01ed59e6</guid>
+            <pubDate>Thu, 12 Dec 2024 10:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996810590_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] SNAKE CHICKEN SOUP 7인치 바이닐 (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/46062f59-8777-48f1-8226-b7faefb50d2d</link>
+            <guid>https://www.seoulvinyl.com/product/46062f59-8777-48f1-8226-b7faefb50d2d</guid>
+            <pubDate>Thu, 12 Dec 2024 10:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996607977_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 스텔라장 - WinterStella [Christmas EP, 45RPM 1LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d-3637</link>
+            <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d-3637</guid>
+            <pubDate>Thu, 12 Dec 2024 10:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670212869809_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Aespa 에스파 - 미니 5집 Whiplash [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/34026a89-6a76-4af1-83cb-49b1a2e0168d</link>
             <guid>https://www.seoulvinyl.com/product/34026a89-6a76-4af1-83cb-49b1a2e0168d</guid>
             <pubDate>Tue, 10 Dec 2024 08:15:23 GMT</pubDate>
@@ -784,7 +816,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733818455296_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Aespa 에스파 - 정규 1집 Armageddon [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <title><![CDATA[[예약판매] Aespa 에스파 - 정규 1집 Armageddon [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/97c9dcbc-9d33-4012-b153-d7c63a3f975a</link>
             <guid>https://www.seoulvinyl.com/product/97c9dcbc-9d33-4012-b153-d7c63a3f975a</guid>
             <pubDate>Tue, 10 Dec 2024 08:14:21 GMT</pubDate>
@@ -870,38 +902,6 @@
             <pubDate>Wed, 20 Nov 2024 06:14:29 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732082193520_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 태연 - 미니 6집 Letter To Myself (LP Ver.)[컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/3d0f932e-3d39-48a0-9bf7-9bd805f00832</link>
-            <guid>https://www.seoulvinyl.com/product/3d0f932e-3d39-48a0-9bf7-9bd805f00832</guid>
-            <pubDate>Tue, 19 Nov 2024 09:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732006291096_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 델리스파이스 - 1집 [180g black vinyl] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/372699c1-f80c-4978-ae9e-d134753cd16e</link>
-            <guid>https://www.seoulvinyl.com/product/372699c1-f80c-4978-ae9e-d134753cd16e</guid>
-            <pubDate>Tue, 19 Nov 2024 04:12:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">38,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731986912215_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재현(NCT) - 1집 J (Korea pressing Ver.) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/daff0b45-6b1c-4e38-9f97-117c6bd8c33a</link>
-            <guid>https://www.seoulvinyl.com/product/daff0b45-6b1c-4e38-9f97-117c6bd8c33a</guid>
-            <pubDate>Fri, 15 Nov 2024 07:10:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731653006986_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재현(NCT) - 1집 J (Japan pressing Ver.) (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/9b2246d8-03b9-462a-b8cd-68dc001fdaac</link>
-            <guid>https://www.seoulvinyl.com/product/9b2246d8-03b9-462a-b8cd-68dc001fdaac</guid>
-            <pubDate>Tue, 12 Nov 2024 10:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731406042370_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[YOASOBI 요아소비 - THE BOOK 1,2,3 세트 상품 (서울바이닐 ─ JAPANESE)]]></title>
