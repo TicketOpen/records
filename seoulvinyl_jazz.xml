@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 10:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Miles Davis(마일스 데이비스)- You're Under Arrest (LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/3a06be2e-62ca-4a78-add1-412baceab8e5-3648</link>
+            <guid>https://www.seoulvinyl.com/product/3a06be2e-62ca-4a78-add1-412baceab8e5-3648</guid>
+            <pubDate>Fri, 13 Dec 2024 11:09:54 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731732132522_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fourplay 포플레이 - Heartfelt (Gold Colored 2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/c68542b9-2671-46c1-8532-c4859e87d669</link>
@@ -54,14 +62,6 @@
             <pubDate>Sat, 16 Nov 2024 05:10:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731733007356_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis(마일스 데이비스)- You're Under Arrest (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/3a06be2e-62ca-4a78-add1-412baceab8e5</link>
-            <guid>https://www.seoulvinyl.com/product/3a06be2e-62ca-4a78-add1-412baceab8e5</guid>
-            <pubDate>Sat, 16 Nov 2024 05:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731732132522_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kamasi Washington(카마시 워싱턴) - The Epic [3LP]]]></title>

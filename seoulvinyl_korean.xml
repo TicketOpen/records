@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 10:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 11:10:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[혁오, 선셋 롤러코스터 - AAA [180g Marbled colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d9e5010e-1a39-4618-a7a3-9901b453f46c-3646</link>
+            <guid>https://www.seoulvinyl.com/product/d9e5010e-1a39-4618-a7a3-9901b453f46c-3646</guid>
+            <pubDate>Fri, 13 Dec 2024 11:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733293759251_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Poles (더 폴스) - Anomalies in the oddity space [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1d2c9abc-8c65-4d82-903c-4de2f4facab2-3644</link>
+            <guid>https://www.seoulvinyl.com/product/1d2c9abc-8c65-4d82-903c-4de2f4facab2-3644</guid>
+            <pubDate>Fri, 13 Dec 2024 11:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724303320573_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 브로콜리 너마저 - 4집 우리는 모두 실패할 것을 알고 있어요 [140g 퍼플 & 그레이 컬러 한정반 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/c9ec09d5-b1cb-48ce-aae4-0a0d64f80b06</link>
@@ -80,14 +96,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733368399985_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[혁오, 선셋 롤러코스터 - AAA [180g Marbled colored LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d9e5010e-1a39-4618-a7a3-9901b453f46c</link>
-            <guid>https://www.seoulvinyl.com/product/d9e5010e-1a39-4618-a7a3-9901b453f46c</guid>
-            <pubDate>Wed, 04 Dec 2024 07:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733293759251_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[조용필 - 16~19집 [140g 컬러 4LP 박스][넘버링 한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</link>
             <guid>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</guid>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 23 Nov 2024 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">29,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731488523318_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어, 장범준 - 아파트 (7 인치) [세트 상품]]]></title>
-            <link>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42-3600</link>
-            <guid>https://www.seoulvinyl.com/product/f04a335a-464e-4e85-b99b-51ff9f930d42-3600</guid>
-            <pubDate>Sat, 23 Nov 2024 03:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">91,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731490399641_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
