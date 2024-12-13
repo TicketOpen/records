@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Dec 2024 08:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Dec 2024 09:12:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V.A. - City Pop Story -Urban & Ocean- (2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/695672a1-57ea-4b62-9d6a-eac71e24cd06</link>
+            <guid>https://www.seoulvinyl.com/product/695672a1-57ea-4b62-9d6a-eac71e24cd06</guid>
+            <pubDate>Fri, 13 Dec 2024 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">85,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734080508467_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shakatak (샤카 탁) - Night Birds (Remastered) (Gold colored Vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</link>
+            <guid>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</guid>
+            <pubDate>Fri, 13 Dec 2024 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734079437006_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 브로콜리 너마저 - 4집 우리는 모두 실패할 것을 알고 있어요 [140g 퍼플 & 그레이 컬러 한정반 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/c9ec09d5-b1cb-48ce-aae4-0a0d64f80b06</link>
@@ -118,22 +134,6 @@
             <pubDate>Sat, 07 Dec 2024 10:10:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">535,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733563047227_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YOASOBI 요아소비 - THE BOOK 1,2,3 세트 상품]]></title>
-            <link>https://www.seoulvinyl.com/product/f9652023-fba0-4380-a88d-ab1ad2f5f81c</link>
-            <guid>https://www.seoulvinyl.com/product/f9652023-fba0-4380-a88d-ab1ad2f5f81c</guid>
-            <pubDate>Sat, 07 Dec 2024 10:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">180,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733562697934_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blue Mitchell 블루 미첼 - Blue's Moods (Original Jazz Classics Series)(180g LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/0d78a4f4-8f3b-4e0e-a4ce-9046b417a06b</link>
-            <guid>https://www.seoulvinyl.com/product/0d78a4f4-8f3b-4e0e-a4ce-9046b417a06b</guid>
-            <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733561944402_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
