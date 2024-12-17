@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Dec 2024 10:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Dec 2024 11:10:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto (류이치 사카모토) - Opus [4LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/f8379b6f-030e-46c0-be01-090ca32c7be5-3651</link>
+            <guid>https://www.seoulvinyl.com/product/f8379b6f-030e-46c0-be01-090ca32c7be5-3651</guid>
+            <pubDate>Tue, 17 Dec 2024 11:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">192,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724307965904_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[V.A. - City Pop Story -Urban & Ocean- (2LP)]]></title>
             <link>https://www.seoulvinyl.com/product/695672a1-57ea-4b62-9d6a-eac71e24cd06</link>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727263972587_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Yoasobi (요아소비) - Idol (140g Colored LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/e378e6ee-0031-4b09-8f47-1ac04a61952c</link>
-            <guid>https://www.seoulvinyl.com/product/e378e6ee-0031-4b09-8f47-1ac04a61952c</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726055923674_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
