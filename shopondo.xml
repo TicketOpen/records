@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 07:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 08:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,14 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[FOG 정규 3집 fogesque III]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2251&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2251&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Dec 2024 08:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202412/fe11ec95357639ad4db1c29c289adb1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[FOG 정규 2집 fogesque II]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2250&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2250&amp;cate_no=60&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Mon, 25 Nov 2024 14:11:51 GMT</pubDate>
             <content:encoded><![CDATA[19,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202411/bfeb98d51406e81ad9c0031545456065.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ō  신고도 (Shin Kodot) CD+책자 음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2221&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2221&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Nov 2024 14:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/21f921436e577788ca024a020f0415c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
