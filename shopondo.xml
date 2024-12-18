@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 18 Dec 2024 06:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Dec 2024 07:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,6 +344,22 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201803/756_shop1_170534.gif" length="0" type="image/gif"/>
         </item>
         <item>
+            <title><![CDATA[FOG 정규 2집 fogesque II]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2250&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2250&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Dec 2024 07:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[12,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202412/c3bb2015fe977889d42c94abc664f8d3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유렁서점 EP 유령서점]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2249&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2249&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Wed, 18 Dec 2024 07:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[15,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202412/cbe32bdb4906cd8715222cdd1ca2391f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미역수염 2집 2 CD 음반]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2238&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2238&amp;cate_no=60&amp;display_group=1</guid>
@@ -374,22 +390,6 @@
             <pubDate>Mon, 25 Nov 2024 14:11:51 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/21f921436e577788ca024a020f0415c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음악만세 Hail to the Music 단편선 순간들 CD 음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2219&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2219&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Nov 2024 14:11:51 GMT</pubDate>
-            <content:encoded><![CDATA[20,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/78146d48a0cd397ea7ae196285f4d4e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jean Rhee(진리) Hey… It’s Been Crazy 1st EP]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2218&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2218&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Nov 2024 21:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[18,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/4b4eae85633308cdb106dd352fd3b353.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
