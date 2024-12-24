@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 10:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 11:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Luther Vandross 루더 밴드로스 - Never Too Much: Greatest Hits]]></title>
+            <link>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</link>
+            <guid>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</guid>
+            <pubDate>Tue, 24 Dec 2024 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731742927006_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shakatak (샤카 탁) - Night Birds (Remastered) (Gold colored Vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 19 Nov 2024 08:14:04 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732002554575_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MF Doom - Operation: Doomsday 25th Anniversary [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8c7959d9-178b-4050-b1f8-0c1452de80b3</link>
-            <guid>https://www.seoulvinyl.com/product/8c7959d9-178b-4050-b1f8-0c1452de80b3</guid>
-            <pubDate>Tue, 19 Nov 2024 08:14:04 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732002440094_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

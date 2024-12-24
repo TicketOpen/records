@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 10:12:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 11:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김동률lp - kimdongrYULE remastered (LP+CD 합본)]]></title>
+            <link>https://www.seoulvinyl.com/product/untitled-1076-3459-3652-3658</link>
+            <guid>https://www.seoulvinyl.com/product/untitled-1076-3459-3652-3658</guid>
+            <pubDate>Tue, 24 Dec 2024 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617276012272_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 리사 - Alter Ego : standard [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/d610e7a8-45a5-4c3c-85e7-07009ad73795</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 18 Dec 2024 03:23:54 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734489984036_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률lp - kimdongrYULE remastered (LP+CD 합본)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-1076-3459-3652</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-1076-3459-3652</guid>
-            <pubDate>Tue, 17 Dec 2024 11:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617276012272_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 2NE1 투애니원 - 15th ANNIVERSARY BEST LP]]></title>
