@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 06:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 07:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -548,7 +548,7 @@
             <link>https://www.seoulvinyl.com/product/0d78a4f4-8f3b-4e0e-a4ce-9046b417a06b</link>
             <guid>https://www.seoulvinyl.com/product/0d78a4f4-8f3b-4e0e-a4ce-9046b417a06b</guid>
             <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733561944402_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -704,11 +704,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732703483583_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Sabrina Carpenter (사브리나 카펜터)- 5.5집 크리스마스 앨범[colored vinyl] (서울바이닐 ─ ROCK & POP)]]></title>
+            <title><![CDATA[Sabrina Carpenter (사브리나 카펜터)- 5.5집 크리스마스 앨범[colored vinyl] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/60ab3272-d062-48d6-a77b-91ed2486a83e</link>
             <guid>https://www.seoulvinyl.com/product/60ab3272-d062-48d6-a77b-91ed2486a83e</guid>
             <pubDate>Tue, 19 Nov 2024 07:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731999622011_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
