@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Dec 2024 09:11:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Dec 2024 10:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 리사 - Alter Ego : standard [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/d610e7a8-45a5-4c3c-85e7-07009ad73795</link>
+            <guid>https://www.seoulvinyl.com/product/d610e7a8-45a5-4c3c-85e7-07009ad73795</guid>
+            <pubDate>Tue, 24 Dec 2024 10:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735032027683_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넬 (NELL) - 8집 COLORS IN BLACK [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/0b9b601f-4d78-4795-925f-2876c49ffe68</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Dec 2024 06:14:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734066827687_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 봉제인간 7인치 바이닐 (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</link>
-            <guid>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</guid>
-            <pubDate>Thu, 12 Dec 2024 10:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996973751_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731741760442_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 리사 - Alter Ego : standard [LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/d610e7a8-45a5-4c3c-85e7-07009ad73795</link>
+            <guid>https://www.seoulvinyl.com/product/d610e7a8-45a5-4c3c-85e7-07009ad73795</guid>
+            <pubDate>Tue, 24 Dec 2024 10:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735032027683_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넬 (NELL) - 8집 COLORS IN BLACK [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/0b9b601f-4d78-4795-925f-2876c49ffe68</link>
             <guid>https://www.seoulvinyl.com/product/0b9b601f-4d78-4795-925f-2876c49ffe68</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 05 Dec 2024 03:29:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733368399985_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 - 16~19집 [140g 컬러 4LP 박스][넘버링 한정반] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</link>
-            <guid>https://www.seoulvinyl.com/product/c351ad6c-6a3b-4da3-9910-587f68522ea7</guid>
-            <pubDate>Sat, 30 Nov 2024 10:09:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">170,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732958436629_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto (류이치 사카모토) - Opus [4LP] (서울바이닐 ─ JAPANESE)]]></title>
