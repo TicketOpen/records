@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Dec 2024 10:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2024 11:09:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Hiromi Iwasaki 히로미 이와사키 - WISH [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/8875c7f1-bf70-46a4-bed3-aa70126c0c16</link>
+            <guid>https://www.seoulvinyl.com/product/8875c7f1-bf70-46a4-bed3-aa70126c0c16</guid>
+            <pubDate>Wed, 25 Dec 2024 11:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735122142256_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Uyama Hiroto 우야마 히로토 feat. Hanah - Spring (7인치)]]></title>
+            <link>https://www.seoulvinyl.com/product/890d782e-790a-448a-a301-527a8b0c7507</link>
+            <guid>https://www.seoulvinyl.com/product/890d782e-790a-448a-a301-527a8b0c7507</guid>
+            <pubDate>Wed, 25 Dec 2024 11:09:08 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">33,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735121730078_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ryuichi Sakamoto (류이치 사카모토) - Opus [4LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f8379b6f-030e-46c0-be01-090ca32c7be5-3651</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727839600904_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NAKAMORI AKINA 나카모리 아키나 - CRIMSON [Clear vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/6b9a09c4-5b26-448e-a443-d3e52c3207a5-3497</link>
-            <guid>https://www.seoulvinyl.com/product/6b9a09c4-5b26-448e-a443-d3e52c3207a5-3497</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1719567993524_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ai Tomioka (토미오카 아이) - BLUE SPOT [블루 앤 블루 마블 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/efaac8e8-6104-4405-939c-7b2922262bac</link>
-            <guid>https://www.seoulvinyl.com/product/efaac8e8-6104-4405-939c-7b2922262bac</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727263972587_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
