@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 Dec 2024 06:15:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Dec 2024 07:10:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 슈퍼주니어-D&E - INEVITABLE [컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/06d7321c-ff2d-4975-be60-64f19574ac3f</link>
+            <guid>https://www.seoulvinyl.com/product/06d7321c-ff2d-4975-be60-64f19574ac3f</guid>
+            <pubDate>Thu, 26 Dec 2024 07:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735193697203_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Hiromi Iwasaki 히로미 이와사키 - WISH [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/8875c7f1-bf70-46a4-bed3-aa70126c0c16</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Dec 2024 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733293759251_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Justice(저스티스) Hyperdrama: Limited Crystal Clear Vinyl 2LP]]></title>
-            <link>https://www.seoulvinyl.com/product/8dedb8f7-a5ce-4519-820c-66f8d2ac8bc6-3645</link>
-            <guid>https://www.seoulvinyl.com/product/8dedb8f7-a5ce-4519-820c-66f8d2ac8bc6-3645</guid>
-            <pubDate>Fri, 13 Dec 2024 11:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715230030853_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
