@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Dec 2024 04:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Dec 2024 05:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이묭 Aimyon - 5집 고양이에게 질투 Jealous of Cats (Cassette tape) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/b34458f8-51e3-4825-9316-fd9bd547b742</link>
+            <guid>https://www.seoulvinyl.com/product/b34458f8-51e3-4825-9316-fd9bd547b742</guid>
+            <pubDate>Tue, 31 Dec 2024 05:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735618642511_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 슈퍼주니어-D&E - INEVITABLE [컬러 LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/06d7321c-ff2d-4975-be60-64f19574ac3f</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Dec 2024 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731732132522_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[혁오, 선셋 롤러코스터 - AAA [180g Marbled colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/d9e5010e-1a39-4618-a7a3-9901b453f46c-3646</link>
-            <guid>https://www.seoulvinyl.com/product/d9e5010e-1a39-4618-a7a3-9901b453f46c-3646</guid>
-            <pubDate>Fri, 13 Dec 2024 11:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733293759251_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -904,6 +904,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733368595767_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이묭 Aimyon - 5집 고양이에게 질투 Jealous of Cats (Cassette tape) (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/b34458f8-51e3-4825-9316-fd9bd547b742</link>
+            <guid>https://www.seoulvinyl.com/product/b34458f8-51e3-4825-9316-fd9bd547b742</guid>
+            <pubDate>Tue, 31 Dec 2024 05:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735618642511_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Hiromi Iwasaki 히로미 이와사키 - WISH [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/8875c7f1-bf70-46a4-bed3-aa70126c0c16</link>
             <guid>https://www.seoulvinyl.com/product/8875c7f1-bf70-46a4-bed3-aa70126c0c16</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">131,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1728029875317_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ado 아도 - Zanmu (잔몽) [2LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/2cb63c10-fa71-4f7f-8c26-e7b4c848a3bc</link>
-            <guid>https://www.seoulvinyl.com/product/2cb63c10-fa71-4f7f-8c26-e7b4c848a3bc</guid>
-            <pubDate>Wed, 30 Oct 2024 20:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1727839600904_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CITY POP BEST100――シティ・ポップの名曲 1973-1989 (서울바이닐 ─ etc)]]></title>
