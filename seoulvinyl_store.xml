@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jan 2025 06:15:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jan 2025 07:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[V.A- 서울의 밤과 낮 (The night and day in Seoul) [블랙 & 투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/3f88af42-f7db-46d2-a0a7-e994ba5464d8</link>
+            <guid>https://www.seoulvinyl.com/product/3f88af42-f7db-46d2-a0a7-e994ba5464d8</guid>
+            <pubDate>Thu, 02 Jan 2025 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">38,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735800247348_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 한대수 - Masterpiece [180g 3LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a68f8b6a-a18b-434d-8a33-9e432c591842</link>
+            <guid>https://www.seoulvinyl.com/product/a68f8b6a-a18b-434d-8a33-9e432c591842</guid>
+            <pubDate>Thu, 02 Jan 2025 07:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">88,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735799487723_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이묭 Aimyon - 5집 고양이에게 질투 Jealous of Cats (Cassette tape)]]></title>
             <link>https://www.seoulvinyl.com/product/b34458f8-51e3-4825-9316-fd9bd547b742</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 17 Dec 2024 11:09:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">192,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724307965904_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 2NE1 투애니원 - 15th ANNIVERSARY BEST LP]]></title>
-            <link>https://www.seoulvinyl.com/product/c97f8eb3-52b9-4e6b-a810-00d0f3a6518c</link>
-            <guid>https://www.seoulvinyl.com/product/c97f8eb3-52b9-4e6b-a810-00d0f3a6518c</guid>
-            <pubDate>Mon, 16 Dec 2024 06:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734328133919_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis(마일스 데이비스)- You're Under Arrest (LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/3a06be2e-62ca-4a78-add1-412baceab8e5-3648</link>
-            <guid>https://www.seoulvinyl.com/product/3a06be2e-62ca-4a78-add1-412baceab8e5-3648</guid>
-            <pubDate>Fri, 13 Dec 2024 11:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731732132522_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
