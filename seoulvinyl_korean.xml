@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jan 2025 02:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jan 2025 03:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 유다빈밴드(YdBB) EP - IGNITE [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4c985860-bdec-41d5-8693-22ee837f5b2d</link>
+            <guid>https://www.seoulvinyl.com/product/4c985860-bdec-41d5-8693-22ee837f5b2d</guid>
+            <pubDate>Mon, 06 Jan 2025 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736131887687_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 허험스(Herhums) 2집 - To Save Us All [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/46f2891e-878f-46e6-98c6-1bd8e688c8f2</link>
+            <guid>https://www.seoulvinyl.com/product/46f2891e-878f-46e6-98c6-1bd8e688c8f2</guid>
+            <pubDate>Mon, 06 Jan 2025 03:20:31 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736132072344_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[델리스파이스 - 1집 [180g black vinyl]]]></title>
             <link>https://www.seoulvinyl.com/product/372699c1-f80c-4978-ae9e-d134753cd16e-3672</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 12 Dec 2024 10:12:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996810590_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] SNAKE CHICKEN SOUP 7인치 바이닐]]></title>
-            <link>https://www.seoulvinyl.com/product/46062f59-8777-48f1-8226-b7faefb50d2d</link>
-            <guid>https://www.seoulvinyl.com/product/46062f59-8777-48f1-8226-b7faefb50d2d</guid>
-            <pubDate>Thu, 12 Dec 2024 10:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996607977_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스텔라장 - WinterStella [Christmas EP, 45RPM 1LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d-3637</link>
-            <guid>https://www.seoulvinyl.com/product/abcb98af-0d2a-4df3-92c6-d9574f165b1d-3637</guid>
-            <pubDate>Thu, 12 Dec 2024 10:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1670212869809_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
