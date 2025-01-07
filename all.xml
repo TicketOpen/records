@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 05:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 구원찬 - 반복 [140g Cool Grey 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</link>
+            <guid>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</guid>
+            <pubDate>Tue, 07 Jan 2025 06:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736228825860_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Fisherman, 구원찬 - Format [140g Solid Mint 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/84b24c8a-665a-41e1-b88c-dc034bc422d9</link>
+            <guid>https://www.seoulvinyl.com/product/84b24c8a-665a-41e1-b88c-dc034bc422d9</guid>
+            <pubDate>Tue, 07 Jan 2025 06:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736228338179_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 유다빈밴드(YdBB) EP - IGNITE [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/4c985860-bdec-41d5-8693-22ee837f5b2d</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 25 Dec 2024 11:07:57 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735121174481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Duran Duran - Notorious (Remastered)(LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6db81b95-0c1e-4aec-9f6e-d53e0a0d8dfd</link>
-            <guid>https://www.seoulvinyl.com/product/6db81b95-0c1e-4aec-9f6e-d53e0a0d8dfd</guid>
-            <pubDate>Tue, 24 Dec 2024 11:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735035841857_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Luther Vandross 루더 밴드로스 - Never Too Much: Greatest Hits (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</link>
-            <guid>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</guid>
-            <pubDate>Tue, 24 Dec 2024 11:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731742927006_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored] (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731910756113_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 구원찬 - 반복 [140g Cool Grey 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</link>
+            <guid>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</guid>
+            <pubDate>Tue, 07 Jan 2025 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736228825860_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Fisherman, 구원찬 - Format [140g Solid Mint 컬러 LP] (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/84b24c8a-665a-41e1-b88c-dc034bc422d9</link>
+            <guid>https://www.seoulvinyl.com/product/84b24c8a-665a-41e1-b88c-dc034bc422d9</guid>
+            <pubDate>Tue, 07 Jan 2025 06:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736228338179_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 유다빈밴드(YdBB) EP - IGNITE [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/4c985860-bdec-41d5-8693-22ee837f5b2d</link>
             <guid>https://www.seoulvinyl.com/product/4c985860-bdec-41d5-8693-22ee837f5b2d</guid>
@@ -886,22 +902,6 @@
             <pubDate>Fri, 13 Dec 2024 06:14:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734066827687_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 봉제인간 7인치 바이닐 (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</link>
-            <guid>https://www.seoulvinyl.com/product/9c785b69-893c-416b-92d6-74dfdb855cdd</guid>
-            <pubDate>Thu, 12 Dec 2024 10:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996973751_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] WAH WAH WAH 7인치 바이닐 (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/5a752dfe-05a2-458f-97b0-047f01ed59e6</link>
-            <guid>https://www.seoulvinyl.com/product/5a752dfe-05a2-458f-97b0-047f01ed59e6</guid>
-            <pubDate>Thu, 12 Dec 2024 10:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733996810590_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이묭 Aimyon - 5집 고양이에게 질투 Jealous of Cats (colored vinyl) (서울바이닐 ─ JAPANESE)]]></title>
