@@ -4,16 +4,24 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 11:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 12:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 소공연 라이브 온에어, 무신사 개러지 X 29 cm [세트 상품]]]></title>
+            <link>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</link>
+            <guid>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</guid>
+            <pubDate>Tue, 07 Jan 2025 12:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">125,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250580913_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 무신사 개러지 X 29cm [Pink colored]]]></title>
             <link>https://www.seoulvinyl.com/product/a164dcd2-d935-472f-b44a-102e6e3696db</link>
             <guid>https://www.seoulvinyl.com/product/a164dcd2-d935-472f-b44a-102e6e3696db</guid>
             <pubDate>Tue, 07 Jan 2025 11:08:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736246520107_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250147881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 - 소공연 라이브 온에어 [Transparent sky blue colored]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998477628_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스 (DAY6) 2집 - Moonrise (Orange Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/7776bb96-924a-4354-818c-7660935c8351-2773</link>
-            <guid>https://www.seoulvinyl.com/product/7776bb96-924a-4354-818c-7660935c8351-2773</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998083681_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,16 +4,24 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 11:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 12:19:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 소공연 라이브 온에어, 무신사 개러지 X 29 cm [세트 상품]]]></title>
+            <link>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</link>
+            <guid>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</guid>
+            <pubDate>Tue, 07 Jan 2025 12:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">125,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250580913_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 무신사 개러지 X 29cm [Pink colored]]]></title>
             <link>https://www.seoulvinyl.com/product/a164dcd2-d935-472f-b44a-102e6e3696db</link>
             <guid>https://www.seoulvinyl.com/product/a164dcd2-d935-472f-b44a-102e6e3696db</guid>
             <pubDate>Tue, 07 Jan 2025 11:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736246520107_1000.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250147881_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 구원찬 - 반복 [140g Cool Grey 컬러 LP]]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 13 Dec 2024 11:10:14 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733293759251_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Poles (더 폴스) - Anomalies in the oddity space [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/1d2c9abc-8c65-4d82-903c-4de2f4facab2-3644</link>
-            <guid>https://www.seoulvinyl.com/product/1d2c9abc-8c65-4d82-903c-4de2f4facab2-3644</guid>
-            <pubDate>Fri, 13 Dec 2024 11:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1724303320573_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
