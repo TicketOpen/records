@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 12:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 13:20:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] The Weeknd 더 위켄드 - Hurry Up Tomorrow [black vinyl] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2db4fc0e-b400-4cc8-a328-a45e6af49ee5</link>
+            <guid>https://www.seoulvinyl.com/product/2db4fc0e-b400-4cc8-a328-a45e6af49ee5</guid>
+            <pubDate>Tue, 07 Jan 2025 13:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736252030461_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 온에어, 무신사 개러지 X 29 cm [세트 상품] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</link>
@@ -128,18 +136,10 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735193697203_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Hiromi Iwasaki 히로미 이와사키 - WISH [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/8875c7f1-bf70-46a4-bed3-aa70126c0c16</link>
-            <guid>https://www.seoulvinyl.com/product/8875c7f1-bf70-46a4-bed3-aa70126c0c16</guid>
-            <pubDate>Wed, 25 Dec 2024 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735122142256_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 온에어, 무신사 개러지 X 29 cm [세트 상품] (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</link>
             <guid>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</guid>
-            <pubDate>Tue, 07 Jan 2025 12:17:55 GMT</pubDate>
+            <pubDate>Tue, 07 Jan 2025 12:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">125,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250580913_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998477628_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] The Weeknd 더 위켄드 - Hurry Up Tomorrow [black vinyl] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/2db4fc0e-b400-4cc8-a328-a45e6af49ee5</link>
+            <guid>https://www.seoulvinyl.com/product/2db4fc0e-b400-4cc8-a328-a45e6af49ee5</guid>
+            <pubDate>Tue, 07 Jan 2025 13:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736252030461_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Luther Vandross 루더 밴드로스 - Never Too Much: Greatest Hits (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</link>
             <guid>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 19 Nov 2024 08:13:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732003273220_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MF DOOM- MM..FOOD [RSD Edition, Baby pink colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/7e667bee-48ab-4d65-b430-a83107d0943d</link>
-            <guid>https://www.seoulvinyl.com/product/7e667bee-48ab-4d65-b430-a83107d0943d</guid>
-            <pubDate>Tue, 19 Nov 2024 08:13:44 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732002554575_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bob Marley 밥 말리 - One Love(Original Motion Picture Soundtrack) [LP] (서울바이닐 ─ OST)]]></title>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 온에어, 무신사 개러지 X 29 cm [세트 상품] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</link>
             <guid>https://www.seoulvinyl.com/product/a5dc2108-a83a-4e63-bd7e-17fcf721a6ad</guid>
-            <pubDate>Tue, 07 Jan 2025 12:18:41 GMT</pubDate>
+            <pubDate>Tue, 07 Jan 2025 12:17:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">125,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250580913_1000.jpg" length="0" type="image/jpg"/>
         </item>
