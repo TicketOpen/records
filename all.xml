@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jan 2025 00:46:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jan 2025 02:14:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1456,14 +1456,6 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201909/72d15234b424fafcd98deac4aef38a0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Slowlove & the city 슬로우러브앤더시티 정규1집 'Catch Up!' (공상온도 스토어 ─ 음반)]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=1142&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1142&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[13,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/201908/b51a904e1bacd3f0ed61fbca0b1e680b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Three Fakes EP ‘FAKES’ (공상온도 스토어 ─ 음반)]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=1022&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=1022&amp;cate_no=60&amp;display_group=1</guid>
@@ -1542,6 +1534,14 @@
             <pubDate>Fri, 03 Jan 2025 14:10:15 GMT</pubDate>
             <content:encoded><![CDATA[15,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/21f921436e577788ca024a020f0415c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[음악만세 Hail to the Music 단편선 순간들 CD 음반 (공상온도 스토어 ─ 음반)]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2219&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2219&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Jan 2025 02:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/78146d48a0cd397ea7ae196285f4d4e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
