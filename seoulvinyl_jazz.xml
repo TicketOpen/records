@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ JAZZ</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jan 2025 08:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jan 2025 09:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시)- BRASILIAN SKIES [colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a73621aa-a6a7-4efb-8e33-e309a720b5ad</link>
+            <guid>https://www.seoulvinyl.com/product/a73621aa-a6a7-4efb-8e33-e309a720b5ad</guid>
+            <pubDate>Fri, 10 Jan 2025 09:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736498476445_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시)- JOLLY JIVE [colored LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/014e412f-c1ea-4ee0-8298-00743347d0f1</link>
+            <guid>https://www.seoulvinyl.com/product/014e412f-c1ea-4ee0-8298-00743347d0f1</guid>
+            <pubDate>Fri, 10 Jan 2025 09:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736498249034_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시) -All Of Me [colored 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/b9101320-27c4-4c99-8396-c8f16d15679b</link>
+            <guid>https://www.seoulvinyl.com/product/b9101320-27c4-4c99-8396-c8f16d15679b</guid>
+            <pubDate>Fri, 10 Jan 2025 09:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736497385914_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Roy Hargrove 로이 하그로브 - Earfood [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/38ac2130-27a4-48a2-b5c5-80e6774d8734</link>
@@ -110,30 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726890954737_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Garland Trio(레드 갈란드 트리오) - Groovy (OJC)(180g LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/f5482da8-6416-4b09-9b74-b17d03edca1e</link>
-            <guid>https://www.seoulvinyl.com/product/f5482da8-6416-4b09-9b74-b17d03edca1e</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726826996087_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine (웰던 어빈) - In harmony]]></title>
-            <link>https://www.seoulvinyl.com/product/a58fe163-c5e5-4f71-8d1d-d554156376b4</link>
-            <guid>https://www.seoulvinyl.com/product/a58fe163-c5e5-4f71-8d1d-d554156376b4</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726224855012_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takanaka Masayoshi (타카나카 마사요시) - AN INSATIABLE HIGH]]></title>
-            <link>https://www.seoulvinyl.com/product/cb24b6bc-8d9f-4158-a349-3dac21c3b07b-3432</link>
-            <guid>https://www.seoulvinyl.com/product/cb24b6bc-8d9f-4158-a349-3dac21c3b07b-3432</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">66,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1710748974832_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
