@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 04:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 05:11:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] The Poles (더 폴스) - 1집 The High Tide Club [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/a499e115-3f35-415a-91a8-8c4686b99fdb</link>
+            <guid>https://www.seoulvinyl.com/product/a499e115-3f35-415a-91a8-8c4686b99fdb</guid>
+            <pubDate>Wed, 15 Jan 2025 05:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736917380561_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 원더로크 [Black colored]]]></title>
             <link>https://www.seoulvinyl.com/product/bb6fb2c3-1cda-4141-9e15-b838cd5ecb5f</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 24 Dec 2024 11:09:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1617276012272_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 리사 - Alter Ego : standard [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d610e7a8-45a5-4c3c-85e7-07009ad73795</link>
-            <guid>https://www.seoulvinyl.com/product/d610e7a8-45a5-4c3c-85e7-07009ad73795</guid>
-            <pubDate>Tue, 24 Dec 2024 10:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1735032027683_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
