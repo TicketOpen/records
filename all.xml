@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jan 2025 07:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jan 2025 08:14:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jay-Z / Linkin Park 제이지/린킨파크 - Collision Course [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</link>
+            <guid>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</guid>
+            <pubDate>Wed, 15 Jan 2025 08:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736927773376_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boyz II Men 보이즈 투 맨 - Christmas Interpretations (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</link>
+            <guid>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</guid>
+            <pubDate>Wed, 15 Jan 2025 08:12:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736926239680_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] The Poles (더 폴스) - 1집 The High Tide Club [LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/a499e115-3f35-415a-91a8-8c4686b99fdb</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 07 Jan 2025 11:08:42 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250147881_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 구원찬 - 반복 [140g Cool Grey 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</link>
-            <guid>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</guid>
-            <pubDate>Tue, 07 Jan 2025 06:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736228825860_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Fisherman, 구원찬 - Format [140g Solid Mint 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/84b24c8a-665a-41e1-b88c-dc034bc422d9</link>
-            <guid>https://www.seoulvinyl.com/product/84b24c8a-665a-41e1-b88c-dc034bc422d9</guid>
-            <pubDate>Tue, 07 Jan 2025 06:14:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736228338179_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 원더로크 [Black colored] (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,22 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998377679_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jay-Z / Linkin Park 제이지/린킨파크 - Collision Course [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</link>
+            <guid>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</guid>
+            <pubDate>Wed, 15 Jan 2025 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736927773376_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boyz II Men 보이즈 투 맨 - Christmas Interpretations (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</link>
+            <guid>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</guid>
+            <pubDate>Wed, 15 Jan 2025 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736926239680_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[모서리 할인] John Legend 존 레전드 – A Legendary Christmas (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/92f70c2d-cf14-449b-996c-a9d03a72ef8e</link>
             <guid>https://www.seoulvinyl.com/product/92f70c2d-cf14-449b-996c-a9d03a72ef8e</guid>
@@ -374,22 +390,6 @@
             <pubDate>Wed, 27 Nov 2024 11:09:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732703014617_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[H.E.R. - 2집 I Used To Know Her [Gold Colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/14737fa1-03f7-413d-b0de-677899b1fdef</link>
-            <guid>https://www.seoulvinyl.com/product/14737fa1-03f7-413d-b0de-677899b1fdef</guid>
-            <pubDate>Wed, 27 Nov 2024 11:09:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732702722735_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars (브루노 마스) - 3집 XXIVk Magic [clear colored LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/0be2f57d-ea7c-4e7c-98d2-1484eed7729d</link>
-            <guid>https://www.seoulvinyl.com/product/0be2f57d-ea7c-4e7c-98d2-1484eed7729d</guid>
-            <pubDate>Wed, 27 Nov 2024 10:11:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732700899005_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bob Marley 밥 말리 - One Love(Original Motion Picture Soundtrack) [LP] (서울바이닐 ─ OST)]]></title>
