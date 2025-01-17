@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 08:13:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dexter Wansel 덱스터 웬젤 - Life On Mars [translucent blue colored LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6c4a2325-295f-49ad-a7cb-5de37c1c1a23</link>
+            <guid>https://www.seoulvinyl.com/product/6c4a2325-295f-49ad-a7cb-5de37c1c1a23</guid>
+            <pubDate>Fri, 17 Jan 2025 09:10:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737101626216_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Wonder 스티비 원더 - The Definitive Collection [Gatefold 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736498476445_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시)- JOLLY JIVE [colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/014e412f-c1ea-4ee0-8298-00743347d0f1</link>
-            <guid>https://www.seoulvinyl.com/product/014e412f-c1ea-4ee0-8298-00743347d0f1</guid>
-            <pubDate>Fri, 10 Jan 2025 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736498249034_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 원더로크 [Black colored] (서울바이닐 ─ 제작)]]></title>
@@ -267,7 +267,7 @@
             <title><![CDATA[Stevie Wonder 스티비 원더 - The Definitive Collection [Gatefold 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</link>
             <guid>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</guid>
-            <pubDate>Fri, 17 Jan 2025 08:12:55 GMT</pubDate>
+            <pubDate>Fri, 17 Jan 2025 08:12:38 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737101175386_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -520,6 +520,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713611044741_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dexter Wansel 덱스터 웬젤 - Life On Mars [translucent blue colored LP] (서울바이닐 ─ JAZZ)]]></title>
+            <link>https://www.seoulvinyl.com/product/6c4a2325-295f-49ad-a7cb-5de37c1c1a23</link>
+            <guid>https://www.seoulvinyl.com/product/6c4a2325-295f-49ad-a7cb-5de37c1c1a23</guid>
+            <pubDate>Fri, 17 Jan 2025 09:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737101626216_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시)- BRASILIAN SKIES [colored LP] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/a73621aa-a6a7-4efb-8e33-e309a720b5ad</link>
             <guid>https://www.seoulvinyl.com/product/a73621aa-a6a7-4efb-8e33-e309a720b5ad</guid>
@@ -638,14 +646,6 @@
             <pubDate>Thu, 31 Oct 2024 07:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">72,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1730355811876_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane (존 콜트레인) - A Love Supreme (180g)(LP) (서울바이닐 ─ JAZZ)]]></title>
-            <link>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</link>
-            <guid>https://www.seoulvinyl.com/product/0c5b41af-3e89-46b4-8747-e44038802b64</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1726890954737_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mr. Big 미스터 빅 - Lean Into It (30th Anniversary Edition)(180g LP) (서울바이닐 ─ ROCK & POP)]]></title>
