@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jan 2025 07:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 08:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stevie Wonder 스티비 원더 - The Definitive Collection [Gatefold 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</link>
+            <guid>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</guid>
+            <pubDate>Fri, 17 Jan 2025 08:12:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737101175386_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[모서리 할인] Kanye west 카니예 웨스트 - Vultures 1 (Marble colored vinyl) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/eb657828-ec9b-4e42-9768-678eb5c13e92</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 09:10:51 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736498249034_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시) -All Of Me [colored 2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/b9101320-27c4-4c99-8396-c8f16d15679b</link>
-            <guid>https://www.seoulvinyl.com/product/b9101320-27c4-4c99-8396-c8f16d15679b</guid>
-            <pubDate>Fri, 10 Jan 2025 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736497385914_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 원더로크 [Black colored] (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998377679_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Stevie Wonder 스티비 원더 - The Definitive Collection [Gatefold 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</link>
+            <guid>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</guid>
+            <pubDate>Fri, 17 Jan 2025 08:12:55 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737101175386_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[모서리 할인] Kanye west 카니예 웨스트 - Vultures 1 (Marble colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/eb657828-ec9b-4e42-9768-678eb5c13e92</link>
             <guid>https://www.seoulvinyl.com/product/eb657828-ec9b-4e42-9768-678eb5c13e92</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 03 Dec 2024 08:14:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733210545560_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay Z & Kanye West 제이지 & 칸예 웨스트 lp - Watch The Throne Picture vinyl (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/untitled-576-3616</link>
-            <guid>https://www.seoulvinyl.com/product/untitled-576-3616</guid>
-            <pubDate>Wed, 04 Dec 2024 06:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">167,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1587990363545_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bob Marley 밥 말리 - One Love(Original Motion Picture Soundtrack) [LP] (서울바이닐 ─ OST)]]></title>
