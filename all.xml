@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jan 2025 08:12:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jan 2025 09:10:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,6 +54,14 @@
             <pubDate>Wed, 15 Jan 2025 10:10:06 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736934865300_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jay-Z / Linkin Park 제이지/린킨파크 - Collision Course [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</link>
+            <guid>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</guid>
+            <pubDate>Sat, 18 Jan 2025 09:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736927773376_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Boyz II Men 보이즈 투 맨 - Christmas Interpretations (LP) (서울바이닐 ─ 스토어)]]></title>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 10:10:59 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736502972374_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시)- BRASILIAN SKIES [colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a73621aa-a6a7-4efb-8e33-e309a720b5ad</link>
-            <guid>https://www.seoulvinyl.com/product/a73621aa-a6a7-4efb-8e33-e309a720b5ad</guid>
-            <pubDate>Fri, 10 Jan 2025 09:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736498476445_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 원더로크 [Black colored] (서울바이닐 ─ 제작)]]></title>
@@ -288,6 +288,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736934865300_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jay-Z / Linkin Park 제이지/린킨파크 - Collision Course [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</link>
+            <guid>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</guid>
+            <pubDate>Sat, 18 Jan 2025 09:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736927773376_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Boyz II Men 보이즈 투 맨 - Christmas Interpretations (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</link>
             <guid>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</guid>
@@ -384,14 +392,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733308059062_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Kanye west 카니예 웨스트 - Vultures 1 (Marble colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/4ef2e2ec-f2a2-4fab-948f-beef68e35b85</link>
-            <guid>https://www.seoulvinyl.com/product/4ef2e2ec-f2a2-4fab-948f-beef68e35b85</guid>
-            <pubDate>Tue, 03 Dec 2024 08:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733210545560_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bob Marley 밥 말리 - One Love(Original Motion Picture Soundtrack) [LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/ee5d2ea6-33d6-4091-8f36-e434b011b7af</link>
             <guid>https://www.seoulvinyl.com/product/ee5d2ea6-33d6-4091-8f36-e434b011b7af</guid>
@@ -446,14 +446,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1723029586844_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sakamoto Ryuichi (사카모토 류이치) - Neo Geo (180g LP) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</link>
-            <guid>https://www.seoulvinyl.com/product/386e3557-f97e-49d0-a545-19b72c8d98f0</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1722857811771_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[드라마 '눈물의 여왕' O.S.T [투명 스카이블루 LP] (서울바이닐 ─ OST)]]></title>
@@ -518,6 +510,14 @@
             <pubDate>Wed, 30 Oct 2024 20:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713611044741_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O.S.T. - Top Gun: Maverick (탑건: 매버릭) (Soundtrack)(Ltd)(White Colored LP) (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</link>
+            <guid>https://www.seoulvinyl.com/product/52a07060-c3e1-4c85-a015-0fa6d5cf6ebc-3191</guid>
+            <pubDate>Sat, 18 Jan 2025 09:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1657970263439_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dexter Wansel 덱스터 웬젤 - Life On Mars [translucent blue colored LP] (서울바이닐 ─ JAZZ)]]></title>
