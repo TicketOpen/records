@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 제작</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 09:13:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 10:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트]]></title>
+            <link>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</link>
+            <guid>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</guid>
+            <pubDate>Mon, 20 Jan 2025 10:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">256,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366671274_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 장범준 소공연 라이브 온더스테이지 [Yellow colored Gatefold 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</link>
+            <guid>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</guid>
+            <pubDate>Mon, 20 Jan 2025 10:10:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366387602_1000.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 원더로크 [Black colored]]]></title>
             <link>https://www.seoulvinyl.com/product/bb6fb2c3-1cda-4141-9e15-b838cd5ecb5f</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">70,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yamasita Tatsuro 카세트 테이프 모음집]]></title>
-            <link>https://www.seoulvinyl.com/product/18c57519-d8f3-4e44-9221-299879cd412a</link>
-            <guid>https://www.seoulvinyl.com/product/18c57519-d8f3-4e44-9221-299879cd412a</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">350,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1708424945685_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데이식스 (DAY6) 1집 - Sunrise (Pink Colored 2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2771</link>
-            <guid>https://www.seoulvinyl.com/product/15eaa0b0-3c39-476c-b179-e48f256dc9ef-2771</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1679998377679_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
