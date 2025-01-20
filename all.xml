@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 10:12:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 11:10:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -139,7 +139,7 @@
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</link>
             <guid>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</guid>
-            <pubDate>Mon, 20 Jan 2025 10:10:52 GMT</pubDate>
+            <pubDate>Mon, 20 Jan 2025 10:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">256,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366671274_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -147,7 +147,7 @@
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 온더스테이지 [Yellow colored Gatefold 2LP] (서울바이닐 ─ 제작)]]></title>
             <link>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</link>
             <guid>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</guid>
-            <pubDate>Mon, 20 Jan 2025 10:10:52 GMT</pubDate>
+            <pubDate>Mon, 20 Jan 2025 10:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366387602_1000.png" length="0" type="image/png"/>
         </item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</link>
             <guid>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</guid>
-            <pubDate>Mon, 20 Jan 2025 10:11:37 GMT</pubDate>
+            <pubDate>Mon, 20 Jan 2025 10:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">256,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366671274_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -787,7 +787,7 @@
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 온더스테이지 [Yellow colored Gatefold 2LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</link>
             <guid>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</guid>
-            <pubDate>Mon, 20 Jan 2025 10:11:37 GMT</pubDate>
+            <pubDate>Mon, 20 Jan 2025 10:10:43 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366387602_1000.png" length="0" type="image/png"/>
         </item>
