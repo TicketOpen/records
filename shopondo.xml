@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jan 2025 04:13:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jan 2025 05:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,12 +384,12 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202411/bfeb98d51406e81ad9c0031545456065.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ō  신고도 (Shin Kodot) CD+책자 음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2221&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2221&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Jan 2025 14:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/21f921436e577788ca024a020f0415c4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[음악만세 Hail to the Music 단편선 순간들 CD 음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2219&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2219&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Jan 2025 05:13:23 GMT</pubDate>
+            <content:encoded><![CDATA[20,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/78146d48a0cd397ea7ae196285f4d4e9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
