@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jan 2025 08:14:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jan 2025 09:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Emotional Oranges (이모셔널 오렌지스) - The Juice: Vol. 2 [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/904e29f2-533a-469a-b5d2-31a99bd77937</link>
+            <guid>https://www.seoulvinyl.com/product/904e29f2-533a-469a-b5d2-31a99bd77937</guid>
+            <pubDate>Thu, 23 Jan 2025 09:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737621937682_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김마리 - 淸, 靑 [12인치 45 RPM Transparent 140g LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/c46c90e8-f47c-411e-9bc0-a2b233e358d2</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 14 Jan 2025 06:13:23 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736832345720_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Phum Viphurit 품 비푸릿 - Bangkok Balter Club [LIGHT YELLOW colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/a8c51fbc-1a9b-47c6-b73f-adf888a2e2a3</link>
-            <guid>https://www.seoulvinyl.com/product/a8c51fbc-1a9b-47c6-b73f-adf888a2e2a3</guid>
-            <pubDate>Tue, 14 Jan 2025 03:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736824208539_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Emotional Oranges (이모셔널 오렌지스) - The Juice: Vol. 2 [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/904e29f2-533a-469a-b5d2-31a99bd77937</link>
+            <guid>https://www.seoulvinyl.com/product/904e29f2-533a-469a-b5d2-31a99bd77937</guid>
+            <pubDate>Thu, 23 Jan 2025 09:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737621937682_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Stevie Wonder 스티비 원더 - The Definitive Collection [Gatefold 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</link>
             <guid>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733560292366_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Childish Gambino 차일디시 감비노- Atavista [Gatefold 140g 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</link>
-            <guid>https://www.seoulvinyl.com/product/cb8cc043-e648-4ff2-9b95-5fd374584af2</guid>
-            <pubDate>Wed, 04 Dec 2024 11:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733308059062_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bob Marley 밥 말리 - One Love(Original Motion Picture Soundtrack) [LP] (서울바이닐 ─ OST)]]></title>
