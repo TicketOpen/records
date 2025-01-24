@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 06:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 07:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731742927006_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shakatak (샤카 탁) - Night Birds (Remastered) (Gold colored Vinyl)]]></title>
-            <link>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</link>
-            <guid>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</guid>
-            <pubDate>Fri, 13 Dec 2024 09:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734079437006_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Luther Vandross (루더 밴드로스) - This Is Christmas [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/6283d592-3538-4503-a49a-59acb3ffe3ce</link>
             <guid>https://www.seoulvinyl.com/product/6283d592-3538-4503-a49a-59acb3ffe3ce</guid>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 09 Dec 2024 08:15:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733561150312_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doja Cat 도자캣 - 4집 Scarlet 2 CLAUDE [Colored 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</link>
+            <guid>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</guid>
+            <pubDate>Fri, 24 Jan 2025 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733560292366_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

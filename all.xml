@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jan 2025 06:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 07:11:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,14 +352,6 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731742927006_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shakatak (샤카 탁) - Night Birds (Remastered) (Gold colored Vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</link>
-            <guid>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</guid>
-            <pubDate>Fri, 13 Dec 2024 09:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734079437006_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Luther Vandross (루더 밴드로스) - This Is Christmas [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/6283d592-3538-4503-a49a-59acb3ffe3ce</link>
             <guid>https://www.seoulvinyl.com/product/6283d592-3538-4503-a49a-59acb3ffe3ce</guid>
@@ -390,6 +382,14 @@
             <pubDate>Sat, 07 Dec 2024 09:10:03 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733561150312_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Doja Cat 도자캣 - 4집 Scarlet 2 CLAUDE [Colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</link>
+            <guid>https://www.seoulvinyl.com/product/d28925f6-e2d4-4911-9a01-e11a2cc0b934</guid>
+            <pubDate>Fri, 24 Jan 2025 07:09:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">54,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733560292366_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bob Marley 밥 말리 - One Love(Original Motion Picture Soundtrack) [LP] (서울바이닐 ─ OST)]]></title>
@@ -704,6 +704,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1715230030853_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Shakatak (샤카 탁) - Night Birds (Remastered) (Gold colored Vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</link>
+            <guid>https://www.seoulvinyl.com/product/cf63cc24-1093-4e4a-b4cc-b5a342e50c9b</guid>
+            <pubDate>Fri, 13 Dec 2024 09:11:16 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1734079437006_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis (오아시스) - Complete 7-inch Single Collection Box Volume 1&2 세트 상품 (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/7f615af2-f0cb-4d4d-8b23-ebcb12d453db</link>
             <guid>https://www.seoulvinyl.com/product/7f615af2-f0cb-4d4d-8b23-ebcb12d453db</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 19 Nov 2024 07:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731997276768_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Daft Punk 다프트 펑크 - Discovery (Interstella 5555 Edition)(140g Gatefold black 2LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/f3dec890-519d-4aa2-95b3-88fe0e3199c9</link>
-            <guid>https://www.seoulvinyl.com/product/f3dec890-519d-4aa2-95b3-88fe0e3199c9</guid>
-            <pubDate>Mon, 18 Nov 2024 11:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731927389789_1000.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김마리 - 淸, 靑 [12인치 45 RPM Transparent 140g LP] (서울바이닐 ─ KOREAN)]]></title>
