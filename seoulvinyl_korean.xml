@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 10:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 11:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 소향 정규 1집 - DIVA [LP] (미출간)]]></title>
+            <link>https://www.seoulvinyl.com/product/a008753d-d685-46a5-b697-a9784acc8053</link>
+            <guid>https://www.seoulvinyl.com/product/a008753d-d685-46a5-b697-a9784acc8053</guid>
+            <pubDate>Sat, 25 Jan 2025 11:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737801652097_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 다비치(DAVICHI) - Stitch [LP] (미출간)]]></title>
+            <link>https://www.seoulvinyl.com/product/1c29ca7c-d8ed-405c-b231-36c96005f047</link>
+            <guid>https://www.seoulvinyl.com/product/1c29ca7c-d8ed-405c-b231-36c96005f047</guid>
+            <pubDate>Sat, 25 Jan 2025 11:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737708222798_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김마리 - 淸, 靑 [12인치 45 RPM Transparent 140g LP]]]></title>
             <link>https://www.seoulvinyl.com/product/c46c90e8-f47c-411e-9bc0-a2b233e358d2</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 06 Jan 2025 03:20:31 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736131887687_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 허험스(Herhums) 2집 - To Save Us All [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/46f2891e-878f-46e6-98c6-1bd8e688c8f2</link>
-            <guid>https://www.seoulvinyl.com/product/46f2891e-878f-46e6-98c6-1bd8e688c8f2</guid>
-            <pubDate>Mon, 06 Jan 2025 03:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736132072344_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델리스파이스 - 1집 [180g black vinyl]]]></title>
-            <link>https://www.seoulvinyl.com/product/372699c1-f80c-4978-ae9e-d134753cd16e-3672</link>
-            <guid>https://www.seoulvinyl.com/product/372699c1-f80c-4978-ae9e-d134753cd16e-3672</guid>
-            <pubDate>Thu, 02 Jan 2025 11:08:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731986912215_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

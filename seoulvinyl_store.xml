@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jan 2025 10:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jan 2025 11:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 소향 정규 1집 - DIVA [LP] (미출간)]]></title>
+            <link>https://www.seoulvinyl.com/product/a008753d-d685-46a5-b697-a9784acc8053</link>
+            <guid>https://www.seoulvinyl.com/product/a008753d-d685-46a5-b697-a9784acc8053</guid>
+            <pubDate>Sat, 25 Jan 2025 11:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737801652097_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] 다비치(DAVICHI) - Stitch [LP] (미출간)]]></title>
+            <link>https://www.seoulvinyl.com/product/1c29ca7c-d8ed-405c-b231-36c96005f047</link>
+            <guid>https://www.seoulvinyl.com/product/1c29ca7c-d8ed-405c-b231-36c96005f047</guid>
+            <pubDate>Sat, 25 Jan 2025 11:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737708222798_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Don Blackman(돈 블랙맨) - Don Blackman (180g Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/5d6a865a-caeb-4fb4-ba96-975cd21d6dba</link>
@@ -118,22 +134,6 @@
             <pubDate>Wed, 15 Jan 2025 08:12:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736926239680_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] The Poles (더 폴스) - 1집 The High Tide Club [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a499e115-3f35-415a-91a8-8c4686b99fdb</link>
-            <guid>https://www.seoulvinyl.com/product/a499e115-3f35-415a-91a8-8c4686b99fdb</guid>
-            <pubDate>Wed, 15 Jan 2025 05:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736917380561_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모서리 할인] John Legend 존 레전드 – A Legendary Christmas]]></title>
-            <link>https://www.seoulvinyl.com/product/92f70c2d-cf14-449b-996c-a9d03a72ef8e</link>
-            <guid>https://www.seoulvinyl.com/product/92f70c2d-cf14-449b-996c-a9d03a72ef8e</guid>
-            <pubDate>Tue, 14 Jan 2025 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736845357718_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
