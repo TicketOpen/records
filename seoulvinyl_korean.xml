@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Feb 2025 09:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Feb 2025 10:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] YB - Odyssey [블랙 & 화이트 마블 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/d1fcba9e-c9fe-4b36-8451-49cd10194a77</link>
+            <guid>https://www.seoulvinyl.com/product/d1fcba9e-c9fe-4b36-8451-49cd10194a77</guid>
+            <pubDate>Thu, 06 Feb 2025 10:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738836369742_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[로제(ROSÉ) - ROSE first studio album ‘rosie’ vinyl (vampirehollie edition clear)[클리어 LP]]]></title>
             <link>https://www.seoulvinyl.com/product/c2fdc125-ec67-4847-b1ea-7e16846286f3</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 07 Jan 2025 11:09:44 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736250147881_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 구원찬 - 반복 [140g Cool Grey 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</link>
-            <guid>https://www.seoulvinyl.com/product/59ecd40c-f11b-4b76-a14c-2f2400da3e3e</guid>
-            <pubDate>Tue, 07 Jan 2025 06:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736228825860_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
