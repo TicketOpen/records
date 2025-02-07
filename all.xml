@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Feb 2025 03:17:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Feb 2025 04:13:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 나의 완벽한 비서 (SBS 금토 드라마) OST [오렌지 & 투명 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/3683ffcf-9903-4c82-8b98-496a34af19ec</link>
+            <guid>https://www.seoulvinyl.com/product/3683ffcf-9903-4c82-8b98-496a34af19ec</guid>
+            <pubDate>Fri, 07 Feb 2025 04:11:46 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738900364448_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[위아더 나잇We Are The Night - Tiramisu Cake (7인치) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/7718b30d-2615-4e77-bc59-d618046cdf9c-3721</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 23 Jan 2025 11:08:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737627959701_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Emotional Oranges (이모셔널 오렌지스) - The Juice: Vol. 2 [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/904e29f2-533a-469a-b5d2-31a99bd77937</link>
-            <guid>https://www.seoulvinyl.com/product/904e29f2-533a-469a-b5d2-31a99bd77937</guid>
-            <pubDate>Thu, 23 Jan 2025 09:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737621937682_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733568078367_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] 나의 완벽한 비서 (SBS 금토 드라마) OST [오렌지 & 투명 컬러 2LP] (서울바이닐 ─ OST)]]></title>
+            <link>https://www.seoulvinyl.com/product/3683ffcf-9903-4c82-8b98-496a34af19ec</link>
+            <guid>https://www.seoulvinyl.com/product/3683ffcf-9903-4c82-8b98-496a34af19ec</guid>
+            <pubDate>Fri, 07 Feb 2025 04:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">82,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738900364448_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 – The Preacher's Wife (Original Soundtrack Album) [2LP] (서울바이닐 ─ OST)]]></title>
             <link>https://www.seoulvinyl.com/product/a162c0b9-3e28-404b-84cf-80d235f53c1a</link>
             <guid>https://www.seoulvinyl.com/product/a162c0b9-3e28-404b-84cf-80d235f53c1a</guid>
@@ -510,14 +518,6 @@
             <pubDate>Wed, 30 Oct 2024 20:11:35 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713612855853_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O.S.T. - Color Purple (컬러 퍼플) (Soundtrack)(3LP Colored vinyl) (서울바이닐 ─ OST)]]></title>
-            <link>https://www.seoulvinyl.com/product/1565c439-7fdc-49c3-b333-470f65a47884</link>
-            <guid>https://www.seoulvinyl.com/product/1565c439-7fdc-49c3-b333-470f65a47884</guid>
-            <pubDate>Wed, 30 Oct 2024 20:11:35 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1713611044741_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dexter Wansel 덱스터 웬젤 - Life On Mars [translucent blue colored LP] (서울바이닐 ─ JAZZ)]]></title>
