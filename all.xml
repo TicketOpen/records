@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Feb 2025 07:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Feb 2025 08:15:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[[예약판매] 강승원 - 이집 [LP] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/ee104d85-a663-4f57-a7e4-6c8ea059a4b3</link>
             <guid>https://www.seoulvinyl.com/product/ee104d85-a663-4f57-a7e4-6c8ea059a4b3</guid>
-            <pubDate>Mon, 10 Feb 2025 07:11:25 GMT</pubDate>
+            <pubDate>Mon, 10 Feb 2025 07:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739170515102_1000.jpg" length="0" type="image/jpg"/>
         </item>
