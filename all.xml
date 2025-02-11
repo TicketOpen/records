@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Feb 2025 10:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Feb 2025 11:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 6집 GNX [LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/fd447049-e620-44c4-9ce8-e8d32309576a</link>
+            <guid>https://www.seoulvinyl.com/product/fd447049-e620-44c4-9ce8-e8d32309576a</guid>
+            <pubDate>Tue, 11 Feb 2025 11:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739268525140_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - My Love Is Your Love [투명 블루 컬러 2LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/9bd5e55f-f913-495c-9f60-dc204065df8b</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 08 Feb 2025 11:07:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1714127431392_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Onuki Taeko (오누키 타에코) - Mignonne [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9784cb7b-3e44-44cf-93ea-905cf73e233c-3726</link>
-            <guid>https://www.seoulvinyl.com/product/9784cb7b-3e44-44cf-93ea-905cf73e233c-3726</guid>
-            <pubDate>Sat, 08 Feb 2025 11:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731741972511_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 6집 GNX [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/fd447049-e620-44c4-9ce8-e8d32309576a</link>
+            <guid>https://www.seoulvinyl.com/product/fd447049-e620-44c4-9ce8-e8d32309576a</guid>
+            <pubDate>Tue, 11 Feb 2025 11:08:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739268525140_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Whitney Houston 휘트니 휴스턴 - My Love Is Your Love [투명 블루 컬러 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/9bd5e55f-f913-495c-9f60-dc204065df8b</link>
             <guid>https://www.seoulvinyl.com/product/9bd5e55f-f913-495c-9f60-dc204065df8b</guid>
@@ -382,14 +390,6 @@
             <pubDate>Tue, 24 Dec 2024 11:08:18 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731742927006_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Luther Vandross (루더 밴드로스) - This Is Christmas [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/6283d592-3538-4503-a49a-59acb3ffe3ce</link>
-            <guid>https://www.seoulvinyl.com/product/6283d592-3538-4503-a49a-59acb3ffe3ce</guid>
-            <pubDate>Mon, 09 Dec 2024 11:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1733740387857_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ennio Morricone 엔니오 모리꼬네 - Cinema Paradiso OST 시네마천국 OST Vinyl (Yellow color LP) (서울바이닐 ─ OST)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731733007356_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jimi Hendrix Experience 지미 핸드릭스 - Axis: Bold As Love [LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/e2606bd5-176c-433a-a524-399bc1c98959</link>
+            <guid>https://www.seoulvinyl.com/product/e2606bd5-176c-433a-a524-399bc1c98959</guid>
+            <pubDate>Tue, 11 Feb 2025 11:09:28 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739271983949_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로제(ROSÉ) - ROSÉ first studio album ‘rosie’ vinyl (vampirehollie edition red) [레드 컬러 LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/d15691c1-e52e-4be6-9a17-1c677cfeaec7</link>
             <guid>https://www.seoulvinyl.com/product/d15691c1-e52e-4be6-9a17-1c677cfeaec7</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 19 Nov 2024 07:10:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">48,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731999622011_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Killers - Hot Fuss [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/df881ecf-0835-4a41-b3f3-905a40c2c219</link>
-            <guid>https://www.seoulvinyl.com/product/df881ecf-0835-4a41-b3f3-905a40c2c219</guid>
-            <pubDate>Tue, 19 Nov 2024 07:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731998066899_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] SMTOWN - 2025 SMTOWN : THE CULTURE, THE FUTURE [2LP] (서울바이닐 ─ KOREAN)]]></title>
