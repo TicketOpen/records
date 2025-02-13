@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 05:11:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 06:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모서리 할인] Mr Big (미스터 빅) - 1집 Mr. Big [투명 블루 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/63c8ab1a-ef7f-4f05-a2a3-ddccc21da7ad</link>
+            <guid>https://www.seoulvinyl.com/product/63c8ab1a-ef7f-4f05-a2a3-ddccc21da7ad</guid>
+            <pubDate>Thu, 13 Feb 2025 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739425233988_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Smith (더 스미스) - 3집 The Queen Is Dead [LP] [ 180g / Gatefold ]]]></title>
+            <link>https://www.seoulvinyl.com/product/c4c7846f-2bf6-43ec-a569-6846c048c4b9</link>
+            <guid>https://www.seoulvinyl.com/product/c4c7846f-2bf6-43ec-a569-6846c048c4b9</guid>
+            <pubDate>Thu, 13 Feb 2025 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739424732756_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Creedence Clearwater Revival (C.C.R. CCR) - Chronicle: The 20 Greatest Hits [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/26abef39-be39-4ff6-83fe-767c068c6d24</link>
+            <guid>https://www.seoulvinyl.com/product/26abef39-be39-4ff6-83fe-767c068c6d24</guid>
+            <pubDate>Thu, 13 Feb 2025 06:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739424160458_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Tanaka Yuri 타나카 유리 - City lights 1st [Clear Transparent LP]]]></title>
             <link>https://www.seoulvinyl.com/product/e3591f31-6933-4790-b678-3f5b19b31612</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 10 Feb 2025 11:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739185415908_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Radwimps (래드윔프스) - RADWIMPS 3 - Mujintou Ni Motteikiwasureta Ichimai [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/a0836e14-92fe-4aa3-9d6a-b966ef6733ee</link>
-            <guid>https://www.seoulvinyl.com/product/a0836e14-92fe-4aa3-9d6a-b966ef6733ee</guid>
-            <pubDate>Mon, 10 Feb 2025 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739185254304_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tyler The Creator 타일러 더 크리에이터 - Igor (Digipack)(CD)]]></title>
-            <link>https://www.seoulvinyl.com/product/5058c443-7a7e-44c1-812c-2d5b87d06b72</link>
-            <guid>https://www.seoulvinyl.com/product/5058c443-7a7e-44c1-812c-2d5b87d06b72</guid>
-            <pubDate>Mon, 10 Feb 2025 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">17,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739183724316_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bread & Butter (브레드 앤 버터) - Late Late Summer (Ivory LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/bca20edc-8f07-4c56-9be6-f5a7e2a6474d</link>
-            <guid>https://www.seoulvinyl.com/product/bca20edc-8f07-4c56-9be6-f5a7e2a6474d</guid>
-            <pubDate>Mon, 10 Feb 2025 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739183349572_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
