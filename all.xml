@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 03:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 04:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1008,6 +1008,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731741972511_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약판매] Haruomi Hosono 호소노 하루오미, Shigeru Suzuk스즈키 시게루, Tatsuro Yamashita 야마시타 타츠로 -Pacific [LP] (서울바이닐 ─ JAPANESE)]]></title>
+            <link>https://www.seoulvinyl.com/product/34215998-30a5-431b-a69d-880951915955</link>
+            <guid>https://www.seoulvinyl.com/product/34215998-30a5-431b-a69d-880951915955</guid>
+            <pubDate>Thu, 13 Feb 2025 04:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739009134695_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] Takanaka Masayoshi (타카나카 마사요시)- ON Guitar [LP] (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/14206f88-e8b6-4f54-ad30-81106b695ec7</link>
             <guid>https://www.seoulvinyl.com/product/14206f88-e8b6-4f54-ad30-81106b695ec7</guid>
@@ -1022,14 +1030,6 @@
             <pubDate>Fri, 31 Jan 2025 11:08:20 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738319878264_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Kinoko Teikoku 키노쿠 테이코쿠 - TIMELAPSE [LP] (서울바이닐 ─ JAPANESE)]]></title>
-            <link>https://www.seoulvinyl.com/product/c5a547e0-b5e7-4c81-87a8-400ada9f5f17</link>
-            <guid>https://www.seoulvinyl.com/product/c5a547e0-b5e7-4c81-87a8-400ada9f5f17</guid>
-            <pubDate>Fri, 31 Jan 2025 11:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738319785794_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CITY POP BEST100――シティ・ポップの名曲 1973-1989 (서울바이닐 ─ etc)]]></title>
