@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Feb 2025 11:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Feb 2025 12:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -675,7 +675,7 @@
             <title><![CDATA[David Bowie (데이빗 보위) - Diamond Dogs [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/464549d4-3629-4326-883c-9b164f921d22</link>
             <guid>https://www.seoulvinyl.com/product/464549d4-3629-4326-883c-9b164f921d22</guid>
-            <pubDate>Thu, 13 Feb 2025 11:09:16 GMT</pubDate>
+            <pubDate>Thu, 13 Feb 2025 11:08:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739423352994_1000.jpg" length="0" type="image/jpg"/>
         </item>
