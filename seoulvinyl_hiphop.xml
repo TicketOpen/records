@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Feb 2025 04:13:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 05:11:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[모서리 할인] The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl)]]></title>
+            <link>https://www.seoulvinyl.com/product/f2fb02ac-63ef-4ed5-ae3c-2b8f64c748b6</link>
+            <guid>https://www.seoulvinyl.com/product/f2fb02ac-63ef-4ed5-ae3c-2b8f64c748b6</guid>
+            <pubDate>Fri, 14 Feb 2025 05:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739507175628_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar (켄드릭 라마) - 6집 GNX [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/fd447049-e620-44c4-9ce8-e8d32309576a</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 10 Jan 2025 10:11:19 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">61,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736502972374_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Luther Vandross 루더 밴드로스 - Never Too Much: Greatest Hits]]></title>
-            <link>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</link>
-            <guid>https://www.seoulvinyl.com/product/165a0ca4-82cf-4757-b271-52039f1b5657-3659</guid>
-            <pubDate>Tue, 24 Dec 2024 11:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731742927006_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
