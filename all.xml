@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 10:13:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 11:10:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lana Del Rey (라나 델 레이) - 6집 Norman Fucking Rockwell [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</link>
+            <guid>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</guid>
+            <pubDate>Mon, 17 Feb 2025 11:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739789984952_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[My Chemical Romance - May Death Never Stop You (2LP) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 11 Feb 2025 12:17:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739273242167_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pantera 판테라 - Vulgar Display Of Power [Black/Gray Colored LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/cf7f2f9d-7b21-4072-82d3-14db08c04e90</link>
-            <guid>https://www.seoulvinyl.com/product/cf7f2f9d-7b21-4072-82d3-14db08c04e90</guid>
-            <pubDate>Tue, 11 Feb 2025 12:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739272759230_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -648,10 +648,18 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731733007356_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lana Del Rey (라나 델 레이) - 6집 Norman Fucking Rockwell [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</link>
+            <guid>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</guid>
+            <pubDate>Mon, 17 Feb 2025 11:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739789984952_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[My Chemical Romance - May Death Never Stop You (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</link>
             <guid>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</guid>
-            <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
+            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739785333481_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -659,7 +667,7 @@
             <title><![CDATA[Tears For Fears (티어스 포 피어스) - The Seeds of Love [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</link>
             <guid>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</guid>
-            <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
+            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739784087439_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -667,7 +675,7 @@
             <title><![CDATA[Tears For Fears (티어스 포 피어스) - The Hurting [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</link>
             <guid>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</guid>
-            <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
+            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783798190_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -675,7 +683,7 @@
             <title><![CDATA[Tears For Fears - Songs From The Big Chair [LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/8fda040e-c415-422b-ba59-272fd3dd4a27</link>
             <guid>https://www.seoulvinyl.com/product/8fda040e-c415-422b-ba59-272fd3dd4a27</guid>
-            <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
+            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783510274_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -766,14 +774,6 @@
             <pubDate>Thu, 06 Feb 2025 07:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738823415435_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mr. Big 미스터 빅 - Lean Into It (30th Anniversary Edition)(180g LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/13c1a90f-420f-43c9-9ad9-fad7bace7f94</link>
-            <guid>https://www.seoulvinyl.com/product/13c1a90f-420f-43c9-9ad9-fad7bace7f94</guid>
-            <pubDate>Wed, 15 Jan 2025 10:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736935723638_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[장기하 - 해/할건지말건지 [7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
