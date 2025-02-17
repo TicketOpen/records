@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 08:15:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 09:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,7 +348,7 @@
             <link>https://www.seoulvinyl.com/product/c7e0074b-247b-4f75-9ff1-198c476cf489</link>
             <guid>https://www.seoulvinyl.com/product/c7e0074b-247b-4f75-9ff1-198c476cf489</guid>
             <pubDate>Wed, 15 Jan 2025 10:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736934865300_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -779,7 +779,7 @@
             <title><![CDATA[장기하 - 해/할건지말건지 [7인치 Vinyl] (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/eaba996e-4108-4071-a502-314e22f52cbc</link>
             <guid>https://www.seoulvinyl.com/product/eaba996e-4108-4071-a502-314e22f52cbc</guid>
-            <pubDate>Mon, 17 Feb 2025 08:15:00 GMT</pubDate>
+            <pubDate>Mon, 17 Feb 2025 08:13:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739779133853_1000.jpg" length="0" type="image/jpg"/>
         </item>
