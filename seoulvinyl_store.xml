@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 05:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 06:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Sumin & Slom (수민, 슬롬) - Miniseries [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/1edcb6ef-bb4a-4085-a14b-0e286e2efd50</link>
+            <guid>https://www.seoulvinyl.com/product/1edcb6ef-bb4a-4085-a14b-0e286e2efd50</guid>
+            <pubDate>Mon, 17 Feb 2025 06:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">46,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739770256673_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 김뜻돌 - 2집 : 천사 인터뷰 [컬러 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/74a235d0-fdf3-43ba-be77-2c0c49e3a19a</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 11 Feb 2025 05:10:40 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739247285753_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Radwimps (래드윔프스) - 7집 Batsu to Maru to Tsumi to [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/22c2d77c-9c43-4b9b-9b59-7772dbbff275</link>
-            <guid>https://www.seoulvinyl.com/product/22c2d77c-9c43-4b9b-9b59-7772dbbff275</guid>
-            <pubDate>Mon, 10 Feb 2025 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739185651736_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
