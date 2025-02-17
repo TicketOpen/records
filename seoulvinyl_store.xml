@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Feb 2025 04:14:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2025 05:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 김뜻돌 - 2집 : 천사 인터뷰 [컬러 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/74a235d0-fdf3-43ba-be77-2c0c49e3a19a</link>
+            <guid>https://www.seoulvinyl.com/product/74a235d0-fdf3-43ba-be77-2c0c49e3a19a</guid>
+            <pubDate>Mon, 17 Feb 2025 05:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">62,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739768468199_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[모서리 할인] The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl)]]></title>
             <link>https://www.seoulvinyl.com/product/f2fb02ac-63ef-4ed5-ae3c-2b8f64c748b6</link>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 10 Feb 2025 11:08:48 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739185651736_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] Radwimps (래드윔프스) - 6집 Zettai Zetsumei [2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/4455e0ac-bbf6-440e-8cee-3f26be8b4326</link>
-            <guid>https://www.seoulvinyl.com/product/4455e0ac-bbf6-440e-8cee-3f26be8b4326</guid>
-            <pubDate>Mon, 10 Feb 2025 11:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739185570622_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
