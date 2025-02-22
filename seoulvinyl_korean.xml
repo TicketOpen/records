@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Feb 2025 04:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Feb 2025 05:10:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤날 - 2집 어떤날 II [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/4f26beca-a65f-4193-8344-5c309dcd45f2</link>
+            <guid>https://www.seoulvinyl.com/product/4f26beca-a65f-4193-8344-5c309dcd45f2</guid>
+            <pubDate>Sat, 22 Feb 2025 05:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1740197673984_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어떤날 - 1집 어떤날 Ⅰ 1960-1965 [투명 컬러 LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/cd996c60-bf8d-4edf-9041-08ffafdd89e5</link>
+            <guid>https://www.seoulvinyl.com/product/cd996c60-bf8d-4edf-9041-08ffafdd89e5</guid>
+            <pubDate>Sat, 22 Feb 2025 05:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1740197422540_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[베이빌론 - EGO 90’S Part. 2 [180g Red & Black Marble 컬러 LP/한정반]]]></title>
             <link>https://www.seoulvinyl.com/product/40ec0e94-fad4-4a64-b53b-e80a2e18bdfb</link>
@@ -118,22 +134,6 @@
             <pubDate>Tue, 21 Jan 2025 06:16:28 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737435837032_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트]]></title>
-            <link>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</link>
-            <guid>https://www.seoulvinyl.com/product/44a5d5bb-9a81-484c-abc3-5244527459ec</guid>
-            <pubDate>Mon, 20 Jan 2025 10:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">256,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366671274_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 장범준 소공연 라이브 언더스테이지 [Yellow colored Gatefold 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</link>
-            <guid>https://www.seoulvinyl.com/product/474c2318-19b6-421e-80b5-fe8671990071</guid>
-            <pubDate>Mon, 20 Jan 2025 10:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">69,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737366387602_1000.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
