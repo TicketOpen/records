@@ -4,7 +4,7 @@
         <title>공상온도 스토어 ─ 음반</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Feb 2025 05:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 06:16:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,20 +376,20 @@
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202411/8014339023d2e8d107b101588e5b252c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[{ 재입고 } 최미루 EP nEwCHAt CD 음반]]></title>
+            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2236&amp;cate_no=60&amp;display_group=1</link>
+            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2236&amp;cate_no=60&amp;display_group=1</guid>
+            <pubDate>Mon, 24 Feb 2025 06:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[19,000 won]]></content:encoded>
+            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202411/bfeb98d51406e81ad9c0031545456065.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jean Rhee(진리) Hey… It’s Been Crazy 1st EP]]></title>
             <link>http://shopondo.cafe24.com/product/detail.html?product_no=2218&amp;cate_no=60&amp;display_group=1</link>
             <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2218&amp;cate_no=60&amp;display_group=1</guid>
             <pubDate>Fri, 31 Jan 2025 15:11:24 GMT</pubDate>
             <content:encoded><![CDATA[18,000 won]]></content:encoded>
             <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202410/4b4eae85633308cdb106dd352fd3b353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[asoe eosa CD 음반]]></title>
-            <link>http://shopondo.cafe24.com/product/detail.html?product_no=2195&amp;cate_no=60&amp;display_group=1</link>
-            <guid>http://shopondo.cafe24.com/product/detail.html?product_no=2195&amp;cate_no=60&amp;display_group=1</guid>
-            <pubDate>Sat, 08 Feb 2025 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[15,000 won]]></content:encoded>
-            <enclosure url="http://cafe24.poxo.com/ec01/shopondo/1A66J+oWTqAze9jtV45BSmDcncZlAVlDxxiMkxbGg5WplnvRctUgmSbpMHx1Gz+v2pB7iBTPAKSp+SlaJ2zMXw==/_/web/product/medium/202407/e2e6c43094a6801cc45c224e1de0d7aa.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
