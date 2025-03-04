@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Mar 2025 11:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Mar 2025 12:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -523,7 +523,7 @@
             <title><![CDATA[Miles Davis (마일즈 데이비스) - Kind Of Blue [Blue color, LP] (서울바이닐 ─ JAZZ)]]></title>
             <link>https://www.seoulvinyl.com/product/6e8519d2-bf59-4afd-9e66-cb74cbba76a5</link>
             <guid>https://www.seoulvinyl.com/product/6e8519d2-bf59-4afd-9e66-cb74cbba76a5</guid>
-            <pubDate>Tue, 04 Mar 2025 11:09:48 GMT</pubDate>
+            <pubDate>Tue, 04 Mar 2025 11:09:13 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741085602592_1000.jpg" length="0" type="image/jpg"/>
         </item>
