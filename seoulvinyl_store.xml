@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Mar 2025 03:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Mar 2025 04:14:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 05 Mar 2025 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741144741164_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 빛과 소금 - 1집 Vol.1 [화이트 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/35e57fca-2f78-4790-8e0c-98c13fbadd99</link>
-            <guid>https://www.seoulvinyl.com/product/35e57fca-2f78-4790-8e0c-98c13fbadd99</guid>
-            <pubDate>Wed, 05 Mar 2025 03:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741144610535_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miles Davis (마일즈 데이비스) - Kind Of Blue [Blue color, LP]]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783510274_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[장기하 - 해/할건지말건지 [7인치 Vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/eaba996e-4108-4071-a502-314e22f52cbc</link>
+            <guid>https://www.seoulvinyl.com/product/eaba996e-4108-4071-a502-314e22f52cbc</guid>
+            <pubDate>Wed, 05 Mar 2025 04:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739779133853_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
