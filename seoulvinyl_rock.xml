@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 05:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brandy - Christmas With Brandy (Ltd) (Red Color LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</link>
+            <guid>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</guid>
+            <pubDate>Thu, 06 Mar 2025 06:16:01 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741239462714_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Peder Elias (페더 엘리아스) - 2집 Youth & Family [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/f8d88bb9-95cd-4aee-b589-145ec0b9bd8d</link>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 11 Feb 2025 12:18:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739272318843_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jimi Hendrix Experience 지미 핸드릭스 - Live At Monterey [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/54fdf035-b976-4331-9843-4ea6509d6ad6</link>
-            <guid>https://www.seoulvinyl.com/product/54fdf035-b976-4331-9843-4ea6509d6ad6</guid>
-            <pubDate>Tue, 11 Feb 2025 12:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739272191756_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

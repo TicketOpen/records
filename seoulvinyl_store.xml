@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Mar 2025 05:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Mar 2025 06:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Temptations - Solid Rock (140 Gram Limited Gatefold Edition)]]></title>
+            <link>https://www.seoulvinyl.com/product/0cb2988c-5089-4311-a208-43e080d7751c</link>
+            <guid>https://www.seoulvinyl.com/product/0cb2988c-5089-4311-a208-43e080d7751c</guid>
+            <pubDate>Thu, 06 Mar 2025 06:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741240718601_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brandy - Christmas With Brandy (Ltd) (Red Color LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</link>
+            <guid>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</guid>
+            <pubDate>Thu, 06 Mar 2025 06:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741239462714_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nas 나스 - God's Son [Blue Colored 2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/0763bb94-46a3-407a-8e7c-fdfa3512b4ed</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739784087439_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears For Fears (티어스 포 피어스) - The Hurting [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</link>
-            <guid>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</guid>
-            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783798190_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears For Fears - Songs From The Big Chair [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/8fda040e-c415-422b-ba59-272fd3dd4a27</link>
-            <guid>https://www.seoulvinyl.com/product/8fda040e-c415-422b-ba59-272fd3dd4a27</guid>
-            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783510274_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
