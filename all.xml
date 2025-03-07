@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Mar 2025 03:22:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Mar 2025 04:14:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brownstone(브라운스톤) - From The Bottom Up (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/3691f58a-f525-4649-a4ae-b5d22437007e</link>
+            <guid>https://www.seoulvinyl.com/product/3691f58a-f525-4649-a4ae-b5d22437007e</guid>
+            <pubDate>Fri, 07 Mar 2025 04:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741241626322_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Temptations - Solid Rock (140 Gram Limited Gatefold Edition) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/0cb2988c-5089-4311-a208-43e080d7751c</link>
@@ -16,12 +24,28 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741240718601_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Brandy - Christmas With Brandy (Ltd) (Red Color LP) (서울바이닐 ─ 스토어)]]></title>
+            <title><![CDATA[New Edition(뉴에디션) - Hits (2LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/415a29ee-70de-4a0d-95c3-6dd842d872c2</link>
+            <guid>https://www.seoulvinyl.com/product/415a29ee-70de-4a0d-95c3-6dd842d872c2</guid>
+            <pubDate>Fri, 07 Mar 2025 04:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741239924166_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[brandy 브랜디 - Christmas With Brandy [Red Colored LP] (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</link>
             <guid>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</guid>
             <pubDate>Thu, 06 Mar 2025 06:15:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741239462714_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[brandy 브랜디 - brandy [Orange Colored 2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/1213902b-b14a-4198-942a-4473f20a5484</link>
+            <guid>https://www.seoulvinyl.com/product/1213902b-b14a-4198-942a-4473f20a5484</guid>
+            <pubDate>Fri, 07 Mar 2025 04:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741236366087_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nas 나스 - God's Son [Blue Colored 2LP] (서울바이닐 ─ 스토어)]]></title>
@@ -38,6 +62,14 @@
             <pubDate>Wed, 05 Mar 2025 03:19:52 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741144741164_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ken Carson - Great Chaos (LP) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/42450f6b-81da-43a8-9ff9-e933716e07dd</link>
+            <guid>https://www.seoulvinyl.com/product/42450f6b-81da-43a8-9ff9-e933716e07dd</guid>
+            <pubDate>Fri, 07 Mar 2025 04:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741085822832_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miles Davis (마일즈 데이비스) - Kind Of Blue [Blue color, LP] (서울바이닐 ─ 스토어)]]></title>
@@ -102,38 +134,6 @@
             <pubDate>Tue, 18 Feb 2025 10:11:09 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739873049677_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey (라나 델 레이) - 5집 Lust For Life [2 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0318312e-7334-4c42-92df-0e4ebdf4f8f4</link>
-            <guid>https://www.seoulvinyl.com/product/0318312e-7334-4c42-92df-0e4ebdf4f8f4</guid>
-            <pubDate>Tue, 18 Feb 2025 05:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739851802185_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey (라나 델 레이) - 6집 Norman Fucking Rockwell [2LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</link>
-            <guid>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</guid>
-            <pubDate>Mon, 17 Feb 2025 11:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739789984952_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Chemical Romance - May Death Never Stop You (2LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</link>
-            <guid>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</guid>
-            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739785333481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears For Fears (티어스 포 피어스) - The Seeds of Love [LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</link>
-            <guid>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</guid>
-            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739784087439_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -264,6 +264,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1706673206238_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Brownstone(브라운스톤) - From The Bottom Up (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/3691f58a-f525-4649-a4ae-b5d22437007e</link>
+            <guid>https://www.seoulvinyl.com/product/3691f58a-f525-4649-a4ae-b5d22437007e</guid>
+            <pubDate>Fri, 07 Mar 2025 04:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741241626322_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Temptations - Solid Rock (140 Gram Limited Gatefold Edition) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/0cb2988c-5089-4311-a208-43e080d7751c</link>
             <guid>https://www.seoulvinyl.com/product/0cb2988c-5089-4311-a208-43e080d7751c</guid>
@@ -272,12 +280,36 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741240718601_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[New Edition(뉴에디션) - Hits (2LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/415a29ee-70de-4a0d-95c3-6dd842d872c2</link>
+            <guid>https://www.seoulvinyl.com/product/415a29ee-70de-4a0d-95c3-6dd842d872c2</guid>
+            <pubDate>Fri, 07 Mar 2025 04:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741239924166_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[brandy 브랜디 - brandy [Orange Colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/1213902b-b14a-4198-942a-4473f20a5484</link>
+            <guid>https://www.seoulvinyl.com/product/1213902b-b14a-4198-942a-4473f20a5484</guid>
+            <pubDate>Fri, 07 Mar 2025 04:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741236366087_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nas 나스 - God's Son [Blue Colored 2LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
             <link>https://www.seoulvinyl.com/product/0763bb94-46a3-407a-8e7c-fdfa3512b4ed</link>
             <guid>https://www.seoulvinyl.com/product/0763bb94-46a3-407a-8e7c-fdfa3512b4ed</guid>
             <pubDate>Thu, 06 Mar 2025 05:11:07 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741235467665_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ken Carson - Great Chaos (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
+            <link>https://www.seoulvinyl.com/product/42450f6b-81da-43a8-9ff9-e933716e07dd</link>
+            <guid>https://www.seoulvinyl.com/product/42450f6b-81da-43a8-9ff9-e933716e07dd</guid>
+            <pubDate>Fri, 07 Mar 2025 04:13:10 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741085822832_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[모서리 할인] The Weeknd 위켄드 ‎lp – Starboy (red colored vinyl) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
@@ -358,38 +390,6 @@
             <pubDate>Thu, 16 Jan 2025 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737017284166_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[JPEGMAFIA 제이팩마피아 – I Lay Down My Life For You [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/c7e0074b-247b-4f75-9ff1-198c476cf489</link>
-            <guid>https://www.seoulvinyl.com/product/c7e0074b-247b-4f75-9ff1-198c476cf489</guid>
-            <pubDate>Wed, 15 Jan 2025 10:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">63,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736934865300_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jay-Z / Linkin Park 제이지/린킨파크 - Collision Course [LP] (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</link>
-            <guid>https://www.seoulvinyl.com/product/ab9f2833-d74b-4a62-a8b1-4581998c9f6a</guid>
-            <pubDate>Sat, 18 Jan 2025 09:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736927773376_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boyz II Men 보이즈 투 맨 - Christmas Interpretations (LP) (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</link>
-            <guid>https://www.seoulvinyl.com/product/fdde9cd5-235c-4243-9468-c66e4df29d04</guid>
-            <pubDate>Wed, 15 Jan 2025 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736926239680_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모서리 할인] John Legend 존 레전드 – A Legendary Christmas (서울바이닐 ─ HIPHOP / Soul / R&B)]]></title>
-            <link>https://www.seoulvinyl.com/product/92f70c2d-cf14-449b-996c-a9d03a72ef8e</link>
-            <guid>https://www.seoulvinyl.com/product/92f70c2d-cf14-449b-996c-a9d03a72ef8e</guid>
-            <pubDate>Tue, 14 Jan 2025 09:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">54,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736845357718_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ennio Morricone 엔니오 모리꼬네 - Cinema Paradiso OST 시네마천국 OST Vinyl (Yellow color LP) (서울바이닐 ─ OST)]]></title>
@@ -648,7 +648,7 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732701270974_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Brandy - Christmas With Brandy (Ltd) (Red Color LP) (서울바이닐 ─ ROCK & POP)]]></title>
+            <title><![CDATA[brandy 브랜디 - Christmas With Brandy [Red Colored LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</link>
             <guid>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</guid>
             <pubDate>Thu, 06 Mar 2025 06:15:11 GMT</pubDate>
