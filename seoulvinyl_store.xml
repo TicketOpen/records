@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Mar 2025 07:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Mar 2025 08:15:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prodigy - Their Law: The Singles 1990-2005 (Download Code)(2LP)]]></title>
+            <link>https://www.seoulvinyl.com/product/06bfb8bf-3ffb-426f-aef4-c616f3290e36</link>
+            <guid>https://www.seoulvinyl.com/product/06bfb8bf-3ffb-426f-aef4-c616f3290e36</guid>
+            <pubDate>Tue, 11 Mar 2025 08:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741677875384_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Timothee Chalamet - A Complete Unknown (어 컴플리트 언노운) (Soundtrack)(Ltd)(Colored LP)]]></title>
             <link>https://www.seoulvinyl.com/product/04ff1067-208a-4bf4-b124-974af5c1e8fd</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Feb 2025 10:10:58 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1740040068349_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peder Elias (페더 엘리아스) - 2집 Youth & Family [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/f8d88bb9-95cd-4aee-b589-145ec0b9bd8d</link>
-            <guid>https://www.seoulvinyl.com/product/f8d88bb9-95cd-4aee-b589-145ec0b9bd8d</guid>
-            <pubDate>Wed, 19 Feb 2025 08:13:48 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739949923875_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
