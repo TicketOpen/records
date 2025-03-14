@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Mar 2025 07:11:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Mar 2025 08:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비비(BIBI) - LOWLIFE PRINCESS [불륜] (10inch transparent red color) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/55e08cb0-4f78-4f1f-8d65-444b96f6dd9e</link>
+            <guid>https://www.seoulvinyl.com/product/55e08cb0-4f78-4f1f-8d65-444b96f6dd9e</guid>
+            <pubDate>Fri, 14 Mar 2025 08:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741936475158_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 4집 - 찌질의 역사 CD (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/64c7130a-8aa1-45c3-95d6-7df78511aead</link>
@@ -126,14 +134,6 @@
             <pubDate>Sat, 22 Feb 2025 05:09:15 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1740197673984_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤날 - 1집 어떤날 Ⅰ 1960-1965 [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/cd996c60-bf8d-4edf-9041-08ffafdd89e5</link>
-            <guid>https://www.seoulvinyl.com/product/cd996c60-bf8d-4edf-9041-08ffafdd89e5</guid>
-            <pubDate>Sat, 22 Feb 2025 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1740197422540_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739273242167_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비비(BIBI) - LOWLIFE PRINCESS [불륜] (10inch transparent red color) (서울바이닐 ─ KOREAN)]]></title>
+            <link>https://www.seoulvinyl.com/product/55e08cb0-4f78-4f1f-8d65-444b96f6dd9e</link>
+            <guid>https://www.seoulvinyl.com/product/55e08cb0-4f78-4f1f-8d65-444b96f6dd9e</guid>
+            <pubDate>Fri, 14 Mar 2025 08:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">37,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741936475158_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[예약판매] 장범준 4집 - 찌질의 역사 CD (서울바이닐 ─ KOREAN)]]></title>
             <link>https://www.seoulvinyl.com/product/64c7130a-8aa1-45c3-95d6-7df78511aead</link>
             <guid>https://www.seoulvinyl.com/product/64c7130a-8aa1-45c3-95d6-7df78511aead</guid>
@@ -894,14 +902,6 @@
             <pubDate>Thu, 06 Feb 2025 07:10:10 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738823323189_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약판매] 델리스파이스 - 2집 Welcome to the Delihouse [180g LP + 7inch 싱글] (서울바이닐 ─ KOREAN)]]></title>
-            <link>https://www.seoulvinyl.com/product/669dab3b-ee41-49fb-b9bb-97fd15b27444</link>
-            <guid>https://www.seoulvinyl.com/product/669dab3b-ee41-49fb-b9bb-97fd15b27444</guid>
-            <pubDate>Mon, 03 Feb 2025 03:14:09 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738552265171_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tomoko Aran 토모코 아란 - 浮遊空間 Fuyukukan (White Colored LP) (서울바이닐 ─ JAPANESE)]]></title>
