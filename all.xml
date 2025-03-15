@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Mar 2025 04:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Mar 2025 05:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약 판매] HYBS - MAKING STEAK [ 1LP Transparent Orange & Blue Colored ] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/9b4bc28a-3fee-4fe3-ac02-6a6dfd98ca96</link>
+            <guid>https://www.seoulvinyl.com/product/9b4bc28a-3fee-4fe3-ac02-6a6dfd98ca96</guid>
+            <pubDate>Sat, 15 Mar 2025 05:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">103,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742015172080_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약 판매] HYBS - MAKING STEAK [ 1LP Transparent Orange Colored ] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/ea985371-46d2-4791-802e-f385be830c7c</link>
+            <guid>https://www.seoulvinyl.com/product/ea985371-46d2-4791-802e-f385be830c7c</guid>
+            <pubDate>Sat, 15 Mar 2025 05:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742013502504_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약 판매] HYBS - MAKING STEAK [ 1LP Transparent Blue Colored ] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/6124cc45-701e-4765-b7bf-d531027c6f9c</link>
+            <guid>https://www.seoulvinyl.com/product/6124cc45-701e-4765-b7bf-d531027c6f9c</guid>
+            <pubDate>Sat, 15 Mar 2025 05:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742012086444_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비비(BIBI) - LOWLIFE PRINCESS [불륜] (10inch transparent red color) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/55e08cb0-4f78-4f1f-8d65-444b96f6dd9e</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 07 Mar 2025 04:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">43,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741085822832_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis (마일즈 데이비스) - Kind Of Blue [Blue color, LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6e8519d2-bf59-4afd-9e66-cb74cbba76a5</link>
-            <guid>https://www.seoulvinyl.com/product/6e8519d2-bf59-4afd-9e66-cb74cbba76a5</guid>
-            <pubDate>Tue, 04 Mar 2025 11:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">52,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741085602592_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomoko Aran 토모코 아란 - 浮遊空間 Fuyukukan (White Colored LP) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9309c97b-5eec-49b7-b084-98233af39ba9</link>
-            <guid>https://www.seoulvinyl.com/product/9309c97b-5eec-49b7-b084-98233af39ba9</guid>
-            <pubDate>Tue, 04 Mar 2025 10:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741082381556_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어떤날 - 2집 어떤날 II [투명 컬러 LP] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/4f26beca-a65f-4193-8344-5c309dcd45f2</link>
-            <guid>https://www.seoulvinyl.com/product/4f26beca-a65f-4193-8344-5c309dcd45f2</guid>
-            <pubDate>Sat, 22 Feb 2025 05:09:15 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1740197673984_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,30 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732701270974_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[예약 판매] HYBS - MAKING STEAK [ 1LP Transparent Orange & Blue Colored ] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/9b4bc28a-3fee-4fe3-ac02-6a6dfd98ca96</link>
+            <guid>https://www.seoulvinyl.com/product/9b4bc28a-3fee-4fe3-ac02-6a6dfd98ca96</guid>
+            <pubDate>Sat, 15 Mar 2025 05:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">103,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742015172080_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약 판매] HYBS - MAKING STEAK [ 1LP Transparent Orange Colored ] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/ea985371-46d2-4791-802e-f385be830c7c</link>
+            <guid>https://www.seoulvinyl.com/product/ea985371-46d2-4791-802e-f385be830c7c</guid>
+            <pubDate>Sat, 15 Mar 2025 05:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742013502504_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약 판매] HYBS - MAKING STEAK [ 1LP Transparent Blue Colored ] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/6124cc45-701e-4765-b7bf-d531027c6f9c</link>
+            <guid>https://www.seoulvinyl.com/product/6124cc45-701e-4765-b7bf-d531027c6f9c</guid>
+            <pubDate>Sat, 15 Mar 2025 05:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742012086444_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prodigy - Their Law: The Singles 1990-2005 (Download Code)(2LP) (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/06bfb8bf-3ffb-426f-aef4-c616f3290e36</link>
             <guid>https://www.seoulvinyl.com/product/06bfb8bf-3ffb-426f-aef4-c616f3290e36</guid>
@@ -750,30 +774,6 @@
             <pubDate>Thu, 13 Feb 2025 06:13:39 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739424160458_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie (데이빗 보위) - Diamond Dogs [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/464549d4-3629-4326-883c-9b164f921d22</link>
-            <guid>https://www.seoulvinyl.com/product/464549d4-3629-4326-883c-9b164f921d22</guid>
-            <pubDate>Thu, 13 Feb 2025 11:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739423352994_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Doors (도어스) - 5집 Morrison Hotel [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/b03156e9-0735-45a9-b9a7-c9e05c864f73</link>
-            <guid>https://www.seoulvinyl.com/product/b03156e9-0735-45a9-b9a7-c9e05c864f73</guid>
-            <pubDate>Tue, 11 Feb 2025 12:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739273511149_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Smiths (더 스미스) - Hatful Of Hollow [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/39fedf6c-0109-487a-807a-de3a60fbdbc5</link>
-            <guid>https://www.seoulvinyl.com/product/39fedf6c-0109-487a-807a-de3a60fbdbc5</guid>
-            <pubDate>Tue, 11 Feb 2025 12:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739273242167_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비비(BIBI) - LOWLIFE PRINCESS [불륜] (10inch transparent red color) (서울바이닐 ─ KOREAN)]]></title>
