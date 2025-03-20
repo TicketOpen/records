@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ KOREAN</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Mar 2025 07:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Mar 2025 08:15:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약 판매] 지수 JISOO lp - JISOO Mini Album [AMORTAGE] (Pink ver.)]]></title>
+            <link>https://www.seoulvinyl.com/product/5a55de0e-7fab-48ef-93e3-cfdbada99c4d</link>
+            <guid>https://www.seoulvinyl.com/product/5a55de0e-7fab-48ef-93e3-cfdbada99c4d</guid>
+            <pubDate>Thu, 20 Mar 2025 08:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742455031186_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약 판매] 지수 JISOO lp - JISOO Mini Album [AMORTAGE] (Heart Ver.)]]></title>
+            <link>https://www.seoulvinyl.com/product/54dcd8f2-79b4-4211-a55e-53b94fe1c193</link>
+            <guid>https://www.seoulvinyl.com/product/54dcd8f2-79b4-4211-a55e-53b94fe1c193</guid>
+            <pubDate>Thu, 20 Mar 2025 08:15:05 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742454792267_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[BIBI 비비 lp - LOWLIFE PRINCESS [불륜] (10inch transparent red color)]]></title>
             <link>https://www.seoulvinyl.com/product/55e08cb0-4f78-4f1f-8d65-444b96f6dd9e</link>
@@ -118,22 +134,6 @@
             <pubDate>Thu, 06 Feb 2025 11:09:37 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">35,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1729230629309_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YB - Odyssey [블랙 & 화이트 마블 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/d1fcba9e-c9fe-4b36-8451-49cd10194a77</link>
-            <guid>https://www.seoulvinyl.com/product/d1fcba9e-c9fe-4b36-8451-49cd10194a77</guid>
-            <pubDate>Thu, 06 Feb 2025 10:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">43,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738836369742_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로제(ROSÉ) - ROSE first studio album ‘rosie’ vinyl (vampirehollie edition clear)[클리어 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/c2fdc125-ec67-4847-b1ea-7e16846286f3</link>
-            <guid>https://www.seoulvinyl.com/product/c2fdc125-ec67-4847-b1ea-7e16846286f3</guid>
-            <pubDate>Thu, 06 Feb 2025 07:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1738823323189_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
