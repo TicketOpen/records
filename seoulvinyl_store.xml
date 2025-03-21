@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 05:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gracie Abrams 그레이시 에이브럼스 lp - The Secret Of Us (White Pearl Opaque Colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/87b622a5-e103-488b-bb9e-678fa4a189b6</link>
+            <guid>https://www.seoulvinyl.com/product/87b622a5-e103-488b-bb9e-678fa4a189b6</guid>
+            <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531654899_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charli XCX 찰리 엑스씨엑스 lp - 6집 Brat [Greed Colored]]]></title>
+            <link>https://www.seoulvinyl.com/product/274856db-b26b-4c6c-a134-67f56608a3b7</link>
+            <guid>https://www.seoulvinyl.com/product/274856db-b26b-4c6c-a134-67f56608a3b7</guid>
+            <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531231048_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[brandy 브랜디 lp -never say never [Clear colored 2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/00149b6b-5d36-465d-965b-1e99297bc53b</link>
+            <guid>https://www.seoulvinyl.com/product/00149b6b-5d36-465d-965b-1e99297bc53b</guid>
+            <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742530472734_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ryo Fukui 후쿠이 료 lp – Mellow Dream (Transparent Colored)]]></title>
             <link>https://www.seoulvinyl.com/product/4d1615f9-4d55-4536-a96e-1a6a8490bb68</link>
@@ -110,30 +134,6 @@
             <pubDate>Fri, 07 Mar 2025 04:12:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">45,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741241626322_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Temptations 더 템테이션 lp - Solid Rock (140 Gram Limited Gatefold Edition)]]></title>
-            <link>https://www.seoulvinyl.com/product/0cb2988c-5089-4311-a208-43e080d7751c</link>
-            <guid>https://www.seoulvinyl.com/product/0cb2988c-5089-4311-a208-43e080d7751c</guid>
-            <pubDate>Thu, 06 Mar 2025 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">48,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741240718601_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Edition 뉴 에디션 lp - Hits (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/415a29ee-70de-4a0d-95c3-6dd842d872c2</link>
-            <guid>https://www.seoulvinyl.com/product/415a29ee-70de-4a0d-95c3-6dd842d872c2</guid>
-            <pubDate>Fri, 07 Mar 2025 04:12:53 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">56,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741239924166_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[brandy 브랜디 lp - Christmas With Brandy [Red Colored]]]></title>
-            <link>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</link>
-            <guid>https://www.seoulvinyl.com/product/29554f2f-4785-479f-ad75-6d05da44835b</guid>
-            <pubDate>Thu, 06 Mar 2025 06:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">47,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1741239462714_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

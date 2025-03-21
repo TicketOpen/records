@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Mar 2025 04:14:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Mar 2025 05:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gracie Abrams 그레이시 에이브럼스 lp - The Secret Of Us (White Pearl Opaque Colored)]]></title>
+            <link>https://www.seoulvinyl.com/product/87b622a5-e103-488b-bb9e-678fa4a189b6</link>
+            <guid>https://www.seoulvinyl.com/product/87b622a5-e103-488b-bb9e-678fa4a189b6</guid>
+            <pubDate>Fri, 21 Mar 2025 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">65,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531654899_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charli XCX 찰리 엑스씨엑스 lp - 6집 Brat [Greed Colored]]]></title>
+            <link>https://www.seoulvinyl.com/product/274856db-b26b-4c6c-a134-67f56608a3b7</link>
+            <guid>https://www.seoulvinyl.com/product/274856db-b26b-4c6c-a134-67f56608a3b7</guid>
+            <pubDate>Fri, 21 Mar 2025 05:11:25 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">58,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531231048_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stevie Ray Vaughan 스티비 레이 본 lp - In Step [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/cf7f1754-3ab5-465b-97b0-604bc4994595</link>
@@ -118,22 +134,6 @@
             <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783510274_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[모서리 할인] Mr Big 미스터 빅 lp - 1집 Mr. Big [투명 블루 컬러 LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/63c8ab1a-ef7f-4f05-a2a3-ddccc21da7ad</link>
-            <guid>https://www.seoulvinyl.com/product/63c8ab1a-ef7f-4f05-a2a3-ddccc21da7ad</guid>
-            <pubDate>Thu, 13 Feb 2025 06:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739425233988_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Smith 더 스미스 lp - 3집 The Queen Is Dead [LP] [ 180g / Gatefold ]]]></title>
-            <link>https://www.seoulvinyl.com/product/c4c7846f-2bf6-43ec-a569-6846c048c4b9</link>
-            <guid>https://www.seoulvinyl.com/product/c4c7846f-2bf6-43ec-a569-6846c048c4b9</guid>
-            <pubDate>Thu, 13 Feb 2025 06:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739424732756_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
