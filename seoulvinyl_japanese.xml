@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ JAPANESE</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Mar 2025 08:15:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 09:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,11 +128,11 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1731741972511_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[예약판매] Haruomi Hosono 호소노 하루오미, Shigeru Suzuk스즈키 시게루, Tatsuro Yamashita 야마시타 타츠로 -Pacific [LP]]]></title>
+            <title><![CDATA[Haruomi Hosono 호소노 하루오미, Shigeru Suzuk스즈키 시게루, Tatsuro Yamashita 야마시타 타츠로 -Pacific [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/34215998-30a5-431b-a69d-880951915955</link>
             <guid>https://www.seoulvinyl.com/product/34215998-30a5-431b-a69d-880951915955</guid>
             <pubDate>Thu, 13 Feb 2025 04:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">49,000원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">57,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739009134695_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
