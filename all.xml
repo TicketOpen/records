@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 06:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prince(프린스) lp - For You (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</link>
+            <guid>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743573092379_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana (너바나) lp - Incesticide [2LP] (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/2dd4494f-408a-4c8a-9e0a-2f83f3e6af9b</link>
+            <guid>https://www.seoulvinyl.com/product/2dd4494f-408a-4c8a-9e0a-2f83f3e6af9b</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743572275918_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana (너바나) lp - Bleach (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/a6a9e15e-efee-42f0-b21e-c62cfe2dca2e</link>
+            <guid>https://www.seoulvinyl.com/product/a6a9e15e-efee-42f0-b21e-c62cfe2dca2e</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:14 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743571756831_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] tvN 월화드라마 '선재 업고 튀어' - O.S.T [컬러 3LP] (Set ver.) (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/389936fd-e39e-47f0-a75c-fb4101ae481f</link>
@@ -110,30 +134,6 @@
             <pubDate>Thu, 20 Mar 2025 08:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742454792267_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약 판매] HYBS 하입스 lp - MAKING STEAK [ 1LP Transparent Orange & Blue Colored ] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/9b4bc28a-3fee-4fe3-ac02-6a6dfd98ca96</link>
-            <guid>https://www.seoulvinyl.com/product/9b4bc28a-3fee-4fe3-ac02-6a6dfd98ca96</guid>
-            <pubDate>Sat, 15 Mar 2025 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">103,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742015544567_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약 판매] HYBS 하입스 lp - MAKING STEAK [ 1LP Transparent Orange Colored ] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/ea985371-46d2-4791-802e-f385be830c7c</link>
-            <guid>https://www.seoulvinyl.com/product/ea985371-46d2-4791-802e-f385be830c7c</guid>
-            <pubDate>Sat, 15 Mar 2025 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742015564792_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약 판매] HYBS 하입스 lp - MAKING STEAK [ 1LP Transparent Blue Colored ] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/6124cc45-701e-4765-b7bf-d531027c6f9c</link>
-            <guid>https://www.seoulvinyl.com/product/6124cc45-701e-4765-b7bf-d531027c6f9c</guid>
-            <pubDate>Sat, 15 Mar 2025 05:09:45 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742015581174_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,30 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732702222495_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Prince(프린스) lp - For You (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</link>
+            <guid>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743573092379_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana (너바나) lp - Incesticide [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/2dd4494f-408a-4c8a-9e0a-2f83f3e6af9b</link>
+            <guid>https://www.seoulvinyl.com/product/2dd4494f-408a-4c8a-9e0a-2f83f3e6af9b</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743572275918_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana (너바나) lp - Bleach (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/a6a9e15e-efee-42f0-b21e-c62cfe2dca2e</link>
+            <guid>https://www.seoulvinyl.com/product/a6a9e15e-efee-42f0-b21e-c62cfe2dca2e</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743571756831_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Oasis (오아시스) - 5집 Heathen Chemistry [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/6554ab00-4924-4c52-b663-08ee7f12dc29</link>
             <guid>https://www.seoulvinyl.com/product/6554ab00-4924-4c52-b663-08ee7f12dc29</guid>
@@ -750,30 +774,6 @@
             <pubDate>Mon, 17 Feb 2025 11:08:47 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739789984952_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Chemical Romance 마이 케미컬 로맨스 lp - May Death Never Stop You (2LP) (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</link>
-            <guid>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</guid>
-            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739785333481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears For Fears 티어스 포 피어스 lp - The Seeds of Love [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</link>
-            <guid>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</guid>
-            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739784087439_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears For Fears 티어스 포 피어스 lp - The Hurting [LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</link>
-            <guid>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</guid>
-            <pubDate>Mon, 17 Feb 2025 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783798190_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] tvN 월화드라마 '선재 업고 튀어' - O.S.T [컬러 3LP] (Set ver.) (서울바이닐 ─ KOREAN)]]></title>

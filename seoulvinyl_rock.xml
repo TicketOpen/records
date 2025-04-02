@@ -4,9 +4,33 @@
         <title>서울바이닐 ─ ROCK &amp; POP</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 05:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 06:16:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Prince(프린스) lp - For You]]></title>
+            <link>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</link>
+            <guid>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">31,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743573092379_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana (너바나) lp - Incesticide [2LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/2dd4494f-408a-4c8a-9e0a-2f83f3e6af9b</link>
+            <guid>https://www.seoulvinyl.com/product/2dd4494f-408a-4c8a-9e0a-2f83f3e6af9b</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">53,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743572275918_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana (너바나) lp - Bleach]]></title>
+            <link>https://www.seoulvinyl.com/product/a6a9e15e-efee-42f0-b21e-c62cfe2dca2e</link>
+            <guid>https://www.seoulvinyl.com/product/a6a9e15e-efee-42f0-b21e-c62cfe2dca2e</guid>
+            <pubDate>Wed, 02 Apr 2025 06:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">42,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743571756831_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Oasis (오아시스) - 5집 Heathen Chemistry [2LP]]]></title>
             <link>https://www.seoulvinyl.com/product/6554ab00-4924-4c52-b663-08ee7f12dc29</link>
@@ -110,30 +134,6 @@
             <pubDate>Mon, 17 Feb 2025 11:09:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739789984952_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Chemical Romance 마이 케미컬 로맨스 lp - May Death Never Stop You (2LP)]]></title>
-            <link>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</link>
-            <guid>https://www.seoulvinyl.com/product/ae275496-dbe7-42ce-b5a2-19cc5b746752</guid>
-            <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739785333481_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears For Fears 티어스 포 피어스 lp - The Seeds of Love [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</link>
-            <guid>https://www.seoulvinyl.com/product/0f4fbaf2-1767-4cdf-8a8c-fce58c722c3c</guid>
-            <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">39,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739784087439_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tears For Fears 티어스 포 피어스 lp - The Hurting [LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</link>
-            <guid>https://www.seoulvinyl.com/product/7abcfc25-4d85-4919-bdd0-fda9ef850d4e</guid>
-            <pubDate>Mon, 17 Feb 2025 10:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">41,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739783798190_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
