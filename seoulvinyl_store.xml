@@ -4,7 +4,7 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Apr 2025 04:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Apr 2025 05:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -44,7 +44,7 @@
             <link>https://www.seoulvinyl.com/product/6554ab00-4924-4c52-b663-08ee7f12dc29</link>
             <guid>https://www.seoulvinyl.com/product/6554ab00-4924-4c52-b663-08ee7f12dc29</guid>
             <pubDate>Fri, 28 Mar 2025 06:15:16 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">57,500원</span>]]></content:encoded>
+            <content:encoded><![CDATA[<span class="productPriceSpan">47,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1743140004906_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
