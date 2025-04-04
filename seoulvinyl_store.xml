@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Apr 2025 05:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Apr 2025 06:16:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[자켓터짐할인] The Weeknd 더 위켄드 - Hurry Up Tomorrow [black vinyl]]]></title>
+            <link>https://www.seoulvinyl.com/product/2db4fc0e-b400-4cc8-a328-a45e6af49ee5-3720-3807</link>
+            <guid>https://www.seoulvinyl.com/product/2db4fc0e-b400-4cc8-a328-a45e6af49ee5-3720-3807</guid>
+            <pubDate>Fri, 04 Apr 2025 06:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">30,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1736252030461_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prince(프린스) lp - For You]]></title>
             <link>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 20 Mar 2025 08:14:11 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742455031186_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[예약 판매] 지수 JISOO lp - JISOO Mini Album [AMORTAGE] (Heart Ver.)]]></title>
-            <link>https://www.seoulvinyl.com/product/54dcd8f2-79b4-4211-a55e-53b94fe1c193</link>
-            <guid>https://www.seoulvinyl.com/product/54dcd8f2-79b4-4211-a55e-53b94fe1c193</guid>
-            <pubDate>Thu, 20 Mar 2025 08:14:11 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">59,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742454792267_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
