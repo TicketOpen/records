@@ -4,9 +4,17 @@
         <title>서울바이닐 ─ HIPHOP / Soul / R&amp;B</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Apr 2025 07:13:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Apr 2025 08:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] 더 콰이엇 The Quiett lp - 10집 : Luxury Flow [LP]]]></title>
+            <link>https://www.seoulvinyl.com/product/387100a5-2d89-4060-bfa7-24f60c1dc139</link>
+            <guid>https://www.seoulvinyl.com/product/387100a5-2d89-4060-bfa7-24f60c1dc139</guid>
+            <pubDate>Mon, 07 Apr 2025 08:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744011140894_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[자켓터짐할인] The Weeknd 더 위켄드 - Hurry Up Tomorrow [black vinyl]]]></title>
             <link>https://www.seoulvinyl.com/product/2db4fc0e-b400-4cc8-a328-a45e6af49ee5-3720-3807</link>
@@ -126,14 +134,6 @@
             <pubDate>Thu, 23 Jan 2025 09:10:53 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">52,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737621937682_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder 스티비 원더 - The Definitive Collection [Gatefold 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</link>
-            <guid>https://www.seoulvinyl.com/product/12751fbc-9997-4d96-8df4-88cce41e43db</guid>
-            <pubDate>Fri, 17 Jan 2025 08:12:55 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">55,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1737101175386_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
