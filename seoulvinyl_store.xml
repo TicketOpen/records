@@ -4,9 +4,25 @@
         <title>서울바이닐 ─ 스토어</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 11:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 12:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Melodies [LP] 50주년 기념 2025 Vinyl Edition]]></title>
+            <link>https://www.seoulvinyl.com/product/290ce504-f45a-4c0e-99f8-897d04892fd3</link>
+            <guid>https://www.seoulvinyl.com/product/290ce504-f45a-4c0e-99f8-897d04892fd3</guid>
+            <pubDate>Wed, 09 Apr 2025 12:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744200717594_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Big Wave [LP] 50주년 기념 2025 Vinyl Edition]]></title>
+            <link>https://www.seoulvinyl.com/product/5bafb176-b74c-4b4b-8595-b5d53b4e81d8</link>
+            <guid>https://www.seoulvinyl.com/product/5bafb176-b74c-4b4b-8595-b5d53b4e81d8</guid>
+            <pubDate>Wed, 09 Apr 2025 12:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744199658209_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] 더 콰이엇 The Quiett lp - 10집 : Luxury Flow [LP]]]></title>
             <link>https://www.seoulvinyl.com/product/387100a5-2d89-4060-bfa7-24f60c1dc139</link>
@@ -118,22 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">58,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531231048_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[brandy 브랜디 lp -never say never [Clear colored 2LP]]]></title>
-            <link>https://www.seoulvinyl.com/product/00149b6b-5d36-465d-965b-1e99297bc53b</link>
-            <guid>https://www.seoulvinyl.com/product/00149b6b-5d36-465d-965b-1e99297bc53b</guid>
-            <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742530472734_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryo Fukui 후쿠이 료 lp – Mellow Dream (Transparent Colored)]]></title>
-            <link>https://www.seoulvinyl.com/product/4d1615f9-4d55-4536-a96e-1a6a8490bb68</link>
-            <guid>https://www.seoulvinyl.com/product/4d1615f9-4d55-4536-a96e-1a6a8490bb68</guid>
-            <pubDate>Fri, 21 Mar 2025 04:12:49 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">40,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742530046903_1000.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
