@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Apr 2025 12:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Apr 2025 13:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Pocket Music [LP] 50주년 기념 2025 Vinyl Edition (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/f62dbd58-67f6-4349-9587-ababe403f0de</link>
+            <guid>https://www.seoulvinyl.com/product/f62dbd58-67f6-4349-9587-ababe403f0de</guid>
+            <pubDate>Wed, 09 Apr 2025 12:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744201006617_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Melodies [LP] 50주년 기념 2025 Vinyl Edition (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/290ce504-f45a-4c0e-99f8-897d04892fd3</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">65,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531654899_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charli XCX 찰리 엑스씨엑스 lp - 6집 Brat [Greed Colored] (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/274856db-b26b-4c6c-a134-67f56608a3b7</link>
-            <guid>https://www.seoulvinyl.com/product/274856db-b26b-4c6c-a134-67f56608a3b7</guid>
-            <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">58,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531231048_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -915,7 +915,7 @@
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Melodies [LP] 50주년 기념 2025 Vinyl Edition (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/290ce504-f45a-4c0e-99f8-897d04892fd3</link>
             <guid>https://www.seoulvinyl.com/product/290ce504-f45a-4c0e-99f8-897d04892fd3</guid>
-            <pubDate>Wed, 09 Apr 2025 12:20:29 GMT</pubDate>
+            <pubDate>Wed, 09 Apr 2025 12:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744200717594_1000.jpg" length="0" type="image/jpg"/>
         </item>
@@ -923,7 +923,7 @@
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Big Wave [LP] 50주년 기념 2025 Vinyl Edition (서울바이닐 ─ JAPANESE)]]></title>
             <link>https://www.seoulvinyl.com/product/5bafb176-b74c-4b4b-8595-b5d53b4e81d8</link>
             <guid>https://www.seoulvinyl.com/product/5bafb176-b74c-4b4b-8595-b5d53b4e81d8</guid>
-            <pubDate>Wed, 09 Apr 2025 12:20:29 GMT</pubDate>
+            <pubDate>Wed, 09 Apr 2025 12:19:30 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">51,500원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744199658209_1000.jpg" length="0" type="image/jpg"/>
         </item>
