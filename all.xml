@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Apr 2025 07:14:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Apr 2025 08:17:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arctic Monkeys 악틱 몽키즈 lp - 7집 The Car (black vinyl) (서울바이닐 ─ 스토어)]]></title>
+            <link>https://www.seoulvinyl.com/product/8858352d-dbfe-46b3-97a1-b5c8662a564c</link>
+            <guid>https://www.seoulvinyl.com/product/8858352d-dbfe-46b3-97a1-b5c8662a564c</guid>
+            <pubDate>Mon, 14 Apr 2025 08:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744616176057_1000.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[예약판매] Yamashita Tatsuro 야마시타 타츠로 - Pocket Music [LP] 50주년 기념 2025 Vinyl Edition (서울바이닐 ─ 스토어)]]></title>
             <link>https://www.seoulvinyl.com/product/f62dbd58-67f6-4349-9587-ababe403f0de</link>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 21 Mar 2025 06:16:25 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">50,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742533866811_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gracie Abrams 그레이시 에이브럼스 lp - The Secret Of Us (White Pearl Opaque Colored) (서울바이닐 ─ 스토어)]]></title>
-            <link>https://www.seoulvinyl.com/product/87b622a5-e103-488b-bb9e-678fa4a189b6</link>
-            <guid>https://www.seoulvinyl.com/product/87b622a5-e103-488b-bb9e-678fa4a189b6</guid>
-            <pubDate>Fri, 21 Mar 2025 05:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">65,500원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1742531654899_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 장범준 소공연 라이브 4종 5lp 박스 세트 (서울바이닐 ─ 제작)]]></title>
@@ -648,6 +648,14 @@
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1732702222495_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arctic Monkeys 악틱 몽키즈 lp - 7집 The Car (black vinyl) (서울바이닐 ─ ROCK & POP)]]></title>
+            <link>https://www.seoulvinyl.com/product/8858352d-dbfe-46b3-97a1-b5c8662a564c</link>
+            <guid>https://www.seoulvinyl.com/product/8858352d-dbfe-46b3-97a1-b5c8662a564c</guid>
+            <pubDate>Mon, 14 Apr 2025 08:16:48 GMT</pubDate>
+            <content:encoded><![CDATA[<span class="productPriceSpan">44,000원</span>]]></content:encoded>
+            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1744616176057_1000.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prince(프린스) lp - For You (서울바이닐 ─ ROCK & POP)]]></title>
             <link>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</link>
             <guid>https://www.seoulvinyl.com/product/7e5217fe-e117-4346-8d0b-b72607d0db59</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 18 Feb 2025 05:10:26 GMT</pubDate>
             <content:encoded><![CDATA[<span class="productPriceSpan">64,000원</span>]]></content:encoded>
             <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739851802185_1000.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey 라나 델 레이 lp - 6집 Norman Fucking Rockwell [2LP] (서울바이닐 ─ ROCK & POP)]]></title>
-            <link>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</link>
-            <guid>https://www.seoulvinyl.com/product/49317cfe-5d5b-4e23-9c7c-67753ada0f0a</guid>
-            <pubDate>Mon, 17 Feb 2025 11:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[<span class="productPriceSpan">60,000원</span>]]></content:encoded>
-            <enclosure url="https://contents.sixshop.com/thumbnails/uploadedFiles/99047/product/image_1739789984952_1000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약판매] 김창완 밴드 - The Flowers of Time [화이트 컬러 2LP] (서울바이닐 ─ KOREAN)]]></title>
